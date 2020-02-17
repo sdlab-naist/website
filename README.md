@@ -73,3 +73,10 @@
    ル名で保存してください．自動的にアイキャッチ画像に設定されます．
    複数の写真を添付する場合は，同ディレクトリに写真を保存し，本文からfigure
    ショートコードを使って参照してください．
+
+## 業績リストの更新
+
+```
+$ curl -o scripts/publications.json -X GET "https://api-research.naist.jp/api/search?chair=ソフトウェア設計学&output=json"
+$ python3 scripts/convert_publications.py scripts/publications.json content/publications.md
+```
