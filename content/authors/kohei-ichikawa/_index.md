@@ -63,5 +63,6 @@ email: ""
 user_groups:
 - Staff
 
-date: 2020-02-17T11:37:11+09:00
+# Order this person will appear
+weight: 20
 ---
