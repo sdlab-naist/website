@@ -65,8 +65,8 @@ email: ""
 user_groups:
 - Staff
 
-# メンバ一覧は作成日の新しい順に表示されるので，dateで順を制御する…
-date: 2020-02-17T11:38:11+09:00
+# Order this person will appear
+weight: 10
 ---
 
 1964年9月9日生
