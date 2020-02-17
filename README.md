@@ -1,46 +1,74 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
+# ソフトウェア設計学研究室ウェブサイト
 
-# Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+## 環境設定
 
-[**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+1. 静的サイトジェネレータ[Hugo](https://gohugo.io/)をインストールしてください．
+   Hugo v0.64.1で動作確認をしています． 2. 本リポジトリをクローンしてください．
+  ```
+  git clone --recursive https://github.com/sdlab-naist/website
+  ```
+3. 開発用サーバを起動します．`localhost:1313`ブラウザで開くと，生成された
+  ウェブサイトが表示されます．
+  ```
+  hugo server
+  ```
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+詳細な設定方法やページの作成方法は，使用しているテーマAcademicの
+[ドキュメント](https://sourcethemes.com/academic/docs/)を参照してください．
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+## ユーザの追加
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+1. 下記のコマンドを実行し，ユーザのディレクトリを作成してください．
+  ```
+  $ hugo new --kind authors authors/firstname-lastname
+  ```
+  `content/authors/firstname-lastname`というディレクトリが生成されます．
 
-## Install
+2. 生成されたディレクトリ内の`_index.md`を編集し，名前やプロフィール
+  などを設定します．下記の項目は必ず設定してください:
+  - `name`: 氏名 (姓と名の間には半角空白を1つ空ける)
+  - `role`: `教授`や`博士後期課程学生`など
+  - `group`: 教員の場合`Staff`，学生の場合`Student`
 
-You can choose from one of the following four methods to install:
+3. 同ディレクトリ内の`avatar.jpg`を自分の顔写真に置き換えてください．
+  アスペクト比は正方形，かつ，サイズは500ピクセル四方程度にしてください．
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+トップページのメンバー一覧は自動的に更新されます．
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+## ブログ記事の追加
 
-## Ecosystem
+1. 下記のコマンドを実行し，記事のディレクトリを作成してください．
+  ```
+  $ hugo new  --kind post post/title-of-your-blog-post
+  ```
+  `content/post/title-of-your-blog-post`というディレクトリが生成されます．
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+2. 生成されたディレクトリ内の`index.md`を編集し，記事を執筆します．
+  また，下記の項目を必ず設定してください．
+  - `title`: 記事のタイトル
+  - `authors`: 記事の著者 (ユーザ作成時に指定した，`firstname-lastname`という
+      形式)
 
-## License
+3. 記事に添付する写真があれば，同ディレクトリに`featued.jpeg/png`というファイ
+   ル名で保存してください．自動的にアイキャッチ画像に設定されます．
+   複数の写真を添付する場合は，同ディレクトリに写真を保存し，本文からfigure
+   ショートコードを使って参照してください．
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+## 研究テーマの追加
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+1. 下記のコマンドを実行し，研究テーマのディレクトリを作成してください．
+  ```
+  $ hugo new  --kind project project/title-of-your-project
+  ```
+  `content/project/title-of-your-project`というディレクトリが生成されます．
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+2. 生成されたディレクトリ内の`index.md`を編集し，記事を執筆します．
+  また，下記の項目を必ず設定してください．
+  - `title`: 研究テーマのタイトル
+  - `authors`: 研究テーマの著者 (ユーザ作成時に指定した，`firstname-lastname`という
+      形式)
+
+3. 記事に添付する写真があれば，同ディレクトリに`featued.jpeg/png`というファイ
+   ル名で保存してください．自動的にアイキャッチ画像に設定されます．
+   複数の写真を添付する場合は，同ディレクトリに写真を保存し，本文からfigure
+   ショートコードを使って参照してください．
