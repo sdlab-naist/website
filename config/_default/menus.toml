@@ -5,27 +5,27 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "/"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "About"
+  url = "/about-us"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Research"
+  url = "/research"
   weight = 30
+
+# [[main]]
+#   name = "Members"
+#   url = "/members"
+#   weight = 40
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
+  url = "http://sdlab.naist.jp/pman3/pman3.cgi"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

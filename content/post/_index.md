@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 記事一覧
 
 # View.
 #   1 = List
