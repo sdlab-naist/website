@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Publications"
-  url = "http://sdlab.naist.jp/pman3/pman3.cgi"
+  url = "/publications"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
