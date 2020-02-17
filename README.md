@@ -1,4 +1,4 @@
-# ソフトウェア設計学研究室ウェブサイト
+# ソフトウェア設計学研究室ウェブサイト [![Netlify Status](https://api.netlify.com/api/v1/badges/3fbbab05-cf15-4ac2-854f-f2ac1ed81672/deploy-status)](https://app.netlify.com/sites/sdlab/deploys)
 
 ## 環境設定
 
