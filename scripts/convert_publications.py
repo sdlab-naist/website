@@ -87,7 +87,7 @@ def main():
                 f.write("1. " + ", ".join([item["authors"], item["title"],
                                            item["booktitle"],
                                            item["date"].strftime("%b. %Y")])
-                        + "\n")
+                        + ".\n")
 
 
 if __name__ == "__main__":
