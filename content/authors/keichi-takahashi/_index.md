@@ -21,24 +21,27 @@ organizations:
 bio:
 
 # List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
-
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+# interests:
+# - Interest 1
+# - Interest 2
+#
+# education:
+#   courses:
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://keichi.net
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -68,3 +71,14 @@ user_groups:
 # Order this person will appear
 weight: 50
 ---
+
+## プロフィール
+高性能計算およびネットワーキング技術に関する研究に従事．次世代の大規模な高性能計算機におけるプロセス間通信やストレージI/Oの高速化に興味を持つ．米オークリッジ国立研究所や米ソーク研究所などの海外研究機関と国際連携研究を積極的に推進している．学生時代より複数の企業においてソフトウェア開発に携わってきた経験を有し，現在も多数のオープンソースソフトウェアの開発に貢献している．大阪大学 博士 (情報科学)．
+
+## 略歴
+
+- 2014年4月〜2016年3月: 大阪大学 大学院情報科学研究科 博士前期課程
+- 2016年4月〜2019年3月: 大阪大学 大学院情報科学研究科 博士後期課程
+- 2019年7月〜2019年12月: 米オークリッジ国立研究所 客員研究員
+- 2019年4月〜: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 助教
+- 2019年6月〜: 大阪大学 サイバーメディアセンター 招聘教員
