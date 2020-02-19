@@ -67,7 +67,6 @@ email: "kurachi.ryosuke.kp0@is.naist.jp"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
-- 
 ---
 
 ## プロフィール
