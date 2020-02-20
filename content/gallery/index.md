@@ -28,4 +28,12 @@ image:
 projects: []
 ---
 
-{{< gallery album="album" >}}
+## 研究室旅行
+{{< gallery album="labtrip" >}}
+
+## 研究生活
+{{< gallery album="lablife" >}}
+
+## 研究室紹介ポスター
+{{< gallery album="poster" >}}
+
