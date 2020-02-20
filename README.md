@@ -76,7 +76,15 @@
 
 ## 業績リストの更新
 
-```
-$ curl -o scripts/publications.json -X GET "https://api-research.naist.jp/api/search?chair=ソフトウェア設計学&output=json"
-$ python3 scripts/convert_publications.py scripts/publications.json content/publications.md
-```
+1. NAIST業績管理システムから業績一覧を取得します:
+    ```
+    $ curl -o scripts/publications.json -X GET "https://api-research.naist.jp/api/search?chair=ソフトウェア設計学&output=json"
+    ```
+2. 取得した業績一覧から，業績ページのMarkdownファイルを生成します:
+    ```
+    $ python3 scripts/convert_publications.py scripts/publications.json content/publications.md
+    ```
+
+## アルバムへの写真の追加
+
+`content/gallery/album`以下に画像ファイルを追加してください．
