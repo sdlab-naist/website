@@ -40,7 +40,7 @@ education:
     year: 2013 - 2016
   - course: Elementary and High School 
     institution: Saint Dominic School
-    year: 2000 - 2012
+    year: 2001 - 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
