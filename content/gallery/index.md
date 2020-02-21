@@ -27,5 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+## 研究室旅行
+{{< gallery album="labtrip" >}}
 
-{{< gallery album="album" >}}
+## 研究生活
+{{< gallery album="lablife" >}}
+
+
