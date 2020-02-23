@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "業績 (過去5年分)"
+title: "Publications (last 5 years)"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,7 +27,7 @@ image:
 projects: []
 ---
 
-## 学術論文誌
+## Journal
 
 1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Aug. 2019.
 1. 上村 恭平, 中才 恵太朗, 大神 勝也, 畑　秀明, 一ノ瀬 智浩, 松本　健一, 飯田　元, "Codosseum: オープンなソフトウェア開発・分析支援Webサービス", コンピュータソフトウェア, Jan. 2019.
@@ -42,7 +42,8 @@ projects: []
 1. Jason Haga, Kohei Ichikawa, Susumu Date, "Virtual screening techniques and current computational infrastructures", Current Pharmaceutical Design, Apr. 2016.
 1. 北口 善明, 柏崎 礼生, 近堂 徹, 市川 昊平, 西内 一馬, 中川 郁夫, 菊池 豊, "広域分散システムの耐障害性を評価する検証プラットフォームの実装と評価", 情報処理学会論文誌, Mar. 2016.
 1. Yoshiyuki Kido, Kohei Ichikawa, Susumu Date, Yasuhiro Watashiba, Hirotake Abe, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimjo, "SAGE-based Tiled Display Wall Enhanced with Dynamic Routing Functionality Triggered by User Interaction", Future Generation Computer Systems (FGCS), Mar. 2016.
-## 国際会議論文
+
+## International Conference
 
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Jong Choi, Keichi Takahashi, Igor Yakushin, Todd Munson, Ian Foster, Scott Klasky, "A Codesign Framework for Online Data Analysis and Reduction", Workflows in Support of Large-Scale Science (WORKS 2019), Nov. 2019.
 1. Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa, Atsuko Takefusa, "Near Real-time Failover Model for Continuous Inter-Domain Communication", The 37th PRAGMA workshop, Sep. 2019.
@@ -121,7 +122,8 @@ projects: []
 1. Arata Endo, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, Kiyoshi Kiyokawa, Haruo Takemura, "Improvement of Scalability in Sharing Application Screens between Tiled Display Walls", PRAGMA 28 Workshop, Apr. 2015.
 1. Yasuhiro Watashiba, Susumu Date, Hirotake Abe, Yoshiyuki Kido, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, Haruo Takemura, "An Implementation of SDN-enhanced Job Management System with Bandwidth Control", PRAGMA 28 Workshop, Apr. 2015.
 1. Patanamon Thongtanunam, Chakkrit Tantithamthavorn, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, Kenichi Matsumoto, " Who Should Review My Code? a File Location-Based Code-Reviewer Recommendation Approach for Modern Code Review", Proceedings of The 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER’15), Mar. 2015.
-## 国内学会研究会・シンポジウム等
+
+## Domestic Conference and Symposium
 
 1. 堤誠司, 藤田直行, 伊藤浩之, 大日向大地, 井上敬介, 松村洋祐, 高橋慧智, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ/In Transitアプローチを用いた大規模数値解析におけるポスト処理効率化", 第33回数値流体力学シンポジウム, Nov. 2019.
 1. 竹房あつ子, 市川昊平, 栗本崇, 合田憲人, "国際的なオンデマンドネットワークのためのトークンベース認証機構の研究", 研究報告インターネットと運用技術（IOT）, Mar. 2019.
@@ -168,11 +170,13 @@ projects: []
 1. 上村 恭平, 藤原 賢二, 飯田 元, "Hardware Description Languageにおけるコードクローンのパターン分類", 電子情報通信学会技術報告, May. 2015.
 1. 金 勇, 藤原 賢二, 飯田 元, "Linuxディストリビューションにおけるパッチの適用過程の復元に向けて", 電子情報通信学会技術報告, May. 2015.
 1. 北口 善明, 西内 一馬, 市川 昊平, 近堂 徹, 柏崎 礼生, 中川 郁夫, 菊池 豊, "SDDE (Software Defined Disaster Emulation)プラットフォームを用いた経路冗長化環境に対する評価実験", 情報処理学会研究報告, Mar. 2015.
-## 国内学会大会等
+
+## Annual Domestic Meeting
 
 1. 上村恭平, 中才恵太朗, 大神勝也, 畑　秀明, 一ノ瀬智浩, 松本　健一, 飯田　元, "Codosseum: OSSプロジェクトモニタリングWebサービス", 日本ソフトウェア科学会第34回大会 (2017年度) 講演論文集, Sep. 2017.
 1. 神田哲也, 福安直樹, 佐伯幸郎, 市川昊平, 中村匡秀, 楠本真二, "自動発注問題を題材としたビッグデータ・AI技術に対する実践的人材育成コースの設計", 日本ソフトウェア科学会第 34 回大会 (2017 年度) 講演論文集, Sep. 2017.
-## 表彰・受賞
+
+## Award
 
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Best Presentation Award", The 36th PRAGMA Workshop, May. 2019.
 1. Kisub Kim, Dongsun Kim, , Tegawendé F. Bissyandé, 崔　恩瀞, Li Li, Jacques Klein, Yves Le Traon, "情報処理学会ソフトウェア工学卓越研究賞", 情報処理学会ソフトウェア工学研究会, Sep. 2018.
@@ -180,7 +184,8 @@ projects: []
 1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Yasuhiro Watashiba, Hajimu Iida, "Best Research Award", Information Processing Society of Japan, Apr. 2017.
 1. Kohei Ichikawa, Mauricio Tsugawa, Jason Haga, Hiroaki Yamanaka, Te-Lung Liu, Yoshiyuki Kido, Pongsakorn U-Chupala, Che Huang, Chawanat Nakasan, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Jose Fortes, "PRAGMA-ICDS15 Best paper award", PRAGMA Workshop on International Clouds for Data Science (PRAGMA-ICDS 2015), Oct. 2015.
 1. 中山 直輝, 吉田 則裕, 藤原 賢二, 飯田 元, 高田 光隆, 高田 広章, "最優秀論文賞", ソフトウェアシンポジウム２０１５, Sep. 2015.
-## その他
+
+## Misc
 
 1. Shinji Shimojo, Keichi Takahashi, "Study on Data Staging Technique for Efficient Post-Processing in Large-Scale CFD Computation", JAXA Supercomputer System Annual Report, Sep. 2019.
 1. Scott Klasky, Norbert Podhorszki, Jason Ruonan Wang, Susumu Date, Keichi Takahashi, Osamu Tatebe, Taisuke Boku, "Enhancing ADIOS for extreme-scale data movement", US DOE and Japan MEXT Collaboration on Extreme Computing 2019, May. 2019.
