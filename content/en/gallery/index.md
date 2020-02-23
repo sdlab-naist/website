@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "アルバム"
+title: "Album"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,10 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-## 研究室旅行
+
+## Lab Trip
 {{< gallery album="labtrip" >}}
 
-## 研究生活
+## Research Life
 {{< gallery album="lablife" >}}
 
 
