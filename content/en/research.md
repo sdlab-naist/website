@@ -53,7 +53,7 @@ in software development. For this reason, software-related data such as source
 code or development history is analyzed. Afterwards, the corresponding result
 is provided in a way that can be shared among individual or team.
 
-## [Software for Cloud Computing](/project/cloud-computing/)
+## [Software for Cloud Computing](/en/project/cloud-computing/)
 Recently, in the rapidly emerging cloud computing technology, dynamically and
 automatically constructing as well as allocating computing environment by
 virtualizing computing resource based on software technology has been
