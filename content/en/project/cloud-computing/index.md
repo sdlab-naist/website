@@ -88,7 +88,7 @@ is not optimized for coping with applications because it is only determined by
 the sender and the receiver. Therefore, the routing cannot be considered as
 efficient. Application-aware routing is to develop techniques that utilize SDN
 technology to determine the optimal path for applications. Please click
-[here](/project/overseer) for details．
+[here](/en/project/overseer) for details．
 
 ### Research for Multipath Routing
 
@@ -102,7 +102,7 @@ As the approaches to achieve multiple TCP transmissions, we apply MPTCP
 technique which is at the level of OS’s TCP transmission library. Furthermore,
 we also perform multiple TCP transmission at application level by implementing
 our own application. For more details, please click
-[here](/project/openflow-gridftp) and [here](/project/openflow-mptcp)．
+[here](/en/project/openflow-gridftp) and [here](/en/project/openflow-mptcp)．
 
 ### Research for Monitoring and Analyzing Network based on SDN Technology
 
@@ -136,4 +136,4 @@ to play games with high-quality graphics at anytime in anywhere. In this
 research, by improving the performance of cloud gaming,  we aim at developing
 a framework that can improve graphics quality. Furthermore, based on the same
 technology, we try to facilitate cloud-based VR gaming experience. Please
-click [here](/project/cloud-gaming) for details.
+click [here](/en/project/cloud-gaming) for details.
