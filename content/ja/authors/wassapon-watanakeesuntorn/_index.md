@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Doctoral Student
+role: 博士後期課程
 
 # Organizations/Affiliations
 organizations:
@@ -38,7 +38,7 @@ education:
   - course: Bachelor's Degree (Computer Engineering)
     institution: Kasetsart University
     year: 2013 - 2016
-  - course: Elementary and High School 
+  - course: Elementary and High School
     institution: Saint Dominic School
     year: 2001 - 2012
 

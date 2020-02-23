@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 客員准教授/Visiting Professor
+role: 客員准教授
 
 # Organizations/Affiliations
 organizations:
