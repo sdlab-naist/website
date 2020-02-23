@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 共同研究者/Collaborating Researcher
+role: 共同研究者
 
 # Organizations/Affiliations
 organizations:

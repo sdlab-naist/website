@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 教授/Professor
+role: 教授
 
 # Organizations/Affiliations
 organizations:
