@@ -28,14 +28,14 @@ image:
 projects: []
 ---
 
-## [Design & Analysis of Software Process](/project/software-process/)
+## [Design & Analysis of Software Process](/en/project/software-process/)
 Recently in software development, due to the increase in scale and complexity,
 thousands of developers and dozens of company are usually involved in
 developing a huge software system. In this research group, we aim at
 mitigating such complexity and exploring solutions that support developers for
 smoother development process.
 
-## [Software Repository Mining](/project/repository-mining/)
+## [Software Repository Mining](/en/project/repository-mining/)
 Software Repository refers to a development infrastructure that allows
 developers to collaborate among others for software development via network.
 It is also a collective term of version control system that manages source
@@ -47,7 +47,7 @@ information and summarizes the commons. Furthermore, it also aims at providing
 developers with useful information in a comprehensible way. Such activities
 are called as Software Repository Mining.
 
-## [Software Analytics](/project/software-analytics/)
+## [Software Analytics](/en/project/software-analytics/)
 Software analytics aims at helping individual or team to make better decision
 in software development. For this reason, software-related data such as source
 code or development history is analyzed. Afterwards, the corresponding result

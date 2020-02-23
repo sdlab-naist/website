@@ -40,61 +40,95 @@ url_video: ""
 slides: ""
 ---
 
-## リポジトリマイニングとは
-### 増員するほど火の車? - ソフトウェア開発現場のジレンマ
-近年，ソフトウェアは社会の隅々にまで浸透しており，その開発工程は年々大規模かつ複雑なものとなっています．しかし，少なくないソフトウェアプロジェクトが予算超過を起こしたり，スケジュールどおりに開発が完了しないといった事態に陥っています．
+## What is Repository Mining?
 
-スケジュール通りの開発が困難な場合にとられる対処として，開発者の増員がしばしば実施されます．しかし，新規にメンバーを投入することでかえって開発時間がかかってしまうという問題が指摘されています．というのも，開発者を新たに投入した直後は開発中のソフトウェアについての知識が不足しているため，投入直後からその能力を十分に発揮できないからです．むしろ既存の開発者がさまざまなことを教える必要があり，不用意な開発者増員は全体としての開発コストを上げることになってしまいます．
+### More developers means more struggles? The dilemma on the site of software development
 
-そこで，新しく参加したメンバーには一刻も早く開発中のソフトウェアを理解してもらうことが重要になってきます．
+In recent years, the usage of software has spread to every corner of the
+society. As such, the development process becomes large-scale and more
+complicated. However, not a few software projects have fallen into difficult
+situations such as over-budget development, or inability to finish according
+to schedule.
 
-## ソフトウェア開発履歴からのお宝発掘 - リポジトリマイニング
-本研究ではソフトウェア理解を支援するために，これまでに開発されたソフトウェア群の開発履歴を分析・整理して提示する手法を提案しています．特にその情報源としてソフトウェアリポジトリに着目しています．
+In order to deal with the difficulty of inability to develop according to
+schedule, companies employ more developers. However, it has been pointed out
+that the introduction of new members may instead cost more development time.
+As for the reason, when the new members join the project, they cannot exert
+their abilities fully due to their lacks of knowledge about the on-going
+project. Therefore, old members need to spend time to teach the new members in
+order to keep the project go on. Such indicates that increasing developers in
+an unprepared manner may lead to the increase in overall development cost.
 
-ソフトウェアリポジトリとは多数の開発者がネットワークを通じて協調して開発するときに用いる開発基盤を提供するサービスです．その構成物は，ソースコードを管理する版管理システムや，開発者間で交わされた議論を保管しておくメーリングリスト管理システムなどがあります．これまでにソフトウェアリポジトリはオープンソースソフトウェアを中心に，さまざまなソフトウェア開発で実際に利用されており，膨大な開発履歴が蓄積されています．ただ，これらの情報はあまりにも膨大なため，そのままでは十分に活用することができません．
+Therefore, it is critical to have the new members understand the on-going
+project as early as possible.
 
-そこで，これらの情報から枝葉末節を省略したり，類似情報をまとめたりといった整理統合を行って，有用な情報を把握可能な形で提供しよう，というのが本研究の狙いです．このような作業をリポジトリマイニングと呼びます．
+## Treasure digging in software development history -- Repository Mining
 
-## ソフトウェア開発プロセス
-近年，ソフトウェア開発は大規模化，複雑化の一途をたどっており，巨大なシステムの開発には数千人もの開発者，数十もの開発会社が関わることもあります．当研究グループでは，ソフトウェア開発プロジェクトの持つ複雑性を緩和し，プロジェクトの円滑な遂行を支援する技術の研究を進めています．
+In this research, we aim at supporting software comprehension. By analyzing
+and arranging software development history, we propose methods to present the
+corresponding data. Especially, we focus on software repository which is our
+major data source.
 
-## 研究キーワード：
-ソフトウェアリポジトリ，データマイニング，可視化，ソフトウェア保守，保守プロセス，ソフトウェアプロセス，プロセスモデリング，プロセス改善，マイクロプロセス分析，CMM/CMMI，ユーザビリティ，PReP，プロジェクトレビュー
+Software Repository refers to a development infrastructure that allows
+developers to collaborate among others for software development via network.
+It is also a collective term of version control system that manages source
+code, as well as a mailing list management system that keeps track of
+discussions among developers. Majorly used in Open Source Software, software
+repository has been being practically applied in different software
+developments. Within software repository, immensive amount of development
+history data is stored. However, due to the enormous amount of data, it cannot
+be fully utilized without any proper arrangement
 
-## 現在取り組んでいる研究テーマ
+By exploiting these data, the goal of this research field is to perform
+integration that filters out irrelevant information and summarizes the
+commons. Furthermore, we also aims at providing developers with useful
+information in a comprehensible way. Such activities are called as Software
+Repository Mining.
 
-### 開発履歴を用いたリファクタリングと欠陥の関係分析
-リファクタリングとは，プログラムの動作を変えることなくソースコードの設計を改善することを言います． リファクタリングの伝道者として有名なファウラーは，「リファクタリングを実施すると欠陥（バグ）の混入が減少する」と著書で述べています． そこで，この研究ではソースコードの変更履歴からリファクタリングの実施を推定し，バグ管理システムに記録された欠陥の修正情報と照らし合わすことで，リファクタリングが本当に欠陥混入を減少させるのかどうかを明らかにします．
+## Our on-going research topics:
 
-### 開発履歴を用いたコードクローン理解支援環境
-コードクローンとは，プログラム中のソースコードのうち重複している箇所のことを指します．この研究では版管理システムが持つ開発履歴を利用してコードクローンの変遷をわかりやすく提示する環境の構築を目指します．詳細は[こちら](/project/code-clone-history)．
+- Analyzing the relationship between refactoring and bugs by using development history
 
-### MUDABlue: ソフトウェア自動分類システム
-ソフトウェアリポジトリには膨大な数のソフトウェアが登録されています．これらの中から類似ソフトウェアを発見するためのメカニズムを提供することで，ソフトウェアの再利用や，開発者間のコミュニケーション促進を目指します．詳細は[こちら](/project/muda-blue)．
+  Refactoring refers to improving source code design without changing the
+  behavior of the program. As the renowned pioneer of refactoring, Martin
+  Fowler mentioned that performing refactoring can help to reduce bugs’ mixing
+  into source code in his book. As such, this research aims at clarify such
+  point by estimating the happening of refactoring from source code change log
+  and comparing the results with the bug fix data stored in bug management
+  system.
+- A support environment for understanding code clone by using development history
 
-### 細粒度プロセス分析・抽出手法
-ソフトウェアプロセスの改善を行う際には，組織レベルだけでなく個人レベルの細かいプロセス（＝細粒度プロセス：Micro Process）の観点からも分析を行う必要があります．本研究プロジェクトでは，ソフトウェア開発時に収集されたデータをもとに，細粒度プロセスの抽出，分析を目的として研究を行っています． {{% staticref "files/mpa_200802.pdf" "newtab" %}}詳細を見る (PDFファイル){{% /staticref %}}
+  Code clone refers to the duplicated portion within source code. In this
+  research, we aim at constructing an environment that presents the transition
+  of code clone in a comprehensible way by utilizing the development
+  history in version control system. [Click for more details (in
+  Japanese)](/project/code-clone-history)．
+- MUDABlue: System for automatically classifying software
 
-### 履歴情報を用いたデザインパターン分析
-デザインパターンとは，ソフトウェア開発の設計段階で蓄積されたノウハウを再利用できるかたちでまとめたものです．デザインパターンを用いることで，ソフトウェアの品質を向上させることができると言われていますが，その実態は明らかになっていません．本研究プロジェクトでは，デザインパターンの利用状況やソフトウェアの品質との関連を明らかにすることを目的として研究を行っています．
+  Massive number of software are registered in software repository. In this
+  research, we aim at facilitating the reuse of software as well as
+  communication between developers by providing mechanism that can discover
+  similar software from software repository. [Click for more details (in
+  Japanese)](/project/muda-blue).
+- Extracting and Analyzing micro process
 
-### 開発者の共起関係に基づく開発プロジェクト分析
-オープンソースソフトウェア開発において，プロジェクトのアクティビティはソフトウェアの品質に影響を及ぼす大きな要因とされています．本研究グループでは，開発に用いられるメーリングリストに着目し，開発者の共起性からプロジェクトの共起性について予測する手法を研究しています．
+  For improving software process, it is mandatory to perform analysis not only
+  at organization level, but also at individual level such as micro process.
+  In this research group, based on the data collected from software
+  development, we aim at extracting and analyzing micro process. {{% staticref
+  "files/mpa_200802.pdf" "newtab" %}}Click for more details (in Japanese){{%
+  /staticref %}}
+- Analyzing Design Pattern by using history information
 
-### 定量的管理を取り入れた開発計画立案支援
-計画通りの期間・品質でソフトウェアを開発できるように，プロセスの実行過程で発生する問題を発見し，解決することをプロセス改善と呼びます．プロセス改善を行うためには，プロジェクトの開始時に適切な計画を立てることが重要だと言われています．本研究プロジェクトでは，実企業から提供を受けたデータをもとに，開発プロジェクトの計画立案支援に関する研究を行っています．[詳細を見る](/project/aquamarine)
+  Design Pattern refers to a set of reusable know-how which is accumulated
+  from design stage in software development. Although it has been considered
+  that software quality could be improved by applying design pattern, the
+  actual case has not be clarified yet. Therefore, in this research project,
+  we aim at revealing the relationship between usage of design pattern and
+  software quality.
+- Analyzing development project based on the co-occurrence information between developers
 
-### 階層構造と時間軸によるソフトウェア開発プロジェクトの可視化
-ソフトウェア開発の需要が急激に増加する一方で，開発期間が短くなり失敗プロジェクトが増加していると言われています．本研究プロジェクトでは，WBSやDFDといったソフトウェア開発プロセスを記述可能なダイアグラムの多くが階層構造を持つことに着目し，ソフトウェア開発プロジェクト可視化手法について研究を行っています．
-
-### ソフトウェア開発データ分析による分散開発の支援
-ソフトウェアシステムの大規模化に伴い，ソフトウェア開発プロジェクトも大規模・複雑化してきています．このため様々な開発組織が協調して，分散開発を行うような開発スタイルが一般的になっています．本研究グループでは，複数組織による分散開発における開発支援に関して研究を行っています． {{% staticref "files/codev_200802_0.pdf" "newtab" %}}詳細を見る (PDFファイル){{% /staticref %}}
-
-### ユーザビリティ向上テクニックのソフトウェア開発プロセスへの融合
-ソフトウェアのユーザビリティ（使いやすさ）を向上するために，様々なテクニックが提案されています．このようなテクニックは，開発プロセスの中で適切な時期に，妥当なテクニックを選択，実践する必要があります．本研究プロジェクトでは，ユーザビリティ向上テクニックを念頭に置いたソフトウェア開発プロセスについて研究を行っています． {{% staticref "files/usability_200802.pdf" "newtab" %}}詳細を見る (PDFファイル){{% /staticref %}}
-
-### プロジェクトマネージメントナビゲータ
-開発プロジェクトの運営においては，類似に失敗が繰り返されることが多くあります．本研究プロジェクトでは，プロジェクトの管理者（プロジェクトマネージャ）が過去のプロジェクトの経験を，次のプロジェクトで活用させるための仕組みを構築することを目的として研究を行っています． {{% staticref "files/pmnavi_200802.pdf" "newtab" %}}詳細を見る (PDFファイル){{% /staticref %}}
-
-### プロセスモデリング手法PRePとその支援環境
-ソフトウェア開発の手順や管理方法を理解しやすい形式で記述したものが「ソフトウェアプロセスモデル」です．ソフトウェアプロセスモデルは，プロセス管理や評価に役立ちます．本研究プロジェクトでは，ソフトウェアプロセスモデリングの手法や記法について研究を行っています．[詳細を見る](/project/prep)
+  In open source software development, project activity is a critical factor
+  that largely influences the software quality. In this research group, by
+  focusing on the mailing lists used in software development, we attempt to
+  predict how the co-occurrence between developers may affect the project.
