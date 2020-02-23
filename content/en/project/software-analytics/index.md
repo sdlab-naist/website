@@ -40,44 +40,77 @@ url_video: ""
 slides: ""
 ---
 
-## ソフトウェア アナリティクスとは
-ソフトウェア アナリティクスは ， ソフトウェア開発の個人やチームがより良い意思決定できるようにする事を目的としています．そのために ， ソフトウェアに関するデータ（ソースコードや開発履歴など）を分析します．分析した結果は ， ソフトウェア開発の個人やチームが共有できる形にして提供します．
+## What is Software Analytics
 
-- 参考Webサイト：[ビッグデータ時代のソフトウェアメトリクス - ソフトウェアアナリティクスとは：森崎修司の「どうやってはかるの？」：オルタナティブ・ブログ](https://blogs.itmedia.co.jp/morisaki/2013/07/--e8a3.html)（参考日：2017年4月1日）
-- 参考文献：Tim Menzies, Thomas Zimmermann. "Software Analytics: So What?". In Journal IEEE Software archive Volume 30 Issue 4, July 2013 Pages 31-37.
+Software analytics aims at helping individual or team to make better decision
+in software development. For this reason, software-related data such as source
+code or development history is analyzed. Afterwards, the corresponding result
+is provided in a way that can be shared among individual or team.
+
+- Reference Work：Tim Menzies, Thomas Zimmermann. "Software Analytics: So
+  What?". In Journal IEEE Software archive Volume 30 Issue 4, July 2013 Pages
+  31-37.
+
+## Our current Research Topics
+
+### Keyword: Code Clone
+
+Code Clone refers to the duplicated portions within program source code. As a
+research example, please refer to [Code Clone Origin Analysis Using Version
+Control System](/project/code-clone-history) (The goal of this work is to
+construct an environment that could present the transition of code clone in a
+comprehensible way by analyzing development history managed by version control
+system).
+
+Other related research:
+
+- Investigation into the Defect Occurrence Based on Positional Relationship
+  between Code Clone and Clone Fragment
+- Investigation into the Effect of Positional Relationship between Code Clone
+  and Code Fragment on Defect Occurrence
+- Investigation for Code Clone in Hardware Description Language
+
+### Keyword: Refactoring
+
+Refactoring refers to improving source code design without changing the
+behavior of the program. As the renowned pioneer of refactoring, Martin Fowler
+mentioned that performing refactoring can help to reduce bugs’ mixing into
+source code in his book. As such, this research aims at clarify such point by
+estimating the happening of refactoring from source code change log and
+comparing the results with the bug fix data stored in bug management system.
+
+Other related research:
+
+- Investigating the Characteristics of  Method Extract Cases by Using Process
+  Metrics
+- An Approach for Fine-Grained Detection of Refactoring Instances Using
+  Repository with Syntactic Information
+- Recommending Extract Method Opportunities Using Machine Learning
+- Survey of Refactoring Detection Techniques Based on Change History Analysis
+- Methods for Empirical Analysis and Evaluation of Refactoring Instances
+
+### Keyword: Programming Education
 
 
-## 現在取り組んでいる研究テーマ
-### キーワード：コードクローン
-コードクローンとは，プログラム中のソースコードのうち重複している箇所のことを指します．研究例としては，[コードクローン履歴を用いたソフトウェア理解支援環境の研究](/project/code-clone-history/)（この研究では版管理システムが持つ開発履歴を利用してコードクローンの変遷をわかりやすく提示する環境の構築を目指します．)などがあります。
+- Investigating build errors in software development PBL
+- Using snapshot to specify points of blockage in programming exercise
+- Pockets: An Exploratory Programming Support Environment for Introductory
+  Programming Exercises
+- Detecting Exploratory Programming Behaviors for Introductory Programming
+  Exercises
+- Investigating the Model of Automatically Detecting Exploratory Programming
+  Behaviors
+- An Investigation into the Behavior of the Novice Programmers Based on Build
+  Histories in Software Development Practice
+- A System to Support Understanding of  Programming Behavior in Exploratory
+  Programming by Novices
 
-その他のコードクローンに関する研究
+### Other research for software analytics
 
-- コードクローンとの位置関係に基づく欠陥発生傾向の調査
-- コードクローンとの位置関係がコード片の欠陥発生傾向に与える影響の調査
-- ハードウェア記述言語におけるコードクローンの調査
+- MUDABlue: System for automatically classifying software
 
-
-### キーワード：リファクタリング
-リファクタリングとは，プログラムの動作を変えることなくソースコードの設計を改善することを言います． リファクタリングの伝道者として有名なファウラーは，「リファクタリングを実施すると欠陥（バグ）の混入が減少する」と著書で述べています．研究例としては，開発履歴を用いたリファクタリングと欠陥の関係分析（この研究ではソースコードの変更履歴からリファクタリングの実施を推定し，バグ管理システムに記録された欠陥の修正情報と照らし合わすことで，リファクタリングが本当に欠陥混入を減少させるのかどうかを明らかにします．）などがあります．
-
-その他のリファクタリングに関する研究
-
-- プロセスメトリクスを用いたメソッド抽出事例の特徴調査
-- 構文情報リポジトリを用いた細粒度リファクタリング検出手法
-- 機械学習を用いたメソッド抽出リファクタリングの推薦手法
-- 変更履歴解析に基づくリファクタリング検出技術の調査
-- リファクタリングがソフトウェア品質に及ぼす影響の実証的評価に関する研究
-
-### キーワード：プログラミング教育
-- ソフトウェア開発PBLにおけるビルドエラーの調査
-- スナップショットを用いたプログラミング演習における行き詰まり箇所の特定
-- 初学者向けプログラミング演習のための探索的プログラミング支援環境Pocketsの提案
-- Detecting Exploratory Programming Behaviors for Introductory Programming Exercises
-- 探索的プログラミング行動の自動検出によるモデル化の検討
-- ソフトウェア開発実習におけるビルドログを対象とした初学者の特徴的な振る舞いの調査
-- 初学者の探索的プログラミングにおけるプロセス認識を支援するシステムの提案
-
-### その他のソフトウェア アナリティクスに関する研究例
-- MUDABlue: ソフトウェア自動分類システム
-ソフトウェアリポジトリには膨大な数のソフトウェアが登録されています．これらの中から類似ソフトウェアを発見するためのメカニズムを提供することで，ソフトウェアの再利用や，開発者間のコミュニケーション促進を目指します．詳細は[こちら](/project/muda-blue)．
+  Massive number of software are registered in software repository. In this
+  research, we aim at facilitating the reuse of software as well as
+  communication between developers by providing mechanism that can discover
+  similar softwares from software repository. [Click for more details (in
+  Japanese)](/project/muda-blue)．
