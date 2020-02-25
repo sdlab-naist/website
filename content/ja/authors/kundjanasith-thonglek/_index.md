@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Student
+role: 博士前期課程
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,7 @@ education:
 social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: '#contact' 
+#   link: '#contact'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/USERNAME
@@ -66,4 +66,4 @@ user_groups:
 ---
 
 ## プロフィール
-Master student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory. 
+Master student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
