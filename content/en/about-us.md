@@ -29,6 +29,7 @@ projects: []
 ---
 
 ## Concept of Our Lab
+
 At SDLab, we conduct research on techniques that support software development
 and design. Especially, while preserving human's creativity, we focus on
 engineering supports such as design process, modeling theory of design
