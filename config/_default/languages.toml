@@ -3,12 +3,17 @@
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the site.
-# [en]
-#   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"
+  [en.params]
+    phone = "+81-743-72-5794"
+    address = {street = "Information Science Bldg. A 3F, Takayama-cho 8916-5", city = "Ikoma", region = "Nara", postcode = "630-0192", country = "Japan", country_code = "JP"}
+  address_format = "en-us"
 
 [ja]
   languageCode = "ja-jp"
+  contentDir = "content/ja"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]

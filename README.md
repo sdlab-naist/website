@@ -21,9 +21,9 @@
 
 1. 下記のコマンドを実行し，ユーザのディレクトリを作成してください．
     ```
-    $ hugo new --kind authors authors/firstname-lastname
+    $ hugo new --kind authors content/ja/authors/firstname-lastname
     ```
-    `content/authors/firstname-lastname`というディレクトリが生成されます．
+    `content/ja/authors/firstname-lastname`というディレクトリが生成されます．
 
 2. 生成されたディレクトリ内の`_index.md`を編集し，名前やプロフィール
   などを設定します．下記の項目は必ず設定してください:
@@ -40,9 +40,9 @@
 
 1. 下記のコマンドを実行し，記事のディレクトリを作成してください．
     ```
-    $ hugo new  --kind post post/title-of-your-blog-post
+    $ hugo new  --kind post content/ja/post/title-of-your-blog-post
     ```
-    `content/post/title-of-your-blog-post`というディレクトリが生成されます．
+    `content/ja/post/title-of-your-blog-post`というディレクトリが生成されます．
 
 2. 生成されたディレクトリ内の`index.md`を編集し，記事を執筆します．
   また，下記の項目を必ず設定してください．
@@ -50,7 +50,7 @@
     - `authors`: 記事の著者 (ユーザ作成時に指定した，`firstname-lastname`という
         形式)
 
-3. 記事に添付する写真があれば，同ディレクトリに`featued.jpeg/png`というファイ
+3. 記事に添付する写真があれば，同ディレクトリに`featured.jpg/png`というファイ
    ル名で保存してください．自動的にアイキャッチ画像に設定されます．
    複数の写真を添付する場合は，同ディレクトリに写真を保存し，本文からfigure
    ショートコードを使って参照してください．
@@ -59,7 +59,7 @@
 
 1. 下記のコマンドを実行し，研究テーマのディレクトリを作成してください．
     ```
-    $ hugo new  --kind project project/title-of-your-project
+    $ hugo new  --kind project content/ja/project/title-of-your-project
     ```
     `content/project/title-of-your-project`というディレクトリが生成されます．
 
@@ -69,7 +69,7 @@
     - `authors`: 研究テーマの著者 (ユーザ作成時に指定した，`firstname-lastname`という
         形式)
 
-3. 記事に添付する写真があれば，同ディレクトリに`featued.jpeg/png`というファイ
+3. 記事に添付する写真があれば，同ディレクトリに`featured.jpg/png`というファイ
    ル名で保存してください．自動的にアイキャッチ画像に設定されます．
    複数の写真を添付する場合は，同ディレクトリに写真を保存し，本文からfigure
    ショートコードを使って参照してください．
@@ -82,9 +82,18 @@
     ```
 2. 取得した業績一覧から，業績ページのMarkdownファイルを生成します:
     ```
-    $ python3 scripts/convert_publications.py scripts/publications.json content/publications.md
+    $ python3 scripts/convert_publications.py scripts/publications.json content/ja/publications.md content/en/publications.md
     ```
 
 ## アルバムへの写真の追加
 
-`content/gallery/album`以下に画像ファイルを追加してください．
+`content/ja/gallery/album`以下に画像ファイルを追加してください．
+
+## 英語コンテンツ
+
+英語コンテンツは，`content/en`以下に日本語と同様の構造で作成してください．
+例えば，英語版にユーザを追加する場合，下記のコマンドを実行してください:
+
+```
+hugo new --kind authors content/en/authors/firstname-lastname
+```
