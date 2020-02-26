@@ -82,7 +82,7 @@
     ```
 2. 取得した業績一覧から，業績ページのMarkdownファイルを生成します:
     ```
-    $ python3 scripts/convert_publications.py scripts/publications.json content/ja/publications.md
+    $ python3 scripts/convert_publications.py scripts/publications.json content/ja/publications.md content/en/publications.md
     ```
 
 ## アルバムへの写真の追加
