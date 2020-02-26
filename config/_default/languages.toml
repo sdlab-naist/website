@@ -2,6 +2,7 @@
 #   Create a `[X]` block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
+# Configure the English version of the site.
 [en]
   languageCode = "en-us"
   contentDir = "content/en"
@@ -9,35 +10,6 @@
     phone = "+81-743-72-5794"
     address = {street = "Information Science Bldg. A 3F, Takayama-cho 8916-5", city = "Ikoma", region = "Nara", postcode = "630-0192", country = "Japan", country_code = "JP"}
   address_format = "en-us"
-  [[en.menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 10
-
-  [[en.menu.main]]
-    name = "About"
-    url = "/about-us"
-    weight = 20
-
-  [[en.menu.main]]
-    name = "Research"
-    url = "/research"
-    weight = 30
-
-  [[en.menu.main]]
-    name = "News"
-    url = "/post"
-    weight = 40
-
-  [[en.menu.main]]
-    name = "Gallery"
-    url = "/gallery"
-    weight = 50
-
-  [[en.menu.main]]
-    name = "Publications"
-    url = "/publications"
-    weight = 60
 
 [ja]
   languageCode = "ja-jp"
