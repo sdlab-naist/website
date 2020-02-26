@@ -4,32 +4,32 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "ホーム"
+  name = "Home"
   url = "/"
   weight = 10
 
 [[main]]
-  name = "SDLabについて"
+  name = "About"
   url = "/about-us"
   weight = 20
 
 [[main]]
-  name = "研究"
+  name = "Research"
   url = "/research"
   weight = 30
 
 [[main]]
-  name = "ニュース"
+  name = "News"
   url = "/post"
   weight = 40
 
 [[main]]
-  name = "アルバム"
+  name = "Gallery"
   url = "/gallery"
   weight = 50
 
 [[main]]
-  name = "業績"
+  name = "Publications"
   url = "/publications"
   weight = 60
 
