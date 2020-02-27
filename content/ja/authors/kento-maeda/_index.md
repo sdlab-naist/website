@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "博士前期課程M1"
+role: "博士前期課程"
 
 # Organizations/Affiliations
 organizations:
@@ -50,15 +50,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+#- icon: twitter
+# icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,7 +71,7 @@ email: "maeda.kento.mc1 at is.naist.jp"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- student
+- Student
 ---
 
 ## プロフィール
