@@ -22,7 +22,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- ゲーム
+- ゲーム(FPS/TPS)
+- お酒を飲む
 
 #education:
 #  courses:
@@ -37,19 +38,19 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +70,6 @@ user_groups:
 JAXA研所属です。研究テーマは形式手法(モデル検査法)や安全分析(STAMP/STPA)です。
 
 ## 略歴
-- 2011年4月〜2016年3月：茨城工業高等専門学校 電子情報工学科
-- 2016年4月〜2018年3月：筑波大学 情報学群 情報科学類 OSとシステムソフトウェア研究室
-- 2018年4月〜2020年3月：奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域
+- 2011年4月〜2016年3月：茨城工業高等専門学校 電子情報工学科 (小飼研究室)
+- 2016年4月〜2018年3月：筑波大学 情報学群 情報科学類 (OSとシステムソフトウェア研究室)
+- 2018年4月〜2020年3月：奈良先端科学技術大学院大学 (超高信頼ソフトウェアシステム検証学研究室(JAXA研)/ソフトウェア設計学研究室)
