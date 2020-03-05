@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "深澤　佑樹"
+name: "深澤 佑樹"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Yuki　Fukasawa"
+- Name "Yuki Fukasawa"
 
 # Is this the primary user of the site?
 superuser: false
@@ -33,7 +33,7 @@ interests:
 education:
   courses:
   - course: 情報工学科
-    institution: 日本大学　工学部
+    institution: 日本大学 工学部
     year: 2019
 
 # Social/Academic Networking
