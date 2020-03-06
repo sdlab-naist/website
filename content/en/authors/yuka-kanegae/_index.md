@@ -9,8 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position (e.g., Professor of Artificial Intelligence)
-role: Master Student
+# Role/position (e.g., Professor of Artificial Intelligence)role: Master Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ organizations:
 
 # List each interest with a dash
 interests:
-- video games
-- drowing
+- Video Games
+- Drawing
 
 # education:
 #  courses:
