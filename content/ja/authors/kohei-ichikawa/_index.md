@@ -75,7 +75,7 @@ weight: 20
 
 ## プロフィール
 
-専門は、分散システム。近年のクラウドコンピューティングの発展を支える仮想計算機および仮想ネットワーク技術に関する研究開発に取り組んでいる。eScienceの国際的な共同研究コミュニティ、[PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/) の中で日本・米国・台湾・タイなどの各国の研究機関と長年共同研究を実施しており、SDNを活用した地球規模の広域な仮想ネットワークテストベッドを構築する[PRAGMA-ENTプロジェクト](https://github.com/pragmagrid/pragma_ent/wiki)を率いている。近年はAI・ビッグデータ・クラウドコンピューティングを対象とした大学間連携教育プロジェクト（[enPit AiBiC](https://aibic-spiral.enpit.jp/), 平成28年～）]にも取り組む。博士（情報科学）。
+専門は、分散システム。近年のクラウドコンピューティングの発展を支える仮想計算機および仮想ネットワーク技術に関する研究開発に取り組んでいる。eScienceの国際的な共同研究コミュニティ、[PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/) の中で日本・米国・台湾・タイなどの各国の研究機関と長年共同研究を実施しており、SDNを活用した地球規模の広域な仮想ネットワークテストベッドを構築する[PRAGMA-ENTプロジェクト](https://github.com/pragmagrid/pragma_ent/wiki)を率いている。近年はAI・ビッグデータ・クラウドコンピューティングを対象とした大学間連携教育プロジェクト（[enPit AiBiC](https://aibic-spiral.enpit.jp/), 平成28年～）にも取り組む。博士（情報科学）。
 
 ## 略歴
 
