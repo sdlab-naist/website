@@ -114,14 +114,6 @@ projects: []
 1. Anthony Nguyen, Andréa Matsunaga, Kohei Ichikawa, Susumu Date, Maurício Tsugawa, Jason Haga, "Deployment of a Multi-Site Cloud Environment for Molecular Virtual Screenings", 11th IEEE International Conference on eScience2015, Aug. 2015.
 1. Yong Jin, Xin Yang, Raula Gaikovina Kula, Eunjong Choi, Katsuro Inoue, Hajimu Iida, "Quick Trigger on Stack Overflow: a Study of Gamification-Influenced Member Tendencies", Proc. 12th Working Conference on Mining Software Repositories (MSR), May. 2015.
 1. Patanamon Thongtanunam, Shane McIntosh, Ahmed E. Hassan, Hajimu Iida, "Investigating Code Review Practices in Defective Files: an Empirical Study of the Qt System", Proc. 12th Working Conference on Mining Software Repositories (MSR), May. 2015.
-1. Pongsakorn U-chupala, Kohei Ichikawa, Putchong Uthayopas, Susumu Date, Hirotake Abe, "Deployment and Evaluation of Bandwidth and Latency Aware Network Over Large-Scale Openflow Testbed", PRAGMA 28 Workshop, Apr. 2015.
-1. Xuliang Wang, Yasuhiro Watashiba, Kohei Ichikawa, "Flow-level monitoring based-on OpenFlow for categorizing network application", PRAGMA 28 Workshop, Apr. 2015.
-1. Chawanat Nakasan, Kohei Ichikawa, "Development of a Simple Multipath Openflow Controller for Multipath Tcp", PRAGMA 28 Workshop, Apr. 2015.
-1. Kar-Long Chan, Kohei Ichikawa, "A Hybrid Game Contents Streaming Method to Improve Graphic Quality Delivered by Cloud Gaming", Pragma 28 Workshop, Apr. 2015.
-1. Kazuki Hara, Yasuhiro Watashiba, Kohei Ichikawa, "Netspec: Software-Defined Network Behavior Test Tool", PRAGMA 28 Workshop, Apr. 2015.
-1. Arata Endo, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, Kiyoshi Kiyokawa, Haruo Takemura, "Improvement of Scalability in Sharing Application Screens between Tiled Display Walls", PRAGMA 28 Workshop, Apr. 2015.
-1. Yasuhiro Watashiba, Susumu Date, Hirotake Abe, Yoshiyuki Kido, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, Haruo Takemura, "An Implementation of SDN-enhanced Job Management System with Bandwidth Control", PRAGMA 28 Workshop, Apr. 2015.
-1. Patanamon Thongtanunam, Chakkrit Tantithamthavorn, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, Kenichi Matsumoto, " Who Should Review My Code? a File Location-Based Code-Reviewer Recommendation Approach for Modern Code Review", Proceedings of The 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER’15), Mar. 2015.
 
 ## 国内学会研究会・シンポジウム等
 
@@ -169,7 +161,6 @@ projects: []
 1. 上村 恭平, 藤原 賢二, 飯田 元, "Hardware Description Language を対象としたコードクローンの調査", 組込みシステム技術に関するサマーワークショップ　(SWTEST17), Aug. 2015.
 1. 上村 恭平, 藤原 賢二, 飯田 元, "Hardware Description Languageにおけるコードクローンのパターン分類", 電子情報通信学会技術報告, May. 2015.
 1. 金 勇, 藤原 賢二, 飯田 元, "Linuxディストリビューションにおけるパッチの適用過程の復元に向けて", 電子情報通信学会技術報告, May. 2015.
-1. 北口 善明, 西内 一馬, 市川 昊平, 近堂 徹, 柏崎 礼生, 中川 郁夫, 菊池 豊, "SDDE (Software Defined Disaster Emulation)プラットフォームを用いた経路冗長化環境に対する評価実験", 情報処理学会研究報告, Mar. 2015.
 
 ## 国内学会大会等
 
