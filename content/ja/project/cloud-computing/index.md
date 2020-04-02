@@ -47,11 +47,11 @@ slides: ""
 ### Software Defined Networking (SDN) に関する研究
 計算資源をソフトウェア技術で仮想化し，計算機環境の構築・割当を動的かつ自動的に実行する仮想計算機技術 (VM: Virtual Machine) は確立されつつあります．オープンソースではKVMやXen，商用ではVMwareなどの基盤ソフトウェアが普及し，誰もがクラウド環境を構築できるようになってきました．一方で，次のステップとしてはネットワークの仮想化が注目されています．ネットワークもソフトウェアによって設定・割当を動的かつ自動的に実行することができるようになれば，利用者の要求に応じてネットワークを提供でき，それをクラウドの計算機と統合できれば，より最適な計算機環境を構築できると考えられています．そのような環境を実現する技術のコンセプトとして，近年，Software Defined Networking (SDN)という概念が提唱され始めています．その名のとおり，ソフトウェアでもってネットワークを定義するという概念です．SDNでは，Programmable Networkingという概念を提案し，ネットワークをプログラムできるような環境の構築を目指しています．
 
-本研究室は，SDNの研究アイデアを地球規模に分散する大規模なネットワークで検証可能とする実証研究ネットワークを構築・運用するための国際プロジェクト，PRAGMA-ENT (Experimental Network Testbed) ，を率いており，学生が考えたアイデアを直ぐに国際ネットワーク環境で実証し，分析・評価する環境を有しています．詳しくはこちらのプロジェクトページをご覧ください．
+本研究室は，SDNの研究アイデアを地球規模に分散する大規模なネットワークで検証可能とする実証研究ネットワークを構築・運用するための国際プロジェクト，PRAGMA-ENT (Experimental Network Testbed) ，を率いており，学生が考えたアイデアを直ぐに国際ネットワーク環境で実証し，分析・評価する環境を有しています．詳しくは[こちらのプロジェクトページ](https://github.com/pragmagrid/pragma_ent/wiki)をご覧ください．
 また，本プロジェクトに関する[NICTのインタビュー記事](https://testbed.nict.go.jp/interview/005_1.html)もご参照ください．
 
 関連論文：
-- Kohei Ichikawa, Pongsakorn U-chupala, Che Huang, Chawanat Nakasan, Te-Lung Liu, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Jason Haga, Hiroaki Yamanaka, Eiji Kawai, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Mauricio Tsugawa, Matthew Collins, Kyuho Jeong, Renato Figueiredo, and Jose Fortes, "Pragma-ENT: an International Sdn Testbed for a Cyberinfrastructure in the Pacific Rim," Concurrency And Computation: Practice And Experience, e4138 March 2017.
+- [Kohei Ichikawa, Pongsakorn U-chupala, Che Huang, Chawanat Nakasan, Te-Lung Liu, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Jason Haga, Hiroaki Yamanaka, Eiji Kawai, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Mauricio Tsugawa, Matthew Collins, Kyuho Jeong, Renato Figueiredo, and Jose Fortes, "Pragma-ENT: an International Sdn Testbed for a Cyberinfrastructure in the Pacific Rim," Concurrency And Computation: Practice And Experience, e4138 March 2017.](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.4138)
 
 ### Application-aware Routingに関する研究
 近年，ネットワークを利用するアプリケーションは映像配信であったり，チャット・SNSであったり，Web閲覧であったり，多岐に渡ります．ただ，現状のネットワークのルーティングはアプリケーションに応じて最適化して設計されているわけではなく，送信元と送信先のみで経路が決まり，効率的であるとは言えません．Application-aware Routing技術ではSDN技術を活用し，アプリケーションごとに最適な経路を選択できるようにする技術を研究開発しています．詳しくは[こちら](/en/project/overseer)．
