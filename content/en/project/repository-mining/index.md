@@ -40,28 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-## What is Repository Mining?
-
-### More developers means more struggles? The dilemma on the site of software development
-
-In recent years, the usage of software has spread to every corner of the
-society. As such, the development process becomes large-scale and more
-complicated. However, not a few software projects have fallen into difficult
-situations such as over-budget development, or inability to finish according
-to schedule.
-
-In order to deal with the difficulty of inability to develop according to
-schedule, companies employ more developers. However, it has been pointed out
-that the introduction of new members may instead cost more development time.
-As for the reason, when the new members join the project, they cannot exert
-their abilities fully due to their lacks of knowledge about the on-going
-project. Therefore, old members need to spend time to teach the new members in
-order to keep the project go on. Such indicates that increasing developers in
-an unprepared manner may lead to the increase in overall development cost.
-
-Therefore, it is critical to have the new members understand the on-going
-project as early as possible.
-
 ## Treasure digging in software development history -- Repository Mining
 
 In this research, we aim at supporting software comprehension. By analyzing
