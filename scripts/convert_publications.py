@@ -67,10 +67,10 @@ projects: []
 
 categories_ja = {
     "学術論文誌": "学術論文誌",
-    "国際会議論文": "国際会議論文",
+    "国際会議等発表": "国際会議論文",
     "著書": "著書",
-    "国内学会研究会・シンポジウム等": "国内学会研究会・シンポジウム等",
-    "国内学会大会等": "国内学会大会等",
+    "国内学会研究会・シンポジウム等発表": "国内学会研究会・シンポジウム等",
+    "国内学会大会等発表": "国内学会大会等",
     "解説・総説": "解説・総説",
     "表彰・受賞": "表彰・受賞",
     "その他": "その他"
@@ -79,10 +79,10 @@ categories_ja = {
 
 categories_en = {
     "学術論文誌": "Journal",
-    "国際会議論文": "International Conference",
+    "国際会議等発表": "International Conference",
     "著書": "Book",
-    "国内学会研究会・シンポジウム等": "Domestic Conference and Symposium",
-    "国内学会大会等": "Annual Domestic Meeting",
+    "国内学会研究会・シンポジウム等発表": "Domestic Conference and Symposium",
+    "国内学会大会等発表": "Annual Domestic Meeting",
     "解説・総説": "Survey",
     "表彰・受賞": "Award",
     "その他": "Misc"
@@ -102,7 +102,8 @@ def read_json(input_fname):
             item["authors"] = ", ".join([author["@name"] for author in
                                          publication["dc:creator"]])
             item["title"] = "\"" + publication["dc:title"]["@value"] + "\""
-            item["booktitle"] = publication["prism:publicationName"]["@value"]
+            item["booktitle"] = publication["prism:sourceName"]["@value"] or \
+                publication["prism:sourceName2"]["@value"]
             item["category"] = publication["dc:category"]["@value"]
 
             date_str = publication["prism:publicationDate"]
