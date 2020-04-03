@@ -14,25 +14,15 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: ""
+- name: Division of Information Science
+  url: "http://isw3.naist.jp/home-en.html"
+- name: Information Initiative Center
+  url: "https://itcw3.naist.jp/index.en.html"
+- name: Cybermedia Center, Osaka University
+  url: "https://www.cmc.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-
-# List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
-#
-# education:
-#   courses:
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
-#   - course: Title course 1
-#     institution: Name of Institution
-#     year: 2012
+bio: "Dr. Keichi Takahashi is an assistant professor of computer science at SDLab. His research mainly focuses on high-performance computing and networking."
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,12 +46,12 @@ social:
   link: https://github.com/keichi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://s3-ap-northeast-1.amazonaws.com/keichi.net/cv_takahashi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
