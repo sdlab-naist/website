@@ -71,3 +71,21 @@ user_groups:
 # Order this person will appear
 weight: 50
 ---
+
+## Profile
+
+Dr. Keichi Takahashi is an assistant professor of computer science at SDLab.
+His research mainly focuses on high-performance computing and networking. In
+particular, he is working on improving the performance of inter-process
+communication and storage I/O on large-scale supercomputers. He is
+passionately engaged in international collaborative research with scientists
+at diverse research institutes, including Oak Ridge National Laboratory, Salk
+Institute for Biological Studies, and Japan Aerospace Exploration Agency. He
+is an active creator and contributor of multiple open-source software.
+
+## Positions and Experience
+
+- Jun. 2019--present: Visiting Faculty at Cybermedia Center, Osaka University
+- Apr. 2019--present: Assistant Professor at Nara Institution of Science and Technology
+- Jul. 2019--Dec. 2019: Visiting Researcher at Oak Ridge National Laboratory
+- Apr. 2014--Mar. 2019: Graduate Student at Osaka University
