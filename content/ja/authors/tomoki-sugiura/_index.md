@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: 情報工学課程 
-    institution: Kyoto Institute of Technology
+    institution: 京都工芸繊維大学 
     year: 2020
 #  - course: Title course 1
 #    institution: Name of Institution
