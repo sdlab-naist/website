@@ -45,6 +45,8 @@ projects: []
 
 ## 国際会議論文
 
+1. Mitsuaki Tsuji, Toshinori Takai, Kazuki Kakimoto, Naoko Ishihama, Masafumi Katahira, Hajimu Iida, "Prioritizing Scenarios based on STAMP/STPA Using Statistical Model Checking", The 4th IEEE International Workshop on Testing Extra-Functional Properties and Quality Characteristics of Software Systems (ITEQS'20), Oct. 2020.
+1. Keichi Takahashi, Susumu Date, Yasuhiro Watashiba, Yoshiyuki Kido, Shinji Shimojo, "Integrating SDN-Enhanced MPI with Job Scheduler to Support Shared Clusters", 28th Workshop on Sustained Simulation Performance, Mar. 2020.
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Jong Choi, Keichi Takahashi, Igor Yakushin, Todd Munson, Ian Foster, Scott Klasky, "A Codesign Framework for Online Data Analysis and Reduction", Workflows in Support of Large-Scale Science (WORKS 2019), Nov. 2019.
 1. Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa, Atsuko Takefusa, "Near Real-time Failover Model for Continuous Inter-Domain Communication", The 37th PRAGMA workshop, Sep. 2019.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model", Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA 2019), Sep. 2019.
@@ -117,7 +119,11 @@ projects: []
 
 ## 国内学会研究会・シンポジウム等
 
+1. 辻光顕, 高井利憲, 柿本和希, 石濱直樹, 片平真史, 飯田元, "統計的モデル検査法を用いたSTAMP/STPAにおけるシナリオのリスク分析", ウィンターワークショップ2020・イン・京都, Jan. 2020.
 1. 堤誠司, 藤田直行, 伊藤浩之, 大日向大地, 井上敬介, 松村洋祐, 高橋慧智, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ/In Transitアプローチを用いた大規模数値解析におけるポスト処理効率化", 第33回数値流体力学シンポジウム, Nov. 2019.
+1. 倉地亮介, 崔恩瀞, 飯田元, "類似コード検出ツールを用いたテストコード再利用に向けた調査", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
+1. 鐘ヶ江由佳, 崔恩瀞, 飯田元, "OSSプロジェクトにおけるCIツールの変更の影響調査に向けて", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
+1. 辻光顕, 高井　利憲, 片平　真史, 石濱　直樹, 柿本和希, 飯田　元, "ハイブリッドシステムの安全検証に向けた形式的なSTAMPモデルの提案", ソフトウェアサイエンス研究会, Mar. 2019.
 1. 竹房あつ子, 市川昊平, 栗本崇, 合田憲人, "国際的なオンデマンドネットワークのためのトークンベース認証機構の研究", 研究報告インターネットと運用技術（IOT）, Mar. 2019.
 1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善の報告", 第5回 実践的IT教育シンポジウム (rePiT2019), Jan. 2019.
 1. 藤原 裕士, 崔　恩瀞, 吉田 則裕, 井上 克郎, "順伝播型ニューラルネットワークを用いた類似コードブロック検索の試み", ソフトウェアエンジニアリングシンポジウム2018論文集, Sep. 2018.
