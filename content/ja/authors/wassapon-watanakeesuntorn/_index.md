@@ -75,6 +75,11 @@ email: "wassapon.watanakeesuntorn.wq0@is.naist.jp"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Student
+
+# Order this person will appear
+#  For current students: year and month of enrollment
+#  For past students: year and month of graduation
+weight: 201710
 ---
 
 ## プロフィール
