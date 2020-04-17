@@ -4,7 +4,7 @@
 title: "AQUAMarine - 定量的管理計画立案支援システム"
 summary: ""
 authors: ["hajimu-iida"]
-tags: []
+tags: ["Software Process"]
 categories: []
 date: 2020-02-17T13:32:03+09:00
 

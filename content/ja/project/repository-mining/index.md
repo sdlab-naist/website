@@ -4,7 +4,7 @@
 title: "Software Repository Mining"
 summary: ""
 authors: ["hajimu-iida"]
-tags: []
+tags: ["Repository Mining"]
 categories: []
 date: 2020-02-17T13:14:49+09:00
 

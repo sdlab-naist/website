@@ -4,7 +4,7 @@
 title: "コードクローン履歴理解支援環境"
 summary: ""
 authors: ["hajimu-iida"]
-tags: []
+tags: ["Software Analytics", "Code Clone"]
 categories: []
 date: 2020-02-18T10:58:21+09:00
 

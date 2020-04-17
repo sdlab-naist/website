@@ -1,32 +1,12 @@
----
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
++++
+# About widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear in.
 
-title: "研究トピック"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
-date: 2020-02-17T12:42:17+09:00
-lastmod: 2020-02-17T12:42:17+09:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
----
+title = "研究トピック"
++++
 
 ## [ソフトウェア開発プロセスの設計と解析](/project/software-process/)
 近年，ソフトウェア開発は大規模化，複雑化の一途をたどっており，巨大なシステムの開発には数千人もの開発者，数十もの開発会社が関わることもあります．当研究グループでは，ソフトウェア開発プロジェクトの持つ複雑性を緩和し，プロジェクトの円滑な遂行を支援する技術の研究を進めています．

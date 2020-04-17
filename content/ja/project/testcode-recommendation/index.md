@@ -4,7 +4,7 @@
 title: "テストコード自動推薦ツール"
 summary: ""
 authors: ["Ryosuke-Kurachi"]
-tags: []
+tags: ["Software Analytics", "Software Test"]
 categories: []
 date: 2020-03-03T11:16:48+09:00
 
