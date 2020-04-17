@@ -25,6 +25,7 @@ subtitle = "Individual research projects are shown below. You can filter the pro
     name = "All"
     tag = "*"
 
+  # Primary keywords
   [[content.filter_button]]
     name = "Software Process"
     tag = "Software Process"
@@ -45,21 +46,34 @@ subtitle = "Individual research projects are shown below. You can filter the pro
     name = "HPC"
     tag = "HPC"
 
+  # Detail keywords (alphabetical order)
+  [[content.filter_button]]
+    name = "Cloud Gaming"
+    tag = "Cloud Gaming"
+
   [[content.filter_button]]
     name = "Code Clone"
     tag = "Code Clone"
 
   [[content.filter_button]]
-    name = "Software Test"
-    tag = "Software Test"
+    name = "Design Pattern"
+    tag = "Design Pattern"
+
+  [[content.filter_button]]
+    name = "Programming Education"
+    tag = "Programming Education"
+
+  [[content.filter_button]]
+    name = "Refactoring"
+    tag = "Refactoring"
 
   [[content.filter_button]]
     name = "SDN"
     tag = "SDN"
 
   [[content.filter_button]]
-    name = "Cloud Gaming"
-    tag = "Cloud Gaming"
+    name = "Software Test"
+    tag = "Software Test"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
