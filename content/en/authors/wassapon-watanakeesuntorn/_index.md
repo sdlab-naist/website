@@ -81,3 +81,14 @@ user_groups:
 #  For past students: year and month of graduation
 weight: 201710
 ---
+
+## Profile
+Doctoral student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory. Currently working on project about monitoring tool for Software-defined networking (SDN) and HPC application optimization.
+
+## Experience
+- September 2019 -- October 2019: Scripps Institute of Oceanography,
+  University of California San Diego
+- August 2018 -- September 2018: National Institute of Advanced Industrial
+  Science and Technology
+- June 2017 -- August 2017: Innovative Extremist Co., LTD
+- June 2016 -- July 2016: Nara Institute of Science and Technology
