@@ -70,5 +70,5 @@ user_groups:
 weight: 201810
 ---
 
-## プロフィール
+## Profile
 Master student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
