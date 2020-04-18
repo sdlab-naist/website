@@ -4,7 +4,7 @@
 title: "A Multipath Controller for Accelerating GridFTPTransfer over SDN"
 summary: ""
 authors: ["kohei-ichikawa"]
-tags: []
+tags: ["Cloud", "SDN"]
 categories: []
 date: 2020-02-17T23:52:23+09:00
 

@@ -4,7 +4,7 @@
 title: "Software Analytics"
 summary: ""
 authors: ["hajimu-iida"]
-tags: []
+tags: ["Software Analytics", "Code Clone", "Refactoring", "Programming Education", "Software Test"]
 categories: []
 date: 2020-02-17T13:17:13+09:00
 

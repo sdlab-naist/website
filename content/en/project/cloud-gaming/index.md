@@ -4,7 +4,7 @@
 title: "A Hybrid Game Contents Streaming Method to Improve Graphic Quality Delivered on Cloud Gaming"
 summary: ""
 authors: ["kohei-ichikawa"]
-tags: []
+tags: ["Cloud", "Cloud Gaming"]
 categories: []
 date: 2020-02-17T23:59:25+09:00
 

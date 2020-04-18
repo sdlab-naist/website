@@ -4,7 +4,7 @@
 title: "Design & Analysis of Software Process"
 summary: ""
 authors: ["hajimu-iida"]
-tags: []
+tags: ["Software Process"]
 categories: []
 date: 2020-02-17T13:12:16+09:00
 

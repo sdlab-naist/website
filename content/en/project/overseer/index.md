@@ -4,7 +4,7 @@
 title: "Overseer: SDN-Assisted Bandwidth and Latency Aware Route Optimization based on Application Requirement"
 summary: ""
 authors: ["kohei-ichikawa"]
-tags: []
+tags: ["Cloud", "SDN"]
 categories: []
 date: 2020-02-17T23:49:29+09:00
 

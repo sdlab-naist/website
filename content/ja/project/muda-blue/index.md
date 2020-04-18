@@ -4,7 +4,7 @@
 title: "MUDABlue ソフトウェア自動分類システム"
 summary: ""
 authors: []
-tags: []
+tags: ["Software Analytics"]
 categories: []
 date: 2020-02-18T11:03:43+09:00
 

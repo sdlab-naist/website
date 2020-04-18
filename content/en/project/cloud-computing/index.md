@@ -4,7 +4,7 @@
 title: "Software for Cloud Computing"
 summary: ""
 authors: ["kohei-ichikawa"]
-tags: []
+tags: ["Cloud", "SDN", "Cloud Gaming"]
 categories: []
 date: 2020-02-17T13:20:39+09:00
 
