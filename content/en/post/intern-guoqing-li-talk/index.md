@@ -4,7 +4,7 @@
 title: "Mr. Guoqing Li gave a talk"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["keichi-takahashi"]
 tags: []
 categories: []
 date: 2020-04-24T10:03:37+09:00
