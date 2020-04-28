@@ -41,10 +41,18 @@ slides: ""
 ---
 
 [Empirical Dynamic Modeling (EDM)](https://deepeco.ucsd.edu/nonlinear-dynamics-research/edm/) は，
-[Takensの埋め込み定理](https://doi.org/10.3156/jfuzzy.10.4_82)を応用した非線形時系列解析手法です．
-EDMは，力学系の状態変数の予測，非線形性の評価，状態変数間の因果分析等に用いることが可能な手法であり，生態学や神経科学などの分野で活用されています．
-しかし，これまでEDMはその計算量の大きさから，小規模なデータに適用が限られていました．
-本研究では，高性能計算技術を活用し，既存のEDM実装であるpyEDMやrEDMより高速に大規模なデータを解析可能にするEDM実装を開発しています．
-本研究は，米国Scripps海洋研究所およびSalk研究所との連携・協力の下，推進しています．
+[Takensの埋め込み定理](https://doi.org/10.3156/jfuzzy.10.4_82)に基づく非線形時系列解析手法です．
+EDMは，力学系の状態変数の予測，非線形性の評価，変数間の因果分析等を可能にする手法であり，生態学や神経科学などの分野で主に用いられています．
+しかし，従来EDMはその計算量の大きさから，小規模なデータに適用が限られていました．
+
+本研究では，最適化および並列化技術を活用し，既存のEDM実装であるpyEDMやrEDMより高速なEDM実装を開発しています．
+また，計算基盤として産業総合技術研究所が有する国内最大規模の高性能計算機
+[AI Bridging Cloud Infrastructure (ABCI)](https://abci.ai/ja/)
+を用い，1,000 CPU・2,000 GPU以上を活用した，前例にない規模のEDM計算の実現を目指します．
+
+本研究は，[産業総合技術研究所](https://www.aist.go.jp/)，
+米国[Salk研究所](https://www.salk.edu/)，
+米国[Scripps海洋研究所](https://scripps.ucsd.edu/)
+との連携・協力の下，推進しています．
 
 {{< youtube fevurdpiRYg >}}
