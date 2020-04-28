@@ -40,4 +40,16 @@ url_video: ""
 slides: ""
 ---
 
+## 概要
+
 高性能計算機の多くは，複数の計算機を相互結合網と呼ばれるネットワークを介して相互接続したクラスタアーキテクチャを採用しています．クラスタでは，計算機間の通信性能がアプリケーションの計算性能を大きく左右します． しかし，多数の計算機が同時多発的に通信すると，相互結合網の一部にトラフィックが集中し，通信性能の劣化を招いてしまう問題が知られています．本研究では，ネットワークをソフトウェアのように動的に制御可能にするSoftware-Defined Networking (SDN) 技術を応用し，高性能計算機上で実行されるアプリケーションの通信パターンを考慮して相互結合網網内のトラフィックを動的に制御し，トラフィックの集中を緩和する技術の研究開発に取り組んでいます．
+
+## 関連論文
+
+1. Keichi Takahashi, Susumu Date, Yasuhiro Watashiba, Yoshiyuki Kido, Shinji
+   Shimojo, "Integrating SDN-Enhanced MPI with Job Scheduler to Support Shared
+   Clusters", 28th Workshop on Sustained Simulation Performance, Mar. 2020.
+2. Keichi Takahashi, Susumu Date, Dashdavaa Khureltulga, Yoshiyuki Kido,
+   Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "UnisonFlow: A
+   Software-Defined Coordination Mechanism for Message-Passing Communication
+   and Computation", IEEE Access, vol. 6, no. 1, pp. 23372-23382, Apr. 2018.
