@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "嶋田　萌"
+name: "Moe Shimada"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程　
+role: "Master's Student"
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,12 @@ bio:
 
 # List each interest with a dash
 interests:
-- 宇宙　
-- ご飯を食べること
+- Universe
+- Magic
 
 education:
   courses:
-  - course: 機械工学科
+  - course: Mechanical engineering
     institution: OSU
     year: 2020
 
