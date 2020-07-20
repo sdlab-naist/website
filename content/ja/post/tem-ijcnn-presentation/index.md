@@ -4,7 +4,7 @@
 title: "Thonglek君のIJCNN2020での研究発表"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["kundjanasith-thonglek"]
 tags: []
 categories: []
 date: 2020-07-20T13:25:56+09:00
@@ -28,11 +28,10 @@ image:
 projects: []
 ---
 
-当研究室M2のKundjanasith Thonglek君が，下記の論文をIEEE Word Congress on Computational (WCCI) 2020の併設[International Joint Conference
-on Neural Networks (IJCNN)](https://wcci2020.org/ijcnn-2020-program/) にて発表しました
+当研究室M2のKundjanasith Thonglek君が，下記の論文をIEEE Word Congress on Computational Intelligence (WCCI) の国際会議 [International Joint Conference on Neural Networks (IJCNN)](https://wcci2020.org/ijcnn-2020-program/) にて発表しました．
 
-> Retraining Quantized Neural Network Models with Unlabeled Data
-> Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano and Hajimu Iida
+> Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano and Hajimu Iida, 
+> "Retraining Quantized Neural Network Models with Unlabeled Data", International Joint Conference on Neural Networks (IJCNN 2020), Jul. 2020.
 
 このホワイトペーパーでは、プライバシーポリシーとライセンスの制限により、元のラベル付きデータセットに常にアクセスできるわけではないという事実に焦点を当てています。したがって、ラベルのないデータセットを使用して、量子化ニューラルネットワークモデルを再トレーニングする方法を提案しました。
 このプロジェクトはAISTと協力しています。
