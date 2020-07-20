@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thonglek's research presentation at IJCNN2020"
+title: "Mr. Thonglek's research presentation at IJCNN2020"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["kundjanasith-thonglek"]
 tags: []
 categories: []
 date: 2020-07-20T13:27:10+09:00
@@ -29,11 +29,11 @@ projects: []
 ---
 
 Kundjanasith Thonglek presented the following paper at [International Joint Conference
-on Neural Networks (IJCNN)](https://wcci2020.org/ijcnn-2020-program/) of IEEE Word Congress on Computational Intelligence (WCCI) 2020
+on Neural Networks (IJCNN)](https://wcci2020.org/ijcnn-2020-program/) of IEEE Word Congress on Computational Intelligence (WCCI) 2020.
 
-> Retraining Quantized Neural Network Models with Unlabeled Data
-> Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano and Hajimu Iida
+> Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano and Hajimu Iida, 
+> "Retraining Quantized Neural Network Models with Unlabeled Data", International Joint Conference on Neural Networks (IJCNN 2020), Jul. 2020.
 
-In this paper, we focus on the fact that we can not always access the original labeled datasets because of privacy policies and license limitations. Thus, we proposed the method to retraining the quantized neural network models with unlabeled dataset.
-This project is collaborated with National Institute of Advanced Industrial Science and Technology (AIST).
+In this paper, we focus on the fact that we cannot always access the original labeled datasets because of privacy policies and license limitations. We propose a method to retrain quantized neural network models using unlabeled datasets.
+This project is a collaboration with the National Institute of Advanced Industrial Science and Technology (AIST).
 
