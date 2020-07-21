@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Kundjanasith Thonglek presented the following paper at [International Joint Conference
+Mr. Kundjanasith Thonglek presented the following paper at [International Joint Conference
 on Neural Networks (IJCNN)](https://wcci2020.org/ijcnn-2020-program/) of IEEE Word Congress on Computational Intelligence (WCCI) 2020.
 
 > Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano and Hajimu Iida, 
