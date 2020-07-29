@@ -7,9 +7,355 @@
     },
     "list_item": {
         "@type": "ListItem",
-        "items_count": "464",
-        "count_per_page": "464",
+        "items_count": "468",
+        "count_per_page": "468",
         "items": [
+            {
+                "@type": "item",
+                "dc:researchId": "49424",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "",
+                "dc:presenters": "",
+                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2020",
+                "dc:year": "2020",
+                "dc:creator": [
+                    {
+                        "@name": "William F. Godoy",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Norbert Podhorszki",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Ruonan Wang",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Chuck Atkins",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Greg Eisenhauer",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Junmin Gu",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Philip Davis",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Jong Choi",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kai Germaschewski",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kevin Huck",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Axel Huebl",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Mark Kim",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "James Kress",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Tahsin Kurc",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Qing Liu",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Jeremy Logan",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kshitij Mehta",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "George Ostrouchov",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Manish Parashar",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Franz Poeschel",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "David Pugmire",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Eric Suchyta",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Keichi Takahashi",
+                        "@researcherId": "40846408",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Nick Thompson",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Seiji Tsutsumi",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Lipeng Wan",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Matthew Wolf",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kesheng Wu",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Scott Klasky",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": "Elsevier",
+                    "@language": "en"
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "SoftwareX",
+                    "@language": "en"
+                },
+                "prism:volume": "12",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2020/7",
+                "prism:place": "",
+                "prism:doi": "10.1016/j.softx.2020.100561",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
             {
                 "@type": "item",
                 "dc:researchId": "49103",
@@ -127,6 +473,131 @@
             },
             {
                 "@type": "item",
+                "dc:researchId": "49425",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "Full Paper \u76f8\u5f53\u306e\u51fa\u7248\u3042\u308a",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "Retraining Quantized Neural Network Models with Unlabeled Data",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2020",
+                "dc:year": "2020",
+                "dc:creator": [
+                    {
+                        "@name": "Kundjanasith Thonglek",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u3042\u308a",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Keichi Takahashi",
+                        "@researcherId": "40846408",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kouhei Ichikawa",
+                        "@researcherId": "90511676",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Chawanat Nakasan",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hidemoto Nakada",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Ryousei Takano",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hajimu Iida",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "International Joint Conference on Neural Network (IJCNN)",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2020/7",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
                 "dc:researchId": "49071",
                 "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
                 "dc:subDepartment": "",
@@ -220,6 +691,131 @@
                 "prism:startingPage": "149",
                 "prism:endingPage": "159",
                 "prism:publicationDate": "2020/3",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "49423",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "4",
+                    "@value": "\u56fd\u5185\u5b66\u4f1a\u7814\u7a76\u4f1a\u30fb\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u7121\u3057",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "\u5171\u6709\u578bIoT\u8cc7\u6e90\u5229\u7528\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u305f\u3081\u306e\u30c7\u30fc\u30bf\u30d5\u30ed\u30fc\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2020",
+                "dc:year": "2020",
+                "dc:creator": [
+                    {
+                        "@name": "\u6751\u6728 \u66a2\u54c9",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u6728\u6238 \u5584\u4e4b",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u9ad8\u6a4b \u6167\u667a",
+                        "@researcherId": "40846408",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u5c71\u7530 \u62d3\u54c9",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u4f0a\u9054 \u9032",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u6885\u8c37 \u9e97",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u77f3\u6a4b \u9756\u55e3",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u4e0b\u689d \u771f\u53f8",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "\u7b2c150\u56de\u30b7\u30b9\u30c6\u30e0\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3068\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30fb\u30b7\u30b9\u30c6\u30e0\u7814\u7a76\u767a\u8868\u4f1a (SWoPP 2020)"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2020/7",
                 "prism:place": "",
                 "prism:doi": "",
                 "dc:repositoryHandle": "",
@@ -551,6 +1147,161 @@
                 "prism:place": "",
                 "prism:doi": "10.11309/jssst.36.38",
                 "dc:repositoryHandle": "http://hdl.handle.net/10061/13953 ",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "49165",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "\u51fa\u7248\u306a\u3057",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "In Situ and In Transit Visualization for Numerical Simulations in HPC",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2019",
+                "dc:year": "2019",
+                "dc:creator": [
+                    {
+                        "@name": "Seiji Tsutsumi",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Naoyuki Fujita",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hiroyuki Ito",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Daichi Obinata",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Keisuke Inoue",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yosuke Matsumura",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Keichi Takahashi",
+                        "@researcherId": "40846408",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Greg Eisenhauer",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Norbert Podhorszki",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Scott Klasky",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019)",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2019/11",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
                 "prism:keyword": "",
                 "prism:wosNo": "",
                 "prism:issn": "",
