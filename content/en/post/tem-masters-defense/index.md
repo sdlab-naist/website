@@ -36,6 +36,3 @@ to his thesis committee on August 24th, 2020.
 His master's thesis is entitled "Improving
 Resource Availability in Data Centers using Deep Learning". Excellent work,
 Tem!
-
-![](tem_thesis_defense1.jpg)
-![](tem_thesis_defense2.jpg)

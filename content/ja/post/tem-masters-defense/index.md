@@ -31,6 +31,3 @@ projects: []
 2020年8月24日に当研究室M2のKundjanasith Thonglek君が修士論文の内容を発表しました．
 修士論文の題目は"Improving Resource Availability in Data Centers using Deep Learning" (深層学習を使用したデータセンタにおける資源利用効率の向上) です．
 Thonglek君，お疲れさまでした．
-
-![](tem_thesis_defense1.jpg)
-![](tem_thesis_defense2.jpg)
