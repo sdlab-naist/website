@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Multipath Controller for Accelerating GridFTPTransfer over SDN"
+title: "A Multipath Controller for Accelerating GridFTP Transfer over SDN"
 summary: ""
 authors: ["kohei-ichikawa"]
 tags: ["Cloud", "SDN"]
