@@ -1,6 +1,6 @@
 +++
 # Member page
-title = "研究トピック"
+title = "Research Topics"
 type = "widget_page"
 headless = false  # Homepage is headless, other widget pages are not.
 +++
