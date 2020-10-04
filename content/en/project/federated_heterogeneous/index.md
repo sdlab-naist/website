@@ -55,7 +55,7 @@ The basic idea behind the proposed method is to ensemble the heterogeneous model
 or FedAVG is not possible since there does not exist any obvious mapping between parameters in different models.
 Therefore, we employ weighted average because simple average or majority voting combines all models equally and results in suboptimal performance if the local training datasets distributed across the edge devices are biased.
 
-{{< figure src="overview_fed.png" title="Overview of the proposed method" width="60%">}}
+<!-- {{< figure src="featured.png" title="Overview of the proposed method" width="60%">}} -->
 
 The optimizer is responsible for tuning weight of each model such that the accuracy of the ensembled model is maximized. In this work, we consider and compare six well-known black box optimization algorithms:
 

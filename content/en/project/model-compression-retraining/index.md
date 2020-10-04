@@ -52,9 +52,9 @@ dataset to recover the accuracy of the model.
 
 ## Methodology
 
-The proposed retraining method to recover the accuracy of quantized neural network models. The below figure shows the overview of the proposed method. We first apply quantization to the model. Subsequently, the proposed retraining method is applied to the compressed model.
+The proposed retraining method to recover the accuracy of quantized neural network models. The above figure shows the overview of the proposed method. We first apply quantization to the model. Subsequently, the proposed retraining method is applied to the compressed model.
 
-{{< figure src="overview_method.png" title="Overview of proposed methodology" width="90%">}}
+<!-- {{< figure src="featured.png" title="Overview of proposed methodology" width="90%">}} -->
 
 Quantization is a lossy data compression technique where a range of data is grouped or binned into a single value or
 centroid. It is a nonlinear map that partitions the whole space and represents the values in each subspace by their centroid.
@@ -94,4 +94,4 @@ one centroid and the weights in the 13rd–49th layers using 256 centroids.
 In this work, we used VGG-16 and ResNet-50 to evaluate our proposed methodology. The model size of VGG-16 was reduced by 81.10% with only 0.34% loss of accuracy. The difference of accuracy after applying the conventional and proposed retraining was only 0.11%. ResNet-50 was reduced by 52.54% with only 0.71% loss of accuracy. The difference of accuracy after applying the conventional and proposed retraining method with only 0.03%.
 
 ## Publication
-- K. Thonglek, K. Takahashi, K. Ichikawa, C. Nakasan, H. Nakada, R. Takano, H. Iida, “Retraining Quantized Neural Network Models with Unlabeled Data”, International Joint Conference on Neural Networks (IJCNN 2020), Jul. 2020.
+- K. Thonglek, K. Takahashi, K. Ichikawa, C. Nakasan, H. Nakada, R. Takano, H. Iida, “Retraining Quantized Neural Network Models with Unlabeled Data”, International Joint Conference on Neural Networks (IJCNN 2020), Jul. 2020. DOI: [10.1109/IJCNN48605.2020.9207190](https://ieeexplore.ieee.org/document/9207190)

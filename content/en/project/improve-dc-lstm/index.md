@@ -43,7 +43,7 @@ slides: ""
 Data centers are centralized facilities where computing and networking hardware are aggregated to handle large amounts of data  and computation. In a data center, computing resources such as CPU and memory are usually managed by a resource manager. The  resource manager accepts resource requests from users and allocates resources to their applications. A commonly known problem in resource management is that users often request more resources than their applications actually use. This leads to the degradation of overall resource utilization in a data center. This work aims to improve resource utilization in data centers by  predicting the required resource for each application. We designed and implemented a neural network model based on Long Short-Term Memory (LSTM) to predict more efficient resource allocation for a job based on historical data.  
 
 
-{{< figure src="intro_cpu.png" title="Wasted computing resources in a data center" width="60%">}}
+<!-- {{< figure src="featured.png" title="Wasted computing resources in a data center" width="60%">}} -->
 
 A commonly known problem in resource management is over-allocation. Users often request more resources than their applications  actually use. This degrades the overall resource utilization in data centers. The above figure compares the used and allocated  resources in a Google’s data center. The plots clearly indicate that resources are wasted due to over-allocation.
 
@@ -80,4 +80,4 @@ The  resource manager supplies the resource request received from a user andthe 
 Googles  cluster  scheduler  simulator   indicated  that  the  proposed method improved the CPU utilization and memory utilization by10.71%  and  47.36%,  respectively,  compared  to  a  conventionalresource  manager.  Moreover,  we  discovered  that  increasing  thememory  cell  size  of  our  LSTM  model  improves  the  accuracy  ofthe  prediction  in  return  for  longer  training  time.
 
 ## Publication
-- K. Thonglek, K. Ichikawa, K. Takahashi, C. Nakasan, H. Iida, “Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model”, Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA 2019), Sep. 2019.
+- K. Thonglek, K. Ichikawa, K. Takahashi, C. Nakasan, H. Iida, “Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model”, Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA 2019), Sep. 2019. DOI: [10.1109/CLUSTER.2019.8891022](https://ieeexplore.ieee.org/document/8891022)
