@@ -4,7 +4,7 @@
 title: "Ensembling Heterogeneous Models for Federated Learning"
 summary: ""
 authors: [Kundjanasith Thonglek]
-tags: []
+tags: ["Machine Learning"]
 categories: []
 date: 2020-10-02T23:37:43+09:00
 

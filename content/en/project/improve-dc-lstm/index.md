@@ -4,7 +4,7 @@
 title: "Improving Resource Utilization of Data Center using LSTM"
 summary: ""
 authors: [Kundjanasith Thonglek]
-tags: []
+tags: ["Machine Learning"]
 categories: []
 date: 2020-10-02T17:52:27+09:00
 

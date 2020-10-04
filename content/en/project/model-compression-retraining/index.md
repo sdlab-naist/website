@@ -4,7 +4,7 @@
 title: "Retraining Quantized Neural Networks without Labeled Data"
 summary: ""
 authors: [Kundjanasith Thonglek]
-tags: []
+tags: ["Machine Learning"]
 categories: []
 date: 2020-10-02T23:04:08+09:00
 
