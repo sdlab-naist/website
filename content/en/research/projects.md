@@ -46,6 +46,10 @@ subtitle = "Individual research projects are shown below. You can filter the pro
     name = "HPC"
     tag = "HPC"
 
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
+
   # Detail keywords (alphabetical order)
   [[content.filter_button]]
     name = "Cloud Gaming"
