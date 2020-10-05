@@ -45,7 +45,7 @@ subtitle = "各個別の研究プロジェクトは以下のとおりです。�
   [[content.filter_button]]
     name = "HPC"
     tag = "HPC"
-
+    
   # Detail keywords (alphabetical order)
   [[content.filter_button]]
     name = "Cloud Gaming"
@@ -58,6 +58,10 @@ subtitle = "各個別の研究プロジェクトは以下のとおりです。�
   [[content.filter_button]]
     name = "Design Pattern"
     tag = "Design Pattern"
+
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
 
   [[content.filter_button]]
     name = "Programming Education"
