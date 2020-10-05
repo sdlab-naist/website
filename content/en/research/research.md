@@ -43,3 +43,11 @@ Networking (SDN) which is a software-based networking-control technique is in
 our main focus. Based on SDN, we hope to extend and advance software
 techniques that can support cloud computing-related technologies such as Cloud
 Gaming, Big Data Analysis, Machine Learning, IoT and etc.
+
+## [Software for High-Performance Computing](/en/project/high-performance-computing/)
+High-Performance Computing Systems (i.e., Supercomputers) provide massive
+computing performance to solve diverse problems in science and engineering. At
+our laboratory, we research and develop software to fully utilize the
+performance of state-of-the-art HPC systems. We develop massively parallel
+scientific applications in close collaboration with domain scientists.
+Furthermore, we design and implement middleware for large-scale HPC systems.

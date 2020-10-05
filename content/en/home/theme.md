@@ -17,5 +17,6 @@ development. Our current research topics include:
 - Virtualization technology, in particular SDN (Software Defined Networking)
 - Software analytics (data analysis that helps developers to understand the
   progress of software development projects and make better decisions)
+- HPC (High Performance Computing, large-scale scientific computing using supercomputers)
 
 Please see [here](/en/research) for details.

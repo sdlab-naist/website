@@ -55,4 +55,12 @@ EDMは，力学系の状態変数の予測，非線形性の評価，変数間�
 米国[Scripps海洋研究所](https://scripps.ucsd.edu/)
 との連携・協力の下，推進しています．
 
+## 関連論文
+
+1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park,
+   George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively
+   Parallel Causal Inference of Whole Brain Dynamics at Single Neuron
+   Resolution", 26th International Conference on Parallel and Distributed
+   Systems (ICPADS 2020), Dec. 2020.
+
 {{< youtube fevurdpiRYg >}}
