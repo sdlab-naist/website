@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master's Student
+role: Dotoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master student at Information Science, Nara Institute of Science and Technology, Japan
+bio: Doctoral student at Information Science, Nara Institute of Science and Technology, Japan
 
 # List each interest with a dash
 interests:
@@ -26,12 +26,18 @@ interests:
 
 education:
   courses:
+  - course: Doctoral Degree (Information Science)
+    institution: Nara Institute of Science and Technology
+    year: 2020 - 2023 (Expected)
   - course: Master's Degree (Information Science)
     institution: Nara Institute of Science and Technology
     year: 2018 - 2020
   - course: Bachelor's Degree (Software and Knowledge Engineering)
     institution: Kasetsart University
     year: 2014 - 2018
+  # - course: Elementary and High School
+  #   institution: Kasetsart University Laboratory School
+  #   year: 2002 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +77,4 @@ weight: 201810
 ---
 
 ## Profile
-Master student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
+Doctoral student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
