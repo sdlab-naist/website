@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Guoqing Li"
+name: "李 国清"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master's Student
+role: 博士前期課程
 
 # Organizations/Affiliations
 organizations:
-- name: Nara Institute of Science and Technology
+- name: 奈良先端科学技術大学院大学
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,16 +22,16 @@ bio: Master student at Information Science, Nara Institute of Science and Techno
 
 # List each interest with a dash
 interests:
-- Algorithm puzzles and Science
-- Go Game, Ultimate Frisbee and Hiking
+- アルゴリズム パズル, 科学
+- 囲碁,アルティメット,ハイキング
 
 education:
   courses:
-  - course: Software Engineering
-    institution: ChiangMai University Thailand
+  - course:  ソフトウェア工学専攻
+    institution: チェンマイ大学 タイ
     year: 2016 - 2020
-  - course: Thai Language and Culture
-    institution: Language Institute, ChiangMai University
+  - course: タイ言語文化コース (レベル2）修了
+    institution: 語学研究所-チェンマイ大学
     year: 2012 - 2014
 
 # Social/Academic Networking
