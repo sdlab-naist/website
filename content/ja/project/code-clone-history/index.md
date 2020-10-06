@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "過去にコードクローン関係にあったコード片の例"
   focal_point: ""
   preview_only: false
 
@@ -50,8 +50,6 @@ slides: ""
 
 これまでにコードクローン履歴を活用して，過去にコードクローン関係にあった コード間の関係抽出を行う手法を提案しています．そして，過去にコードクロー ン関係にあったコード片は，一見異なるように見えて同様の処理を行っている箇 所が多く，このような部分もまた留意する必要があることを確認しています．
 
-
-{{< figure src="clone_evo.png" title="過去にコードクローン関係にあったコード片の例" lightbox="true" >}}
 
 ## 今後の研究課題
 1. 履歴情報を用いたコードクローンの定量的評価手法の確立

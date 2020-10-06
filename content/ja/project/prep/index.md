@@ -52,8 +52,6 @@ PRePモデルでは，ソフトウェア開発で作成される成果物間の�
 - 構造モデル：成果物間の関係を定義するモデル
 - 工程モデル：構造モデルに，マイルストーンと工程，反復を定義したモデル
 
-{{< figure src="prep.jpg" lightbox="true" >}}
-
 ## PReP/SGTs（Schedule Generation Tools）
 PReP/SGTsはPRePモデルによるプロセス記述からスケジュールを半自動的に生成し，運用を支援するためのツール群です．
 

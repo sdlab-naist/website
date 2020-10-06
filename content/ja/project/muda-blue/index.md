@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "多重分類されるソフトウェア"
   focal_point: ""
   preview_only: false
 
@@ -50,8 +50,6 @@ MUDABlue が提供する分類結果を利用することで，もし要求を�
     もっとも単純な分類はソフトウェアの用途による分類です．しかし，ソフ トウェアにはそれ以外にもさまざまな分類基準が考えられます．例えば Windows 上で動作するのか，Mac 上で動作するのかといった対応 OS による分類などが考えられます．
 
     このような分類を実現するために，MUDABlue は一つのソフトウェアが複 数個のカテゴリに属することを許しています．これにより，Windows 上で動作するテキストエディタといった概念をごく自然に表現しています．
-
-    {{< figure src="soft_categorize.png" title="多重分類されるソフトウェア" lightbox="true" >}}
 
 2. カテゴリの自動抽出
 
