@@ -60,6 +60,10 @@ subtitle = "Individual research projects are shown below. You can filter the pro
     tag = "Design Pattern"
 
   [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
+
+  [[content.filter_button]]
     name = "Programming Education"
     tag = "Programming Education"
 
