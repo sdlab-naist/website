@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Architecture of smoc"
   focal_point: ""
   preview_only: false
 
@@ -51,8 +51,6 @@ Other possible actions that we are considering include developing and maintainin
 We currently have developed a very simple topological algorithm and implemented it into a POX-based controller, Simple Multipath OpenFlow Controller (smoc).
 
 ## Architecture of smoc
-
-{{< figure src="mptcp_fig_controller_blocks.png" title="Architecture of smoc" >}}
 
 smoc is based on POX, a Python OpenFlow framework. The basic functions such as topology management and controller-switch communication are based on Overseer.
 

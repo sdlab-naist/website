@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "図1 AQUAMarine のスナップショット"
   focal_point: ""
   preview_only: false
 
@@ -69,8 +69,6 @@ CMMIなど，多くのプロセス改善の枠組みの中では，定量的管�
 本研究では，プロジェクトの計画者による定量的管理計画の立案作業支援を目的とした，定量的管理計画の立案支援システムAQUAMarineを提案します．
 
 AQUAMarine の利用者は，図 1 の画面から，開発プロセスを概観する事ができ，個々の開発プロセスに対して定量データの測定・分析活動を関連づける事ができます．また，プロセスや管理指標，成果物の詳細な定義を確認する事も可能です．
-
-{{< figure src="aquamarine_snapshot.jpg" title="図1 AQUAMarine のスナップショット" lightbox="true" >}}
 
 ## AQUAMarine の利点
 AQUAMarine がプロジェクト計画者に対して行う支援には，以下のような効果があると考えられます．
