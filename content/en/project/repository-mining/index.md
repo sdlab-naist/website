@@ -7,6 +7,7 @@ authors: ["hajimu-iida"]
 tags: ["Repository Mining", "Software Test", "Design Pattern", "Refactoring"]
 categories: []
 date: 2020-02-17T13:14:49+09:00
+weight: -90
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

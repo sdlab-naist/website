@@ -7,6 +7,7 @@ authors: ["hajimu-iida"]
 tags: ["Software Process"]
 categories: []
 date: 2020-02-17T13:12:16+09:00
+weight: -100
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
