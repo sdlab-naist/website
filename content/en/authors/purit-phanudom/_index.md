@@ -32,15 +32,15 @@ interests:
 
 education:
   courses:
-	- course: Master's Degree
-     institution: Nara Institute of Science and Technology
-     year: 2020 - 2022 (expected)
-   - course: Bachelor's Degree (Information Science and Technology)
-     institution: Mahidol University
-     year: 2016 - 2020
-   - course: High School
-     institution: Matthayomwatnairong School
-     year: 2013 - 2016
+  - course: Master's Degree
+    institution: Nara Institute of Science and Technology
+    year: 2020 - 2022 (expected)
+  - course: Bachelor's Degree (Information Science and Technology)
+    institution: Mahidol University
+    year: 2016 - 2020
+  - course: High School
+    institution: Matthayomwatnairong School
+    year: 2013 - 2016  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
