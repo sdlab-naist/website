@@ -28,7 +28,7 @@ interests:
  - Pets
  - Cooking
  - Movies
- - Art and Cultural Heriage
+ - Art and Cultural Heritage
 
 education:
   courses:

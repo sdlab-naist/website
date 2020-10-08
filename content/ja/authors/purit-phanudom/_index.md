@@ -14,7 +14,7 @@ role: 博士前期学生
 
 # Organizations/Affiliations
 organizations:
-- name: 奈良先端科学技術大
+- name: 奈良先端科学技術大学院大学
   url: "http://www.naist.jp/en/"
 - name: ソフトウェア設計学研究室
   url: "https://sdlab.naist.jp/en/"
@@ -26,8 +26,8 @@ organizations:
 # List each interest with a dash
 interests:
  - ペット (犬や猫)
- - 調理
- - 動画
+ - 料理
+ - 映画鑑賞
  - 美術と文化遺産
 
 # Social/Academic Networking
