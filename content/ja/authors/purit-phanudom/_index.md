@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期学生
+role: 博士前期課程
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
 
 # List each interest with a dash
 interests:
- - ペット (犬や猫)
+ - ペット
  - 料理
  - 映画鑑賞
  - 美術と文化遺産
