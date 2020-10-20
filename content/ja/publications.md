@@ -30,7 +30,8 @@ projects: []
 ## 学術論文誌
 
 1. William F. Godoy, Norbert Podhorszki, Ruonan Wang, Chuck Atkins, Greg Eisenhauer, Junmin Gu, Philip Davis, Jong Choi, Kai Germaschewski, Kevin Huck, Axel Huebl, Mark Kim, James Kress, Tahsin Kurc, Qing Liu, Jeremy Logan, Kshitij Mehta, George Ostrouchov, Manish Parashar, Franz Poeschel, David Pugmire, Eric Suchyta, Keichi Takahashi, Nick Thompson, Seiji Tsutsumi, Lipeng Wan, Matthew Wolf, Kesheng Wu, Scott Klasky, "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management", SoftwareX, Jul. 2020.
-1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Aug. 2019.
+1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善", コンピュータソフトウェア, Feb. 2020.
+1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Jan. 2020.
 1. 上村 恭平, 中才 恵太朗, 大神 勝也, 畑　秀明, 一ノ瀬 智浩, 松本　健一, 飯田　元, "Codosseum: オープンなソフトウェア開発・分析支援Webサービス", コンピュータソフトウェア, Jan. 2019.
 1. 横井 一輝,, 崔　恩瀞, 吉田 則裕, 井上 克郎, "情報検索技術に基づく細粒度ブロッククローン検出", コンピュータソフトウェア, Oct. 2018.
 1. 上村 恭平, 森 彰, 藤原 賢二, 崔　恩瀞, 飯田　元, "ハードウェア記述言語におけるコードクローンの定量的調査", 情報処理学会論文誌, Apr. 2018.
@@ -46,9 +47,12 @@ projects: []
 
 ## 国際会議論文
 
+1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020.
+1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020.
 1. Mitsuaki Tsuji, Toshinori Takai, Kazuki Kakimoto, Naoko Ishihama, Masafumi Katahira, Hajimu Iida, "Prioritizing Scenarios based on STAMP/STPA Using Statistical Model Checking", The 4th IEEE International Workshop on Testing Extra-Functional Properties and Quality Characteristics of Software Systems (ITEQS'20), Oct. 2020.
-1. Kundjanasith Thonglek, Keichi Takahashi, Kouhei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Hajimu Iida, "Retraining Quantized Neural Network Models with Unlabeled Data", International Joint Conference on Neural Network (IJCNN), Jul. 2020.
+1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Hajimu Iida, "Retraining Quantized Neural Network Models with Unlabeled Data", International Joint Conference on Neural Network (IJCNN), Jul. 2020.
 1. Keichi Takahashi, Susumu Date, Yasuhiro Watashiba, Yoshiyuki Kido, Shinji Shimojo, "Integrating SDN-Enhanced MPI with Job Scheduler to Support Shared Clusters", 28th Workshop on Sustained Simulation Performance, Mar. 2020.
+1. Kundjanasith Thonglek, Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "SharingNets: an open source repository for sharing pre-trained neural networks", Symposium on Frontier Research in Information Science and Technology 2019, Dec. 2019.
 1. Seiji Tsutsumi, Naoyuki Fujita, Hiroyuki Ito, Daichi Obinata, Keisuke Inoue, Yosuke Matsumura, Keichi Takahashi, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ and In Transit Visualization for Numerical Simulations in HPC", In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019), Nov. 2019.
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Jong Choi, Keichi Takahashi, Igor Yakushin, Todd Munson, Ian Foster, Scott Klasky, "A Codesign Framework for Online Data Analysis and Reduction", Workflows in Support of Large-Scale Science (WORKS 2019), Nov. 2019.
 1. Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa, Atsuko Takefusa, "Near Real-time Failover Model for Continuous Inter-Domain Communication", The 37th PRAGMA workshop, Sep. 2019.
@@ -106,22 +110,12 @@ projects: []
 1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, "Practicality and Feasibility of Improving Linux Container Utilization with Task Rebalancing Strategy", PRAGMA 30 Workshop, Jan. 2016.
 1. Susumu Date, Yoshiyuki Kido, Dashdavaa Khureltulga, Keichi Takahashi, Yasuhiro Watashiba, Shinji Shimojo, "Toward Flexible Supercomputing and Visualization System", Sustained Simulation Performance 2015, Dec. 2015.
 1. Baatarsuren Munkhdorj, Keichi Takahashi, Dashdavaa Khureltulga, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, "Design and Implementation of Control Sequence Generator for SDN-enhanced MPI", The 5th International Workshop on Network-aware Data Management(NDM’15), Nov. 2015.
-1. Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, Putchong Uthayopas, "A Simple Multipath Openflow Controller Using Topology-Based Algorithm for Multipath Tcp", PRAGMA Workshop on International Clouds for Data Science (PRAGMA-ICDS 2015), Oct. 2015.
-1. Kohei Ichikawa, Mauricio Tsugawa, Jason Haga, Hiroaki Yamanaka, Te-Lung Liu, Yoshiyuki Kido, Pongsakorn U-Chupala, Che Huang, Chawanat Nakasan, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Jose Fortes, "PRAGMA-ENT: Exposing SDN Concepts to Domain Scientists in the Pacific Rim", PRAGMA Workshop on International Clouds for Data Science (PRAGMA-ICDS 2015), Oct. 2015.
-1. Renato Figueiredo, Ken Subratie, Kyuho Jeong, Saumitra Aditya, Kohei Ichikawa, "IPOP Overlay Networks for Data Sharing and Virtual Clusters in PRAGMA", PRAGMA 29 workshop, Oct. 2015.
-1. Pisit Makpaisit, Kohei Ichikawa, Putchong Uthayopas, Susumu Date, Keichi Takahashi, Dashdavaa Khureltulga, "An Efficient MPI_Reduce Algorithm for OpenFlow-Enabled Network", 15th International Symposium on Communications and Information Technologies (ISCIT’15), Oct. 2015.
-1. Susumu Date, Hirotake Abe, Dashdavaa Khureltulga, Keichi Takahashi, Yoshuyuki Kido, Yasuhiro Watashiba, Pongsakorn U-Chupala, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "An Empirical Study of SDN-accelerated HPC Infrastructure for Scientific Research", International Conference Research and Innovation (ICCCRI), Oct. 2015.
-1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, "Practicality and Feasibility of Improving Linux Container Utilization with Task Rebalancing Strategy", PRAGMA 29 Workshop, Oct. 2015.
-1. Arata Endo, Yoshiyuki Kido, Susumu Date, Yasuhiro Watashiba, Kiyoshi Kiyokawa, Haruo Takemura, Shinji Shimojo, "An Implementation of SAGE Bridge for Sharing Visualized Contents on Multiple Tiled Display Wall Systems", PRAGMA 29 Workshop, Oct. 2015.
-1. Chawanat Nakasan, Yasuhiro Watashiba, Kohei Ichikawa, Hajimu Iida, "Evaluation of Topology-based OpenFlow Controller for Multipath TCP on PRAGMA-ENT", PRAGMA 29 Workshop, Oct. 2015.
-1. Erina Makihara, Hajimu Iida, "Pockets: a Tool to Support Exploratory Programming for Novices and Educators", ESEC/FSE 2015 Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering, Sep. 2015.
-1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "A multipath controller for accelerating GridFTP transfer over SDN", 11th IEEE International Conference on eScience, Sep. 2015.
-1. Anthony Nguyen, Andréa Matsunaga, Kohei Ichikawa, Susumu Date, Maurício Tsugawa, Jason Haga, "Deployment of a Multi-Site Cloud Environment for Molecular Virtual Screenings", 11th IEEE International Conference on eScience2015, Aug. 2015.
 
 ## 国内学会研究会・シンポジウム等
 
 1. 村木 暢哉, 木戸 善之, 高橋 慧智, 山田 拓哉, 伊達 進, 梅谷 麗, 石橋 靖嗣, 下條 真司, "共有型IoT資源利用アプリケーションのためのデータフロープログラミング", 第150回システムソフトウェアとオペレーティング・システム研究発表会 (SWoPP 2020), Jul. 2020.
 1. 辻光顕, 高井利憲, 柿本和希, 石濱直樹, 片平真史, 飯田元, "統計的モデル検査法を用いたSTAMP/STPAにおけるシナリオのリスク分析", ウィンターワークショップ2020・イン・京都, Jan. 2020.
+1. Kohei Ichikawa, Atsuko Takefusa, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, "Deployment of NFV environment on an international SDN testbed", RICC-RIEC workshop 2019, Dec. 2019.
 1. 堤誠司, 藤田直行, 伊藤浩之, 大日向大地, 井上敬介, 松村洋祐, 高橋慧智, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ/In Transitアプローチを用いた大規模数値解析におけるポスト処理効率化", 第33回数値流体力学シンポジウム, Nov. 2019.
 1. 倉地亮介, 崔恩瀞, 飯田元, "類似コード検出ツールを用いたテストコード再利用に向けた調査", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
 1. 鐘ヶ江由佳, 崔恩瀞, 飯田元, "OSSプロジェクトにおけるCIツールの変更の影響調査に向けて", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
@@ -162,11 +156,6 @@ projects: []
 1. 柏崎礼生, 北口善明, 近堂徹, 市川昊平, 西内一馬, 中川郁夫, 菊池豊, "耐障害性・耐災害性の検証・評価・反映プラットフォームを用いた広域分散ストレージの評価", 情報処理学会 研究報告インターネットと運用技術 (IOT), Mar. 2016.
 1. 北口善明, 柏崎礼生, 近堂徹, 市川昊平, 西内一馬, 中川郁夫, 菊池豊, "耐障害性・耐災害性の検証・評価・反映プラットフォームの設計と実装", 情報処理学会 研究報告インターネットと運用技術 (IOT), Mar. 2016.
 1. Yasuhiro Watashiba, Masaharu Shimizu, Susumu Date, Hirotake Abe, Yoshiyuki Kido, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "Architecture of Controlling Network and Virtualized Computational Resources on SDN‐enhanced Job Management System Framework", Annual Meeting on Advanced Computing System and Infrastructure 2016 (ACSI 2016), Jan. 2016.
-1. 柏崎礼生, 西内一馬, 北口善明, 市川昊平, 近堂徹, 中川郁夫, 菊池豊, "耐災害性・耐障害性検証テストベッドDESTCloudの現状と今後", 信学技報, Oct. 2015.
-1. 市川　昊平, "PRAGMA-ENT: 国際共同研究におけるSDNテストベッドの構築", 第1回RICC - RIEC ワークショップ, Oct. 2015.
-1. 中山 直輝, 吉田 則裕, 藤原 賢二, 飯田 元, 高田 光隆, 高田 広章, "コードクローンとの位置関係に基づく欠陥混入傾向の調査", ソフトウェアエンジニアリングシンポジウム2015論文集, Sep. 2015.
-1. 原一貴, 渡場康弘, 市川昊平, 飯田元, "Netspec: OpenFlowネットワークのテスト基盤の提案と試作", 情報処理学会研究報告, Sep. 2015.
-1. 上村 恭平, 藤原 賢二, 飯田 元, "Hardware Description Language を対象としたコードクローンの調査", 組込みシステム技術に関するサマーワークショップ　(SWTEST17), Aug. 2015.
 
 ## 国内学会大会等
 
@@ -179,8 +168,6 @@ projects: []
 1. Kisub Kim, Dongsun Kim, , Tegawendé F. Bissyandé, 崔　恩瀞, Li Li, Jacques Klein, Yves Le Traon, "情報処理学会ソフトウェア工学卓越研究賞", 情報処理学会ソフトウェア工学研究会, Sep. 2018.
 1. Sachio Saiki, Naoki Fukuyasu, Kohei Ichikawa, Tetsuya Kanda, Masahide Nakamura, Shinsuke Matsumoto, Shinichi Yoshida, Shinji Kusumoto, "Best paper award", 3rd IEEE/ACIS International Conference on Big Data, Cloud computing, and Data Science Engineering (BCD 2018), Jul. 2018.
 1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Yasuhiro Watashiba, Hajimu Iida, "Best Research Award", Information Processing Society of Japan, Apr. 2017.
-1. Kohei Ichikawa, Mauricio Tsugawa, Jason Haga, Hiroaki Yamanaka, Te-Lung Liu, Yoshiyuki Kido, Pongsakorn U-Chupala, Che Huang, Chawanat Nakasan, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Jose Fortes, "PRAGMA-ICDS15 Best paper award", PRAGMA Workshop on International Clouds for Data Science (PRAGMA-ICDS 2015), Oct. 2015.
-1. 中山 直輝, 吉田 則裕, 藤原 賢二, 飯田 元, 高田 光隆, 高田 広章, "最優秀論文賞", ソフトウェアシンポジウム２０１５, Sep. 2015.
 
 ## その他
 
