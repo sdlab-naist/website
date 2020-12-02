@@ -45,6 +45,6 @@ Studies, Scripps Institution of Oceanography, South Florida Natural Resources
 Center, and the National Institute of Advanced Industrial Science and
 Technology.
 
-Preprint is available on arXiv: [arXiv:2011.11082](https://arxiv.org/abs/2011.11082)
+{{< youtube  t63IQe_LqZA >}}
 
-Presentation Video: [YouTube](https://youtu.be/t63IQe_LqZA)
+Preprint is available on arXiv: [arXiv:2011.11082](https://arxiv.org/abs/2011.11082)
