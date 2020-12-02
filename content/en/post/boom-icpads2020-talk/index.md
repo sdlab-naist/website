@@ -46,3 +46,5 @@ Center, and the National Institute of Advanced Industrial Science and
 Technology.
 
 Preprint is available on arXiv: [arXiv:2011.11082](https://arxiv.org/abs/2011.11082)
+
+Presentation Video: [YouTube](https://youtu.be/t63IQe_LqZA)
