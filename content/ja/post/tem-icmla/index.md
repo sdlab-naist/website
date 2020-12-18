@@ -5,7 +5,7 @@ title: "Thonglek君の国際会議ICMLA2020での発表"
 subtitle: ""
 summary: ""
 authors: ["kundjanasith-thonglek"]
-tags: []
+tags: ["Machine Learning"]
 categories: []
 date: 2020-12-18T16:34:04+09:00
 lastmod: 2020-12-18T16:34:04+09:00

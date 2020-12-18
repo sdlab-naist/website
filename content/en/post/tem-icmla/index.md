@@ -5,7 +5,7 @@ title: "Mr. Thonglek's talk at ICMLA 2020"
 subtitle: ""
 summary: ""
 authors: ["kundjanasith-thonglek"]
-tags: []
+tags: ["Machine Learning"]
 categories: []
 date: 2020-12-18T16:34:19+09:00
 lastmod: 2020-12-18T16:34:19+09:00
