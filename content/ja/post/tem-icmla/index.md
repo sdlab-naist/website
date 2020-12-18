@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-当研究室D1のKundjanasith Thonglek (Tem) 君が，並列分散システムに関わる国際会議
+当研究室D1のKundjanasith Thonglek (Tem) 君が，機械学習の応用に関する国際会議
 [19th IEEE International Conference on Machine Learning and Applications (ICMLA 2020)](https://www.icmla-conference.org/icmla20/)
 にて下記の論文を発表しました:
 
