@@ -31,7 +31,7 @@ bio: "高性能計算およびネットワーキング技術に関する研究�
 social:
 - icon: home
   icon_pack: fas
-  link: https://keichi.net
+  link: https://keichi.dev
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".

@@ -31,7 +31,7 @@ bio: "Dr. Keichi Takahashi is an assistant professor of computer science at SDLa
 social:
 - icon: home
   icon_pack: fas
-  link: https://keichi.net
+  link: https://keichi.dev
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
