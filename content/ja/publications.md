@@ -42,11 +42,11 @@ projects: []
 1. Kohei Ichikawa, Pongsakorn U-chupala, Che Huang, Chawanat Nakasan, Te-Lung Liu, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Jason Haga, Hiroaki Yamanaka, Eiji Kawai, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Mauricio Tsugawa, Matthew Collins, Kyuho Jeong, Renato Figueiredo, Jose Fortes, "PRAGMA-ENT: An International SDN Testbed for a Cyberinfrastructure in the Pacific Rim", Concurrency And Computation: Practice And Experience, Mar. 2017.
 1. Susumu Date, Hirotake Abe, Dashdavaa Khureltulga, Keichi Takahashi, Yoshiyuki Kido, Yasuhiro Watashiba, Pongsakorn U-chupala, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "SDN-accelerated HPC Infrastructure for Scientific Research", International Journal of Information Technology, Apr. 2016.
 1. Jason Haga, Kohei Ichikawa, Susumu Date, "Virtual screening techniques and current computational infrastructures", Current Pharmaceutical Design, Apr. 2016.
-1. 北口 善明, 柏崎 礼生, 近堂 徹, 市川 昊平, 西内 一馬, 中川 郁夫, 菊池 豊, "広域分散システムの耐障害性を評価する検証プラットフォームの実装と評価", 情報処理学会論文誌, Mar. 2016.
-1. Yoshiyuki Kido, Kohei Ichikawa, Susumu Date, Yasuhiro Watashiba, Hirotake Abe, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimjo, "SAGE-based Tiled Display Wall Enhanced with Dynamic Routing Functionality Triggered by User Interaction", Future Generation Computer Systems (FGCS), Mar. 2016.
 
 ## 国際会議論文
 
+1. Guoqing Li, Keichi Takahashi, Kouhei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021.
+1. Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara, Hajimu Iida, "Understanding Build Errors in Agile Software Development Project-Based Learning",  27th Asia-Pacific Software Engineering Conference (APSEC 2020), Dec. 2020.
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020.
 1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020.
 1. Mitsuaki Tsuji, Toshinori Takai, Kazuki Kakimoto, Naoko Ishihama, Masafumi Katahira, Hajimu Iida, "Prioritizing Scenarios based on STAMP/STPA Using Statistical Model Checking", The 4th IEEE International Workshop on Testing Extra-Functional Properties and Quality Characteristics of Software Systems (ITEQS'20), Oct. 2020.
@@ -102,14 +102,6 @@ projects: []
 1. Xin Yang, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, "Mining the modern code review repositories: A dataset of people, process and product", , May. 2016.
 1. Norihiro Yoshida, Tsubasa Saika, Eunjong Choi, Ali Ouni, Katsuro Inoue, "Revisiting the Relationship Between Code Smells and Refactoring", Proceedings of the 24th IEEE International Conference on Program Comprehension (ICPC 2016), May. 2016.
 1. Yasuhiro Watashiba, Susumu Date, Hirotake Abe, Kohei Ichikawa, Yoshiyuki Kido, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "Architecture of Virtualized Computational Resource Allocation on SDN-enhanced Job Management System Framework", Proceedings of the 39th IEEE International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO 2016), May. 2016.
-1. Arata Endo, Yoshiyuki Kido, Susumu Date, Yasuhiro Watashiba, Kiyoshi Kiyokawa, Haruo Takemura, Shinji Shimojo, "Improvement of Scalability in Sharing Visualization Contents for Heterogeneous Display Environments", International Symposium on Grids and Clouds 2016 (ISGC 2016), Mar. 2016.
-1. Patanamon Thongtanunam, Chakkrit Tantithamthavorn, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, Kenichi Matsumoto, "Who Should Review My Code? A File Location-Based Code-Reviewer Recommendation Approach for Modern Code Review", Proc. of 22nd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER2015), Mar. 2016.
-1. Kyuho Jeong, Renato Figueiredo, Kohei Ichikawa, "Extending PRAGMA-ENT for End Users using IPOP Overlay Networks", PRAGMA 30 workshop, Jan. 2016.
-1. Kohei Ichikawa, Hiroki Kashiwazaki, Yoshiaki Kitaguchi, Tohru Kondo, Kazuma Nishiuchi, Ikuo Nakagawa, Yutaka Kikuchi, "DESTCloud: Disaster Emulation and Simulation Testbed for Distributed Computing Environment", Disaster Management Workshop in PRAGMA30 workshop, Jan. 2016.
-1. Yasuhiro Watashiba, Susumu Date, Hirotake Abe, Yoshiyuki Kido, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "Toward Flexible and Efficient Computing Resource Service by SDN-enhanced Job Management System Framework", PRAGMA 30 Workshop, Jan. 2016.
-1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, "Practicality and Feasibility of Improving Linux Container Utilization with Task Rebalancing Strategy", PRAGMA 30 Workshop, Jan. 2016.
-1. Susumu Date, Yoshiyuki Kido, Dashdavaa Khureltulga, Keichi Takahashi, Yasuhiro Watashiba, Shinji Shimojo, "Toward Flexible Supercomputing and Visualization System", Sustained Simulation Performance 2015, Dec. 2015.
-1. Baatarsuren Munkhdorj, Keichi Takahashi, Dashdavaa Khureltulga, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, "Design and Implementation of Control Sequence Generator for SDN-enhanced MPI", The 5th International Workshop on Network-aware Data Management(NDM’15), Nov. 2015.
 
 ## 国内学会研究会・シンポジウム等
 
@@ -153,9 +145,6 @@ projects: []
 1. 石津 卓也, 吉田 則裕, 崔　恩瀞, 井上 克郎, "メタヒューリスティクスを用いた集約可能コードクローン量の推定", 情報処理学会研究報告, Jul. 2016.
 1. Xuliang Wang, Pongsakorn U-chupala, Kohei Ichikawa, Yasuhiro Watashiba, Chantana Chantrapornchai, Putchong Uthayopas, Hajimu Iida, "Design of a flow-level monitoring middleware for automatic flow categorization", 信学技法, Jun. 2016.
 1. Md. Rejaul Karim, Akinori Ihara, Xin Yang, Eunjong Choi, Hajimu Iida, Kenichi Matsumoto, "Improving the High-Impact Bug Reports: a Case Study of Apache Projects", 情報処理学会研究報告, Jun. 2016.
-1. 柏崎礼生, 北口善明, 近堂徹, 市川昊平, 西内一馬, 中川郁夫, 菊池豊, "耐障害性・耐災害性の検証・評価・反映プラットフォームを用いた広域分散ストレージの評価", 情報処理学会 研究報告インターネットと運用技術 (IOT), Mar. 2016.
-1. 北口善明, 柏崎礼生, 近堂徹, 市川昊平, 西内一馬, 中川郁夫, 菊池豊, "耐障害性・耐災害性の検証・評価・反映プラットフォームの設計と実装", 情報処理学会 研究報告インターネットと運用技術 (IOT), Mar. 2016.
-1. Yasuhiro Watashiba, Masaharu Shimizu, Susumu Date, Hirotake Abe, Yoshiyuki Kido, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "Architecture of Controlling Network and Virtualized Computational Resources on SDN‐enhanced Job Management System Framework", Annual Meeting on Advanced Computing System and Infrastructure 2016 (ACSI 2016), Jan. 2016.
 
 ## 国内学会大会等
 
