@@ -4,7 +4,7 @@
 title: "Comparative performance study of lightweight hypervisors used in container environment"
 summary: ""
 authors: [Guoqing Li]
-tags: ["Virtualization Performance", "Container Technology", "Lightweight Hypervisor", "isolation"]
+tags: ["Cloud", "Virtualization Performance", "Container Technology", "Lightweight Hypervisor", "isolation"]
 categories: []
 date: 2021-03-01T14:13:31+09:00
 
