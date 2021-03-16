@@ -1,7 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "市川准教授と高橋助教のインタビューが掲載されました"
+title: "市川准教授と高橋助教のAzureを用いたクラウドHPC構築に関するインタビューが掲載されました"
+
 subtitle: ""
 summary: ""
 authors: ["keichi-takahashi"]
@@ -29,6 +30,6 @@ projects: []
 ---
 
 当研究室の教員が兼務する本学の[総合情報基盤センター](https://itcw3.naist.jp/)
-において市川准教授と高橋助教が設計・検証に協力した，クラウドHPC環境に関するインタビュー記事が公開されました:
+において市川准教授と高橋助教が設計・検証に協力した，[Microsft Azure](https://azure.microsoft.com/ja-jp/)を活用したクラウドHPC環境の構築に関するインタビュー記事が公開されました:
 
 [Microsoft Customer Story-研究用 HPC をクラウド化するため HPC on Azure を導入、常に最新の GPU を活用できるスケーラブルな環境を実現](https://customers.microsoft.com/en-gb/story/1341080794150729747-naist-higher-education-azure-jp-japan)
