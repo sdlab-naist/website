@@ -45,10 +45,10 @@ projects: []
 
 ## International Conference
 
-1. Guoqing Li, Keichi Takahashi, Kouhei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021.
+1. Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021.
 1. Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara, Hajimu Iida, "Understanding Build Errors in Agile Software Development Project-Based Learning",  27th Asia-Pacific Software Engineering Conference (APSEC 2020), Dec. 2020.
-1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020.
-1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020.
+1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020. [doi:10.1109/ICPADS51040.2020.00035](https://doi.org/10.1109/ICPADS51040.2020.00035)
+1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020. [doi:10.1109/ICMLA51294.2020.00120](https://doi.org/10.1109/ICMLA51294.2020.00120)
 1. Mitsuaki Tsuji, Toshinori Takai, Kazuki Kakimoto, Naoko Ishihama, Masafumi Katahira, Hajimu Iida, "Prioritizing Scenarios based on STAMP/STPA Using Statistical Model Checking", The 4th IEEE International Workshop on Testing Extra-Functional Properties and Quality Characteristics of Software Systems (ITEQS'20), Oct. 2020.
 1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Hajimu Iida, "Retraining Quantized Neural Network Models with Unlabeled Data", International Joint Conference on Neural Network (IJCNN), Jul. 2020. [doi:10.1109/IJCNN48605.2020.9207190](https://doi.org/10.1109/IJCNN48605.2020.9207190)
 1. Keichi Takahashi, Susumu Date, Yasuhiro Watashiba, Yoshiyuki Kido, Shinji Shimojo, "Integrating SDN-Enhanced MPI with Job Scheduler to Support Shared Clusters", 28th Workshop on Sustained Simulation Performance, Mar. 2020.
@@ -102,6 +102,10 @@ projects: []
 1. Xin Yang, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, "Mining the modern code review repositories: A dataset of people, process and product", , May. 2016.
 1. Norihiro Yoshida, Tsubasa Saika, Eunjong Choi, Ali Ouni, Katsuro Inoue, "Revisiting the Relationship Between Code Smells and Refactoring", Proceedings of the 24th IEEE International Conference on Program Comprehension (ICPC 2016), May. 2016.
 1. Yasuhiro Watashiba, Susumu Date, Hirotake Abe, Kohei Ichikawa, Yoshiyuki Kido, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "Architecture of Virtualized Computational Resource Allocation on SDN-enhanced Job Management System Framework", Proceedings of the 39th IEEE International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO 2016), May. 2016.
+
+## Book
+
+1. Kundjanasith Thonglek, Kohei Ichikawa, Chatchawal Sangkeettrakarn, Apivadee Piyatumrong, "Auto-Scaling System in Apache Spark Cluster Using Model-Based Deep Reinforcement Learning", Heuristics for Optimization and Learning (Studies in Computational Intelligence), Dec. 2020. [doi:10.1007/978-3-030-58930-1_23](https://doi.org/10.1007/978-3-030-58930-1_23)
 
 ## Domestic Conference and Symposium
 
