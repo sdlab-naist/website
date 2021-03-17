@@ -105,6 +105,7 @@ def read_json(input_fname):
             item["booktitle"] = publication["prism:sourceName"]["@value"] or \
                 publication["prism:sourceName2"]["@value"]
             item["category"] = publication["dc:category"]["@value"]
+            item["doi"] = publication["prism:doi"]
 
             date_str = publication["prism:publicationDate"]
             try:
@@ -139,7 +140,10 @@ def write_markdown(output_fname, publications, categories, header):
                 f.write("1. " + ", ".join([item["authors"], item["title"],
                                            item["booktitle"],
                                            item["date"].strftime("%b. %Y")])
-                        + ".\n")
+                        + ".")
+                if item["doi"]:
+                    f.write(" [doi:{}](https://doi.org/{})".format(item["doi"], item["doi"]))
+                f.write("\n")
 
 
 def main():
