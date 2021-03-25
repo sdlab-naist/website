@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Spring 2021 Graduation"
+title: "Spring 2021 Graduation Ceremony"
 subtitle: ""
 summary: ""
-authors: []
+authors: [wassapon-watanakeesuntorn]
 tags: []
 categories: []
-date: 2021-03-23T17:19:14+09:00
-lastmod: 2021-03-23T17:19:14+09:00
+date: 2021-03-25T13:19:14+09:00
+lastmod: 2021-03-25T13:19:14+09:00
 featured: false
 draft: false
 
@@ -30,3 +30,5 @@ projects: []
 
 Today, our three lab members, Mr. Yuki Fukasawa, Mr. Kento Maeda, and Mr. Masaya Senda, have received their master's degree in engineering.
 Congratulations!
+
+![](spring2021-graduation.jpg)
