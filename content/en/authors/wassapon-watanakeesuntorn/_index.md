@@ -18,7 +18,7 @@ organizations:
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctoral student at Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory. Currently working on project about monitoring tool for Software-defined networking (SDN) and HPC application optimization.
+bio: Doctoral student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory. Currently working on project about monitoring tool for Software-defined networking (SDN) and HPC application optimization on AI Bridging Cloud Infrastructure (ABCI) supercomputer.
 
 # List each interest with a dash
 interests:
@@ -56,6 +56,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/wassaponw
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/wassaponw/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Z_M1CloAAAAJ
