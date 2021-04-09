@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "パンウドム・プリット（健地）"
+name: "パンウドム・プリット（パン）"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Purit Phan-udom"
+- Name "Phanudom Purit"
 
 # Is this the primary user of the site?
 superuser: false
@@ -29,6 +29,7 @@ interests:
  - 料理
  - 映画鑑賞
  - 美術と文化遺産
+ - 日本語
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

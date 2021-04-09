@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Purit Phan-udom (Kenji)"
+name: "Purit Phanudom (Pan)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Purit Phan-udom"
+- Name "Purit Phanudom"
 
 # Is this the primary user of the site?
 superuser: false
@@ -29,6 +29,7 @@ interests:
  - Cooking
  - Movies
  - Art and Cultural Heritage
+ - Japanese Language
 
 education:
   courses:
