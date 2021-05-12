@@ -40,12 +40,11 @@ projects: []
 1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, Hajimu Iida, "Application-aware network: network route management using SDN based on application characteristics", CSI Transactions on ICT, Jun. 2017. [doi:10.1007/s40012-017-0171-y](https://doi.org/10.1007/s40012-017-0171-y)
 1. Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, Putchong Uthayopas, "A Simple Multipath OpenFlow Controller using topology-based algorithm for Multipath TCP", Concurrency And Computation: Practice And Experience, Mar. 2017. [doi:10.1002/cpe.4134](https://doi.org/10.1002/cpe.4134)
 1. Kohei Ichikawa, Pongsakorn U-chupala, Che Huang, Chawanat Nakasan, Te-Lung Liu, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Jason Haga, Hiroaki Yamanaka, Eiji Kawai, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Mauricio Tsugawa, Matthew Collins, Kyuho Jeong, Renato Figueiredo, Jose Fortes, "PRAGMA-ENT: An International SDN Testbed for a Cyberinfrastructure in the Pacific Rim", Concurrency And Computation: Practice And Experience, Mar. 2017. [doi:10.1002/cpe.4138](https://doi.org/10.1002/cpe.4138)
-1. Susumu Date, Hirotake Abe, Dashdavaa Khureltulga, Keichi Takahashi, Yoshiyuki Kido, Yasuhiro Watashiba, Pongsakorn U-chupala, Kohei Ichikawa, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "SDN-accelerated HPC Infrastructure for Scientific Research", International Journal of Information Technology, Apr. 2016.
-1. Jason Haga, Kohei Ichikawa, Susumu Date, "Virtual screening techniques and current computational infrastructures", Current Pharmaceutical Design, Apr. 2016. [doi:10.2174/1381612822666160414142530](https://doi.org/10.2174/1381612822666160414142530)
 
 ## International Conference
 
-1. Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021.
+1. Keichi Takahashi, Wassapon Watanakeesuntorn, Kohei Ichikawa, Joseph Park, Ryousei Takano, Jason Haga, George Sugihara, Gerald M. Pao, "kEDM: A Performance-portable Implementation of Empirical Dynamic Modeling using Kokkos", Practice and Experience in Advanced Research Computing (PEARC 2021), Jul. 2021. [doi:10.1145/3437359.3465571](https://doi.org/10.1145/3437359.3465571)
+1. Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021. [doi:10.5220/0010440502150223](https://doi.org/10.5220/0010440502150223)
 1. Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara, Hajimu Iida, "Understanding Build Errors in Agile Software Development Project-Based Learning",  27th Asia-Pacific Software Engineering Conference (APSEC 2020), Dec. 2020. [doi:10.1109/APSEC51365.2020.00039](https://doi.org/10.1109/APSEC51365.2020.00039)
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020. [doi:10.1109/ICPADS51040.2020.00035](https://doi.org/10.1109/ICPADS51040.2020.00035)
 1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020. [doi:10.1109/ICMLA51294.2020.00120](https://doi.org/10.1109/ICMLA51294.2020.00120)
@@ -99,9 +98,6 @@ projects: []
 1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "An SDN-Based Multipath GridFTP for High-Speed Data Transfer", 2016 IEEE 36th International Conference on Distributed Computing Systems (ICDCS), Jun. 2016.
 1. Curtis Sera, Shelby Matlock, Yasuhiro Watashiba, Kohei Ichikawa, Jason H. Haga, "Hydra: A High-throughput Virtual Screening Data Visualization and Analysis Tool", Procedia Computer Science, Jun. 2016.
 1. Kyohei Uemura, Yusuke Saito, Shin Fujiwara, Daiki Tanaka, Kenji Fujiwara, Hideaki Hata, Hajimu Iida, Kenichi Matsumoto, "A Hosting Service of Multi-Language Historage Repositories", Proc. of 15th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2016), Jun. 2016.
-1. Xin Yang, Raula Gaikovina Kula, Norihiro Yoshida, Hajimu Iida, "Mining the modern code review repositories: A dataset of people, process and product", , May. 2016.
-1. Norihiro Yoshida, Tsubasa Saika, Eunjong Choi, Ali Ouni, Katsuro Inoue, "Revisiting the Relationship Between Code Smells and Refactoring", Proceedings of the 24th IEEE International Conference on Program Comprehension (ICPC 2016), May. 2016.
-1. Yasuhiro Watashiba, Susumu Date, Hirotake Abe, Kohei Ichikawa, Yoshiyuki Kido, Hiroaki Yamanaka, Eiji Kawai, Shinji Shimojo, "Architecture of Virtualized Computational Resource Allocation on SDN-enhanced Job Management System Framework", Proceedings of the 39th IEEE International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO 2016), May. 2016.
 
 ## Book
 
@@ -109,6 +105,7 @@ projects: []
 
 ## Domestic Conference and Symposium
 
+1. 杉浦智基, 高橋慧智, 市川昊平, 飯田元, "SRv6を用いたアプリケーションの特性を考慮した通信経路制御手法", 情報処理学会 研究報告インターネットと運用技術 (IOT), May. 2021.
 1. 村木 暢哉, 木戸 善之, 高橋 慧智, 山田 拓哉, 伊達 進, 梅谷 麗, 石橋 靖嗣, 下條 真司, "共有型IoT資源利用アプリケーションのためのデータフロープログラミング", 第150回システムソフトウェアとオペレーティング・システム研究発表会 (SWoPP 2020), Jul. 2020.
 1. 辻光顕, 高井利憲, 柿本和希, 石濱直樹, 片平真史, 飯田元, "統計的モデル検査法を用いたSTAMP/STPAにおけるシナリオのリスク分析", ウィンターワークショップ2020・イン・京都, Jan. 2020.
 1. Kohei Ichikawa, Atsuko Takefusa, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, "Deployment of NFV environment on an international SDN testbed", RICC-RIEC workshop 2019, Dec. 2019.
@@ -166,4 +163,3 @@ projects: []
 
 1. Shinji Shimojo, Keichi Takahashi, "Study on Data Staging Technique for Efficient Post-Processing in Large-Scale CFD Computation", JAXA Supercomputer System Annual Report, Sep. 2019.
 1. Scott Klasky, Norbert Podhorszki, Jason Ruonan Wang, Susumu Date, Keichi Takahashi, Osamu Tatebe, Taisuke Boku, "Enhancing ADIOS for extreme-scale data movement", US DOE and Japan MEXT Collaboration on Extreme Computing 2019, May. 2019.
-1. Eunjong Choi, "Software development support based on source code analysis", , Apr. 2016.
