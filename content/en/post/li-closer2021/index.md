@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mr.Guoqing Li's talk at CLOSER 2021"
+title: "Mr. Guoqing Li's talk at CLOSER 2021"
 subtitle: ""
 summary: ""
 authors: ["Guoqing Li"]
@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-Mr.Guoqing Li, M1 student at SDLab presented the following paper at the [11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021)](https://www.scitepress.org/PublicationsDetail.aspx?ID=UOyxEPw5ouY=&t=1)
+Mr. Guoqing Li, M1 student at SDLab presented the following [paper](https://www.scitepress.org/PublicationsDetail.aspx?ID=UOyxEPw5ouY=&t=1) at the [11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021)](http://closer.scitevents.org/)
 
-Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021), Apr. 2021
+> Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021), Apr. 2021

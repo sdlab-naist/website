@@ -28,9 +28,6 @@ image:
 projects: []
 ---
 
-当研究室M1のGuoqing Li 君が，クラウドコンピューティングの応用に関する国際会議
+当研究室M1のGuoqing Li 君が，クラウドコンピューティングの応用に関する国際会議 [11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021)](http://closer.scitevents.org/) にて下記の[論文](https://www.scitepress.org/PublicationsDetail.aspx?ID=UOyxEPw5ouY=&t=1)を発表しました:
 
-[11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021)](https://www.scitepress.org/PublicationsDetail.aspx?ID=UOyxEPw5ouY=&t=1)
-にて下記の論文を発表しました:
-
-Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021), Apr. 2021
+> Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th IEEE International Conference on Cloud Computing and Service Science (CLOSER 2021), Apr. 2021
