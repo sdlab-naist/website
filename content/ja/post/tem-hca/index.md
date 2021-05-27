@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thonglek君のIEICE-EE研究会 (2021年5月)"
+title: "Thonglek君のIEICE-EE研究会 (2021年5月) での発表"
 summary: ""
 authors: ["kundjanasith-thonglek"]
 tags: ["Machine Learning"]
