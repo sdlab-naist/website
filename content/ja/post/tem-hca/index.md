@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thonglek君の国際会議IEICE-EE2021での発表"
+title: "Thonglek君のIEICE-EE研究会 (2021年5月)"
 summary: ""
 authors: ["kundjanasith-thonglek"]
 tags: ["Machine Learning"]
@@ -40,8 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-当研究室D1のKundjanasith Thonglek (Tem) 君が，機械学習の応用に関する国際会議
-[Technical Meeting on Home and Consumer Appliances (IEICE-EE) 2021](https://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=da7e1616e5f2257e688d8bf46f549def5a7a9e50dfa313bfb258a79e10aed93a&tgid=IEE-HCA&layout=&lang=eng)
+当研究室D1のKundjanasith Thonglek (Tem) 君が，
+[電子通信エネルギー技術研究会 (IEICE-EE) 2021年5月](https://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=da7e1616e5f2257e688d8bf46f549def5a7a9e50dfa313bfb258a79e10aed93a&tgid=IEE-HCA&layout=&lang=eng)
 にて下記の論文を発表しました:
 
-> Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi Yuasa, Tadatoshi Babasaki, "LSTM-based Neural Network Model for Predicting Solar Power Generation", Technical Meeting on Home and Consumer Appliances (IEICE-EE) 2021, May, 2021 
+> Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi Yuasa, Tadatoshi Babasaki, "LSTM-based Neural Network Model for Predicting Solar Power Generation", Technical Committee on Energy Engineering in Electronics and Communications (IEICE-EE), 2021 May.
