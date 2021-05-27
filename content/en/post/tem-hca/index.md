@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-Mr. Kundjanasith Thonglek (Tem), a first-year doctoral student at SDLab presented the follwing paper at the [Technical Committee on Energy Engineering in Electronics and Communications (IEICE-EE), 2021 May](https://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=da7e1616e5f2257e688d8bf46f549def5a7a9e50dfa313bfb258a79e10aed93a&tgid=IEE-HCA&layout=&lang=eng)
+Mr. Kundjanasith Thonglek (Tem), a first-year doctoral student at SDLab presented the follwing paper at the [Technical Committee on Energy Engineering in Electronics and Communications (IEICE-EE), 2021 May](https://www.ieice.org/ken/program/index.php?tgs_regid=da7e1616e5f2257e688d8bf46f549def5a7a9e50dfa313bfb258a79e10aed93a&tgid=IEICE-EE&lang=eng)
 
 > Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi Yuasa, Tadatoshi Babasaki, "LSTM-based Neural Network Model for Predicting Solar Power Generation", Technical Committee on Energy Engineering in Electronics and Communications (IEICE-EE), 2021 May. 
