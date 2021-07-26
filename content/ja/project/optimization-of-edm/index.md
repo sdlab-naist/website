@@ -57,6 +57,11 @@ EDMは，力学系の状態変数の予測，非線形性の評価，変数間�
 
 ## 関連論文
 
+1. Keichi Takahashi, Wassapon Watanakeesuntorn, Kohei Ichikawa, Joseph Park,
+   Ryousei Takano, Jason Haga, George Sugihara, Gerald M. Pao, “kEDM: A
+   Performance-portable Implementation of Empirical Dynamic Modeling using
+   Kokkos”, Practice & Experience in Advanced Research Computing (PEARC 2021),
+   Jul. 2021.
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park,
    George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively
    Parallel Causal Inference of Whole Brain Dynamics at Single Neuron
