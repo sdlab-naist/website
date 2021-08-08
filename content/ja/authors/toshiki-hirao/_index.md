@@ -20,7 +20,7 @@ organizations:
   url: "https://dtosh.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "奈良先端科学技術大学院大学にて、博士（工学）取得。日本学術振興会 特別研究員DC1 採用者。カナダのMcGill Universityで訪問研究員として、A I・ビッグデータ解析に関する国際研究を牽引。その後、アメリカに渡り、世界４大産業用ロボットメーカー「ABB Group」にて、生産ライン自動化に向けた双腕型ロボットの研究を牽引。ソフトウェア業界で世界的に権威のある国際会議ICSEやFSEで、最先端研究を数多く発表。現在もグローバルな産学連携も手がけており、Virginia Commonwealth University（アメリカ）、University of Waterloo (カナダ)、九州大学などと国際的な産学連携を通し、数多くの企業をデジタル変革する研究も推進。"
+bio: "奈良先端科学技術大学院大学にて、博士（工学）取得。日本学術振興会 特別研究員DC1 採用者。McGill University（カナダ）で訪問研究員として、A I・ビッグデータ解析に関する海外研究プロジェクトを牽引。その後、アメリカに渡り、世界４大産業用ロボットメーカー「ABB Group」にて、生産ライン自動化に向けた双腕型ロボットの産学研究を牽引。ソフトウェア業界で世界的に権威のある国際会議ICSEやFSEで、最先端研究を数多く発表。現在もグローバルな産学連携も手がけており、Virginia Commonwealth University（アメリカ）、University of Waterloo (カナダ)、九州大学などと国際的な産学連携を通し、数多くの企業をデジタル変革する研究も推進。"
 
 # List each interest with a dash
 #interests:
@@ -47,7 +47,7 @@ bio: "奈良先端科学技術大学院大学にて、博士（工学）取得�
 social:
 - icon: envelope
   icon_pack: fas
-  link: "toshiki.hirao@dtosh.com" <BS>  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/toshiki_hirao
@@ -70,14 +70,15 @@ weight: 50
 ---
 
 ## プロフィール
-奈良先端科学技術大学院大学 博士(工学)。日本学術振興会 特別研究員DC1 採用者。ソフトウェアの品質向上に向けた品質管理プロセス自動化の研究に従事。
+奈良先端科学技術大学院大学 博士(工学)。日本学術振興会 特別研究員DC1 採用。ソフトウェア品質管理プロセスの自動化に関する研究に従事。
 
-専門技術は、機械学習、ビッグデータ分析、プログラム解析、及び自然言語処理。世界大学ランキング上位の<a href="https://www.mcgill.ca/">McGill大学</a>（カナダ）で訪問研究員として、機械学習とビッグデータ分析技術を活用したプログラミング学習支援システムを共同開発。
-その後、アメリカに渡り、世界４大産業用ロボットメーカー <a href="https://global.abb/group/en">ABB Group</a>（2020年度 総従業員：10万5千人、売上規模：2.9兆）でソフトウェア研究者として、産学連携プロジェクトを牽引。
-当社の双腕型ロボットYuMiを活用して工場生産ラインの自動化に向けた研究などが顕著。
-ソフトウェア業界で世界的に権威のある国際会議ICSEやFSEで、最先端研究を数多く発表。
+機械学習、ビッグデータ分析、プログラム解析、及び自然言語処理が研究領域。世界大学ランキング上位の<a href="https://www.mcgill.ca/">McGill大学</a>（カナダ）で訪問研究員として、機械学習とビッグデータ分析技術を活用したソフトウェア開発支援システムを共同開発。
+その後、アメリカに渡り、世界４大産業用ロボットメーカー <a href="https://global.abb/group/en">ABB Group</a>（2020年度 従業員数：10万5千人、売上規模：2.9兆円）にてソフトウェア研究者として、数多くの産学連携プロジェクトを牽引。
+ABB社の双腕型ロボットYuMiを活用して工場生産ラインの自動化に向けた研究などが顕著。
+ソフトウェア業界で世界的に権威のある国際会議ICSEやFSE、海外論文誌TSEなどで研究成果を数多く発表した実績。
 
-現在もグローバルな産学連携も手がけており、Virginia Commonwealth University (アメリカ)、University of Waterloo (カナダ)、九州大学などと幅広い産学連携を通し、数多くの企業をデジタル変革する研究も推進。
+特任助教及び(株)dTosh 代表取締役として、現在は数多くの
+グローバルな産学連携事業を牽引。Virginia Commonwealth University (アメリカ)、University of Waterloo (カナダ)などと連携し、数多くの企業をデジタル変革する研究支援を実施。
 
 ## 経歴
 
