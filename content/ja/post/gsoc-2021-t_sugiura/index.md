@@ -29,7 +29,7 @@ projects: []
 ---
 
 M2の杉浦です。<br>
-2021年6月8日から8月17日にかけて行われた[Google Summer of Code(GSoC)](https://summerofcode.withgoogle.com/)2021に参加し，正式に修了しました．
+2021年6月8日から8月17日にかけて行われた[Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) 2021に参加し、正式に修了しました。
 
 私はこのGSoCではKubernetesのCNIプラグインの一つとして知られている[Cilium](https://cilium.io/)の開発に参加しました。
 本プロジェクトではCiliumがもつネットワークポリシー機能へのICMPサポートの追加実装を行いました。<br>
