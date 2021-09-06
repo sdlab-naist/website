@@ -75,7 +75,7 @@ weight: 20
 ## Profile
 
 Kohei Ichikawa is an Associate Professor in Nara Institute of Science and Technology. 
-His research intersts are in the areas of distributed systems, virtual computing and networking. As a member of [PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/), an international collaborative research community of eScience, he has been collaborating with many researchers in Japan, the U.S., Taiwan, Thailand and other countries for many years. Under the community, he is leading the [PRAGMA-ENT project](https://github.com/pragmagrid/pragma_ent/wiki) to build a global virtual network testbed using SDN. In recent years, he has also been working on an inter-university collaborative education project for AI and Big data and Cloud computing ([enPit AiBiC](https://aibic-spiral.enpit.jp/), 2016- ).
+His research interests are in the areas of distributed systems, virtual computing and networking. As a member of [PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/), an international collaborative research community of eScience, he has been collaborating with many researchers in Japan, the U.S., Taiwan, Thailand and other countries for many years. Under the community, he is leading the [PRAGMA-ENT project](https://github.com/pragmagrid/pragma_ent/wiki) to build a global virtual network testbed using SDN. In recent years, he has also been working on an inter-university collaborative education project for AI and Big data and Cloud computing ([enPit AiBiC](https://aibic-spiral.enpit.jp/), 2016- ).
 
 ## Biography
 
