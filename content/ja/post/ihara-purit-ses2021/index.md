@@ -4,8 +4,8 @@
 title: "Purit Phanudom君、井原輝人君がSES2021 Workshop4で発表しました"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors: ["akihito-ihara", "purit-phanudom"]
+tags: ["Software Analytics","Programming Education"]
 categories: []
 date: 2021-09-12T16:32:39+09:00
 lastmod: 2021-09-12T16:32:39+09:00
