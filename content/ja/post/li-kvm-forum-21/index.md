@@ -5,7 +5,7 @@ title: "Mr. Guoqing Li and Dr.Dario Faggioli's Collabrative Talk at KVM FORUM 20
 subtitle: ""
 summary: ""
 authors: ["Guoqing Li"]
-tags: ["Cloud Computing", "Virtualization Performance"]
+tags: ["Cloud Computing", "Virtualization Performance", "KubeVirt", "Kubernetes"]
 categories: []
 date: 2021-09-30T16:49:12+09:00
 lastmod: 2021-09-30T16:49:12+09:00
