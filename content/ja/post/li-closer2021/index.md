@@ -5,7 +5,7 @@ title: "Guoqing Li君の国際会議CLOSER 2021での発表"
 subtitle: ""
 summary: ""
 authors: ["Guoqing Li"]
-tags: ["Cloud Computing", "Virtualization Performance"]
+tags: ["Cloud", "Virtualization Performance"]
 categories: []
 date: 2021-05-12T13:24:47+09:00
 lastmod: 2021-05-12T13:24:47+09:00
