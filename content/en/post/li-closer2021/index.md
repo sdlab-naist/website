@@ -5,7 +5,7 @@ title: "Mr. Guoqing Li's talk at CLOSER 2021"
 subtitle: ""
 summary: ""
 authors: ["Guoqing Li"]
-tags: ["Cloud Computing", "Virtualization Performance"]
+tags: ["Cloud", "Virtualization Performance"]
 categories: []
 date: 2021-05-12T13:33:45+09:00
 lastmod: 2021-05-12T13:33:45+09:00
