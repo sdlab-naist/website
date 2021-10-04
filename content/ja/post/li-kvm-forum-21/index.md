@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mr. Guoqing Li and Dr. Dario Faggioli's Collabrative Talk at KVM FORUM 2021"
+title: "Guoqing Li君とDario Faggioli博士がKVM Forum 2021で発表しました"
 subtitle: ""
 summary: ""
 authors: ["Guoqing Li"]
@@ -28,10 +28,17 @@ image:
 projects: []
 ---
 
-Mr. Guoqing Li, a master student from SDLab and Dr. Dario Faggioli, a virtualization specialist from SUSE lab gave a joint [talk](https://youtu.be/x_czS9Iuo2o) on the topic of KubeVirt: The cost of Containerizing VMs at [KVM FORUM 2021](https://events.linuxfoundation.org/kvm-forum/).
+当研究室の修士課程学生のGuoqing Li君とSUSE LabsのDario Faggioli博士が，
+[KVM Forum 2021](https://events.linuxfoundation.org/kvm-forum/) にて
+["KubeVirt: The cost of Containerizing VMs"](https://youtu.be/x_czS9Iuo2o) という題目で共同研究の成果を発表しました．
 
-KubeVirt is an add-on for Kubernetes to manage both containers and VMs in a unified manner. They evaluated the performance impact of resource usage accounting and limitation caused by container runtimes, as well as the achitectural limitation resulted from integrating QEMU/KVM into Kubernetes stack.
+KubeVirtはコンテナオーケストレーション基盤であるKubernetes上でコンテナと仮想マシンを統一的に管理可能にする拡張機能です．
+KubeVirtは仮想マシンをコンテナと同様にスケジューリングするため，
+コンテナ内でQEMU/KVM仮想マシンを起動します．
+本研究では，このアーキテクチャに起因するKubeVirtの性能オーバヘッドや制限を評価しました．
 
-They showed that Kubevirt's limitation on configuring NUMA CPU topology can slow down the CPU performance up to 60%, and proper tunning can mitigate this CPU performance overhead to some degree but further improvement is needed since this will not only have the impact on theperformance, but can also lead to issues with live migrations.
+本研究の主要な成果として，KubeVirtが物理マシンのNUMAトポロジを考慮しないため，
+最大で60%程度の顕著な性能劣化が生じ，適切なチューニングが必要であることを示しました．
+また，ライブマイグレーションにおいても問題が生じることを示しました．
 
-The introduction and presentation slides of the talk is available at [here](https://sched.co/ke2r).
+本研究のスライドと発表ビデオは[こちら](https://sched.co/ke2r)からご覧になれます．
