@@ -5,6 +5,8 @@
 {{ $page := .page }}
 {{ $show_social := $page.Params.design.show_social | default false }}
 {{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $show_organizations := $page.Params.design.show_organizations | default false }}
+{{ $show_role := $page.Params.design.show_role | default true }}
 
 <div class="row justify-content-center people-widget">
   {{ with $page.Title }}
@@ -21,9 +23,9 @@
   {{ end }}
 
   {{ range $page.Params.content.user_groups }}
-  {{ $query := sort (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .)) ".Params.weight"}}
+  {{ $query := sort ( where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) ) ".Params.weight" }}
 
-  {{if $query}}
+  {{if $query | and (gt (len $page.Params.content.user_groups) 1) }}
   <div class="col-md-12">
     <h2 class="mb-4">{{ . | markdownify }}</h2>
   </div>
@@ -50,8 +52,9 @@
     {{ end }}
 
     <div class="portrait-title">
-      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
-      {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
