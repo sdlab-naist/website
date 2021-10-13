@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Purit Phanudom (Pan)"
+title: "Purit Phanudom (Pan)"
 
 # Username (this should match the folder name and the name on publications)
 authors:

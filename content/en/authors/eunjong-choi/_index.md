@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Eunjong Choi"
+title: "Eunjong Choi"
 
 # Username (this should match the folder name and the name on publications)
 authors:

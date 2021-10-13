@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Yasushi Tanaka"
+title: "Yasushi Tanaka"
 
 # Username (this should match the folder name and the name on publications)
 authors:

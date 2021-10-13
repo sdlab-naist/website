@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Yuka Kanegae"
+title: "Yuka Kanegae"
 
 # Username (this should match the folder name and the name on publications)
 authors:
