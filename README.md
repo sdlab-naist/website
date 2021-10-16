@@ -3,12 +3,11 @@
 ## 環境設定
 
 1. 静的サイトジェネレータ[Hugo](https://gohugo.io/)をインストールしてください．
-   Hugo v0.64.1で動作確認をしています．
    extended version (with Sass/SCSS support)が必要です．
    使用するプラットフォームやバージョンによってはデフォルトでextended versionがインストールされないので確認してください．
 2. 本リポジトリをクローンしてください．
     ```
-    git clone --recursive https://github.com/sdlab-naist/website
+    git clone https://github.com/sdlab-naist/website
     ```
 3. 開発用サーバを起動します．`localhost:1313`をブラウザで開くと，生成された
   ウェブサイトが表示されます．
