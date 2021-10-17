@@ -3,6 +3,7 @@
 ## 環境設定
 
 1. 静的サイトジェネレータ[Hugo](https://gohugo.io/)をインストールしてください．
+   Hugo v0.84.1で動作確認をしています．
    extended version (with Sass/SCSS support)が必要です．
    使用するプラットフォームやバージョンによってはデフォルトでextended versionがインストールされないので確認してください．
 2. 本リポジトリをクローンしてください．
@@ -68,7 +69,7 @@ git branch -d name-of-branch
 
 2. 生成されたディレクトリ内の`_index.md`を編集し，名前やプロフィール
   などを設定します．下記の項目は必ず設定してください:
-    - `name`: 氏名 (姓と名の間には半角空白を1つ空ける)
+    - `title`: 氏名 (姓と名の間には半角空白を1つ空ける)
     - `role`: `教授`や`博士後期課程学生`など
     - `user_groups`: 教員の場合`Staff`，学生の場合`Student`，卒業生の場合は`Past Student`
     - `weight`: テンプレートには無いですが，`user_groups`の後に追記ください．  
