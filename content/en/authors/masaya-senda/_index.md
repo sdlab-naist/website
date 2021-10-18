@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Masaya Senda"
+title: "Masaya Senda"
 
 # Username (this should match the folder name and the name on publications)
 authors:

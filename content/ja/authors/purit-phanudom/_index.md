@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "パンウドム・プリット（パン）"
+title: "パンウドム・プリット（パン）"
 
 # Username (this should match the folder name and the name on publications)
 authors:

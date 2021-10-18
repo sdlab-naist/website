@@ -163,15 +163,6 @@ plugins_js  = []
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
 
-# Available address formats.
-[address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
-  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
-  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
-  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
-  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-  ja-jp = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
-
 # Configuration of publication pages.
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -251,7 +242,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 

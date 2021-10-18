@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "飯田 元"
+title: "飯田 元"
 
 # Username (this should match the folder name and the name on publications)
 authors:

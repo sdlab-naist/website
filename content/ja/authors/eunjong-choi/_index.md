@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "崔 恩瀞"
+title: "崔 恩瀞"
 
 # Username (this should match the folder name and the name on publications)
 authors:

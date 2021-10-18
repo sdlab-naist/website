@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Research Projects"
-subtitle = "Individual research projects are shown below. You can filter the projects with keywords."
+title = ""
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -121,3 +121,7 @@ subtitle = "Individual research projects are shown below. You can filter the pro
  css_class = ""
 +++
 
+<div class="center-text">
+  <h1>Research Projects</h1>
+  <p>Individual research projects are shown below. You can filter the projects with keywords.</p>
+</div>

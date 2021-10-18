@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Kohei Ichikawa"
+title: "Kohei Ichikawa"
 
 # Username (this should match the folder name and the name on publications)
 authors:

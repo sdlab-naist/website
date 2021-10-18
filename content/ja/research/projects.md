@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "研究プロジェクト"
-subtitle = "各個別の研究プロジェクトは以下のとおりです。キーワードを選択して、表示をフィルタリングできます。"
+title = ""
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -45,7 +45,7 @@ subtitle = "各個別の研究プロジェクトは以下のとおりです。�
   [[content.filter_button]]
     name = "HPC"
     tag = "HPC"
-    
+
   # Detail keywords (alphabetical order)
   [[content.filter_button]]
     name = "Cloud Gaming"
@@ -122,3 +122,7 @@ subtitle = "各個別の研究プロジェクトは以下のとおりです。�
  css_class = ""
 +++
 
+<div class="center-text">
+  <h1>研究プロジェクト</h1>
+  <p>各個別の研究プロジェクトは以下のとおりです。キーワードを選択して、表示をフィルタリングできます。</p>
+</div>

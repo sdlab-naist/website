@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Guoqing Li"
+title: "Guoqing Li"
 
 # Username (this should match the folder name and the name on publications)
 authors:

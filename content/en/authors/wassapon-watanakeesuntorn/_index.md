@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Wassapon Watanakeesuntorn (Boom)"
+title: "Wassapon Watanakeesuntorn (Boom)"
 
 # Username (this should match the folder name and the name on publications)
 authors:

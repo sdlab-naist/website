@@ -41,7 +41,7 @@ projects: []
 ## 研究室へのアクセス・お問い合わせ
 ソフトウェア設計学研究室は，先端科学技術研究科 情報科学領域 A棟3階にあります．エレベーターでA棟3階で降りたら，左側に進み，突き当たりをさらに左にお進み下さい．
 
-{{< figure library="true" src="floor_map_thumb_0_modified_2_1.png" title="研究室見取り図" lightbox="true" >}}
+{{< figure src="floor_map_thumb_0_modified_2_1.png" title="研究室見取り図" lightbox="true" >}}
 
 - 住所： 〒630-0192 奈良県生駒市高山町8916-5 先端科学技術研究科 情報科学領域 ソフトウェア設計学研究室
 - 電話番号： 0743-72-5794

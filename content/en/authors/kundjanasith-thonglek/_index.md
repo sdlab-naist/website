@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Kundjanasith Thonglek (Tem)"
+title: "Kundjanasith Thonglek (Tem)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
