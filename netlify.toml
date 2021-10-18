@@ -5,6 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.84.1"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_TIMEOUT = "60000"
 
 [context.production.environment]
   HUGO_ENV = "production"
