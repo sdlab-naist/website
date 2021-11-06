@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "杉浦 智基君がGoogle Summer of Code 2021に参加しました"
+title: "杉浦智基くんがGoogle Summer of Code 2021に参加しました"
 subtitle: ""
 summary: ""
 authors: ["tomoki-sugiura"]

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "杉浦智基君が第53回IOT研究会で発表しました"
+title: "杉浦智基くんが第53回IOT研究会で発表しました"
 subtitle: ""
 summary: ""
 authors: ["tomoki-sugiura"]
