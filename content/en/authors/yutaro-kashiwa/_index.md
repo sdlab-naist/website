@@ -57,6 +57,8 @@ highlight_name: false
 user_groups:
 - Staff
 
+weight: 50
+
 ---
 
 ## Profile
