@@ -10,16 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 助教
+role: 客員助教
 
 # Organizations/Affiliations
 organizations:
-- name: 情報科学領域
-  url: "http://isw3.naist.jp/"
-- name: 総合情報基盤センター
-  url: "https://itcw3.naist.jp/"
-- name: 大阪大学サイバーメディアセンター
-  url: "https://www.cmc.osaka-u.ac.jp/"
+- name: 東北大学サイバーサイエンスセンター スーパーコンピューティング研究部
+  url: https://www.hpc.is.tohoku.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "高性能計算およびネットワーキング技術に関する研究に従事．次世代の大規模な高性能計算機におけるプロセス間通信やストレージI/Oの高速化に興味を持つ．"
@@ -59,7 +55,7 @@ user_groups:
 - Staff
 
 # Order this person will appear
-weight: 50
+weight: 60
 ---
 
 ## プロフィール
@@ -70,5 +66,7 @@ weight: 50
 - 2014年4月〜2016年3月: 大阪大学 大学院情報科学研究科 博士前期課程
 - 2016年4月〜2019年3月: 大阪大学 大学院情報科学研究科 博士後期課程
 - 2019年7月〜2019年12月: 米オークリッジ国立研究所 客員研究員
-- 2019年4月〜: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 助教
-- 2019年6月〜: 大阪大学 サイバーメディアセンター 招聘教員
+- 2019年4月〜2021年11月: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 助教
+- 2019年6月〜2022年3月: 大阪大学 サイバーメディアセンター 招聘教員
+- 2021年12月〜: 東北大学サイバーサイエンスセンター スーパコンピューティング研究部 助教
+- 2022年1月〜: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 客員助教
