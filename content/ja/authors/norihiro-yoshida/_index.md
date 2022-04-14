@@ -72,7 +72,7 @@ user_groups:
 - Staff
 
 # Order this person will appear
-weight: 60
+weight: 70
 ---
 
 ## 略歴
