@@ -1,17 +1,16 @@
 ---
 # Display name
-title: "嶋田　萌"
+title: "Hishikawa Junya"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Moe Shimada"
+- Name "JUnya Hishikawa"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程　
-
+role: Master’s Student
 # Organizations/Affiliations
 organizations:
 - name: 
@@ -22,32 +21,23 @@ bio:
 
 # List each interest with a dash
 interests:
-- 宇宙　
-- ご飯を食べること
+- Music
+- Mahjong
 
 education:
   courses:
-  - course: 機械工学科
-    institution: OSU
-    year: 2020
+  - course: Faculty of Science and Engineering, Department of Intelligent Information Engineering and Sciences
+    institution: Doshisha University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/USERNAME
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jun318
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,14 +45,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hishikawa.junya.hg8@is.naist.jp"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Past Student
-# Order this person will appear
-#  For current students: year and month of enrollment
-#  For past students: year and month of graduation
-weight: 202203
+- Student
+
+weight: 202204
 ---
