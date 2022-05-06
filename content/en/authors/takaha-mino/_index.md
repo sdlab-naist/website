@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: Infomation Course
-    institution: National Institiute of Technology, Nara College, Advanced Cource
+  - course: Information Course
+    institution: National Institute of Technology, Nara College, Advanced Course
     year: 2022
-  - course: Infomation Engineering
-    institution: National Institiute of Technology, Nara College
+  - course: Information Engineering
+    institution: National Institute of Technology, Nara College
     year: 2020
 
 # Social/Academic Networking
