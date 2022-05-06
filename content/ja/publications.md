@@ -29,6 +29,9 @@ projects: []
 
 ## 学術論文誌
 
+1. Wassapon Watanakeesuntorn, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "A Transparent, Low-overhead Monitoring System for OpenFlow Networks", IEICE Transactions on Communications, Apr. 2022.
+1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Swati Singhal, Jong Y. Choi, Keichi Takahashi, Kevin Huck, Igor Yakushin, Alan Sussman, Todd Munson, Ian Foster, Scott Klasky, "A codesign framework for online data analysis and reduction", Concurrency and Computation: Practice and Experience, Aug. 2021. [doi:10.1002/cpe.6519](https://doi.org/10.1002/cpe.6519)
+1. 佐伯 幸郎, 福安 直樹, 神田 哲也, 市川 昊平, 吉田 真一, 中村 匡秀, 楠本 真二, "自己評価と客観評価の変化にもとづく実践的人材育成コースにおける質的教育効果の測定", コンピュータソフトウェア, Jan. 2021. [doi:10.11309/jssst.38.1_52](https://doi.org/10.11309/jssst.38.1_52)
 1. William F. Godoy, Norbert Podhorszki, Ruonan Wang, Chuck Atkins, Greg Eisenhauer, Junmin Gu, Philip Davis, Jong Choi, Kai Germaschewski, Kevin Huck, Axel Huebl, Mark Kim, James Kress, Tahsin Kurc, Qing Liu, Jeremy Logan, Kshitij Mehta, George Ostrouchov, Manish Parashar, Franz Poeschel, David Pugmire, Eric Suchyta, Keichi Takahashi, Nick Thompson, Seiji Tsutsumi, Lipeng Wan, Matthew Wolf, Kesheng Wu, Scott Klasky, "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management", SoftwareX, Jul. 2020. [doi:10.1016/j.softx.2020.100561](https://doi.org/10.1016/j.softx.2020.100561)
 1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善", コンピュータソフトウェア, Feb. 2020. [doi:10.11309/jssst.37.1_19](https://doi.org/10.11309/jssst.37.1_19)
 1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Jan. 2020. [doi:10.1587/transcom.2019CPI0001](https://doi.org/10.1587/transcom.2019CPI0001)
@@ -38,11 +41,14 @@ projects: []
 1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Yasuhiro Watashiba, Hajimu Iida, "A Multipath OpenFlow Controller for Multiple TCP Stream Applications", Journal of Information Processing, Oct. 2017. [doi:10.2197/ipsjjip.25.924](https://doi.org/10.2197/ipsjjip.25.924)
 1. Kar-Long Chan, Kohei Ichikawa, Yasuhiro Watashiba, Putchong Uthayopas, Hajimu Iida, "A Hybrid-Streaming Method for Cloud Gaming: To Improve the Graphics Quality delivered on Highly Accessible Game Contents", International Journal of Serious Games, Jun. 2017. [doi:10.17083/ijsg.v4i2.163](https://doi.org/10.17083/ijsg.v4i2.163)
 1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, Hajimu Iida, "Application-aware network: network route management using SDN based on application characteristics", CSI Transactions on ICT, Jun. 2017. [doi:10.1007/s40012-017-0171-y](https://doi.org/10.1007/s40012-017-0171-y)
-1. Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, Putchong Uthayopas, "A Simple Multipath OpenFlow Controller using topology-based algorithm for Multipath TCP", Concurrency And Computation: Practice And Experience, Mar. 2017. [doi:10.1002/cpe.4134](https://doi.org/10.1002/cpe.4134)
-1. Kohei Ichikawa, Pongsakorn U-chupala, Che Huang, Chawanat Nakasan, Te-Lung Liu, Jo-Yu Chang, Li-Chi Ku, Whey-Fone Tsai, Jason Haga, Hiroaki Yamanaka, Eiji Kawai, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Philip Papadopoulos, Mauricio Tsugawa, Matthew Collins, Kyuho Jeong, Renato Figueiredo, Jose Fortes, "PRAGMA-ENT: An International SDN Testbed for a Cyberinfrastructure in the Pacific Rim", Concurrency And Computation: Practice And Experience, Mar. 2017. [doi:10.1002/cpe.4138](https://doi.org/10.1002/cpe.4138)
 
 ## 国際会議論文
 
+1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Pattara Leelaprute, Hajimu Iida, "Sparse Communication for Federated Learning", 6th IEEE International Conference on Fog and Edge Computing (ICFEC 2022), May. 2022.
+1. Tomoki Sugiura, Keichi Takahashi, Kouhei Ichikawa, Hajimu Iida, "Acar: An application-aware network routing system using SRv6”", 19th Annual Consumer Communications &amp; Networking Conference (CCNC), Jan. 2022.
+1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Enhancing the Prediction Accuracy of Solar Power Generation using a Generative Adversarial Network", IEEE Green Energy and Smart Systems Conference (IGESSC 2021), Nov. 2021.
+1. Guoqing Li, Dario Faggioli, "KubeVirt and The Cost of Containerizing VMs", KVM Forum 2021, Sep. 2021.
+1. Sopicha Stirapongsasuti, Kundjanasith Thonglek, Shinya Misaki, Yugo Nakamura, Keiichi Yasumoto, "INSHA: Intelligent Nudging System for Hand Hygiene Awareness", The 21th ACM International Conference on Intelligent Virtual Agents (IVA '21), Sep. 2021. [doi:10.1145/3472306.3478355](https://doi.org/10.1145/3472306.3478355)
 1. Keichi Takahashi, Wassapon Watanakeesuntorn, Kohei Ichikawa, Joseph Park, Ryousei Takano, Jason Haga, George Sugihara, Gerald M. Pao, "kEDM: A Performance-portable Implementation of Empirical Dynamic Modeling using Kokkos", Practice and Experience in Advanced Research Computing (PEARC 2021), Jul. 2021. [doi:10.1145/3437359.3465571](https://doi.org/10.1145/3437359.3465571)
 1. Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021. [doi:10.5220/0010440502150223](https://doi.org/10.5220/0010440502150223)
 1. Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara, Hajimu Iida, "Understanding Build Errors in Agile Software Development Project-Based Learning",  27th Asia-Pacific Software Engineering Conference (APSEC 2020), Dec. 2020. [doi:10.1109/APSEC51365.2020.00039](https://doi.org/10.1109/APSEC51365.2020.00039)
@@ -80,24 +86,6 @@ projects: []
 1. Wassapon Watanakeesuntorn, Putchong Uthayopas, Chantana Chantrapornchai, Kohei Ichikawa, "Real-Time Monitoring and Visualization Software for OpenFlow Network", The 15th International Conference on ICT and Knowledge Engineering, Nov. 2017.
 1. Pongsakorn U-Chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, Hajimu Iida, "Container Rebalancing: Towards Proactive Linux Containers Placement Optimization in a Data Center", IEEE 41st Annual Computer Software and Applications Conference (COMPSAC 2017), Jul. 2017.
 1. Kyuho Jeong, Renato Figueiredo, Kohei Ichikawa, "PARES: Packet Rewriting On SDN-Enabled Edge Switches For Network Virtualization In Multi-Tenant Cloud Data Centers", 10th IEEE International Conference on Cloud Computing, Jun. 2017.
-1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Hajimu Iida, "Applying Deep Learning to Network Traffic Identification and Categorization", PRAGMA32 Workshop, Apr. 2017.
-1. Hiroaki Yamanaka, Kohei Ichikawa, Eiji Kawai, Shinji Shimojo, "Automation of Virtual Network Creation for SDN testbed", PRAGMA32 Workshop, Apr. 2017.
-1. Md. Rejaul Karim, Akinori Ihara, Xin Yang, Hajimu Iida, Kenichi Matsumoto, "Understanding Key Features of High-Impact Bug Reports", , Mar. 2017.
-1. Yasuhiro Watashiba, José Fortes, Jason Haga, Kohei Ichikawa, Susumu Date, Hirotake Abe, Yoshiyuki Kido, Hiroaki Yamanaka, Ryousei Takano, Ryusuke Egawa, "Toward Construction of Resilient Software-Defined IT Infrastructure for Supporting Disaster Management Applications", International Symposium on Grids and Clouds 2017 (ISGC2017), Mar. 2017.
-1. Kyohei Uemura, Akira Mori, Kenji Fujiwara, Eunjong Choi, Hajimu Iida, "Detecting and Analyzing Code Clones in HDL", 11th International Workshop on Software Clones (IWSC) 2017, Feb. 2017.
-1. Katsuhisa Maruyama, Shinpei Hayashi, Norihiro Yoshida, Eunjong Choi, "Frame-Based Behavior Preservation in Refactoring", Proceedings of  24rd IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER) 2017, Feb. 2017.
-1. Tomohiro Ichinose, Kyohei Uemura, Daiki Tanaka, Hideaki Hata, Hajimu Iida, Kenichi Matsumoto, "Rocat on Kataribe: Code Visualization for Communities", Proc. of 4th International Conference on Applied Computing and Information Technology (ACIT 2016), Dec. 2016.
-1. Masaharu Shimizu, Yasuhiro Watashiba, Susumu Date, Shinji Shimojo, "Adaptive Network Resource Reallocation for Hot-spot Avoidance on SDN-based Cluster System", the 6th Workshop on Network Infrastructure Services as part of Cloud Computing (NetCloud 2016), the 8th IEEE International Conference on Cloud Computing Technology and Science (CloudCom2016), Dec. 2016.
-1. Seiya Numata, Norihiro Yoshida, Eunjong Choi, Katsuro Inoue, "On the Effectiveness of Vector-based Approach for Supporting Simultaneous Editing of Software Clones", Proceedings of the 17th International Conference on Product-Focused Software Process Improvement (PROFES 2016), Nov. 2016.
-1. Pongsakorn U-chupala, Yasuhiro Watashiba, Kohei Ichikawa, Susumu Date, Hajimu Iida, "Container Rebalancing: Towards Proactive Linux Containers Placement Optimization in a Data Center", PRAGMA31 Workshop, Sep. 2016.
-1. Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Implementing and Testing Ceph Distributed File System with Multipath TCP", PRAGMA31 Workshop, Sep. 2016.
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Putchong Uthayopass, "An Implementation of OpenFlow Network Monitoring and Visualization Tools", PRAGMA31 Workshop, Sep. 2016.
-1. Kar-Long Chan, Kohei Ichikawa, Yasuhiro Watashiba, Uthayopas Putchong, Hajimu Iida, "A Hybrid Game Contents Streaming Method: Improving Graphic Quality Delivered on Cloud Gaming", 15th International Conference on Entertainment Computing, Sep. 2016.
-1. Shogo Tsutsumi, Eunjong Choi, Norihiro Yoshida, Katsuro Inoue, "Graph-Based Approach for Detecting Impure Refactoring from Version Commits", Proceedings of the 1st International Workshop on Software Refactoring (IWoR 2016), Sep. 2016.
-1. Ikuo Nakagawa, Hiroki Kashiwazaki, Shinji Shimojo, Kohei Ichikawa, Tohru Kondo, Yoshiaki Kitaguchi, Yutaka Kikuchi, Shigetoshi Yokoyama, Shunji Abe, "A design and implementation of global distributed POSIX file system on the top of multiple independent cloud services", 5th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI), Jul. 2016.
-1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "An SDN-Based Multipath GridFTP for High-Speed Data Transfer", 2016 IEEE 36th International Conference on Distributed Computing Systems (ICDCS), Jun. 2016.
-1. Curtis Sera, Shelby Matlock, Yasuhiro Watashiba, Kohei Ichikawa, Jason H. Haga, "Hydra: A High-throughput Virtual Screening Data Visualization and Analysis Tool", Procedia Computer Science, Jun. 2016.
-1. Kyohei Uemura, Yusuke Saito, Shin Fujiwara, Daiki Tanaka, Kenji Fujiwara, Hideaki Hata, Hajimu Iida, Kenichi Matsumoto, "A Hosting Service of Multi-Language Historage Repositories", Proc. of 15th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2016), Jun. 2016.
 
 ## 著書
 
@@ -105,7 +93,13 @@ projects: []
 
 ## 国内学会研究会・シンポジウム等
 
+1. 福本大介, 平尾俊貴, 藤原賢二, 飯田元, "開発プロジェクトのドメインに特化したRoBERTaによるコード補完モデルの提案", ソフトウェアサイエンス研究会 (SS), Mar. 2022.
+1. 井原輝人, 平尾俊貴, 藤原賢二, 飯田元, "ソースコードの文構造に着目したコードレビュー自動化モデルの提案", ソフトウェアサイエンス研究会 (SS), Mar. 2022.
+1. Hideaki Takahashi, Keichi Takahashi, Kohei Ichikawa, "Difficulty of detecting overstated dataset size in Federated Learning", 第189回マルチメディア通信と分散処理研究発表会, Dec. 2021.
+1. 井原輝人, 内田眞司, 飯田元, "自然言語処理的アプローチによるクラス図関連線の予測", ソフトウェア・シンポジウム 2021, Jun. 2021.
+1. Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi Yuasa, Tadatoshi Babasaki, "LSTM-based Neural Network Model for Predicting Solar Power Generation", 電子通信エネルギー技術研究会 (IEICE-EE), May. 2021.
 1. 杉浦智基, 高橋慧智, 市川昊平, 飯田元, "SRv6を用いたアプリケーションの特性を考慮した通信経路制御手法", 情報処理学会 研究報告インターネットと運用技術 (IOT), May. 2021.
+1. 杉浦智基, 高橋慧智, 市川昊平, "SRv6を用いたアプリケーションの特性を考慮した通信経路決定手法の提案", RICC-PIoT Workshop 2021, Mar. 2021.
 1. 村木 暢哉, 木戸 善之, 高橋 慧智, 山田 拓哉, 伊達 進, 梅谷 麗, 石橋 靖嗣, 下條 真司, "共有型IoT資源利用アプリケーションのためのデータフロープログラミング", 第150回システムソフトウェアとオペレーティング・システム研究発表会 (SWoPP 2020), Jul. 2020.
 1. 辻光顕, 高井利憲, 柿本和希, 石濱直樹, 片平真史, 飯田元, "統計的モデル検査法を用いたSTAMP/STPAにおけるシナリオのリスク分析", ウィンターワークショップ2020・イン・京都, Jan. 2020.
 1. Kohei Ichikawa, Atsuko Takefusa, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, "Deployment of NFV environment on an international SDN testbed", RICC-RIEC workshop 2019, Dec. 2019.
@@ -130,22 +124,6 @@ projects: []
 1. 中地 祥剛, 崔　恩瀞, 飯田　元, "要求定義者のアジャイルwebアプリケーション開発におけるテスト記述のためのDSLの検討", ソフトウェアエンジニアリングシンポジウム2017ワークショップ, Aug. 2017.
 1. 瀬村 雄一, 吉田 則裕, 崔　恩瀞, 井上 克郎, "多言語対応のための字句解析機構を持つコードクローン検出ツールの開発", 情報処理学会研究報告, Jul. 2017.
 1. 横井 一輝, 崔　恩瀞, 吉田 則裕, 井上 克郎, "情報検索技術に基づくブロッククローン検出", 情報処理学会研究報告, Jul. 2017.
-1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Yasuhiro Watashiba, Hajimu Iida, "A Multipath OpenFlow Controller for GridFTP", The 1st. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming, Apr. 2017.
-1. 田中大樹, 崔　恩瀞, 吉田則裕, 藤原賢二, 飯田　元, "プロセスメトリクスを用いたメソッド抽出事例の調査と予測モデルの構築", 電子情報通信学会技術研究報告, Mar. 2017.
-1. 上村恭平, 田中大樹, 一ノ瀬智浩, 畑　秀明, 飯田　元, 松本　健一, "細粒度リポジトリホスティングサービスの開発と展望", ウィンターワークショップ2017・イン・飛騨高山 論文集, Jan. 2017.
-1. 堤 祥吾, 楊 欣, 崔　恩瀞, 井上 克郎, "プログラミングコンテストシステムへの提出履歴データとその分析", ウィンターワークショップ2017・イン・飛騨高山 論文集, Jan. 2017.
-1. 柏崎礼生, 西内一馬, 北口善明, 市川昊平, 近堂徹, 中川郁夫, 菊池豊, "ネットワーク災害訓練のシナリオ記述コストを低減するインターフェイスの設計と実装", インターネットと運用技術シンポジウム2016論文集, Dec. 2016.
-1. 柏崎礼生, 北口善明, 市川昊平, 近堂徹, 中川郁夫, 菊池豊, 下條真司, "広域分散仮想化環境の展開・運用・管理コストの定量的評価", インターネットと運用技術シンポジウム2016論文集, Dec. 2016.
-1. 上村 恭平, 吉田 則裕, 崔　恩瀞, 飯田　元, 曲 生国, 秋庭 真一, "ソースコードの削減可能量計測ツールの開発", ソフトウェア工学の基礎ワークショップ (FOSE2016), Dec. 2016.
-1. 中村 勇太, 崔　恩瀞, 吉田 則裕, 春名 修介, 井上 克郎, "複数プログラミング言語で記述されたソフトウェアからのコードクローン検出", 情報処理学会研究報告, Nov. 2016.
-1. 上村恭平, 藤原賢二, 崔　恩瀞, 飯田　元, "ハードウェア記述言語におけるコードクローンの調査", ソフトウェアエンジニアリングシンポジウム2016, Sep. 2016.
-1. 田中 大樹, 吉田 則裕, 藤原 賢二, 崔　恩瀞, 飯田　元, "プロセスメトリクスを用いたメソッド抽出事例の特徴調査", ソフトウェアエンジニアリングシンポジウム2016論文集, Sep. 2016.
-1. 堤 祥吾, 吉田 則裕, 崔　恩瀞, 井上 克郎, "探索的手法によるimpureリファクタリング検出", 情報処理学会研究報告, Jul. 2016.
-1. Eunjong Choi, Hajimu Iida, "How developers copy code? A case study of Mylyn data set", IEICE Technical Report, Jul. 2016.
-1. 沼田 聖也, 吉田則裕, 崔　恩瀞, 井上克郎, "欠陥の同時修正支援における関数クローン検出ツールの有効性調査", 電子情報通信学会技術研究報告, Jul. 2016.
-1. 石津 卓也, 吉田 則裕, 崔　恩瀞, 井上 克郎, "メタヒューリスティクスを用いた集約可能コードクローン量の推定", 情報処理学会研究報告, Jul. 2016.
-1. Xuliang Wang, Pongsakorn U-chupala, Kohei Ichikawa, Yasuhiro Watashiba, Chantana Chantrapornchai, Putchong Uthayopas, Hajimu Iida, "Design of a flow-level monitoring middleware for automatic flow categorization", 信学技法, Jun. 2016.
-1. Md. Rejaul Karim, Akinori Ihara, Xin Yang, Eunjong Choi, Hajimu Iida, Kenichi Matsumoto, "Improving the High-Impact Bug Reports: a Case Study of Apache Projects", 情報処理学会研究報告, Jun. 2016.
 
 ## 国内学会大会等
 
@@ -154,10 +132,10 @@ projects: []
 
 ## 表彰・受賞
 
+1. Kundjanasith Thonglek, "若手エンジニア論文発表賞", 電子情報通信学会・電子通信エネルギー技術研究専門委員会, Jan. 2022.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Best Presentation Award", The 36th PRAGMA Workshop, May. 2019.
 1. Kisub Kim, Dongsun Kim, , Tegawendé F. Bissyandé, 崔　恩瀞, Li Li, Jacques Klein, Yves Le Traon, "情報処理学会ソフトウェア工学卓越研究賞", 情報処理学会ソフトウェア工学研究会, Sep. 2018.
 1. Sachio Saiki, Naoki Fukuyasu, Kohei Ichikawa, Tetsuya Kanda, Masahide Nakamura, Shinsuke Matsumoto, Shinichi Yoshida, Shinji Kusumoto, "Best paper award", 3rd IEEE/ACIS International Conference on Big Data, Cloud computing, and Data Science Engineering (BCD 2018), Jul. 2018.
-1. Che Huang, Chawanat Nakasan, Kohei Ichikawa, Yasuhiro Watashiba, Hajimu Iida, "Best Research Award", Information Processing Society of Japan, Apr. 2017.
 
 ## その他
 
