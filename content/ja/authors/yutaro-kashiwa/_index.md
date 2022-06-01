@@ -151,3 +151,6 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 ## 資格
 - 情報処理推進機構 データベーススペシャリスト
 - 情報処理推進機構 応用情報技術者
+
+## Contact
+yutaro.kashiwa［ａｔ］is.naist.jp
