@@ -147,7 +147,8 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 - Database Specialist (Information-technology Promotion Agency, Japan)
 - Applied Information Technology Engineer (Information-technology Promotion Agency, Japan)
 
-
+## Contact
+yutaro.kashiwa［ａｔ］is.naist.jp
 
 
 
