@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gao.shan.gn9@is.naist.jp"
+  link: "mailto:gao.shan.gn9[at]is.naist.jp"
 - icon: github
   icon_pack: fab
   link: https://github.com/MGMCN
