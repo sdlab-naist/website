@@ -7,8 +7,8 @@ summary: ""
 authors: ["kundjanasith-thonglek"]
 tags: ["Machine Learning"]
 categories: []
-date: 2022-09-06T15:13:59+09:00
-lastmod: 2022-09-06T15:13:59+09:00
+date: 2022-05-18T11:45:00+09:00
+lastmod: 2022-05-18T11:45:00+09:00
 featured: false
 draft: false
 
