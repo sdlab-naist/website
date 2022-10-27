@@ -25,41 +25,41 @@ Every PullRequest must be reviewed by at least one person before being merged in
 The following is an example of a typical workflow.
 
 1. Update your local master branch to the latest version.  
-```
-git checkout master
-git pull
-```
+    ```
+    git checkout master
+    git pull
+    ```
 
 2. Create a branch for working.  
-Replace `name-of-branch` with an appropriate name to describe your edit.
-```
-git checkout -b name-of-branch
-```
+    Replace `name-of-branch` with an appropriate name to describe your edit.
+    ```
+    git checkout -b name-of-branch
+    ```
 
 3. Do some editing.  
-If you are running `hugo server`, you can open `localhost:1313` in your browser and see your edits.
+    If you are running `hugo server`, you can open `localhost:1313` in your browser and see your edits.
 
 4. Please commit.
-```
-git add .
-git commit -m "comments"
-```
+    ```
+    git add .
+    git commit -m "comments"
+    ```
 
 5. Push your commit.  
-`name-of-branch` must be the same as your current working branch.
-```
-git push origin name-of-branch
-```
+    `name-of-branch` must be the same as your current working branch.
+    ```
+    git push origin name-of-branch
+    ```
 
 6. Access to Github and issue a PullRequest to request that your `name-of-branch` be merged into the `master` branch.  
-Once the review is complete and the branch is merged into the master, it will be published on our website.
+    Once the review is complete and the branch is merged into the master, it will be published on our website.
 
 7. After updating the local master branch, you may delete the merged working branch.
-```
-git checkout master
-git pull
-git branch -d name-of-branch
-```
+    ```
+    git checkout master
+    git pull
+    git branch -d name-of-branch
+    ```
 
 The followings are examples of how to add each content.
 
