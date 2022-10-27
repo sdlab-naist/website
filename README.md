@@ -1,3 +1,4 @@
+[English](README.en.md)
 # ソフトウェア設計学研究室ウェブサイト [![Netlify Status](https://api.netlify.com/api/v1/badges/3fbbab05-cf15-4ac2-854f-f2ac1ed81672/deploy-status)](https://app.netlify.com/sites/sdlab/deploys)
 
 ## 環境設定
@@ -16,8 +17,8 @@
     hugo server
     ```
 
-詳細な設定方法やページの作成方法は，使用しているテーマAcademicの
-[ドキュメント](https://sourcethemes.com/academic/docs/)を参照してください．
+詳細な設定方法やページの作成方法は，使用しているテーマWowchemyの
+[ドキュメント](https://wowchemy.com/docs/)を参照してください．
 
 ## 作業フロー
 Githubを用いたPullRequest駆動でWebコンテンツを更新しています．編集作業を始める前にかならずBranchを作り，それをGithub上のレポジトリにPushした上で，PullRequestを発行する必要があります．発行したPullRequestは1人以上のレビューを受けないとmasterにマージされません．以下が典型的な作業フローの例です．
@@ -77,6 +78,7 @@ git branch -d name-of-branch
 
 3. 同ディレクトリ内の`avatar.jpg`を自分の顔写真に置き換えてください．
   アスペクト比は正方形，かつ，サイズは500ピクセル四方程度にしてください．
+  英語版と日本語版ページを個別に作成する場合は日本語版のディレクトリにのみ写真を入れてください。同じ写真が英語版で再利用されます。
 
 メンバー一覧は自動的に更新されます．
 
@@ -105,7 +107,7 @@ git branch -d name-of-branch
     ```
     $ hugo new  --kind project content/ja/project/title-of-your-project
     ```
-    `content/project/title-of-your-project`というディレクトリが生成されます．
+    `content/ja/project/title-of-your-project`というディレクトリが生成されます．
 
 2. 生成されたディレクトリ内の`index.md`を編集し，記事を執筆します．
   また，下記の項目を必ず設定してください．
