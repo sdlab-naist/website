@@ -10,7 +10,7 @@
     ```
     git clone https://github.com/sdlab-naist/website
     ```
-3. Launch a server for delopment.  
+3. Launch a server for development.  
 Open `localhost:1313` in your browser to see the generated website.
     ```
     hugo server
@@ -31,7 +31,7 @@ git pull
 ```
 
 2. Create a branch for working.  
-Replace `name-of-branch` with an appropriate name to discribe your edit.
+Replace `name-of-branch` with an appropriate name to describe your edit.
 ```
 git checkout -b name-of-branch
 ```
@@ -130,7 +130,7 @@ If you would like to attach multiple photos or images, save them in the same dir
     ```
     A directory named `content/en/project/title-of-your-project` will be created.
 
-2. Edit `index.md` in the generated directory and discribe the project.  
+2. Edit `index.md` in the generated directory and describe the project.  
     The following items must be specified.
     - `title`: Title of the post.
     - `authors`: Author of the post (in the form `firstname-lastname`, specified when the user was created)
