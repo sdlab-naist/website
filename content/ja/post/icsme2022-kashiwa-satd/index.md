@@ -33,4 +33,5 @@ https://www.sciencedirect.com/science/article/pii/S0950584922000258
 > Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, Masanari Kondo, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi: An empirical study on self-admitted technical debt in modern code review. Inf. Softw. Technol. 146: 106855 (2022)
 
 
-
+また同会議において，九州大学，Radboud大学（オランダ），Università della Svizzera Italiana大学（スイス）との共同研究において執筆した論文（論文名："AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices"）が採択されました．本論文では，モバイルアプリにおける消費電力計測をソフトウェアベースで安定的に行うための手法を提案しています．
+> Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei: AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices. In Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution, 2022. 
