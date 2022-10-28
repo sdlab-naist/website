@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A new project will start soon supported by 'Strategy of SAKIGAKE'"
+title: "A new project just started, supported by 'Strategy of SAKIGAKE'"
 subtitle: ""
 summary: ""
 authors: ["yutaro-kashiwa"]
