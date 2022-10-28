@@ -34,7 +34,7 @@ https://www.sciencedirect.com/science/article/pii/S0950584922000258
 
 > Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, Masanari Kondo, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi: An empirical study on self-admitted technical debt in modern code review. Inf. Softw. Technol. 146: 106855 (2022)
 
+Also, in the same conference, our paper "AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices" has been accepted, collaborating with Kyushu University,  Radboud University (Netherlands), and Università della Svizzera Italiana (Switzerland). The paper has proposed AIP (Android Instrumentation Profiler) to trigger the source code of mobile apps for energy measurement studies. AIP is able to target source code and generate stable results across multiple runs and revisions which opens the door to reproducible large-scale energy measurement studies. 
 
-
-
+> Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei: AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices. In Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution, 2022. 
 
