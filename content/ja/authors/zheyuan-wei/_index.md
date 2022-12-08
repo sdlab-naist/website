@@ -30,7 +30,7 @@ education:
   - course:  ソフトウェア工学
     institution: チェンマイ大学 タイ
     year: 2018 - 2022
-  - course:  機械工学(未完成)
+  - course:  機械工学(転部)
     institution: チェンマイ大学 タイ
     year: 2015 - 2017
 

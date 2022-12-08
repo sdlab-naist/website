@@ -30,7 +30,7 @@ education:
   - course:  Software Engineering
     institution: Thailand Chiang Mai University
     year: 2018 - 2022
-  - course:  Mechanical Engineering
+  - course:  Mechanical Engineering(Transfer)
     institution: Thailand Chiang Mai University
     year: 2015 - 2017
 
