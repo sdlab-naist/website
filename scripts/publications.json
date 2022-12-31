@@ -7,9 +7,1015 @@
     },
     "list_item": {
         "@type": "ListItem",
-        "items_count": "493",
-        "count_per_page": "493",
+        "items_count": "509",
+        "count_per_page": "509",
         "items": [
+            {
+                "@type": "item",
+                "dc:researchId": "55500",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "MC\u5b66\u751f",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "\u5b9f\u884c\u7d4c\u8def\u3092\u8003\u616e\u3057\u305f\u81ea\u52d5\u30c6\u30b9\u30c8\u30b1\u30fc\u30b9\u751f\u6210\u304c\u81ea\u52d5\u30d7\u30ed\u30b0\u30e9\u30e0\u4fee\u6b63\u306b\u4e0e\u3048\u308b\u5f71\u97ff\u306e\u5206\u6790"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2023",
+                "dc:creator": [
+                    {
+                        "@name": "\u677e\u7530 \u96c4\u6cb3",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u5c71\u624b \u97ff\u4ecb",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u8fd1\u85e4 \u5c06\u6210",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u67cf \u7950\u592a\u90ce",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u4e80\u4e95 \u9756\u9ad8",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u9d5c\u6797 \u5c1a\u9756",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": "\u65e5\u672c\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u79d1\u5b66\u4f1a"
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2"
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2023/1",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5185",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55542",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "MC\u5b66\u751f",
+                "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "Full Paper \u975e\u76f8\u5f53\u306e\u51fa\u7248\u3042\u308a",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "An Empirical Investigation on the Performance of Domain Adaptation for T5 Code Completion",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2023",
+                "dc:creator": [
+                    {
+                        "@name": "Daisuke Fukumoto",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Toshiki Hirao",
+                        "@researcherId": "40965357",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kenji Fujiwara",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hajimu Iida",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": "IEEE",
+                    "@language": "en"
+                },
+                "prism:sourceName": {
+                    "@value": "The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2023/3",
+                "prism:place": "Macao",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55545",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "4",
+                    "@value": "\u56fd\u5185\u5b66\u4f1a\u7814\u7a76\u4f1a\u30fb\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "DC\u9023\u540d,MC\u5b66\u751f,MC\u9023\u540d",
+                "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u7121\u3057",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "\u8907\u6570\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u304a\u3044\u3066\u6280\u8853\u7684\u8ca0\u50b5\u306e\u9664\u53bb\u306b\u8ca2\u732e\u3059\u308bOSS\u958b\u767a\u8005\u306e\u5206\u6790\u306b\u3080\u3051\u3066"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2023",
+                "dc:creator": [
+                    {
+                        "@name": "\u83f1\u5ddd \u6f64\u54c9",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u798f\u672c \u5927\u4ecb",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u30dd\u30eb\u30de\u30cb\u30e9\u30bf\u30ca\u30bf\u30a4\u3000\u30bd\u30e9\u30bf\u30c1",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "DC"
+                    },
+                    {
+                        "@name": "\u67cf \u7950\u592a\u90ce",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u5e73\u5c3e \u4fca\u8cb4",
+                        "@researcherId": "40965357",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u85e4\u539f \u8ce2\u4e8c",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u98ef\u7530\u3000\u5143",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "\u77e5\u80fd\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u5de5\u5b66\u7814\u7a76\u4f1a \uff08KBSE\uff09"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2023/1",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55544",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "4",
+                    "@value": "\u56fd\u5185\u5b66\u4f1a\u7814\u7a76\u4f1a\u30fb\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "MC\u5b66\u751f,MC\u9023\u540d",
+                "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "Data Flow Graph\u3092\u7528\u3044\u305f\u81ea\u52d5\u30b3\u30fc\u30c9\u30ec\u30d3\u30e5\u30fc\u306b\u5411\u3051\u3066"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2023",
+                "dc:creator": [
+                    {
+                        "@name": "\u4e95\u539f \u8f1d\u4eba",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u798f\u672c \u5927\u4ecb",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u67cf \u7950\u592a\u90ce",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u5e73\u5c3e \u4fca\u8cb4",
+                        "@researcherId": "40965357",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u85e4\u539f \u8ce2\u4e8c",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u98ef\u7530\u3000\u5143",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "\u30a6\u30a3\u30f3\u30bf\u30fc\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d72023\u30fb\u30a4\u30f3\u30fb\u5bcc\u5c71"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2023/1",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55543",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "4",
+                    "@value": "\u56fd\u5185\u5b66\u4f1a\u7814\u7a76\u4f1a\u30fb\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "MC\u5b66\u751f",
+                "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u9069\u3057\u305f\u30b3\u30fc\u30c9\u88dc\u5b8c\u30e2\u30c7\u30eb\u306e\u5b9f\u73fe\u306b\u5411\u3051\u3066"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2023",
+                "dc:creator": [
+                    {
+                        "@name": "\u798f\u672c \u5927\u4ecb",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u67cf \u7950\u592a\u90ce",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u5e73\u5c3e \u4fca\u8cb4",
+                        "@researcherId": "40965357",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u85e4\u539f \u8ce2\u4e8c",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u98ef\u7530\u3000\u5143",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "\u30a6\u30a3\u30f3\u30bf\u30fc\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d72023\u30fb\u30a4\u30f3\u30fb\u5bcc\u5c71"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2023/1",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55498",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "\u305d\u306e\u4ed6",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Masanari Kondo",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yasutaka Kamei",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Osamu Mizuno",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "Empirical Software Engineering",
+                    "@language": "en"
+                },
+                "prism:volume": "27",
+                "prism:number": "6",
+                "prism:startingPage": "136",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2022/11",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u5b66\u5916",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55276",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "DC\u5b66\u751f",
+                "dc:presenters": "",
+                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "Automated Quantization and Retraining for Neural Network Models Without Labeled Data",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Kundjanasith Thonglek",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "DC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Keichi Takahashi",
+                        "@researcherId": "40846408",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kohei Ichikawa",
+                        "@researcherId": "90511676",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Chawanat Nakasan",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hidemoto Nakada",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Ryousei Takano",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Pattara Leelaprute",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hajimu Iida",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": "IEEE",
+                    "@language": "en"
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "IEEE Access",
+                    "@language": "en"
+                },
+                "prism:volume": "10",
+                "prism:number": "",
+                "prism:startingPage": "73818",
+                "prism:endingPage": "73834",
+                "prism:publicationDate": "2022/7",
+                "prism:place": "",
+                "prism:doi": "10.1109/ACCESS.2022.3190627",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55497",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "\u305d\u306e\u4ed6",
+                "dc:presenters": "",
+                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Ryoma Nishikawa",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yasutaka Kamei",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Masanari Kondo",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Emad Shihab",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Ryosuke Sato",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Naoyasu Ubayashi",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "Information and Software Technology",
+                    "@language": "en"
+                },
+                "prism:volume": "146",
+                "prism:number": "",
+                "prism:startingPage": "106855",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2022/6",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u5b66\u5916",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55494",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "\u305d\u306e\u4ed6",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u305d\u306e\u4ed6",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "\u30b3\u30f3\u30c6\u30ca\u4eee\u60f3\u5316\u6280\u8853\u306b\u304a\u3051\u308bSATD\u306e\u524a\u9664\u306b\u95a2\u3059\u308b\u8abf\u67fb"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "\u65b0\u5802 \u98a8",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u8fd1\u85e4 \u5c06\u6210",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u67cf \u7950\u592a\u90ce",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u6771 \u82f1\u660e",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u67d7\u672c \u771f\u4f51",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u4e80\u4e95 \u9756\u9ad8",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u9d5c\u6797 \u5c1a\u9756",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "\u60c5\u5831\u51e6\u7406\u5b66\u4f1a\u8ad6\u6587\u8a8c"
+                },
+                "prism:volume": "63",
+                "prism:number": "4",
+                "prism:startingPage": "949",
+                "prism:endingPage": "959",
+                "prism:publicationDate": "2022/4",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u5b66\u5916",
+                "prism:domestic": "\u56fd\u5185",
+                "prism:note": ""
+            },
             {
                 "@type": "item",
                 "dc:researchId": "52802",
@@ -21,8 +1027,8 @@
                 },
                 "dc:authorAttr": "DC\u5b66\u751f",
                 "dc:presenters": "",
-                "dc:thesis": "",
-                "dc:reviewers": "\u67fb\u8aad\u7121\u3057",
+                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
                 "dc:announcementForm": "",
                 "dc:publicationForm": "",
                 "dc:presentation": "",
@@ -30,7 +1036,7 @@
                 "dc:otherAttr": "",
                 "dc:language": "ENG",
                 "dc:title": {
-                    "@value": "A Transparent, Low-overhead Monitoring System for OpenFlow Networks",
+                    "@value": "Opimon: A Transparent, Low-overhead Monitoring System for OpenFlow Networks",
                     "@language": "en"
                 },
                 "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
@@ -90,7 +1096,8 @@
                     }
                 ],
                 "dc:publisher": {
-                    "@value": ""
+                    "@value": "IEICE",
+                    "@language": "en"
                 },
                 "prism:sourceName": {
                     "@value": ""
@@ -101,9 +1108,124 @@
                 },
                 "prism:volume": "E105-B",
                 "prism:number": "4",
+                "prism:startingPage": "485",
+                "prism:endingPage": "493",
+                "prism:publicationDate": "2022/4",
+                "prism:place": "",
+                "prism:doi": "10.1587/transcom.2021EBP3083",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55499",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "DC\u5b66\u751f,\u305d\u306e\u4ed6",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868,\u30c7\u30e2\u767a\u8868",
+                "dc:publicationForm": "Full Paper \u975e\u76f8\u5f53\u306e\u51fa\u7248\u3042\u308a",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Olivier Nourry",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "DC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Bin Lin",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Gabriele Bavota",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Michele Lanza",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yasutaka Kamei",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME2022)",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
                 "prism:startingPage": "",
                 "prism:endingPage": "",
-                "prism:publicationDate": "2022/4",
+                "prism:publicationDate": "2022/10",
                 "prism:place": "",
                 "prism:doi": "",
                 "dc:repositoryHandle": "",
@@ -117,6 +1239,236 @@
             },
             {
                 "@type": "item",
+                "dc:researchId": "55496",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "\u305d\u306e\u4ed6",
+                "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "Full Paper \u975e\u76f8\u5f53\u306e\u51fa\u7248\u3042\u308a",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Kyosuke Yamate",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Masanari Kondo",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yasutaka Kamei",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Naoyasu Ubayashi",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "The 46th IEEE Annual Computers, Software, and Applications Conference (COMPSAC2022)",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "563",
+                "prism:endingPage": "568",
+                "prism:publicationDate": "2022/6",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u5b66\u5916",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55495",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "\u305d\u306e\u4ed6",
+                "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "Full Paper \u975e\u76f8\u5f53\u306e\u51fa\u7248\u3042\u308a",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "Do Visual Issue Reports Help Developers Fix Bugs? - A Preliminary Study of Using Videos and Images to Report Issues on GitHub -",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Hiroki Kuramoto",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Masanari Kondo",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yuta Ishimoto",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kaze Shindo",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yasutaka Kamei",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Naoyasu Ubayashi",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "The 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022)",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "511",
+                "prism:endingPage": "515",
+                "prism:publicationDate": "2022/5",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u5b66\u5916",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
                 "dc:researchId": "53298",
                 "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
                 "dc:subDepartment": "",
@@ -124,7 +1476,7 @@
                     "@id": "2",
                     "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
                 },
-                "dc:authorAttr": "",
+                "dc:authorAttr": "DC\u5b66\u751f",
                 "dc:presenters": "DC\u5b66\u751f\u767a\u8868",
                 "dc:thesis": "",
                 "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
@@ -220,7 +1572,7 @@
                 "prism:endingPage": "",
                 "prism:publicationDate": "2022/5",
                 "prism:place": "",
-                "prism:doi": "",
+                "prism:doi": "10.1109/ICFEC54809.2022.00008",
                 "dc:repositoryHandle": "",
                 "prism:keyword": "",
                 "prism:wosNo": "",
@@ -239,7 +1591,7 @@
                     "@id": "2",
                     "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
                 },
-                "dc:authorAttr": "",
+                "dc:authorAttr": "MC\u5b66\u751f",
                 "dc:presenters": "MC\u5b66\u751f\u767a\u8868",
                 "dc:thesis": "",
                 "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
@@ -279,7 +1631,7 @@
                         "@language": "en"
                     },
                     {
-                        "@name": "Kouhei Ichikawa",
+                        "@name": "Kohei Ichikawa",
                         "@researcherId": "90511676",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
@@ -315,7 +1667,7 @@
                 "prism:endingPage": "",
                 "prism:publicationDate": "2022/1",
                 "prism:place": "",
-                "prism:doi": "",
+                "prism:doi": "10.1109/CCNC49033.2022.9700608",
                 "dc:repositoryHandle": "",
                 "prism:keyword": "",
                 "prism:wosNo": "",
@@ -363,7 +1715,7 @@
                     },
                     {
                         "@name": "\u5e73\u5c3e\u4fca\u8cb4",
-                        "@researcherId": "",
+                        "@researcherId": "40965357",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -452,7 +1804,7 @@
                     },
                     {
                         "@name": "\u5e73\u5c3e\u4fca\u8cb4",
-                        "@researcherId": "",
+                        "@researcherId": "40965357",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -505,7 +1857,176 @@
             },
             {
                 "@type": "item",
-                "dc:researchId": "53331",
+                "dc:researchId": "55288",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "4",
+                    "@value": "\u56fd\u5185\u5b66\u4f1a\u7814\u7a76\u4f1a\u30fb\u30b7\u30f3\u30dd\u30b8\u30a6\u30e0\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u7121\u3057",
+                "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
+                "dc:publicationForm": "",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u69cb\u6210\u30d5\u30a1\u30a4\u30eb\u306e\u56f3\u793a\u5316\u306b\u304a\u3051\u308b\u4e2d\u9593\u8868\u73fe\u306e\u63d0\u6848"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2021",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "\u6749\u6d66\u667a\u57fa",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u3042\u308a",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "MC"
+                    },
+                    {
+                        "@name": "\u9ad8\u6a4b\u3000\u6167\u667a",
+                        "@researcherId": "40846408",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u5e02\u5ddd\u3000\u660a\u5e73",
+                        "@researcherId": "90511676",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "RICC-PIoT Workshop 2022"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2022/2",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55508",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "5",
+                    "@value": "\u56fd\u5185\u5b66\u4f1a\u5927\u4f1a\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "\u305d\u306e\u4ed6",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "\u57fa\u8abf\u8b1b\u6f14",
+                "dc:publicationForm": "",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "JPN",
+                "dc:title": {
+                    "@value": "Code Reviews With Divergent Review Scores: An Empirical Study of the OpenStack and Qt Communities"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "\u5e73\u5c3e \u4fca\u8cb4",
+                        "@researcherId": "40965357",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "Shane McIntosh",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "Akinori Ihara",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    },
+                    {
+                        "@name": "\u677e\u672c\u3000\u5065\u4e00",
+                        "@researcherId": "70219492",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "\u7b2c21\u56de\u60c5\u5831\u79d1\u5b66\u6280\u8853\u30d5\u30a9\u30fc\u30e9\u30e0\uff08FIT2022\uff09"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2022/9/13",
+                "prism:place": "\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u3000\u77e2\u4e0a\u30ad\u30e3\u30f3\u30d1\u30b9",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "55501",
                 "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
                 "dc:subDepartment": "",
                 "dc:category": {
@@ -521,9 +2042,75 @@
                 "dc:presentation": "",
                 "dc:awards": "\u5b66\u8853\u8cde\u306e\u53d7\u8cde",
                 "dc:otherAttr": "",
-                "dc:language": "JPN",
+                "dc:language": "ENG",
                 "dc:title": {
-                    "@value": "\u82e5\u624b\u30a8\u30f3\u30b8\u30cb\u30a2\u8ad6\u6587\u767a\u8868\u8cde"
+                    "@value": "IEEE CS Kansai Chapter Young Author Award 2022",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2022",
+                "dc:year": "2022",
+                "dc:creator": [
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "IEEE CS",
+                    "@language": "en"
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2022/12",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u5b66\u5916",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": "Does Refactoring Break Tests and to What Extent?"
+            },
+            {
+                "@type": "item",
+                "dc:researchId": "53331",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "9",
+                    "@value": "\u8868\u5f70\u30fb\u53d7\u8cde"
+                },
+                "dc:authorAttr": "DC\u5b66\u751f",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "\u5b66\u8853\u8cde\u306e\u53d7\u8cde",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "\u82e5\u624b\u30a8\u30f3\u30b8\u30cb\u30a2\u8ad6\u6587\u767a\u8868\u8cde",
+                    "@language": "en"
                 },
                 "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
                 "dc:subChair": "",
@@ -537,7 +2124,38 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "DC"
+                        "@studentDivision": "DC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kohei Ichikawa",
+                        "@researcherId": "90511676",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Kazufumi YUASA",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Tadatoshi BABASAKI",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     }
                 ],
                 "dc:publisher": {
@@ -547,7 +2165,8 @@
                     "@value": ""
                 },
                 "prism:sourceName2": {
-                    "@value": "\u96fb\u5b50\u60c5\u5831\u901a\u4fe1\u5b66\u4f1a\u30fb\u96fb\u5b50\u901a\u4fe1\u30a8\u30cd\u30eb\u30ae\u30fc\u6280\u8853\u7814\u7a76\u5c02\u9580\u59d4\u54e1\u4f1a"
+                    "@value": "\u96fb\u5b50\u60c5\u5831\u901a\u4fe1\u5b66\u4f1a\u30fb\u96fb\u5b50\u901a\u4fe1\u30a8\u30cd\u30eb\u30ae\u30fc\u6280\u8853\u7814\u7a76\u5c02\u9580\u59d4\u54e1\u4f1a",
+                    "@language": "en"
                 },
                 "prism:volume": "",
                 "prism:number": "",
@@ -878,6 +2497,71 @@
             },
             {
                 "@type": "item",
+                "dc:researchId": "55283",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "2",
+                    "@value": "\u56fd\u969b\u4f1a\u8b70\u7b49\u767a\u8868"
+                },
+                "dc:authorAttr": "",
+                "dc:presenters": "",
+                "dc:thesis": "",
+                "dc:reviewers": "\u67fb\u8aad\u7121\u3057",
+                "dc:announcementForm": "\u62db\u5f85\u8b1b\u6f14",
+                "dc:publicationForm": "\u51fa\u7248\u306a\u3057",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "Research Presentation Techniques",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2021",
+                "dc:year": "2021",
+                "dc:creator": [
+                    {
+                        "@name": "Kohei Ichikawa",
+                        "@researcherId": "90511676",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": "PRAGMA Student Workshop 2021",
+                    "@language": "en"
+                },
+                "prism:sourceName2": {
+                    "@value": ""
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2021/11",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
                 "dc:researchId": "52800",
                 "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
                 "dc:subDepartment": "",
@@ -991,7 +2675,7 @@
                 "prism:endingPage": "",
                 "prism:publicationDate": "2021/11",
                 "prism:place": "",
-                "prism:doi": "",
+                "prism:doi": "10.1109/IGESSC53124.2021.9618702",
                 "dc:repositoryHandle": "",
                 "prism:keyword": "",
                 "prism:wosNo": "",
@@ -1451,9 +3135,10 @@
                 "dc:presentation": "\u51fa\u7248\u306a\u3057",
                 "dc:awards": "",
                 "dc:otherAttr": "",
-                "dc:language": "JPN",
+                "dc:language": "ENG",
                 "dc:title": {
-                    "@value": "Difficulty of detecting overstated dataset size in Federated Learning"
+                    "@value": "Difficulty of detecting overstated dataset size in Federated Learning",
+                    "@language": "en"
                 },
                 "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
                 "dc:subChair": "",
@@ -1467,7 +3152,8 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Keichi Takahashi",
@@ -1476,7 +3162,8 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Kohei Ichikawa",
@@ -1485,22 +3172,25 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     }
                 ],
                 "dc:publisher": {
                     "@value": ""
                 },
                 "prism:sourceName": {
-                    "@value": "\u7b2c189\u56de\u30de\u30eb\u30c1\u30e1\u30c7\u30a3\u30a2\u901a\u4fe1\u3068\u5206\u6563\u51e6\u7406\u7814\u7a76\u767a\u8868\u4f1a"
+                    "@value": "\u7b2c189\u56de\u30de\u30eb\u30c1\u30e1\u30c7\u30a3\u30a2\u901a\u4fe1\u3068\u5206\u6563\u51e6\u7406\u7814\u7a76\u767a\u8868\u4f1a",
+                    "@language": "en"
                 },
                 "prism:sourceName2": {
-                    "@value": ""
+                    "@value": "\u7814\u7a76\u5831\u544a\u30de\u30eb\u30c1\u30e1\u30c7\u30a3\u30a2\u901a\u4fe1\u3068\u5206\u6563\u51e6\u7406\uff08DPS\uff09",
+                    "@language": "en"
                 },
-                "prism:volume": "",
-                "prism:number": "",
-                "prism:startingPage": "",
-                "prism:endingPage": "",
+                "prism:volume": "2021-DPS-189",
+                "prism:number": "10",
+                "prism:startingPage": "1",
+                "prism:endingPage": "6",
                 "prism:publicationDate": "2021/12",
                 "prism:place": "",
                 "prism:doi": "",
@@ -6451,8 +8141,8 @@
                 "dc:thesis": "",
                 "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
                 "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
-                "dc:publicationForm": "",
-                "dc:presentation": "",
+                "dc:publicationForm": "\u51fa\u7248\u306a\u3057",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
                 "dc:awards": "",
                 "dc:otherAttr": "",
                 "dc:language": "ENG",
@@ -6532,7 +8222,7 @@
                 "prism:endingPage": "",
                 "prism:publicationDate": "2018/11",
                 "prism:place": "",
-                "prism:doi": "",
+                "prism:doi": "10.1109/ICSEC.2018.8712757",
                 "dc:repositoryHandle": "",
                 "prism:keyword": "",
                 "prism:wosNo": "",
@@ -6879,10 +8569,10 @@
                 "dc:authorAttr": "",
                 "dc:presenters": "",
                 "dc:thesis": "",
-                "dc:reviewers": "",
+                "dc:reviewers": "\u67fb\u8aad\u7121\u3057",
                 "dc:announcementForm": "\u53e3\u982d\u767a\u8868",
-                "dc:publicationForm": "",
-                "dc:presentation": "",
+                "dc:publicationForm": "\u51fa\u7248\u306a\u3057",
+                "dc:presentation": "\u51fa\u7248\u306a\u3057",
                 "dc:awards": "",
                 "dc:otherAttr": "",
                 "dc:language": "ENG",
@@ -6992,7 +8682,7 @@
                 "prism:endingPage": "37",
                 "prism:publicationDate": "2018/7",
                 "prism:place": "",
-                "prism:doi": "",
+                "prism:doi": "10.1109/BCD2018.2018.00013",
                 "dc:repositoryHandle": "",
                 "prism:keyword": "",
                 "prism:wosNo": "",
@@ -21226,7 +22916,7 @@
                     },
                     {
                         "@name": "Takai Noritoshi",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -21301,7 +22991,7 @@
                     },
                     {
                         "@name": "Takai Noritoshi",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -21376,7 +23066,7 @@
                 "dc:creator": [
                     {
                         "@name": "Takai Noritoshi",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -22161,7 +23851,7 @@
                     },
                     {
                         "@name": "Takai Noritoshi",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -23634,7 +25324,7 @@
                 "dc:creator": [
                     {
                         "@name": "Takai Noritoshi",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -24533,7 +26223,7 @@
                     },
                     {
                         "@name": "\u9ad8\u4e95\u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -26415,7 +28105,7 @@
                     },
                     {
                         "@name": "Raula Gaikovina Kula",
-                        "@researcherId": "",
+                        "@researcherId": "80749094",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -27631,7 +29321,7 @@
                     },
                     {
                         "@name": "Takai Noritoshi",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -27713,7 +29403,7 @@
                     },
                     {
                         "@name": "\u9ad8\u4e95\u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -27784,7 +29474,7 @@
                     },
                     {
                         "@name": "\u9ad8\u4e95 \u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -28044,7 +29734,7 @@
                     },
                     {
                         "@name": "Takai Toshinori",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -28118,7 +29808,7 @@
                 "dc:creator": [
                     {
                         "@name": "\u9ad8\u4e95\u3000\u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -29872,7 +31562,7 @@
                 "dc:creator": [
                     {
                         "@name": "Raula Gaikovina Kula",
-                        "@researcherId": "",
+                        "@researcherId": "80749094",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -30235,7 +31925,7 @@
                     },
                     {
                         "@name": "Raula Gaikovina Kula",
-                        "@researcherId": "",
+                        "@researcherId": "80749094",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -30445,7 +32135,7 @@
                 "dc:creator": [
                     {
                         "@name": "Raula Gaikovina Kula",
-                        "@researcherId": "",
+                        "@researcherId": "80749094",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -30645,7 +32335,7 @@
                 "dc:creator": [
                     {
                         "@name": "Raula Gaikovina Kula",
-                        "@researcherId": "",
+                        "@researcherId": "80749094",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -32175,7 +33865,7 @@
                     },
                     {
                         "@name": "Takai Toshinori",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -32309,7 +33999,7 @@
                 "dc:creator": [
                     {
                         "@name": "\u9ad8\u4e95\u3000\u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -32380,7 +34070,7 @@
                 "dc:creator": [
                     {
                         "@name": "\u9ad8\u4e95\u3000\u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -33445,7 +35135,7 @@
                 "dc:creator": [
                     {
                         "@name": "\u7530\u4e2d\u3000\u5eb7",
-                        "@researcherId": "",
+                        "@researcherId": "40648581",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -33632,7 +35322,7 @@
                     },
                     {
                         "@name": "Raula Gaikovina Kula",
-                        "@researcherId": "",
+                        "@researcherId": "80749094",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -33712,7 +35402,7 @@
                 "dc:creator": [
                     {
                         "@name": "\u7530\u4e2d\u3000\u5eb7",
-                        "@researcherId": "",
+                        "@researcherId": "40648581",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
@@ -34308,7 +35998,7 @@
                 "dc:creator": [
                     {
                         "@name": "\u9ad8\u4e95\u3000\u5229\u61b2",
-                        "@researcherId": "",
+                        "@researcherId": "10425738",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
