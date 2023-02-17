@@ -29,7 +29,7 @@ projects: []
 ---
 Daisuke Fukumoto and Akihito Ihara from SDLab presented at the Winter Workshop 2023 in Toyama, 20-21 January 2023.
 
-Mr. Fukumoto presented his paper titled ["Toward Building a Code Completion Model for a Specific Project"](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223453&item_no=1&page_id=13&block_id=8), and explained the challange of the Deep Learning-based code completion that the model cannnot suggest appropriate code for a specific project and the method with Domain Adaptation to solve this challange.
+Mr. Fukumoto presented his paper titled ["Toward Building a Code Completion Model for a Specific Project"](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223453&item_no=1&page_id=13&block_id=8). The paper discusses the challenge and solution of Deep Learning-based code completion in that the models cannot suggest appropriate code for a specific project.
 
-Mr.Ihara presented his paper titled ["Towards Automating Code Review Using Data Flow Graph"](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223454&item_no=1&page_id=13&block_id=8), and explaned the method for Automated Code Rereview based on GraphCodeBERT, the deep learning model which can consider the variable dependency.
+Mr.Ihara presented his paper titled ["Towards Automating Code Review Using Data Flow Graph"](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223454&item_no=1&page_id=13&block_id=8). The paper discusses the method for Automated Code Rereview based on GraphCodeBERT, the deep learning model which can consider the variable dependency.
 ![](ihara.jpg)
