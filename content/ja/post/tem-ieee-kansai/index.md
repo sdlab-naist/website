@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Thonglekさんが IEEE Kansai 論文発表賞を受賞しました"
+title: "Thonglekさんが IEEE 関西支部 学生研究奨励賞を受賞しました"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-ソフトウェア設計学研究室のKundjanasith Thonglekさん(博士後期課程3年)が、IEEE関西支部よりIEEE関西支部学生論文賞を受賞しました。
+ソフトウェア設計学研究室のKundjanasith Thonglekさん(博士後期課程3年)が、IEEE関西支部よりIEEE 関西支部 学生研究奨励賞を受賞しました。
 
 > Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Pattara Leelaprute, Hajimu Iida, "Automated Quantization and Retraining for Neural Network Models Without Labeled Data", IEEE Access, 2022 July.

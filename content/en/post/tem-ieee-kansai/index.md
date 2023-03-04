@@ -41,6 +41,6 @@ url_video: ""
 slides: ""
 ---
 
-Mr. Kundjanasith Thonglek (Tem), a third-year doctoral student at SDLab received IEEE Kansai Section Student Paper Award from IEEE Kansai branch.
+Mr. Kundjanasith Thonglek (Tem), a third-year doctoral student at SDLab received IEEE Kansai Section Student Paper Award from IEEE Kansai Section.
 
 > Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Pattara Leelaprute, Hajimu Iida, "Automated Quantization and Retraining for Neural Network Models Without Labeled Data", IEEE Access, 2022 July.
