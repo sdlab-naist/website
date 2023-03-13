@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Federated Infrastructure for Collaborative Machine Learning on Heterogeneous Environments (LiberatAI)"
+title: "Federated Infrastructure for Collaborative Machine Learning on Heterogeneous Environments"
 summary: ""
 authors: [Kundjanasith Thonglek]
 tags: []
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Architecture of LiberatAI"
+  caption: "Architecture of Proposed Infrastructure"
   focal_point: ""
   preview_only: false
 
@@ -44,21 +44,21 @@ Federated learning is a technique for training machine learning models while kee
 
 ## Design and Implementation
 
-LiberatAI enables the collaborative development of machine learning models on heterogeneous environments while preserving data privacy. Users can train the model with their local dataset on their environments and share the trained model via LiberatAI for aggregating the model with others from other developers or researchers. Federated learning is applied to train the models collaboratively by keeping the dataset on the client side to protect data exploitation. The model is exchanged between a server and clients instead of exchanging the raw data. Since edge devices have more computing power than ever, we can deploy and train the model on the client side. However, each environment has its own limitation so LiberatAI provides the model and execution environment which is compatible with the existing client's hardware environments.
+The proposed infrastructuer enables the collaborative development of machine learning models on heterogeneous environments while preserving data privacy. Users can train the model with their local dataset on their environments and share the trained model via the proposed infrastructure for aggregating the model with others from other developers or researchers. Federated learning is applied to train the models collaboratively by keeping the dataset on the client side to protect data exploitation. The model is exchanged between a server and clients instead of exchanging the raw data. Since edge devices have more computing power than ever, we can deploy and train the model on the client side. However, each environment has its own limitation so the proposed infrastructure provides the model and execution environment which is compatible with the existing client's hardware environments.
 
-Training models on the client side is not trivial because the limitation of client hardware needs to be considered. LiberatAI is composed of three main modules: (1) compressor module to handle heterogeneous storage resources, (2) aggregator module to handle heterogeneous computing resources, and (3) sparsifier module to handle heterogeneous communication resources.
+Training models on the client side is not trivial because the limitation of client hardware needs to be considered. The proposed infrastructure is composed of three main modules: (1) compressor module to handle heterogeneous storage resources, (2) aggregator module to handle heterogeneous computing resources, and (3) sparsifier module to handle heterogeneous communication resources.
 
 ## Evaluation
 
-LiberatAI was evaluated in a scenario to train models that detect COVID-19 from chest X-ray images. COVID-19 detection is a typical privacy-sensitive use case of machine learning because chest X-ray images may be used to identify patients and could lead to privacy violations
+The proposed infrastructure was evaluated in a scenario to train models that detect COVID-19 from chest X-ray images. COVID-19 detection is a typical privacy-sensitive use case of machine learning because chest X-ray images may be used to identify patients and could lead to privacy violations
 
 {{< figure src="result.jpg" title="Accuracy & Communication cost" >}}
 
-The figure shows the accuracy and communication cost for applying aggregator and sparsifier modules. As a result, LiberatAI achieves higher model accuracy than federated learning of the models with homogeneous structure while consuming less communication cost.
+The figure shows the accuracy and communication cost for applying aggregator and sparsifier modules. As a result, the proposed infrastructure achieves higher model accuracy than federated learning of the models with homogeneous structure while consuming less communication cost.
 
 ## Future Work
 
-In the future, the generality of LiberatAI will be investigated using a variety of machine learning applications with diverse structures of machine learning models. We plan to evaluate LiberatAI on a large number of edge devices and then improve the resource utilization in the infrastructure. Additionally, we will make LiberatAI as open-source software and available for the international or domestic research communities to remove the barrier to the collaborative development of machine learning models from the limitation of data privacy and existing resource constraints.
+In the future, the generality of the proposed infrastructure will be investigated using a variety of machine learning applications with diverse structures of machine learning models. We plan to evaluate the proposed infrastructure on a large number of edge devices and then improve the resource utilization in the infrastructure. Additionally, we will make the proposed infrastructure as open-source software and available for the international or domestic research communities to remove the barrier to the collaborative development of machine learning models from the limitation of data privacy and existing resource constraints.
 
 ## Publication
 - Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Pattara Leelaprute, Hajimu Iida, "Automated Quantization and Retraining for Neural Network Models Without Labeled Data," in IEEE Access, vol. 10, pp. 73818-73834, Jul. 2022. DOI: [10.1109/ACCESS.2022.3190627](https://ieeexplore.ieee.org/document/9828404)
