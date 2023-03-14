@@ -4,7 +4,7 @@
 title: "Federated Infrastructure for Collaborative Machine Learning on Heterogeneous Environments"
 summary: ""
 authors: [Kundjanasith Thonglek]
-tags: []
+tags: ["Machine Learning"]
 categories: []
 date: 2023-03-13T17:25:06+09:00
 
