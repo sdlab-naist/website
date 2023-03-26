@@ -32,6 +32,8 @@ Daisuke Fukumoto, M2 in our laboratory, presented the following paper at [the 30
 > Daisuke Fukumoto, Yutaro Kashiwa, Toshiki Hirao, Kenji Fujiwara and Hajimu Iida, 
 > "An Empirical Investigation on the Performance of　Domain Adaptation for T5 Code Completion", 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023), Mar. 2023.
 
+SANER2023 is an international conference on software analysis, evolution and re-engineering organized by the IEEE. It is a top conference with a long history, now in its 30th year, including the predecessor conferences. In the ERA track to which Mr. Fukumoto accepted, 12 papers were accepted out of 30 submissions (i.e. acceptance rate 40%).
+
 This study examines how domain adaptation can improve the performance of deep learning-based code completion models on a target project, especially when these models tend to violate the project's coding rules. Using CodeT5, a state-of-the-art model for various code-related tasks in software engineering, we demonstrate the effectiveness of domain adaptation and analyze how the size of the target project affects the results.
 
 ![](image2.jpg)
