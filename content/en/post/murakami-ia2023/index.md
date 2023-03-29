@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mr. Murakami presented his research at Internet Architecture workshop."
+title: "Mr. Murakami presented his research at IEICE Technical Committee on Internet Architecture (IA)"
 subtitle: ""
 summary: ""
 authors: ["kyoya-murakami"]
-tags: ["Kubernetes"]
+tags: ["Kubernetes", "Edge Computing"]
 categories: []
 date: 2023-03-17T16:05:10+09:00
 lastmod: 2023-03-17T16:05:10+09:00
@@ -27,7 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Kyoya Murakami, M2 in our laboratory, gave his research at [Internet Architecture workshop](https://ken.ieice.org/ken/program/index.php?tgs_regid=4c4585ce7890559d709b0336010193f3fb3b287a5d87e17088da1225d91b4e66&tgid=IEICE-IA).
+
+Kyoya Murakami, a second-year master's student in our laboratory, presented his research at [IEICE Technical Committee on Internet Architecture (IA)](https://ken.ieice.org/ken/program/index.php?tgs_regid=4c4585ce7890559d709b0336010193f3fb3b287a5d87e17088da1225d91b4e66&tgid=IEICE-IA).
 
 
-He introduced his research titled "Evaluation of a load balancing method considering inter-site latency" that evaluation of a load balancing method for Kubernetes in edge computing.
+He introduced his research titled "Evaluation of a load balancing method considering inter-site latency", which evaluated a load balancing method for Kubernetes in edge computing environments, and received a Student Research Award.
