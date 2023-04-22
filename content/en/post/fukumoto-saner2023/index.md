@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Daisuke Fukumoto, M2 in our laboratory, presented the following paper at [the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)](https://saner2023.must.edu.mo/index) that took place on 21st-24th March 2023 in Macau. SANER is one of top conferences in the software engineering research field. SANER has been orginizsed by IEEE and had its 30th anniversary this year. 
+Daisuke Fukumoto, an M2 student in our laboratory, presented the following paper at [the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)](https://saner2023.must.edu.mo/index) on March 21st-24th, 2023. SANER is one of top conferences in the software engineering research field. SANER has been orginizsed by IEEE and had its 30th anniversary this year. 
 
 
 
