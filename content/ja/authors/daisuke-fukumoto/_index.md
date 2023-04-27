@@ -55,6 +55,6 @@ email: "fukumoto.daisuke.fd5@is.naist.jp"
 user_groups:
 - Past Student
 
-weight: 202304
+weight: 202303
 
 ---
