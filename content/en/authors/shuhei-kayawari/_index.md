@@ -67,5 +67,6 @@ user_groups:
 # Order this person will appear
 #  For current students: year and month of enrollment
 #  For past students: year and month of graduation
-weight: 202104
+weight: 202304
+
 ---
