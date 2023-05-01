@@ -7,3 +7,6 @@ public/
 jsconfig.json
 node_modules/
 .hugo_build.lock
+
+# Mac
+.DS_Store
