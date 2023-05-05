@@ -64,7 +64,7 @@ weight: 50
 ## Profile
 <p>I am an assistant professor at Nara Institute of Science and Technology (NAIST), Japan.  I worked for Hitachi Ltd. as a full-time software engineer for two years before spending three years as a research fellow of the Japan Society for the Promotion of Science. I received my Ph.D. degree in engineering from Wakayama University in 2020. After this, I was a post-doc under SENSOR (SENsible SOftware Refactoring) project led by Yasutaka Kamei and Gabriele Bavota. </p>
 
-<p>My research interests include empirical software engineering, specifically the analysis of software bugs, testing, refactoring, and release. In recent years, I have focused on utilizing trace logs generated during test exercises using dynamic analysis. These generated traces can improve Just-in-time bug predictions and automatic refactoring tools. Also, many of my projects involve foreign researchers from Canada, Switzerland, and South Korea, etc. </p>
+<p>My research interests include empirical software engineering, specifically the analysis of software bugs, testing, refactoring, and release. In recent years, I have focused on utilizing trace logs generated during test exercises using dynamic analysis. These generated traces can improve Just-in-time bug predictions and automatic refactoring tools. Also, many of my projects involve foreign researchers from Canada, Switzerland, the Netherlands, and South Korea. </p>
 <br>
 
 ## Biography
@@ -102,7 +102,14 @@ weight: 50
     <div>
         <span class="col-1">Apr. 2022---present: &ensp;&ensp;</span>
         <span class="col-2">Assistant professor at Nara Institute of Science and Technology (NAIST)</span>
-<!--         Graduate School of Science and Technology,  -->
+    </div>
+   <div>
+        <span class="col-1">Oct. 2022---Nov. 2022: </span>
+        <span class="col-2">Visiting researcher at Radboud University</span>
+    </div>
+       <div>
+        <span class="col-1">Oct. 2022---present: &ensp;&ensp;</span>
+        <span class="col-2">Japan Science and Technology Agency PRESTO-Researcher</span>
     </div>
 </div>
 
@@ -142,7 +149,12 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 - Research Encouragement Award, IEICE Special Interest Groups on Software Science, 2022. 
 <br>
 <br>
-																	
+
+## Grants
+- 2022-2026: Japan Science and Technology Agency, PRESTO, "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 52,000,000 YEN) [Principal Investigator]
+- 2021-2024: Japan Society for the Promotion of Science, KAKENHI (Young Researcher), "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 4,550,000 YEN) [Principal Investigator]
+- 2017-2020: Japan Society for the Promotion of Science, KAKENHI (JSPS Fellows), "Development of a detect method for High Impact bug" (Total: 2,800,000 YEN) [Principal Investigator]
+- 2018-2019: Japan Society for the Promotion of Science, Overseas Challenge Program, "Development of a detect method for High Impact bug" (Total: 1,400,000 YEN) [Principal Investigator]																	
 ## Qualifications 
 - Database Specialist (Information-technology Promotion Agency, Japan)
 - Applied Information Technology Engineer (Information-technology Promotion Agency, Japan)
