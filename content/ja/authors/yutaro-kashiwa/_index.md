@@ -72,16 +72,17 @@ weight: 50
 ---
 ## プロフィール
 専門はマイニングソフトウェアリポジトリ，特にソフトウェア品質の向上やソフトウェア保守の効率化に関する研究に従事．
-近年は，テスト実行時に動的解析を実施することで得られるトレースログを活用し，Just-In-Time不具合予測や自動リファクタリング等に盛んに取り組んでいる．その他，多数のプロジェクトで国際共同研究に取り組み，カナダ・スイス・韓国の大学に所属する多くの研究者と協力して研究を進める．博士（工学）．
+近年は，テスト実行時に動的解析を実施することで得られるトレースログを活用し，Just-In-Time不具合予測や自動リファクタリング等に盛んに取り組んでいる．その他，多数のプロジェクトで国際共同研究に取り組み，カナダ・スイス・オランダ・韓国の大学に所属する多くの研究者と協力して研究を進める．博士（工学）．
 <br>
 <br>
 
 ## 略歴
 <div>
-    <div>
+<!--    <div>
         <span class="col-1">2013年&ensp;4月～2015年&ensp;3月:</span>
         <span class="col-2">和歌山大学大学院システム工学研究科 博士前期課程</span>
     </div>
+-->
     <div>
         <span class="col-1">2015年&ensp;4月～2017年&ensp;3月: </span>
         <span class="col-2">株式会社 日立製作所</span>
@@ -110,6 +111,16 @@ weight: 50
         <span class="col-1">2022年&ensp;4月〜現在: &ensp;&ensp;&ensp; &ensp; &ensp;</span>
         <span class="col-2">奈良先端科学技術大学院大学 先端科学技術研究科 助教</span>
     </div>
+    <div>
+        <span class="col-1">2022年10月～2022年11月:</span>
+        <span class="col-2">Radboud Universtiy 客員研究員</span>
+    </div>
+    <div>
+        <span class="col-1">2022年10月～現在:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</span>
+        <span class="col-2">科学技術振興機構 さきがけ研究員(兼任)</span>
+    </div>
+
+
 </div>
 <br>
 								
@@ -117,15 +128,19 @@ weight: 50
 - <b>An Empirical Study on Self-admitted Technical Debt in Modern Code Review</b><br>
 Y Kashiwa, R Nishikawa, Y Kamei, M Kondo, E Shihab, R Sato, N Ubayashi<br>
 Information and Software Technology (IST), 2022.
+【CORE A論文誌】
 - <b>An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?</b><br>
 M Kondo, Y Kashiwa, Y Kamei, O Mizuno<br>
 Empirical Software Engineering, 2022.
+【CORE A論文誌】
 - <b>Does Refactoring Break Tests and to What Extent?</b><br>
 Y Kashiwa, K Shimizu, B Lin, G Bavota, M Lanza, Y Kamei, N Ubayashi<br>
 37th International Conference on Software Maintenance and Evolution (ICSME2021), 2021.
+【CORE A国際会議】
 - <b>Does Shortening the Release Cycle Affect Refactoring Activities: A Case Study of the JDT Core, Platform SWT, and UI projects</b><br>
 O Nourry, Y Kashiwa, Y Kamei, N Ubayashi<br>
 Information and Software Technology (IST), 2021.
+【CORE A論文誌】
  
 その他，以下に論文リスト（英文のみ）およびPDFが配備されています．こちらを御覧ください．
 https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
@@ -148,6 +163,14 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 <br>
 																	
+## 研究助成
+- 2022-2026：国立研究開発法人 科学技術振興機構 さきがけ「プログラム異常動作の自動検出技術の創出：機械が実現するセキュアな自動テスト 」（直接経費：40,000千円，間接経費：12,000千円）[研究代表者]
+- 2021-2024：日本学術振興会 科学研究費助成事業 若手研究「リファクタリングにより破壊されるテストスイート予測技術の開発：自動修正への挑戦 」(直接経費：3,500千円，間接経費：1,050千円) [研究代表者]
+- 2017-2020：日本学術振興会 科学研究費助成事業 特別研究員奨励費 「重大な影響を及ぼす不具合の検出手法の構築
+」（直接経費：2,800千円）[研究代表者]
+- 2018-2019：日本学術振興会 若手研究者海外挑戦プログラム（滞在費：1,400千円）[研究代表者]
+
+
 ## 資格
 - 情報処理推進機構 データベーススペシャリスト
 - 情報処理推進機構 応用情報技術者
