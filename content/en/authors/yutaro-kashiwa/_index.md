@@ -109,7 +109,7 @@ weight: 50
     </div>
        <div>
         <span class="col-1">Oct. 2022---present: &ensp;&ensp;</span>
-        <span class="col-2">Japan Science and Technology Agency PRESET-Researcher</span>
+        <span class="col-2">Japan Science and Technology Agency PRESTO-Researcher</span>
     </div>
 </div>
 
