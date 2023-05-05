@@ -64,7 +64,7 @@ weight: 50
 ## Profile
 <p>I am an assistant professor at Nara Institute of Science and Technology (NAIST), Japan.  I worked for Hitachi Ltd. as a full-time software engineer for two years before spending three years as a research fellow of the Japan Society for the Promotion of Science. I received my Ph.D. degree in engineering from Wakayama University in 2020. After this, I was a post-doc under SENSOR (SENsible SOftware Refactoring) project led by Yasutaka Kamei and Gabriele Bavota. </p>
 
-<p>My research interests include empirical software engineering, specifically the analysis of software bugs, testing, refactoring, and release. In recent years, I have focused on utilizing trace logs generated during test exercises using dynamic analysis. These generated traces can improve Just-in-time bug predictions and automatic refactoring tools. Also, many of my projects involve foreign researchers from Canada, Switzerland, and South Korea, etc. </p>
+<p>My research interests include empirical software engineering, specifically the analysis of software bugs, testing, refactoring, and release. In recent years, I have focused on utilizing trace logs generated during test exercises using dynamic analysis. These generated traces can improve Just-in-time bug predictions and automatic refactoring tools. Also, many of my projects involve foreign researchers from Canada, Switzerland, the Netherlands, and South Korea. </p>
 <br>
 
 ## Biography
