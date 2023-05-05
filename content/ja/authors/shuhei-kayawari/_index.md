@@ -62,10 +62,11 @@ email: "kayawari.shuhei.ks0[at]is.naist.jp"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student
+  - Past Student
 
 # Order this person will appear
 #  For current students: year and month of enrollment
 #  For past students: year and month of graduation
-weight: 202104
+weight: 202303
+
 ---
