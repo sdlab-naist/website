@@ -4,7 +4,7 @@
 title: "Soratouch君のPDCAT2023での研究発表"
 subtitle: ""
 summary: ""
-authors: ["soratouch-pornmaneerattanatri]
+authors: ["soratouch-pornmaneerattanatri"]
 tags: ["Machine Learning", "HPC"]
 categories: []
 date: 2023-09-07T04:10:00-04:00
