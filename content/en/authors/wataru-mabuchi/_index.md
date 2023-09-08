@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "馬渕　航"
+title: "Wataru Mabuchi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程学生
+role: "Master's Student"
 
 # Organizations/Affiliations
 organizations:
@@ -22,14 +22,14 @@ bio:
 
 # List each interest with a dash
 interests:
-- ゲーム（Nintendo Switch）
-- 音楽
-- レゴ
+- Gaming
+- Music
+- LEGO
 
 education:
-  courses:
-  - course: 基礎工学部情報科学科
-    institution: 大阪大学
+  courses:  
+  - course: Department of Information and Computer science, School of Engineering science
+    institution: Osaka University
     year: 2023
   
 
@@ -38,15 +38,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-# icon_pack: ai
-# link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
   link: https://github.com/ring18
@@ -57,7 +48,8 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: 
+email: ""
+
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
@@ -66,5 +58,6 @@ highlight_name: false
 user_groups:
 - Student
 
-weight: 202304
+weight: 202204
 ---
+
