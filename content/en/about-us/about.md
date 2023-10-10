@@ -53,6 +53,6 @@ elevator. (Please refer to the following image)
 {{< figure library="true" src="floor_map_thumb_0_modified_2_1.png" title="研究室見取り図" lightbox="true" >}}
 
 - Mailing Address: Laboratory for Software Design and Analysis, Information Science Bldg. A 3F, Takayama-cho 8916-5, Ikoma, Nara, 630-0192 Japan
-- Telephone number: +81-743-73-5794
+- Telephone number: +81-743-72-5972
 - Fax number: +81-743-72-6252
 - Email Address: sdlab-contact [at] is.naist.jp (change [at] to "@")

@@ -22,4 +22,4 @@ title = "**TO SD LAB**"
 
 
 <i class="fa fa-phone fa-2x" aria-hidden="true" style="color:darkblue;">&thinsp;&thinsp;&thinsp;</i>
-<i class="" aria-hidden="true" style="color:darkblue;">0743-72-5794</i>
+<i class="" aria-hidden="true" style="color:darkblue;">0743-72-5972</i>
