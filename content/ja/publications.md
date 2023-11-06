@@ -29,10 +29,15 @@ projects: []
 
 ## 学術論文誌
 
-1. 松田 雄河, 山手 響介, 近藤 将成, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析", コンピュータソフトウェア, Jan. 2023.
-1. Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Osamu Mizuno, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?", Empirical Software Engineering, Nov. 2022.
+1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology, Aug. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
+1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Toward Predictive Modeling of Solar Power Generation for Multiple Power Plants", IEICE Transactions on Communications, Jul. 2023. [doi:10.1587/transcom.2022EBT0003](https://doi.org/10.1587/transcom.2022EBT0003)
+1. 市井 誠, 堀口 日向, 柏 祐太郎, 川上真澄, 伊原彰紀, 大平雅雄, "相関関係の効率的な解釈を支援するための遅延相関分析手法の拡張：プロジェクト管理への活用に向けた適用実験", 情報処理学会論文誌, Jul. 2023.
+1. Keichi Takahashi, Kohei Ichikawa, Joseph Park, Gerald M. Pao, "Scalable Empirical Dynamic Modeling With Parallel Computing and Approximate k-NN Search", IEEE Access, Jun. 2023. [doi:10.1109/ACCESS.2023.3289836](https://doi.org/10.1109/ACCESS.2023.3289836)
+1. Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Chawanat Nakasan, Pattara Leelaprute, Pree Thiengburanathum, Passakorn Phannachitta, "The Convergence of Container and Traditional Virtualization: Strengths and Limitations", SN Computer Science, May. 2023. [doi:10.1007/s42979-023-01827-9](https://doi.org/10.1007/s42979-023-01827-9)
+1. 松田 雄河, 山手 響介, 近藤 将成, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析", コンピュータソフトウェア, Jan. 2023. [doi:10.11309/jssst.40.1_45](https://doi.org/10.11309/jssst.40.1_45)
+1. Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Osamu Mizuno, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?", Empirical Software Engineering, Nov. 2022. [doi:10.1007/s10664-022-10120-x](https://doi.org/10.1007/s10664-022-10120-x)
 1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Pattara Leelaprute, Hajimu Iida, "Automated Quantization and Retraining for Neural Network Models Without Labeled Data", IEEE Access, Jul. 2022. [doi:10.1109/ACCESS.2022.3190627](https://doi.org/10.1109/ACCESS.2022.3190627)
-1. Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, Masanari Kondo, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review", Information and Software Technology, Jun. 2022.
+1. Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, Masanari Kondo, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review", Information and Software Technology, Jun. 2022. [doi:10.1016/j.infsof.2022.106855](https://doi.org/10.1016/j.infsof.2022.106855)
 1. 新堂 風, 近藤 将成, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, Apr. 2022.
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Opimon: A Transparent, Low-overhead Monitoring System for OpenFlow Networks", IEICE Transactions on Communications, Apr. 2022. [doi:10.1587/transcom.2021EBP3083](https://doi.org/10.1587/transcom.2021EBP3083)
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Swati Singhal, Jong Y. Choi, Keichi Takahashi, Kevin Huck, Igor Yakushin, Alan Sussman, Todd Munson, Ian Foster, Scott Klasky, "A codesign framework for online data analysis and reduction", Concurrency and Computation: Practice and Experience, Aug. 2021. [doi:10.1002/cpe.6519](https://doi.org/10.1002/cpe.6519)
@@ -41,15 +46,17 @@ projects: []
 1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善", コンピュータソフトウェア, Feb. 2020. [doi:10.11309/jssst.37.1_19](https://doi.org/10.11309/jssst.37.1_19)
 1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Jan. 2020. [doi:10.1587/transcom.2019CPI0001](https://doi.org/10.1587/transcom.2019CPI0001)
 1. 上村 恭平, 中才 恵太朗, 大神 勝也, 畑　秀明, 一ノ瀬 智浩, 松本　健一, 飯田　元, "Codosseum: オープンなソフトウェア開発・分析支援Webサービス", コンピュータソフトウェア, Jan. 2019. [doi:10.11309/jssst.36.38](https://doi.org/10.11309/jssst.36.38)
-1. 横井 一輝,, 崔　恩瀞, 吉田 則裕, 井上 克郎, "情報検索技術に基づく細粒度ブロッククローン検出", コンピュータソフトウェア, Oct. 2018. [doi:10.11309/jssst.35.16](https://doi.org/10.11309/jssst.35.16)
-1. 上村 恭平, 森 彰, 藤原 賢二, 崔　恩瀞, 飯田　元, "ハードウェア記述言語におけるコードクローンの定量的調査", 情報処理学会論文誌, Apr. 2018.
 
 ## 国際会議論文
 
-1. Daisuke Fukumoto, Yutaro Kashiwa, Toshiki Hirao, Kenji Fujiwara, Hajimu Iida, "An Empirical Investigation on the Performance of Domain Adaptation for T5 Code Completion", The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering, Mar. 2023.
-1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices", The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME2022), Oct. 2022.
-1. Kyosuke Yamate, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair", The 46th IEEE Annual Computers, Software, and Applications Conference (COMPSAC2022), Jun. 2022.
-1. Hiroki Kuramoto, Masanari Kondo, Yutaro Kashiwa, Yuta Ishimoto, Kaze Shindo, Yasutaka Kamei, Naoyasu Ubayashi, "Do Visual Issue Reports Help Developers Fix Bugs? - A Preliminary Study of Using Videos and Images to Report Issues on GitHub -", The 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022), May. 2022.
+1. Nabhan Suwanachote, Soratouch Pornmaneerattanatri, Yutaro Kashiwa, Kouhei Ichikawa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "A Pilot Study of Testing Infrastructure as Code for Cloud Systems", The 30th Asia-Pacific Software Engineering Conference (APSEC 2023), Dec. 2023.
+1. Chien-Hsua Chen, Nina Lee, Kohei Ichikawa, Hajimu Iida, Hirokazu Kato, "The Challenge of facilitating short-term Design Thinking Workshops for Higher Education in the New Normal Era", 10th International Association of Societies of Design Research Congress, Oct. 2023.
+1. Shun Fujita, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "An Empirical Study on the Use of Snapshot Testing", The 39th IEEE International Conference on Software Maintenance and Evolution (ICSME'23), Oct. 2023.
+1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "Parallelizable Loop Detection using Pre-trained Transformer Models for Code Understanding", The 24th International Conference on Parallel and Distributed Computing, Applications and Technologies, Aug. 2023.
+1. Daisuke Fukumoto, Yutaro Kashiwa, Toshiki Hirao, Kenji Fujiwara, Hajimu Iida, "An Empirical Investigation on the Performance of Domain Adaptation for T5 Code Completion", The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2023), Mar. 2023. [doi:10.1109/SANER56733.2023.00073](https://doi.org/10.1109/SANER56733.2023.00073)
+1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices", The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME2022), Oct. 2022. [doi:10.1109/ICSME55016.2022.00057](https://doi.org/10.1109/ICSME55016.2022.00057)
+1. Kyosuke Yamate, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair", The 46th IEEE Annual Computers, Software, and Applications Conference (COMPSAC2022), Jun. 2022. [doi:10.1109/COMPSAC54236.2022.00101](https://doi.org/10.1109/COMPSAC54236.2022.00101)
+1. Hiroki Kuramoto, Masanari Kondo, Yutaro Kashiwa, Yuta Ishimoto, Kaze Shindo, Yasutaka Kamei, Naoyasu Ubayashi, "Do Visual Issue Reports Help Developers Fix Bugs? - A Preliminary Study of Using Videos and Images to Report Issues on GitHub -", The 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022), May. 2022. [doi:10.1145/3524610.3527882](https://doi.org/10.1145/3524610.3527882)
 1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Pattara Leelaprute, Hajimu Iida, "Sparse Communication for Federated Learning", 6th IEEE International Conference on Fog and Edge Computing (ICFEC 2022), May. 2022. [doi:10.1109/ICFEC54809.2022.00008](https://doi.org/10.1109/ICFEC54809.2022.00008)
 1. Tomoki Sugiura, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, "Acar: An application-aware network routing system using SRv6”", 19th Annual Consumer Communications &amp; Networking Conference (CCNC), Jan. 2022. [doi:10.1109/CCNC49033.2022.9700608](https://doi.org/10.1109/CCNC49033.2022.9700608)
 1. Kohei Ichikawa, "Research Presentation Techniques", PRAGMA Student Workshop 2021, Nov. 2021.
@@ -79,14 +86,6 @@ projects: []
 1. Kohei Ichikawa, Atsuko Takefusa, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, "An international SDN testbed and NFV applications", The 3rd RICC-RIEC workshop, Dec. 2018.
 1. Kazuki Yokoi, Eunjong Choi, Norihiro Yoshida, Katsuro Inoue, "Investigating Vector-based Detection of Code Clones Using BigCloneBench",  Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018), Poster Track, Dec. 2018.
 1. Yuichi Semura, Norihiro Yoshida, Eunjong Choi, Katsuro Inoue, "Multilingual Detection of Code Clones Using ANTLR Grammar Definitions", Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018), ERA Track, Dec. 2018.
-1. Panida Khuphiran, Pattara Leelaprute, Putchong Uthayopas, Kohei Ichikawa, Wassapon Watanakeesuntorn, "Performance Comparison of Machine Learning Models for DDoS Attacks Detection", The 22nd International Computer Science and Engineering Conference (ICSEC 2018), Nov. 2018. [doi:10.1109/ICSEC.2018.8712757](https://doi.org/10.1109/ICSEC.2018.8712757)
-1. Eunjong Choi, Daiki Tanaka, Norihiro Yoshida, Kenji Fujiwara, Daniel Port, Hajimu Iida, "An Investigation of the Relationship Between Extract Method and Change Metrics: A Case Study of JEdit", Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018), ERA Track, Oct. 2018.
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Jason Haga, Gerald Pao, Erik Saberski, "rEDM Code Acceleration with ABCI Supercomputer", The 35th PRAGMA workshop, Oct. 2018.
-1. Kohei Ichikawa, Atsuko Takefusa, Yoshiyuki Kido, Yasuhiro Watashiba, Susumu Date, "Integrating PRAGMA-ENT and Inter-Cloudusing Dynamic L2VLAN Service", The 35th PRAGMA Workshop, Oct. 2018.
-1. Sachio Saiki, Naoki Fukuyasu, Kohei Ichikawa, Tetsuya Kanda, Masahide Nakamura, Shinsuke Matsumoto, Shinichi Yoshida, Shinji Kusumoto, "A Study of Practical Education Program on AI, Big Data, and Cloud Computing through Development of Automatic Ordering System", 3rd IEEE/ACIS International Conference on Big Data, Cloud computing, and Data Science Engineering (BCD 2018), Jul. 2018. [doi:10.1109/BCD2018.2018.00013](https://doi.org/10.1109/BCD2018.2018.00013)
-1. Kisub Kim, Dongsun Kim, Tegawendé F. Bissyandé, Eunjong Choi, Li Li, Jacques Klein, Yves Le Traon, "FaCoY – A Code-to-Code Search Engine", Proceedings of the 40th International Conference on Software Engineering, May. 2018.
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida, Putchong Uthayopas, "A proposal of a real-time OpenFlow DDoS detection tool", The 34th PRAGMA workshop, Apr. 2018.
-1. Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment", The 34th PRAGMA workshop, Apr. 2018.
 
 ## 著書
 
@@ -94,6 +93,9 @@ projects: []
 
 ## 国内学会研究会・シンポジウム等
 
+1. 馬渕 航, 柏 祐太郎, 柗本 真佑, 飯田 元, 楠本 真二, "Dockerfileプリプロセッサの自動抽出に向けたファイルアーキテクチャの調査", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
+1. Gao Shan, Kohei Ichikawa, Hajimu Iida, "A node selection algorithm for hybrid peer-to-peer services based on a modified dueling-DQN model", 情報処理学会研究報告インターネットと運用技術（IOT）, Jul. 2023.
+1. 村上恭哉, 高橋慧智, 市川昊平, 飯田元, "エッジコンピューティングにおける拠点間の通信遅延を考慮したリクエスト分散制御の評価", 電子情報通信学会技術研究報告, Mar. 2023.
 1. 菱川 潤哉, 福本 大介, ポルマニラタナタイ　ソラタチ, 柏 祐太郎, 平尾 俊貴, 藤原 賢二, 飯田　元, "複数プロジェクトにおいて技術的負債の除去に貢献するOSS開発者の分析にむけて", 知能ソフトウェア工学研究会 （KBSE）, Jan. 2023.
 1. 井原 輝人, 福本 大介, 柏 祐太郎, 平尾 俊貴, 藤原 賢二, 飯田　元, "Data Flow Graphを用いた自動コードレビューに向けて", ウィンターワークショップ2023・イン・富山, Jan. 2023.
 1. 福本 大介, 柏 祐太郎, 平尾 俊貴, 藤原 賢二, 飯田　元, "プロジェクトに適したコード補完モデルの実現に向けて", ウィンターワークショップ2023・イン・富山, Jan. 2023.
@@ -114,10 +116,6 @@ projects: []
 1. 辻光顕, 高井　利憲, 片平　真史, 石濱　直樹, 柿本和希, 飯田　元, "ハイブリッドシステムの安全検証に向けた形式的なSTAMPモデルの提案", ソフトウェアサイエンス研究会, Mar. 2019.
 1. 竹房あつ子, 市川昊平, 栗本崇, 合田憲人, "国際的なオンデマンドネットワークのためのトークンベース認証機構の研究", 研究報告インターネットと運用技術（IOT）, Mar. 2019.
 1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善の報告", 第5回 実践的IT教育シンポジウム (rePiT2019), Jan. 2019.
-1. 藤原 裕士, 崔　恩瀞, 吉田 則裕, 井上 克郎, "順伝播型ニューラルネットワークを用いた類似コードブロック検索の試み", ソフトウェアエンジニアリングシンポジウム2018論文集, Sep. 2018.
-1. 市川昊平, 竹房あつ子, 木戸善之, 渡場康弘, 伊達進, "広域SDN環境とオンデマンドクラウド構築サービスを用いたソフトウェア定義クラウド環境構築に関する提案", 情報処理学会 研究報告インターネットと運用技術（IOT）, Mar. 2018.
-1. Pongsakorn U-Chupala, Yasuhiro Watashiba, Kohei Ichikawa, Hajimu Iida, "Towards Self-Optimizing Network: Applying Deep Learning to Network Traffic Categorization and Identification in the Context of Application-Aware Network", 情報処理学会 研究報告インターネットと運用技術（IOT）, Mar. 2018.
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida, "A proposal of a real-time OpenFlow DDoS detection tool", 情報処理学会 研究報告インターネットと運用技術（IOT）, Mar. 2018.
 
 ## 国内学会大会等
 
@@ -128,8 +126,6 @@ projects: []
 1. Yutaro Kashiwa, "IEEE CS Kansai Chapter Young Author Award 2022", IEEE CS, Dec. 2022.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi YUASA, Tadatoshi BABASAKI, "若手エンジニア論文発表賞", 電子情報通信学会・電子通信エネルギー技術研究専門委員会, Jan. 2022.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Best Presentation Award", The 36th PRAGMA Workshop, May. 2019.
-1. Kisub Kim, Dongsun Kim, , Tegawendé F. Bissyandé, 崔　恩瀞, Li Li, Jacques Klein, Yves Le Traon, "情報処理学会ソフトウェア工学卓越研究賞", 情報処理学会ソフトウェア工学研究会, Sep. 2018.
-1. Sachio Saiki, Naoki Fukuyasu, Kohei Ichikawa, Tetsuya Kanda, Masahide Nakamura, Shinsuke Matsumoto, Shinichi Yoshida, Shinji Kusumoto, "Best paper award", 3rd IEEE/ACIS International Conference on Big Data, Cloud computing, and Data Science Engineering (BCD 2018), Jul. 2018.
 
 ## その他
 
