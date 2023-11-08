@@ -72,7 +72,7 @@ weight: 50
 ---
 ## プロフィール
 専門はマイニングソフトウェアリポジトリ，特にソフトウェア品質の向上やソフトウェア保守の効率化に関する研究に従事．
-近年は，テスト実行時に動的解析を実施することで得られるトレースログを活用し，Just-In-Time不具合予測や自動リファクタリング等に盛んに取り組んでいる．その他，多数のプロジェクトで国際共同研究に取り組み，カナダ・スイス・オランダ・韓国の大学に所属する多くの研究者と協力して研究を進める．博士（工学）．
+近年は，テスト実行時に動的解析を実施することで得られるトレースログを活用し，Just-In-Time不具合予測や自動リファクタリング等に盛んに取り組んでいる．その他，多数のプロジェクトで国際共同研究に取り組み，カナダ・スイス・オランダ・ルクセンブルグ・タイの大学に所属する多くの研究者と協力して研究を進める．博士（工学）．
 <br>
 <br>
 
@@ -83,41 +83,45 @@ weight: 50
         <span class="col-2">和歌山大学大学院システム工学研究科 博士前期課程</span>
     </div>
 -->
-    <div>
+    <div><b>
         <span class="col-1">2015年&ensp;4月～2017年&ensp;3月: </span>
         <span class="col-2">株式会社 日立製作所</span>
-    </div>
-        <div>
-        <span class="col-1">2017年&ensp;4月～2020年&ensp;3月:</span>
+    </b></div>
+    <div><b>
+	<span class="col-1">2017年&ensp;4月～2020年&ensp;3月:</span>
         <span class="col-2">和歌山大学大学院システム工学研究科 博士後期課程</span>
-    </div>
-        <div>
+    </b></div>
+    <div><b>
         <span class="col-1">2017年&ensp;4月～2020年&ensp;3月:</span>
         <span class="col-2">日本学術振興会 特別研究員（DC1）</span>
+    </b></div>
+    <div>
+        <span class="col-1">（2019年&ensp;4月～2019年&ensp;9月: </span>
+        <span class="col-2">Polytechnique Montréal 客員研究員）</span>
     </div>
-        <div>
-        <span class="col-1">2019年&ensp;4月～2019年&ensp;9月: </span>
-        <span class="col-2">Polytechnique Montréal 客員研究員</span>
-    </div>
-        <div>
+    <div><b>
         <span class="col-1">2020年&ensp;4月～2022年&ensp;3月: </span>
         <span class="col-2">九州大学 システム情報科学研究院 特任助教</span>
-    </div>
+    </b></div>
     <div>
-        <span class="col-1">2021年11月～2022年&ensp;2月:</span>
-        <span class="col-2">Università della Svizzera italiana 客員研究員</span>
+        <span class="col-1">（2021年11月～2022年&ensp;2月:</span>
+        <span class="col-2">Università della Svizzera italiana 客員研究員）</span>
     </div>
-    <div>
+    <div><b>
         <span class="col-1">2022年&ensp;4月〜現在: &ensp;&ensp;&ensp; &ensp; &ensp;</span>
         <span class="col-2">奈良先端科学技術大学院大学 先端科学技術研究科 助教</span>
-    </div>
-    <div>
-        <span class="col-1">2022年10月～2022年11月:</span>
-        <span class="col-2">Radboud Universtiy 客員研究員</span>
-    </div>
-    <div>
+    </b></div>
+    <div><b>
         <span class="col-1">2022年10月～現在:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</span>
         <span class="col-2">科学技術振興機構 さきがけ研究員(兼任)</span>
+    </b></div>
+    <div>
+        <span class="col-1">（2022年10月～2022年11月:</span>
+        <span class="col-2">Radboud Universtiy 客員研究員）</span>
+    </div>
+    <div>
+        <span class="col-1">（2023年&ensp;9月～2022年10月:</span>
+        <span class="col-2">Radboud Universtiy 客員研究員）</span>
     </div>
 
 
@@ -149,27 +153,66 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 
 ## 受賞
-- 2013年: ソフトウェアエンジニアリングシンポジウム(SES) 2013 インタラクティブ賞	
-- 2014年: <b>ソフトウェアエンジニアリングシンポジウム(SES) 2014 最優秀賞論文賞</b>	
-- 2015年: <b>情報処理学会論文誌　特選論文</b>
-- 2015年: 情報処理学会ソフトウェア工学研究会　研究奨励賞																				
-- 2015年: 和歌山大学　学長表彰																				
-- 2015年: ソフトウェアシンポジウム2015　研究奨励賞																				
-- 2016年: <b>情報処理学会　山下記念研究賞</b>
-- 2016年: <b>情報処理学会論文誌　論文賞</b>
-- 2021年: <b>情報処理学会論文誌　特選論文</b>
+- 2022年: IEEE CS Kansai Chapter Young Author Award 2022
 - 2022年: 電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞<br>
+- 2021年: <b>情報処理学会論文誌　特選論文</b>
+- 2016年: <b>情報処理学会論文誌　論文賞</b>
+- 2016年: <b>情報処理学会　山下記念研究賞</b>
+- 2015年: ソフトウェアシンポジウム2015　研究奨励賞                                      
+- 2015年: 和歌山大学　学長表彰                                                       
+- 2015年: 情報処理学会ソフトウェア工学研究会　研究奨励賞
+- 2015年: <b>情報処理学会論文誌　特選論文</b>
+- 2014年: <b>ソフトウェアエンジニアリングシンポジウム(SES) 2014 最優秀賞論文賞</b>    
+- 2013年: ソフトウェアエンジニアリングシンポジウム(SES) 2013 インタラクティブ賞	
 その他，学内表彰4件（内，3件研究業績表彰，HackU Yahoo 研究所賞等）
 <br>
 <br>
 																	
 ## 研究助成
-- 2022-2026：国立研究開発法人 科学技術振興機構 さきがけ「プログラム異常動作の自動検出技術の創出：機械が実現するセキュアな自動テスト 」（直接経費：40,000千円，間接経費：12,000千円）[研究代表者]
-- 2021-2024：日本学術振興会 科学研究費助成事業 若手研究「リファクタリングにより破壊されるテストスイート予測技術の開発：自動修正への挑戦 」(直接経費：3,500千円，間接経費：1,050千円) [研究代表者]
-- 2017-2020：日本学術振興会 科学研究費助成事業 特別研究員奨励費 「重大な影響を及ぼす不具合の検出手法の構築
-」（直接経費：2,800千円）[研究代表者]
-- 2018-2019：日本学術振興会 若手研究者海外挑戦プログラム（滞在費：1,400千円）[研究代表者]
+- <b>2022-2026：国立研究開発法人 科学技術振興機構 さきがけ</b>
+    - 研究代表者
+    - 研究課題：「プログラム異常動作の自動検出技術の創出：機械が実現するセキュアな自動テスト 」
+    - 直接経費：4,000万円，間接経費：1,200万円
+- <b>2021-2024：日本学術振興会 科学研究費助成事業 若手研究</b>
+    - 研究代表者
+    - 研究課題：「リファクタリングにより破壊されるテストスイート予測技術の開発：自動修正への挑戦 」
+    - 直接経費：350万円，間接経費：105万円
+- <b>2017-2020：日本学術振興会 科学研究費助成事業 特別研究員奨励費</b> 
+    - 研究代表者
+    - 研究課題：「重大な影響を及ぼす不具合の検出手法の構築」
+    - 直接経費：280万円
+- <b>2018-2019：日本学術振興会 若手研究者海外挑戦プログラム</b>
+    - 研究代表者
+    - 研究課題：「重大な影響を及ぼす不具合の検出手法の構築」
+    - 直接経費：140万円
 
+## 研究プロジェクト
+- DevOps (Testing)
+    - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
+    - Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
+    - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
+    - Cloud Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
+    - Build Acceleration: (To appear)
+    - Test Code Refactoring: (To appear)
+
+- Techinical Debt & Refactoring
+    - Refactoring during Rapid release: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2021_Nourry.pdf)
+    - Refactoring for enargy consumption: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2022_Nourry.pdf)
+    - SATD introducgtion during Code review: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2022_Kashiwa.pdf)
+    - SATD during Rapid release: (To appear)
+    - Context-aware SATD detection: (To appear)
+- Bug Analysis
+    - Visual Issues: [@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
+    - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
+    - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
+
+
+- Misc
+    - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
+    - Docker Licence: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
+    - Issue Linking Algorithm: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2022%10_Kondo.pdf)
+    - Automated Code review: (To appear)
+    - Identifying challenges with Programming video: (To appear) 
 
 ## 資格
 - 情報処理推進機構 データベーススペシャリスト
