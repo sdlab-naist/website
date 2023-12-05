@@ -5,7 +5,7 @@ title: "Kang Xingyuanさんが 2023 Eleventh International Symposium on Computin
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang"]
-tags: ["Distributed SDN","Controller placement problem (CPP)","Consensus Algorithm"]
+tags: ["SDN", "Distributed SDN","Controller placement problem (CPP)","Consensus Algorithm"]
 categories: []
 date: 2023-12-05T16:29:02+09:00
 lastmod: 2023-12-05T16:29:02+09:00
