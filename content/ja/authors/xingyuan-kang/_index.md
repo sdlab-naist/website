@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程
+role: 博士後期課程
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
+bio: Doctoral student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
 
 # List each interest with a dash
 interests:
@@ -28,9 +28,15 @@ interests:
 
 education:
   courses:
-  - course: Software Engineering
-    institution: Chiang Mai University in Thailand
+  - course: Bachelor's Degree (Software Engineering)
+    institution: Chiang Mai University, Thailand
     year: 2017 - 2021
+  - course: Master's Degree (Information Science)
+    institution: Nara Institute of Science and Technology, Japan
+    year: 2021 - 2023
+  - course: Doctoral Degree (Information Science)
+    institution: Nara Institute of Science and Technology, Japan
+    year: 2023 - 2026 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -39,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "kang.xingyuan.ku3@is.naist.jp"
+  link: "kang.xingyuan.ku3@naist.ac.jp"
 - icon: github
   icon_pack: fab
   link: https://github.com/KKKKKXY
@@ -50,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kang.xingyuan.ku3@naist.ac.jp"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -65,4 +71,4 @@ user_groups:
 
 
 ## Profile
-Master student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
+Doctoral student at Division of Information Science, Nara Institute of Science and Technology, Japan. Member of Software Design and Analysis Laboratory.
