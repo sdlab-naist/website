@@ -5,7 +5,7 @@ title: "米倉未樹さんがSIGSE 2023年11月研究会＠香川で発表しま
 subtitle: ""
 summary: ""
 authors: ["Miki Yonekura"]
-tags: ["SATD","Detector","Self-Admitted Techinical Debt"]
+tags: ["Self-Admitted Techinical Debt", "Technical Debt", "Mining Software Repository"]
 categories: []
 date: 2023-12-16T16:05:10+09:00
 lastmod: 2023-12-16T16:05:10+09:00
