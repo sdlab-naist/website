@@ -69,45 +69,45 @@ weight: 50
 
 ## Biography
 <div>
-    <div>
-        <span class="col-1">Apr. 2015---Mar. 2017: </span>
+    <div><b>
+        <span class="col-1">Apr. 2015--Mar. 2017: </span>
         <span class="col-2">Full-time software developer at Hitachi, Ltd.</span>
-    </div>
-        <div>
-        <span class="col-1">Apr. 2017---Mar. 2020:</span>
+    </b></div>
+    <div><b>
+        <span class="col-1">Apr. 2017--Mar. 2020:</span>
         <span class="col-2">Doctoral student at Wakayama University</span>
-    </div>
-        <div>
-        <span class="col-1">Apr. 2017---Mar. 2020:</span>
+    </b></div>
+    <div><b>
+        <span class="col-1">Apr. 2017--Mar. 2020:</span>
         <span class="col-2">JSPS Research Fellowships for Young Scientists (DC1)</span>
-    </div>
-        <div>
-        <span class="col-1">Apr. 2019---Sep. 2019: </span>
+    </b></div>
+    <div>
+        <span class="col-1">　Apr. 2019--Sep. 2019: </span>
         <span class="col-2">Visiting researcher at Polytechnique Montréal</span>
     </div>
-        <div>
-        <span class="col-1">Apr. 2020---Mar. 2022: </span>
+    <div><b>
+        <span class="col-1">Apr. 2020--Mar. 2022: </span>
         <span class="col-2">Reseach assistant researcher at Kyushu University</span>
 <!--         Graduate School and Faculty of Information Science and Electrical Engineering,  -->
-    </div>
+    </b></div>
     <div>
-        <span class="col-1">Nov. 2021---Feb. 2022:</span>
+        <span class="col-1">　Nov. 2021--Feb. 2022:</span>
         <span class="col-2">Visiting researcher at Università della Svizzera Italiana</span>
     </div>
-    <div>
-        <span class="col-1">Apr. 2022---present: &ensp;&ensp;</span>
-        <span class="col-2">Assistant professor at Nara Institute of Science and Technology (NAIST)</span>
-    </div>
-    <div>
+    <div><b>
+        <span class="col-1">Apr. 2022--present: &ensp;&ensp;</span>
+        <span class="col-2">Assistant professor at Nara Institute of Science and Technology</span>
+    </b></div>
+    <div><b>
         <span class="col-1">Oct. 2022---present: &ensp;&ensp;</span>
         <span class="col-2">Japan Science and Technology Agency PRESTO-Researcher</span>
-    </div>
+    </b></div>
    <div>
-        <span class="col-1">Oct. 2022---Nov. 2022: </span>
+        <span class="col-1">　Oct. 2022---Nov. 2022: </span>
         <span class="col-2">Visiting researcher at Radboud University</span>
     </div>
        <div>
-        <span class="col-1">Sep. 2023---Oct. 2023: </span>
+        <span class="col-1">　Sep. 2023---Oct. 2023: </span>
         <span class="col-2">Visiting researcher at Radboud University</span>
     </div>
 
@@ -116,7 +116,13 @@ weight: 50
 <br>
 
 						
-## Recent Publications
+## Recent Major Publications
+- <b>TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction</b><br>
+I Morita, Y Kashiwa, M Kondo, J Sohn, S Macintosh, Y Kamei, and N Ubayashi<br>
+The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024.
+- <b>The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities</b><br>
+O Nourry, Y Kashiwa, B Lin, G Bavota, M Lanza, and Y Kamei<br>
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2023.
 - <b>An Empirical Study on Self-admitted Technical Debt in Modern Code Review</b><br>
 Y Kashiwa, R Nishikawa, Y Kamei, M Kondo, E Shihab, R Sato, N Ubayashi<br>
 Information and Software Technology (IST), 2022.
@@ -137,6 +143,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 
 ## Awards
+#### Myself or My publications 
 - Research Encouragement Award, IEICE Special Interest Groups on Software Science, 2022. 
 - Specially Selected Paper Award, Transactions of Information Processing Society of Japan, 2021.
 - IPSJ Outstanding Paper Award, Transactions of Information Processing Society of Japan, 2016. 
@@ -147,8 +154,11 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 - Specially Selected Paper Award, Transactions of Information Processing Society of Japan, 2015.
 - Best Paper Award, Software Engineering Symposium 2014, 2014.
 - Interactive Award, Software Engineering Symposium 2013, 2013.																			
-
-
+#### Students
+- IPSJ Kyushu-branch Young Research Seminer 2023 Encouraged Research Award (Recepient: Issei Morita), 2023
+- JSSST Workshop on Foundation of Software Engineering Poster and Demo Award (Recepient: Miki Yonekura), 2023
+- JSSST Workshop on Foundation of Software Engineering Poster and Demo Award (Recepient: Miki Watanabe), 2023
+- IEEE Computer Society Japan Chapter FOSE Young Researcher Award (Recepient: Yuga Matsuda), 2022
 
 <br>
 <br>
@@ -161,10 +171,11 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 ## Projects
 - DevOps (Testing)
+    - Just-in-time Bug prediction [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
     - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
-    - Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
+    - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
-    - Cloud Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
+    - Cloud System Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
     - Build Acceleration: (To appear)
     - Test Code Refactoring: (To appear)
 
@@ -178,6 +189,13 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - Visual Issues: [@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
     - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
     - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
+
+- Misc
+    - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
+    - Docker Licence: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
+    - Issue Linking Algorithm: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2022%10_Kondo.pdf)
+    - Automated Code review: (To appear)
+    - Identifying challenges with Programming video: (To appear)
 
 
 ## Qualifications 

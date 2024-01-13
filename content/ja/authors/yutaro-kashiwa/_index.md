@@ -20,7 +20,7 @@ organizations:
   url: "https://itcw3.naist.jp/"
   
 # Short bio (displayed in user profile at end of posts)
-bio: 2015 年和歌山大学大学院システム工学研究科 博士前期課程修了．2015 年 (株)日立製作所に入社，システムエンジニアとして勤務．2017 年日本学術振興会特別研究員(DC1)．2020 年 和歌山大学大学院システム工学研究科博士後期課程修了． 同年九州大学大学院システム情報科学研究院 特任助教．2022年 奈良先端科学技術大学院大学 助教．ソフトウェア工学，特にソフトウェア品質保証の研究に従事. 博士（工学）．
+bio: 2015 年 (株)日立製作所に入社，システムエンジニアとして勤務．2017 年日本学術振興会特別研究員(DC1)．2020 年 和歌山大学大学院システム工学研究科博士後期課程修了． 同年九州大学大学院システム情報科学研究院 特任助教．2022年 奈良先端科学技術大学院大学 助教．ソフトウェア工学，特にソフトウェア品質保証の研究に従事. 博士（工学）．
 
 
 
@@ -96,16 +96,16 @@ weight: 50
         <span class="col-2">日本学術振興会 特別研究員（DC1）</span>
     </b></div>
     <div>
-        <span class="col-1">（2019年&ensp;4月～2019年&ensp;9月: </span>
-        <span class="col-2">Polytechnique Montréal 客員研究員）</span>
+        <span class="col-1">　2019年&ensp;4月～2019年&ensp;9月: </span>
+        <span class="col-2">Polytechnique Montréal 客員研究員</span>
     </div>
     <div><b>
         <span class="col-1">2020年&ensp;4月～2022年&ensp;3月: </span>
         <span class="col-2">九州大学 システム情報科学研究院 特任助教</span>
     </b></div>
     <div>
-        <span class="col-1">（2021年11月～2022年&ensp;2月:</span>
-        <span class="col-2">Università della Svizzera italiana 客員研究員）</span>
+        <span class="col-1">　2021年11月～2022年&ensp;2月:</span>
+        <span class="col-2">Università della Svizzera italiana 客員研究員</span>
     </div>
     <div><b>
         <span class="col-1">2022年&ensp;4月〜現在: &ensp;&ensp;&ensp; &ensp; &ensp;</span>
@@ -116,12 +116,12 @@ weight: 50
         <span class="col-2">科学技術振興機構 さきがけ研究員(兼任)</span>
     </b></div>
     <div>
-        <span class="col-1">（2022年10月～2022年11月:</span>
-        <span class="col-2">Radboud Universtiy 客員研究員）</span>
+        <span class="col-1">　2022年10月～2022年11月:</span>
+        <span class="col-2">Radboud Universtiy 客員研究員　</span>
     </div>
     <div>
-        <span class="col-1">（2023年&ensp;9月～2022年10月:</span>
-        <span class="col-2">Radboud Universtiy 客員研究員）</span>
+        <span class="col-1">　2023年&ensp;9月～2022年10月:</span>
+        <span class="col-2">Radboud Universtiy 客員研究員</span>
     </div>
 
 
@@ -129,6 +129,14 @@ weight: 50
 <br>
 								
 ## 主な研究実績
+- <b>TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction</b><br>
+I Morita, Y Kashiwa, M Kondo, J Sohn, S Macintosh, Y Kamei, and N Ubayashi<br>
+The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024.
+【CORE A 会議】
+- <b>The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities</b><br>
+O Nourry, Y Kashiwa, B Lin, G Bavota, M Lanza, and Y Kamei<br>
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2023.
+【CORE A* 論文誌】
 - <b>An Empirical Study on Self-admitted Technical Debt in Modern Code Review</b><br>
 Y Kashiwa, R Nishikawa, Y Kamei, M Kondo, E Shihab, R Sato, N Ubayashi<br>
 Information and Software Technology (IST), 2022.
@@ -153,6 +161,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 
 ## 受賞
+#### 自身もしくは論文への受賞
 - 2022年: IEEE CS Kansai Chapter Young Author Award 2022
 - 2022年: 電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞<br>
 - 2021年: <b>情報処理学会論文誌　特選論文</b>
@@ -165,6 +174,11 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 - 2014年: <b>ソフトウェアエンジニアリングシンポジウム(SES) 2014 最優秀賞論文賞</b>    
 - 2013年: ソフトウェアエンジニアリングシンポジウム(SES) 2013 インタラクティブ賞	
 その他，学内表彰4件（内，3件研究業績表彰，HackU Yahoo 研究所賞等）
+#### 指導学生の受賞
+- 2023年：情報処理学会九州支部 若手の会セミナー2023 奨励賞（受賞者：森田一成）
+- 2023年：ソフトウェア工学の基礎ワークショップ2023 ポスター・デモ賞（受賞者：米倉 未樹）
+- 2023年：ソフトウェア工学の基礎ワークショップ2023 ポスター・デモ賞（受賞者：渡邉 未来）
+- 2022年：IEEE Computer Society Japan Chapter FOSE Young Researcher Award（受賞者：松田 雄河）
 <br>
 <br>
 																	
@@ -188,10 +202,11 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 ## 研究プロジェクト
 - DevOps (Testing)
+    - Just-in-time Bug prediction [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
     - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
-    - Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
+    - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
-    - Cloud Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
+    - Cloud System Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
     - Build Acceleration: (To appear)
     - Test Code Refactoring: (To appear)
 
@@ -205,7 +220,6 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - Visual Issues: [@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
     - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
     - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
-
 
 - Misc
     - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
