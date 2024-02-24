@@ -29,7 +29,8 @@ projects: []
 
 ## Journal
 
-1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology, Aug. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
+1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
+1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Toward Predictive Modeling of Solar Power Generation for Multiple Power Plants", IEICE Transactions on Communications, Jul. 2023. [doi:10.1587/transcom.2022EBT0003](https://doi.org/10.1587/transcom.2022EBT0003)
 1. 市井 誠, 堀口 日向, 柏 祐太郎, 川上真澄, 伊原彰紀, 大平雅雄, "相関関係の効率的な解釈を支援するための遅延相関分析手法の拡張：プロジェクト管理への活用に向けた適用実験", 情報処理学会論文誌, Jul. 2023.
 1. Keichi Takahashi, Kohei Ichikawa, Joseph Park, Gerald M. Pao, "Scalable Empirical Dynamic Modeling With Parallel Computing and Approximate k-NN Search", IEEE Access, Jun. 2023. [doi:10.1109/ACCESS.2023.3289836](https://doi.org/10.1109/ACCESS.2023.3289836)
@@ -45,11 +46,11 @@ projects: []
 1. William F. Godoy, Norbert Podhorszki, Ruonan Wang, Chuck Atkins, Greg Eisenhauer, Junmin Gu, Philip Davis, Jong Choi, Kai Germaschewski, Kevin Huck, Axel Huebl, Mark Kim, James Kress, Tahsin Kurc, Qing Liu, Jeremy Logan, Kshitij Mehta, George Ostrouchov, Manish Parashar, Franz Poeschel, David Pugmire, Eric Suchyta, Keichi Takahashi, Nick Thompson, Seiji Tsutsumi, Lipeng Wan, Matthew Wolf, Kesheng Wu, Scott Klasky, "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management", SoftwareX, Jul. 2020. [doi:10.1016/j.softx.2020.100561](https://doi.org/10.1016/j.softx.2020.100561)
 1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善", コンピュータソフトウェア, Feb. 2020. [doi:10.11309/jssst.37.1_19](https://doi.org/10.11309/jssst.37.1_19)
 1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Jan. 2020. [doi:10.1587/transcom.2019CPI0001](https://doi.org/10.1587/transcom.2019CPI0001)
-1. 上村 恭平, 中才 恵太朗, 大神 勝也, 畑　秀明, 一ノ瀬 智浩, 松本　健一, 飯田　元, "Codosseum: オープンなソフトウェア開発・分析支援Webサービス", コンピュータソフトウェア, Jan. 2019. [doi:10.11309/jssst.36.38](https://doi.org/10.11309/jssst.36.38)
 
 ## International Conference
 
-1. Nabhan Suwanachote, Soratouch Pornmaneerattanatri, Yutaro Kashiwa, Kouhei Ichikawa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "A Pilot Study of Testing Infrastructure as Code for Cloud Systems", The 30th Asia-Pacific Software Engineering Conference (APSEC 2023), Dec. 2023.
+1. Issei Morita, Yutaro Kashiwa, Masanari Kondo, Jeongju Sohn, Shane McIntosh, Yasutaka Kamei, Naoyasu Ubayashi, "TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction", International Conference on Software Analysis, Evolution, and Reengineering (SANER'24), Mar. 2024.
+1. Nabhan Suwanachote, Soratouch Pornmaneerattanatri, Yutaro Kashiwa, Kouhei Ichikawa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "A Pilot Study of Testing Infrastructure as Code for Cloud Systems", The 30th Asia-Pacific Software Engineering Conference (APSEC'23), Dec. 2023.
 1. Chien-Hsua Chen, Nina Lee, Kohei Ichikawa, Hajimu Iida, Hirokazu Kato, "The Challenge of facilitating short-term Design Thinking Workshops for Higher Education in the New Normal Era", 10th International Association of Societies of Design Research Congress, Oct. 2023.
 1. Shun Fujita, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "An Empirical Study on the Use of Snapshot Testing", The 39th IEEE International Conference on Software Maintenance and Evolution (ICSME'23), Oct. 2023.
 1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "Parallelizable Loop Detection using Pre-trained Transformer Models for Code Understanding", The 24th International Conference on Parallel and Distributed Computing, Applications and Technologies, Aug. 2023.
@@ -82,10 +83,6 @@ projects: []
 1. Vahid Daneshmand, Renato Figueiredo, Kohei Ichikawa, Keichi Takahashi, Kundjanasith Thonglek, "Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices", The 37th PRAGMA Workshop, Sep. 2019.
 1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Jason Haga, Gerald Pao, "Calculation of Complete Zebrafish Brain Neural Activities on ABCI", The 36th PRAGMA workshop, Apr. 2019.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory", The 36th PRAGMA Workshop, Apr. 2019.
-1. Kundjanasith Thonglek, Kohei Ichikawa, Chatchawal Sangkeettrakarn, Apivadee Piyatumrong, "Auto-Scaling Apache Spark Cluster using Deep Reinforcement Learning", International Conference on Optimization and Learning 2019, Jan. 2019.
-1. Kohei Ichikawa, Atsuko Takefusa, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, "An international SDN testbed and NFV applications", The 3rd RICC-RIEC workshop, Dec. 2018.
-1. Kazuki Yokoi, Eunjong Choi, Norihiro Yoshida, Katsuro Inoue, "Investigating Vector-based Detection of Code Clones Using BigCloneBench",  Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018), Poster Track, Dec. 2018.
-1. Yuichi Semura, Norihiro Yoshida, Eunjong Choi, Katsuro Inoue, "Multilingual Detection of Code Clones Using ANTLR Grammar Definitions", Proceedings of the 25th Asia-Pacific Software Engineering Conference (APSEC 2018), ERA Track, Dec. 2018.
 
 ## Book
 
@@ -115,7 +112,6 @@ projects: []
 1. 鐘ヶ江由佳, 崔恩瀞, 飯田元, "OSSプロジェクトにおけるCIツールの変更の影響調査に向けて", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
 1. 辻光顕, 高井　利憲, 片平　真史, 石濱　直樹, 柿本和希, 飯田　元, "ハイブリッドシステムの安全検証に向けた形式的なSTAMPモデルの提案", ソフトウェアサイエンス研究会, Mar. 2019.
 1. 竹房あつ子, 市川昊平, 栗本崇, 合田憲人, "国際的なオンデマンドネットワークのためのトークンベース認証機構の研究", 研究報告インターネットと運用技術（IOT）, Mar. 2019.
-1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善の報告", 第5回 実践的IT教育シンポジウム (rePiT2019), Jan. 2019.
 
 ## Annual Domestic Meeting
 
