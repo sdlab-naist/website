@@ -7,8 +7,8 @@ summary: ""
 authors: ["Yutaro Kashiwa"]
 tags: ["Testing", "Defect Prediction", "Continuous Integration"]
 categories: []
-date: 2024-3-15T16:05:10+09:00
-lastmod: 2024-4-3T16:05:10+09:00
+date: 2024-03-15T16:05:10+09:00
+lastmod: 2024-04-03T16:05:10+09:00
 featured: false
 draft: false
 
