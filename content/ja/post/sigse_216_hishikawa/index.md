@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "菱川くんがSIGSE 2023年3月研究会＠東京で発表を行いました"
+title: "菱川君がSIGSE 2023年3月研究会＠東京で発表を行いました"
 subtitle: ""
 summary: ""
 authors: ["Yasuhito Morikawa"]
