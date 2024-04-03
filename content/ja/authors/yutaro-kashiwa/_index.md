@@ -71,7 +71,7 @@ user_groups:
 weight: 50
 ---
 ## プロフィール
-専門はマイニングソフトウェアリポジトリ，特にソフトウェア品質の向上やソフトウェア保守の効率化に関する研究に従事．
+専門はマイニングソフトウェアリポジトリ，特にソフトウェア品質の向上やソフトウェア開発の効率化を目的とし，継続的インテグレーションやDevOpsなどで生じるデータを活用した研究に従事．
 近年は，テスト実行時に動的解析を実施することで得られるトレースログを活用し，Just-In-Time不具合予測や自動リファクタリング等に盛んに取り組んでいる．その他，多数のプロジェクトで国際共同研究に取り組み，カナダ・スイス・オランダ・ルクセンブルグ・タイの大学に所属する多くの研究者と協力して研究を進める．博士（工学）．
 <br>
 <br>
@@ -129,6 +129,9 @@ weight: 50
 <br>
 								
 ## 主な研究実績
+- <b>Understanding the Characteristics and the Role of Visual Issue Reports</b><br>
+H Kuramoto, D Wang, M Kondo, Y Kashiwa, Y Kamei, N Ubayashi<br>
+Empirical Software Engineering, 2024.【CORE A論文誌】
 - <b>TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction</b><br>
 I Morita, Y Kashiwa, M Kondo, J Sohn, S Macintosh, Y Kamei, and N Ubayashi<br>
 The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024.
@@ -162,6 +165,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 ## 受賞
 #### 自身もしくは論文への受賞
+- 2024年: 電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞<br>
 - 2022年: IEEE CS Kansai Chapter Young Author Award 2022
 - 2022年: 電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞<br>
 - 2021年: <b>情報処理学会論文誌　特選論文</b>
@@ -183,26 +187,30 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 																	
 ## 研究助成
-- <b>2022-2026：国立研究開発法人 科学技術振興機構 さきがけ</b>
+- <b>2024-2027：日本学術振興会 科学研究費助成事業 科研B</b>
+    - 研究代表者
+    - 研究課題：「不完全なシステムログから不具合原因箇所特定技術の構築：システム自動復旧への挑戦」
+    - 直接経費：1,430万円，間接経費：429万円
+- <b>2022-2025：国立研究開発法人 科学技術振興機構 さきがけ</b>
     - 研究代表者
     - 研究課題：「プログラム異常動作の自動検出技術の創出：機械が実現するセキュアな自動テスト 」
     - 直接経費：4,000万円，間接経費：1,200万円
-- <b>2021-2024：日本学術振興会 科学研究費助成事業 若手研究</b>
+- <b>2021-2023：日本学術振興会 科学研究費助成事業 若手研究</b>
     - 研究代表者
     - 研究課題：「リファクタリングにより破壊されるテストスイート予測技術の開発：自動修正への挑戦 」
     - 直接経費：350万円，間接経費：105万円
-- <b>2017-2020：日本学術振興会 科学研究費助成事業 特別研究員奨励費</b> 
+- <b>2017-2019：日本学術振興会 科学研究費助成事業 特別研究員奨励費</b> 
     - 研究代表者
     - 研究課題：「重大な影響を及ぼす不具合の検出手法の構築」
     - 直接経費：280万円
-- <b>2018-2019：日本学術振興会 若手研究者海外挑戦プログラム</b>
+- <b>2018：日本学術振興会 若手研究者海外挑戦プログラム</b>
     - 研究代表者
     - 研究課題：「重大な影響を及ぼす不具合の検出手法の構築」
     - 直接経費：140万円
 
 ## 研究プロジェクト
 - DevOps (Testing)
-    - Just-in-time Bug prediction [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
+    - Just-in-time Bug prediction on Continuous Integration [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
     - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
     - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
@@ -217,7 +225,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - SATD during Rapid release: (To appear)
     - Context-aware SATD detection: (To appear)
 - Bug Analysis
-    - Visual Issues: [@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
+    - Visual Issues: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf)[@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
     - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
     - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
 

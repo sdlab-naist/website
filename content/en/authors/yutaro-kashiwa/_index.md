@@ -117,6 +117,9 @@ weight: 50
 
 						
 ## Recent Major Publications
+- <b>Understanding the Characteristics and the Role of Visual Issue Reports</b><br>
+H Kuramoto, D Wang, M Kondo, Y Kashiwa, Y Kamei, N Ubayashi<br>
+Empirical Software Engineering, 2024.
 - <b>TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction</b><br>
 I Morita, Y Kashiwa, M Kondo, J Sohn, S Macintosh, Y Kamei, and N Ubayashi<br>
 The 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024.
@@ -144,6 +147,8 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 ## Awards
 #### Myself or My publications 
+- Research Encouragement Award, IEICE Special Interest Groups on Software Science, 2023.
+- IEEE CS Kansai Chapter Young Author Award 2022.
 - Research Encouragement Award, IEICE Special Interest Groups on Software Science, 2022. 
 - Specially Selected Paper Award, Transactions of Information Processing Society of Japan, 2021.
 - IPSJ Outstanding Paper Award, Transactions of Information Processing Society of Japan, 2016. 
@@ -164,14 +169,15 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 
 ## Grants
-- 2022-2026: Japan Science and Technology Agency, PRESTO, "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 52,000,000 YEN) [Principal Investigator]
-- 2021-2024: Japan Society for the Promotion of Science, KAKENHI (Young Researcher), "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 4,550,000 YEN) [Principal Investigator]
-- 2017-2020: Japan Society for the Promotion of Science, KAKENHI (JSPS Fellows), "Development of a detect method for High Impact bug" (Total: 2,800,000 YEN) [Principal Investigator]
-- 2018-2019: Japan Society for the Promotion of Science, Overseas Challenge Program, "Development of a detect method for High Impact bug" (Total: 1,400,000 YEN) [Principal Investigator]																
+- 2024-2027: Japan Society for the Promotion of Science, KAKENHI (B), "Developing Technique for Bug Localization with Imcomplete Logs" (Total: 18,590,000 YEN) [Principal Investigator]
+- 2022-2025: Japan Science and Technology Agency, PRESTO, "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 52,000,000 YEN) [Principal Investigator]
+- 2021-2023: Japan Society for the Promotion of Science, KAKENHI (Young Researcher), "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 4,550,000 YEN) [Principal Investigator]
+- 2017-2019: Japan Society for the Promotion of Science, KAKENHI (JSPS Fellows), "Development of a detect method for High Impact bug" (Total: 2,800,000 YEN) [Principal Investigator]
+- 2018: Japan Society for the Promotion of Science, Overseas Challenge Program, "Development of a detect method for High Impact bug" (Total: 1,400,000 YEN) [Principal Investigator]																
 
 ## Projects
 - DevOps (Testing)
-    - Just-in-time Bug prediction [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
+    - Just-in-time Bug prediction on Continuous Integration [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
     - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
     - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
@@ -185,8 +191,9 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - SATD introducgtion during Code review: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2022_Kashiwa.pdf)
     - SATD during Rapid release: (To appear)
     - Context-aware SATD detection: (To appear)
+
 - Bug Analysis
-    - Visual Issues: [@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
+    - Visual Issues: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf)[@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
     - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
     - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
 
