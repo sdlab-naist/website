@@ -7,6 +7,12 @@
    Hugo v0.84.1で動作確認をしています．
    extended version (with Sass/SCSS support)が必要です．
    使用するプラットフォームやバージョンによってはデフォルトでextended versionがインストールされないので確認してください．
+   
+   Macの場合：<br>
+    (1)goをinstall<br>
+    (2)hugoをソースからビルド (CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@v0.84.1)<br>
+   Ubuntuの場合：<br>
+    apt-getでhugoとgoを入れればOK
 2. 本リポジトリをクローンしてください．
     ```
     git clone https://github.com/sdlab-naist/website
@@ -66,8 +72,8 @@ git branch -d name-of-branch
     ```
     $ hugo new --kind authors content/ja/authors/firstname-lastname
     ```
-    `content/ja/authors/firstname-lastname`というディレクトリが生成されます．
-
+    `content/ja/authors/firstname-lastname`というディレクトリが生成されます．<br>
+    en（英語版も）も同様に
 2. 生成されたディレクトリ内の`_index.md`を編集し，名前やプロフィール
   などを設定します．下記の項目は必ず設定してください:
     - `title`: 氏名 (姓と名の間には半角空白を1つ空ける)
