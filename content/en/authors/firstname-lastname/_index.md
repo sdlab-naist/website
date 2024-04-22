@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "加藤 陸"
+title: "Riku Kato"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "加藤-陸"
+- "Riku-Kato"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程学生
+role: Master's course student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- 野球
+- baseball
 
 education:
   courses:
