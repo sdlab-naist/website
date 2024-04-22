@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant Professor
+role: Visiting Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -48,5 +48,5 @@ email: "toshiki.hirao@dtosh.com"
 user_groups:
 - Staff
 
-weight: 50
+weight: 60
 ---

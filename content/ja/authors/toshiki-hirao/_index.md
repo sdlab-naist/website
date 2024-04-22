@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 特任助教 & 代表取締役社長
+role: 客員助教 & 代表取締役社長
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ social:
 user_groups:
 - Staff
 
-weight: 50
+weight: 60
 ---
 
 ## プロフィール
@@ -77,7 +77,7 @@ weight: 50
 ABB社の双腕型ロボットYuMiを活用して工場生産ラインの自動化に向けた研究などが顕著。
 ソフトウェア業界で世界的に権威のある国際会議ICSEやFSE、海外論文誌TSEなどで研究成果を数多く発表した実績。
 
-特任助教及び(株)dTosh 代表取締役として、現在は数多くの
+客員助教及び(株)dTosh 代表取締役として、現在は数多くの
 グローバルな産学連携事業を牽引。Virginia Commonwealth University (アメリカ)、University of Waterloo (カナダ)などと連携し、数多くの企業をデジタル変革する研究支援を実施。
 
 ## 経歴
