@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程学生
+role: "博士前期課程学生"
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,13 @@ bio:
 
 # List each interest with a dash
 interests:
-- 野球
+- "野球"
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: "工学部工学科知能情報システムプログラム"
+    institution: "新潟大学"
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
