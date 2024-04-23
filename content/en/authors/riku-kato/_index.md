@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - courses: "Smart Information Systems Program"
+  - course: "Smart Information Systems Program"
     institution: "Niigata University"
     year: 2024
 
