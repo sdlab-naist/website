@@ -14,7 +14,7 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "<font style='color: darkblue;text-shadow: 0 0 3px white;'>Laboratory for Software Design and Analysis</font>"
+  title = "<font style='color: darkblue;text-shadow: 0 0 3px white;'>Software Design and Analysis Laboratory</font>"
   content = "<font style='color: darkblue;text-shadow: 0 0 3px white;'>Nara Institute of Science and Technology</font>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
