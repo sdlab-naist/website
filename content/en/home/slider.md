@@ -14,15 +14,15 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Laboratory for Software Design and Analysis"
-  content = "Nara Institute of Science and Technology"
+  title = "<font style='color: darkblue;text-shadow: 0 0 3px white;'>Software Design and Analysis Laboratory</font>"
+  content = "<font style='color: darkblue;text-shadow: 0 0 3px white;'>Nara Institute of Science and Technology</font>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "top_slider_bg.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -31,6 +31,17 @@ height = "300px"
   #  cta_url = "https://sourcethemes.com/academic/"
   #  cta_icon_pack = "fas"
   #  cta_icon = "graduation-cap"
+
+#[[item]]
+#  title = "<font style='color: white;font-style: italic;font-family: Georgia, serif;text-shadow: 0 0 3px black;'>デザインセンスの工学的追求</font>"
+#  content = "<font style='color: white;font-style:italic;font-family: Georgia, serif;text-shadow: 0 0 3px black;'>システムの造りに意図を込め、システムの造りにその意図を汲む</font>"
+#  align = "center"  # Choose `center`, `left`, or `right`.
+#  # Overlay a color or image (optional).
+#  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+#  overlay_color = "#666"  # An HTML color value.
+#  overlay_img = "top_slider_bg2.jpg"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+
 
 # [[item]]
 #   title = "Left"
