@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "EASE2024国際学会で学生が発表しました！"
+title: "渡邉さんがEASE2024国際学会で発表しました！"
 subtitle: ""
 summary: ""
 authors: ["miku-watanabe"]
