@@ -27,5 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our SD Lab student gave their presentation(Title: 「On the Use of ChatGPT for Code Review」) at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
+Our SD Lab student gave their presentation(Title: "On the Use of ChatGPT for Code Review") at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
 In this study, we analyzed the purpose of using ChatGPT for code review and developers' responses to it on pull requests on GitHub.
