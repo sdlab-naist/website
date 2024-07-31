@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ms. Watanabe, Mr.Fujita, Mr.Horikawa and Mr.Kano presented their paper at the SIGSE/SIGSS workshop in Hokkaido"
+title: "Ms. Watanabe, Mr.Fujita, Mr.Horikawa, and Mr.Kano presented their papers at the SIGSE/SIGSS workshop in Hokkaido"
 subtitle: ""
 summary: ""
 authors: ["Shun Fujita"]
