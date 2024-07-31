@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Miku Watanabe gave her presentation at EASE2024 ShortPapers"
+title: "Miku Watanabe presented her research at EASE 2024"
 subtitle: ""
 summary: ""
 authors: ["miku-watanabe"]
@@ -27,5 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our SD Lab student gave their presentation(Title: "On the Use of ChatGPT for Code Review") at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
-In this study, we analyzed the purpose of using ChatGPT for code review and developers' responses to it on pull requests on GitHub.
+Miku Watanabe in our laboratory, presented her work at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
+EASE is ranked as A conference in CORE. She presented the following paper:
+
+> Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida，
+>"On the Use of ChatGPT for Code Review", In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering, pp. 375-580.2024.
+
+
+This paper presented the purpose of using ChatGPT in code reviews. We collected and analyzed 229 review comments from GitHub projects, and found that (1) In 48.9% of review comments, developers use ChatGPT for outsourcing development tasks; (2) THe main purpose of using ChatGPT is for implementation, refactoring, bug fixing, reviewing, and testing; (3) We observed that 31% of reactions are negative;
