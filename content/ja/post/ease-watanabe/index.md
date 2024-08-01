@@ -32,6 +32,6 @@ projects: []
 > Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida，
 >"On the Use of ChatGPT for Code Review", In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering, pp. 375-580.2024.
 
-EASE2024はエビデンスに基づくソフトウェア工学に関する研究，およびソフトウェア実務への影響に関するCoreAの国際会議です．渡邉さんが投稿したShort Papers, Vision and Emerging Resultsトラックでは，38本の投稿のうち12本の論文が採択されました（採択率31%）．
+EASE2024はエビデンスに基づくソフトウェア工学に関する研究に関するCoreAランクの国際会議です．渡邉さんが投稿したShort Papers, Vision and Emerging Resultsトラックでは，38本の投稿のうち12本の論文が採択されました（採択率31%）．
 
-本研究ではコードレビューにおいてChatGPTを用いる目的や開発者の反応を調査しました．GitHubプロジェクトから229のレビューコメントを収集し，分析した結果，(1) 48.9%のレビューコメントで開発者はChatGPTにレビューを外注していること (2) ChatGPTを用いる目的は主に，実装，リファクタリング，不具合，レビュー，テストに関すること　(3) ChatGPTを用いたレビューコメントに対して31％が否定的な反応であったこと等を明らかにしました．
+本研究ではコードレビューにおいてChatGPTを用いる目的や開発者の反応を調査しました．GitHubプロジェクトから229のレビューコメントを収集し，分析した結果，(1) 48.9%のレビューコメントで開発者はChatGPTにレビューをアウトソースしていること (2) レビュー中にChatGPTを用いる目的は主に，実装，リファクタリング，不具合，レビュー，テストであること　(3) ChatGPTを用いたレビューコメントに対して31％が否定的な反応であったこと等を明らかにしました．
