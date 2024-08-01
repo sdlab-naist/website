@@ -27,11 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Miku Watanabe in our laboratory, presented her work at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
-EASE is ranked as A conference in CORE. She presented the following paper:
+Miku Watanabe, an M2 student in our laboratory, presented her work at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
+EASE is ranked as a CORE A conference. She presented the following paper:
 
 > Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida，
 >"On the Use of ChatGPT for Code Review", In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering, pp. 375-580.2024.
 
 
-This paper presented the purpose of using ChatGPT in code reviews. We collected and analyzed 229 review comments from GitHub projects, and found that (1) In 48.9% of review comments, developers use ChatGPT for outsourcing development tasks; (2) THe main purpose of using ChatGPT is for implementation, refactoring, bug fixing, reviewing, and testing; (3) We observed that 31% of reactions are negative;
+This paper presented the purpose of using ChatGPT in code reviews. We collected and analyzed 229 review comments from GitHub projects, and found that (1) In 48.9% of review comments, developers use ChatGPT for outsourcing development tasks; (2) The main purpose of using ChatGPT is for implementation, refactoring, bug fixing, reviewing, and testing; (3) We observed that 31% of reactions are negative;
