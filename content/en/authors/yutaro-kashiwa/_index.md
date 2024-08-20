@@ -117,6 +117,12 @@ weight: 50
 
 						
 ## Recent Major Publications
+- <b>My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures</b><br>
+O Nourry, Y Kashiwa, W Shang, H Shu, Y Kamei<br>
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. 
+- <b>Developer-Applied Accelerations in Continuous Integration</b><br>
+M Yin, Y Kashiwa, K Gallaba, M Alfadel, Y Kamei, S McIntosh<br>
+The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), 2024.
 - <b>Understanding the Characteristics and the Role of Visual Issue Reports</b><br>
 H Kuramoto, D Wang, M Kondo, Y Kashiwa, Y Kamei, N Ubayashi<br>
 Empirical Software Engineering, 2024.
