@@ -30,7 +30,8 @@ projects: []
 ## Journal
 
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
-1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
+1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jul. 2024.
+1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Nov. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Toward Predictive Modeling of Solar Power Generation for Multiple Power Plants", IEICE Transactions on Communications, Jul. 2023. [doi:10.1587/transcom.2022EBT0003](https://doi.org/10.1587/transcom.2022EBT0003)
 1. 市井 誠, 堀口 日向, 柏 祐太郎, 川上真澄, 伊原彰紀, 大平雅雄, "相関関係の効率的な解釈を支援するための遅延相関分析手法の拡張：プロジェクト管理への活用に向けた適用実験", 情報処理学会論文誌, Jul. 2023.
 1. Keichi Takahashi, Kohei Ichikawa, Joseph Park, Gerald M. Pao, "Scalable Empirical Dynamic Modeling With Parallel Computing and Approximate k-NN Search", IEEE Access, Jun. 2023. [doi:10.1109/ACCESS.2023.3289836](https://doi.org/10.1109/ACCESS.2023.3289836)
@@ -49,6 +50,11 @@ projects: []
 
 ## International Conference
 
+1. Mingyang Yin, Yutaro Kashiwa, Keheliya Gallaba, Mahmoud Alfadel, Yasutaka Kamei, Shane McIntosh, "Developer-Applied Accelerations in Continuous Integration", The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Oct. 2024.
+1. Yasuhito Morikawa, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "RevToken: A Token-Level Review Recommendation: How Far Are We?", The 40th International Conference on Software Maintenance and Evolution (ICSME 2024), Oct. 2024.
+1. Wataru Mabuchi, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "An Empirical Investigation into the Use of Dockerfile Preprocessors for Docker Image Management", The 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM 2024), Oct. 2024.
+1. Sho Isogai, Shinpei Ogata, Yutaro Kashiwa, Satoshi Yazawa, Kozo Okano, Takao Okubo, Hironori Washizaki, "Comparison of Methods for Automatically Predicting CVSS Base Vector", The 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024), Jul. 2024.
+1. Miku Watanabe, Yutaro Kashiwa, Bin Lin, Toshiki Hirao, Ken’ichi Yamaguchi, Hajimu Iida, "On the Use of ChatGPT for Code Review", The 28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024), May. 2024. [doi:10.1145/3661167.3661183](https://doi.org/10.1145/3661167.3661183)
 1. Issei Morita, Yutaro Kashiwa, Masanari Kondo, Jeongju Sohn, Shane McIntosh, Yasutaka Kamei, Naoyasu Ubayashi, "TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction", International Conference on Software Analysis, Evolution, and Reengineering (SANER'24), Mar. 2024.
 1. Nabhan Suwanachote, Soratouch Pornmaneerattanatri, Yutaro Kashiwa, Kouhei Ichikawa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "A Pilot Study of Testing Infrastructure as Code for Cloud Systems", The 30th Asia-Pacific Software Engineering Conference (APSEC'23), Dec. 2023.
 1. Chien-Hsua Chen, Nina Lee, Kohei Ichikawa, Hajimu Iida, Hirokazu Kato, "The Challenge of facilitating short-term Design Thinking Workshops for Higher Education in the New Normal Era", 10th International Association of Societies of Design Research Congress, Oct. 2023.
@@ -81,8 +87,6 @@ projects: []
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Compressing Recurrent Neural Network Models using Vector Quantization", The 37th PRAGMA Workshop, Sep. 2019.
 1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Jason Haga, Gerald Pao, "Modeling of Complete Zebrafish Brain Neural Activities on ABCI", The 37th PRAGMA Workshop, Sep. 2019.
 1. Vahid Daneshmand, Renato Figueiredo, Kohei Ichikawa, Keichi Takahashi, Kundjanasith Thonglek, "Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices", The 37th PRAGMA Workshop, Sep. 2019.
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Jason Haga, Gerald Pao, "Calculation of Complete Zebrafish Brain Neural Activities on ABCI", The 36th PRAGMA workshop, Apr. 2019.
-1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory", The 36th PRAGMA Workshop, Apr. 2019.
 
 ## Book
 
@@ -90,6 +94,22 @@ projects: []
 
 ## Domestic Conference and Symposium
 
+1. 白井 達也, 柏 祐太郎, 藤原 賢二, 飯田　元, "Fuzzingカバレッジと脆弱性検出における関係性の考察	", , Sep. 2024.
+1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "Continuous Fuzzingデータを用いた脆弱性予測に関する研究", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
+1. 中村 伊吹, 柏 祐太郎, 飯田　元, "テストコードに存在するSelf-Admitted Technical Debtの実証的調査に向けて", ソフトウェア エンジニアリングシンポジウム2024（SES2024）一般セッション, Sep. 2024.
+1. 渡邉 未来, 米倉 未樹, 柏 祐太郎, 飯田　元, "リリースサイクルの短縮化に伴うSelf Admitted Technical Debt導入・解決の影響調査にむけて", 情報処理学会 第217回ソフトウェア工学研究発表会, Jul. 2024.
+1. 藤田 駿, 馬渕 航, 柏 祐太郎, 飯田　元, "スナップショットテストにおける欠陥検出力の実証的評価にむけて", 情報処理学会 第217回ソフトウェア工学研究発表会, Jul. 2024.
+1. 堀川 康生, 馬渕 航, 柏 祐太郎, 藤原 賢二, 飯田　元, "テストコード固有のリファクタリングが及ぼす影響調査にむけて", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Jul. 2024.
+1. 狩野 悟, 森川 靖仁, 柏 祐太郎, 飯田　元, "テスト品質とプロダクションコード設計の関連性調査に向けて", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Jul. 2024.
+1. 三野 天羽, 藤原賢二, 柏 祐太郎, 平尾 俊貴, 飯田　元, "Equivalent Changesを考慮した不具合混入コミット特定アルゴリズムの開発", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2024.
+1. 馬渕 航, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "Dockerイメージ管理におけるDockerfile Preprocessor採用プロジェクトの特徴調査に向けて", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2024.
+1. 森川 靖仁, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "CodeBERTを用いたトークンレベルでのレビューコメント箇所推薦手法の提案", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2024.
+1. 菱川 潤哉, 柏 祐太郎, 槇原 絵里奈, 藤原 賢二, 平尾 俊貴, 飯田　元, "プログラミング教育動画における理解困難箇所と再視聴行動の関係性調査にむけて", 情報処理学会 第216回ソフトウェア工学研究発表会, Mar. 2024.
+1. 堀川 康生, 柏 祐太郎, 市川 嘉裕, 飯田　元, "テストコードリファクタリングの体系化にむけて	", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
+1. 森川 靖仁, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "モダンコードレビューにおけるトークンレベルのインラインコメント箇所推薦手法の提案	", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
+1. 藤田 駿, 柏 祐太郎, 飯田　元, "スナップショットテストにおける欠陥検出力の実証調査	", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
+1. 渡邉 未来, 柏 祐太郎, 飯田　元, 山口 賢一, "リリースの短縮化がSelf-Admitted Technical Debtの導入に与える影響の調査と考察	", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
+1. 米倉 未樹, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "コンテキストを考慮したSelf-Admitted Technical Debt検出ツールの提案	", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
 1. 馬渕 航, 柏 祐太郎, 柗本 真佑, 飯田 元, 楠本 真二, "Dockerfileプリプロセッサの自動抽出に向けたファイルアーキテクチャの調査", 第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）, Nov. 2023.
 1. Gao Shan, Kohei Ichikawa, Hajimu Iida, "A node selection algorithm for hybrid peer-to-peer services based on a modified dueling-DQN model", 情報処理学会研究報告インターネットと運用技術（IOT）, Jul. 2023.
 1. 村上恭哉, 高橋慧智, 市川昊平, 飯田元, "エッジコンピューティングにおける拠点間の通信遅延を考慮したリクエスト分散制御の評価", 電子情報通信学会技術研究報告, Mar. 2023.
@@ -110,8 +130,6 @@ projects: []
 1. 堤誠司, 藤田直行, 伊藤浩之, 大日向大地, 井上敬介, 松村洋祐, 高橋慧智, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ/In Transitアプローチを用いた大規模数値解析におけるポスト処理効率化", 第33回数値流体力学シンポジウム, Nov. 2019.
 1. 倉地亮介, 崔恩瀞, 飯田元, "類似コード検出ツールを用いたテストコード再利用に向けた調査", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
 1. 鐘ヶ江由佳, 崔恩瀞, 飯田元, "OSSプロジェクトにおけるCIツールの変更の影響調査に向けて", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
-1. 辻光顕, 高井　利憲, 片平　真史, 石濱　直樹, 柿本和希, 飯田　元, "ハイブリッドシステムの安全検証に向けた形式的なSTAMPモデルの提案", ソフトウェアサイエンス研究会, Mar. 2019.
-1. 竹房あつ子, 市川昊平, 栗本崇, 合田憲人, "国際的なオンデマンドネットワークのためのトークンベース認証機構の研究", 研究報告インターネットと運用技術（IOT）, Mar. 2019.
 
 ## Annual Domestic Meeting
 
@@ -119,11 +137,12 @@ projects: []
 
 ## Award
 
+1. 森川 靖仁, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "ソフトウェアサイエンス研究会 2023年度 研究奨励賞", 電子情報通信学会 ソフトウェアサイエンス研究会, Mar. 2024.
+1. 渡邉 未来, 柏 祐太郎, 飯田　元, 山口 賢一, "第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）　ポスター賞", 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会, Nov. 2023.
+1. 米倉 未樹, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）　ポスター賞", 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会, Nov. 2023.
 1. Yutaro Kashiwa, "IEEE CS Kansai Chapter Young Author Award 2022", IEEE CS, Dec. 2022.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi YUASA, Tadatoshi BABASAKI, "若手エンジニア論文発表賞", 電子情報通信学会・電子通信エネルギー技術研究専門委員会, Jan. 2022.
-1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Best Presentation Award", The 36th PRAGMA Workshop, May. 2019.
 
 ## Misc
 
 1. Shinji Shimojo, Keichi Takahashi, "Study on Data Staging Technique for Efficient Post-Processing in Large-Scale CFD Computation", JAXA Supercomputer System Annual Report, Sep. 2019.
-1. Scott Klasky, Norbert Podhorszki, Jason Ruonan Wang, Susumu Date, Keichi Takahashi, Osamu Tatebe, Taisuke Boku, "Enhancing ADIOS for extreme-scale data movement", US DOE and Japan MEXT Collaboration on Extreme Computing 2019, May. 2019.
