@@ -129,6 +129,12 @@ weight: 50
 <br>
 								
 ## 主な研究実績
+- <b>My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures</b><br>
+O Nourry, Y Kashiwa, W Shang, H Shu, Y Kamei<br>
+ACM Transactions on Software Engineering and Methodology (TOSEM), 2024.【CORE A*論文誌】
+- <b>Developer-Applied Accelerations in Continuous Integration</b><br>
+M Yin, Y Kashiwa, K Gallaba, M Alfadel, Y Kamei, S McIntosh<br>
+The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24), 2024.【CORE A*会議】
 - <b>Understanding the Characteristics and the Role of Visual Issue Reports</b><br>
 H Kuramoto, D Wang, M Kondo, Y Kashiwa, Y Kamei, N Ubayashi<br>
 Empirical Software Engineering, 2024.【CORE A論文誌】
@@ -187,7 +193,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 																	
 ## 研究助成
-- <b>2024-2027：日本学術振興会 科学研究費助成事業 科研B</b>
+- <b>2024-2027：日本学術振興会 科学研究費助成事業 基盤研究B</b>
     - 研究代表者
     - 研究課題：「不完全なシステムログから不具合原因箇所特定技術の構築：システム自動復旧への挑戦」
     - 直接経費：1,430万円，間接経費：429万円
