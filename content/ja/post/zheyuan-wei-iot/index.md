@@ -30,4 +30,4 @@ projects: []
 
 本研究室の魏喆源君が[情報処理学会インターネットと運用技術研究会](https://www.iot.ipsj.or.jp/)にて研究発表を行いました。
 
-本発表では「A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance」と題して、SRv6によるマルチパスQUIC伝送性能を最適化するモデルを作成する、学生研究奨励賞をいただきました。
+本発表では「A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance」と題して、SRv6によるマルチパスQUIC伝送性能を最適化するモデルを提案し、学生研究奨励賞をいただきました。

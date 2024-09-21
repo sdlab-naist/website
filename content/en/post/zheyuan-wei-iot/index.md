@@ -31,4 +31,4 @@ projects: []
 Wei Zheyuan, a second-year master's student in our laboratory, presented his research at [IPSJ SIG Internet and Operation Technology (IOT)](https://www.iot.ipsj.or.jp/).
 
 
-He introduced his research titled "A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance",which create a model that optimizing Multipath QUIC transmission performance by SRv6, and received a Student Research Award.
+He introduced his research titled "A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance," which proposed a model to optimize Multipath QUIC transmission performance by SRv6, and received a Student Research Award.
