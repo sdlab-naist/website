@@ -93,7 +93,7 @@ projects: []
 1. Kundjanasith Thonglek, Kohei Ichikawa, Chatchawal Sangkeettrakarn, Apivadee Piyatumrong, "Auto-Scaling System in Apache Spark Cluster Using Model-Based Deep Reinforcement Learning", Heuristics for Optimization and Learning (Studies in Computational Intelligence), Dec. 2020. [doi:10.1007/978-3-030-58930-1_23](https://doi.org/10.1007/978-3-030-58930-1_23)
 
 ## 国内学会研究会・シンポジウム等
-
+1. Wei Zheyuan, Kohei Ichikawa, Hajimu Iida, "A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance", 情報処理学会研究報告インターネットと運用技術（IOT）, Sep. 2024.
 1. 白井 達也, 柏 祐太郎, 藤原 賢二, 飯田　元, "Fuzzingカバレッジと脆弱性検出における関係性の考察	", , Sep. 2024.
 1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "Continuous Fuzzingデータを用いた脆弱性予測に関する研究", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
 1. 中村 伊吹, 柏 祐太郎, 飯田　元, "テストコードに存在するSelf-Admitted Technical Debtの実証的調査に向けて", ソフトウェア エンジニアリングシンポジウム2024（SES2024）一般セッション, Sep. 2024.
