@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mr.Papon presented his research at The 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)"
+title: "Mr. Papon presented his research at The 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)"
 subtitle: ""
 summary: ""
 authors: ["papon-choonhaklai"]
 tags: ["Time-Slicing GPU", "MLOps", "Distributed training"]
 categories: []
-date: 2024-09-23T22:29:12+09:00
-lastmod: 2024-09-23T22:29:12+09:00
+date: 2024-07-03T22:29:12+09:00
+lastmod: 2024-07-03T22:29:12+09:00
 featured: false
 draft: false
 
