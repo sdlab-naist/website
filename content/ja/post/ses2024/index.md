@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+中村君は[「テストコードに存在するSelf-Admitted Technical Debtの実証的調査に向けて」](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=239243&item_no=1&page_id=13&block_id=8)というタイトルで，テストコードにおけるSATDの分布や種類について発表しました．テストコードには様々な種類のSATDが存在しており，既存研究には該当しないテストコード固有のSATDがあることを明らかにしました．
+
 例
 本研究室のM1馬渕君が第一著者として投稿した論文が[ソフトウェア工学の基礎ワークショップ（FOSE2023）](https://fose.jssst.or.jp/fose2023/)にてフルペーパー採録されました（論文名：「Dockerfile プリプロセッサの自動抽出に向けた ファイルアーキテクチャの調査」）．当該研究では，様々な環境や利用形態に対応したコンテナを提供するために利用されるDockerプリプロセッサのファイルアーキテクチャを調査しています．調査の結果，テンプレートを用いてDockerfileを複数生成するパターンや1つのDockerfileから複数のコンテナを生成するパターンなどを観察しています．なお，当該研究は大阪大学との共同研究として実施しています．
 
