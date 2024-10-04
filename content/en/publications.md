@@ -50,16 +50,25 @@ projects: []
 
 ## International Conference
 
+1. Pakorn Laohakanniyom, Kohei Ichikawa, Hajimu Iida, Pattara Leelaprute, Bundit Manaskasemsak, Arnon Rungsawang, "An Evaluation of Network Performance through the Integration of SRv6 and MPTCP", IEEE International Conference on Communications, Networks, and Satellite 2024, Nov. 2024.
 1. Mingyang Yin, Yutaro Kashiwa, Keheliya Gallaba, Mahmoud Alfadel, Yasutaka Kamei, Shane McIntosh, "Developer-Applied Accelerations in Continuous Integration", The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Oct. 2024.
 1. Yasuhito Morikawa, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "RevToken: A Token-Level Review Recommendation: How Far Are We?", The 40th International Conference on Software Maintenance and Evolution (ICSME 2024), Oct. 2024.
 1. Wataru Mabuchi, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "An Empirical Investigation into the Use of Dockerfile Preprocessors for Docker Image Management", The 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM 2024), Oct. 2024.
+1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "Automatic Parallelization with CodeT5+: A Model for Generating OpenMP Directives", LLMxHPC: 2024 International Workshop on Large Language Models (LLMs) and HPC, IEEE Cluster 2024, Sep. 2024.
+1. Chandra Prasetyo Utomo, Kohei Ichikawa, Nashuha Insani, Kundjanasith Thonglek, Soratouch Pornmaneerattanatri, Ummi Azizah Rachmawati, "Scalable Personalised Treatment Recommendation in Critical Care", The 2024 8th International Conference on Information Technology, Information Systems and Electrical Engineering, Aug. 2024.
+1. Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "An Evaluation of Time-Sliced GPU Sharing with KubeRay for Machine Learning Workloads", 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC), Jul. 2024. [doi:10.1109/COMPSAC61105.2024.00194](https://doi.org/10.1109/COMPSAC61105.2024.00194)
 1. Sho Isogai, Shinpei Ogata, Yutaro Kashiwa, Satoshi Yazawa, Kozo Okano, Takao Okubo, Hironori Washizaki, "Comparison of Methods for Automatically Predicting CVSS Base Vector", The 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024), Jul. 2024.
 1. Miku Watanabe, Yutaro Kashiwa, Bin Lin, Toshiki Hirao, Ken’ichi Yamaguchi, Hajimu Iida, "On the Use of ChatGPT for Code Review", The 28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024), May. 2024. [doi:10.1145/3661167.3661183](https://doi.org/10.1145/3661167.3661183)
 1. Issei Morita, Yutaro Kashiwa, Masanari Kondo, Jeongju Sohn, Shane McIntosh, Yasutaka Kamei, Naoyasu Ubayashi, "TraceJIT: Evaluating the Impact of Behavioral Code Change on Just-In-Time Defect Prediction", International Conference on Software Analysis, Evolution, and Reengineering (SANER'24), Mar. 2024.
-1. Nabhan Suwanachote, Soratouch Pornmaneerattanatri, Yutaro Kashiwa, Kouhei Ichikawa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "A Pilot Study of Testing Infrastructure as Code for Cloud Systems", The 30th Asia-Pacific Software Engineering Conference (APSEC'23), Dec. 2023.
-1. Chien-Hsua Chen, Nina Lee, Kohei Ichikawa, Hajimu Iida, Hirokazu Kato, "The Challenge of facilitating short-term Design Thinking Workshops for Higher Education in the New Normal Era", 10th International Association of Societies of Design Research Congress, Oct. 2023.
+1. Chandra Prasetyo Utomo, Kohei Ichikawa, Soratouch Pornmaneerattanatri, Kundjanasith Thonglek, Nashuha Insani, Martha Riskiaty, "Highly Scalable Personalized Treatment Recommendation in Critical Care", CENTRA 7, Feb. 2024.
+1. Kohei Ichikawa, Wassapon Watanakeesuntorn, Keichi Takahashi, Joseph Park, Gerald M. Pao, "Empirical Dynamic Modeling in Cybersecurity Inspired by Brain Neural Network Analysis", APAN 57, Feb. 2024.
+1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "A Proposal of Automatic Parallelization using Transformer-based Large Language Models", The International Conference on High Performance Computing in Asia-Pacific Region, Jan. 2024.
+1. Nabhan Suwanachote, Soratouch Pornmaneerattanatri, Yutaro Kashiwa, Kohei Ichikawa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "A Pilot Study of Testing Infrastructure as Code for Cloud Systems", The 30th Asia-Pacific Software Engineering Conference (APSEC'23), Dec. 2023.
+1. Sorawit Manatura, Kohei Ichikawa, Chantana Chantrapornchai, Chawanat Nakasan, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, "Portable Containerized MPI Application Using UCX Replacement Method", 18th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, Nov. 2023. [doi:10.1007/978-3-031-46970-1_21](https://doi.org/10.1007/978-3-031-46970-1_21)
+1. Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Multi-Objective Optimization of Controller Placement in Distributed ONOS Networks", 2023 Eleventh International Symposium on Computing and Networking, Nov. 2023. [doi:10.1109/CANDAR60563.2023.00017](https://doi.org/10.1109/CANDAR60563.2023.00017)
+1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "Parallelizable Loop Detection using Pre-trained Transformer Models for Code Understanding", The 24th International Conference on Parallel and Distributed Computing, Applications and Technologies, Nov. 2023. [doi:10.1007/978-981-99-8211-0_4](https://doi.org/10.1007/978-981-99-8211-0_4)
+1. Chien-Hsua Chen, Nina Lee, Kohei Ichikawa, Hajimu Iida, Hirokazu Kato, "The Challenge of facilitating short-term Design Thinking Workshops for Higher Education in the New Normal Era", 10th International Association of Societies of Design Research Congress, Oct. 2023. [doi:10.21606/iasdr.2023.461](https://doi.org/10.21606/iasdr.2023.461)
 1. Shun Fujita, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "An Empirical Study on the Use of Snapshot Testing", The 39th IEEE International Conference on Software Maintenance and Evolution (ICSME'23), Oct. 2023.
-1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "Parallelizable Loop Detection using Pre-trained Transformer Models for Code Understanding", The 24th International Conference on Parallel and Distributed Computing, Applications and Technologies, Aug. 2023.
 1. Daisuke Fukumoto, Yutaro Kashiwa, Toshiki Hirao, Kenji Fujiwara, Hajimu Iida, "An Empirical Investigation on the Performance of Domain Adaptation for T5 Code Completion", The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2023), Mar. 2023. [doi:10.1109/SANER56733.2023.00073](https://doi.org/10.1109/SANER56733.2023.00073)
 1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "AIP: Scalable and Reproducible Execution Traces in Energy Studies on Mobile Devices", The 38th IEEE International Conference on Software Maintenance and Evolution (ICSME2022), Oct. 2022. [doi:10.1109/ICSME55016.2022.00057](https://doi.org/10.1109/ICSME55016.2022.00057)
 1. Kyosuke Yamate, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair", The 46th IEEE Annual Computers, Software, and Applications Conference (COMPSAC2022), Jun. 2022. [doi:10.1109/COMPSAC54236.2022.00101](https://doi.org/10.1109/COMPSAC54236.2022.00101)
@@ -81,20 +90,16 @@ projects: []
 1. Kundjanasith Thonglek, Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "SharingNets: an open source repository for sharing pre-trained neural networks", Symposium on Frontier Research in Information Science and Technology 2019, Dec. 2019.
 1. Seiji Tsutsumi, Naoyuki Fujita, Hiroyuki Ito, Daichi Obinata, Keisuke Inoue, Yosuke Matsumura, Keichi Takahashi, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ and In Transit Visualization for Numerical Simulations in HPC", In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019), Nov. 2019.
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Jong Choi, Keichi Takahashi, Igor Yakushin, Todd Munson, Ian Foster, Scott Klasky, "A Codesign Framework for Online Data Analysis and Reduction", Workflows in Support of Large-Scale Science (WORKS 2019), Nov. 2019. [doi:10.1109/WORKS49585.2019.00007](https://doi.org/10.1109/WORKS49585.2019.00007)
-1. Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa, Atsuko Takefusa, "Near Real-time Failover Model for Continuous Inter-Domain Communication", The 37th PRAGMA workshop, Sep. 2019.
-1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model", Workshop on Monitoring and Analysis for High Performance Computing Systems Plus Applications (HPCMASPA 2019), Sep. 2019. [doi:10.1109/CLUSTER.2019.8891022](https://doi.org/10.1109/CLUSTER.2019.8891022)
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Hajimu Iida, "An Interactive Monitoring Tool for OpenFlow Networks", The 37th PRAGMA Workshop, Sep. 2019.
-1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "Compressing Recurrent Neural Network Models using Vector Quantization", The 37th PRAGMA Workshop, Sep. 2019.
-1. Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Jason Haga, Gerald Pao, "Modeling of Complete Zebrafish Brain Neural Activities on ABCI", The 37th PRAGMA Workshop, Sep. 2019.
-1. Vahid Daneshmand, Renato Figueiredo, Kohei Ichikawa, Keichi Takahashi, Kundjanasith Thonglek, "Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices", The 37th PRAGMA Workshop, Sep. 2019.
 
 ## Book
 
+1. Keichi Takahashi, Kohei Ichikawa, Gerald M. Pao, "Toward Scalable Empirical Dynamic Modeling", Sustained Simulation Performance 2022, Mar. 2024. [doi:10.1007/978-3-031-41073-4_5](https://doi.org/10.1007/978-3-031-41073-4_5)
 1. Kundjanasith Thonglek, Kohei Ichikawa, Chatchawal Sangkeettrakarn, Apivadee Piyatumrong, "Auto-Scaling System in Apache Spark Cluster Using Model-Based Deep Reinforcement Learning", Heuristics for Optimization and Learning (Studies in Computational Intelligence), Dec. 2020. [doi:10.1007/978-3-030-58930-1_23](https://doi.org/10.1007/978-3-030-58930-1_23)
 
 ## Domestic Conference and Symposium
 
-1. 白井 達也, 柏 祐太郎, 藤原 賢二, 飯田　元, "Fuzzingカバレッジと脆弱性検出における関係性の考察	", , Sep. 2024.
+1. Wei Zheyuan, Kohei Ichikawa, Hajimu Iida, "A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance", 情報処理学会研究報告インターネットと運用技術（IOT）, Sep. 2024.
+1. 白井 達也, 柏 祐太郎, 藤原 賢二, 飯田　元, "Fuzzingカバレッジと脆弱性検出における関係性の考察	", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
 1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "Continuous Fuzzingデータを用いた脆弱性予測に関する研究", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
 1. 中村 伊吹, 柏 祐太郎, 飯田　元, "テストコードに存在するSelf-Admitted Technical Debtの実証的調査に向けて", ソフトウェア エンジニアリングシンポジウム2024（SES2024）一般セッション, Sep. 2024.
 1. 渡邉 未来, 米倉 未樹, 柏 祐太郎, 飯田　元, "リリースサイクルの短縮化に伴うSelf Admitted Technical Debt導入・解決の影響調査にむけて", 情報処理学会 第217回ソフトウェア工学研究発表会, Jul. 2024.
@@ -116,6 +121,7 @@ projects: []
 1. 菱川 潤哉, 福本 大介, ポルマニラタナタイ　ソラタチ, 柏 祐太郎, 平尾 俊貴, 藤原 賢二, 飯田　元, "複数プロジェクトにおいて技術的負債の除去に貢献するOSS開発者の分析にむけて", 知能ソフトウェア工学研究会 （KBSE）, Jan. 2023.
 1. 井原 輝人, 福本 大介, 柏 祐太郎, 平尾 俊貴, 藤原 賢二, 飯田　元, "Data Flow Graphを用いた自動コードレビューに向けて", ウィンターワークショップ2023・イン・富山, Jan. 2023.
 1. 福本 大介, 柏 祐太郎, 平尾 俊貴, 藤原 賢二, 飯田　元, "プロジェクトに適したコード補完モデルの実現に向けて", ウィンターワークショップ2023・イン・富山, Jan. 2023.
+1. 植嶋美喜, 湯淺一史, 竹内義晴, 馬場崎忠利, THONGLEK Kundjanasith, 市川昊平, 高橋慧智, "蓄電システムのロバスト制御によるマルチユース実証試験 需要・発電予測精度評価", 信学技報, Oct. 2022.
 1. 福本大介, 平尾俊貴, 藤原賢二, 飯田元, "開発プロジェクトのドメインに特化したRoBERTaによるコード補完モデルの提案", ソフトウェアサイエンス研究会 (SS), Mar. 2022.
 1. 井原輝人, 平尾俊貴, 藤原賢二, 飯田元, "ソースコードの文構造に着目したコードレビュー自動化モデルの提案", ソフトウェアサイエンス研究会 (SS), Mar. 2022.
 1. 杉浦智基, 高橋　慧智, 市川　昊平, "アプリケーション構成ファイルの図示化における中間表現の提案", RICC-PIoT Workshop 2022, Feb. 2022.
@@ -137,12 +143,9 @@ projects: []
 
 ## Award
 
+1. Kundjanasith THONGLEK, Kohei ICHIKAWA, Keichi TAKAHASHI, Chawanat NAKASAN, Kazufumi YUASA, Tadatoshi BABASAKI, Hajimu IIDA, "第19回電子情報通信学会通信ソサイエティ論文賞（Best Paper Award）", 電子情報通信学会, May. 2024.
 1. 森川 靖仁, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "ソフトウェアサイエンス研究会 2023年度 研究奨励賞", 電子情報通信学会 ソフトウェアサイエンス研究会, Mar. 2024.
 1. 渡邉 未来, 柏 祐太郎, 飯田　元, 山口 賢一, "第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）　ポスター賞", 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会, Nov. 2023.
 1. 米倉 未樹, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）　ポスター賞", 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会, Nov. 2023.
 1. Yutaro Kashiwa, "IEEE CS Kansai Chapter Young Author Award 2022", IEEE CS, Dec. 2022.
 1. Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi YUASA, Tadatoshi BABASAKI, "若手エンジニア論文発表賞", 電子情報通信学会・電子通信エネルギー技術研究専門委員会, Jan. 2022.
-
-## Misc
-
-1. Shinji Shimojo, Keichi Takahashi, "Study on Data Staging Technique for Efficient Post-Processing in Large-Scale CFD Computation", JAXA Supercomputer System Annual Report, Sep. 2019.
