@@ -7,8 +7,8 @@ summary: ""
 authors: ["Shun Fujita"]
 tags: ["Software Test","Techinical Debt"]
 categories: []
-date: 2024-09-25T17:33:10+09:00
-lastmod: 2024-09-25T17:33:10+09:00
+date: 2024-09-20T17:33:10+09:00
+lastmod: 2024-10-07T00:00:00+09:00
 featured: false
 draft: false
 
