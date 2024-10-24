@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Nabhan Suwanachote"
+title: "Nabhan Suwanachote (Au)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
