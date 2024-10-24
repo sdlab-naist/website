@@ -18,7 +18,7 @@ organizations:
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! It's Yagut from Azerbaijan. The research student of Software Design and Analysis Laboratory at Division of Information Science, NAIST. 
+bio: Hi! It's Yagut from Azerbaijan. I'm a research student of Software Design and Analysis Laboratory at Division of Information Science, NAIST. 
 
 # List each interest with a dash
 interests:
@@ -28,7 +28,6 @@ interests:
 
 
 education:
-  degree: Bachelor's Degree
   courses:
     - course: Bachelor's Degree in Process Automation Engineering
       institution: Baku Higher Oil School
@@ -39,13 +38,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:shakizada.yagut.ta2@naist.ac.jp'  
+social: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/RubyShe
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,3 +61,5 @@ weight: 202410
 user_groups:
 - Student
 ---
+## Profile
+Hi! It's Yagut from Azerbaijan. I'm a research student of Software Design and Analysis Laboratory at Division of Information Science, NAIST.
