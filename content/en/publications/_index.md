@@ -7,7 +7,7 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-02-17T18:32:18+09:00
+date: 2024-10-27T00:51:21
 featured: false
 draft: false
 
@@ -15,9 +15,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+caption: ""
+focal_point: ""
+preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -26,6 +26,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+[All publications](all)
 
 ## Journal
 
