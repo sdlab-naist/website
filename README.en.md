@@ -151,6 +151,17 @@ If you would like to attach multiple photos or images, save them in the same dir
     $ hugo new --kind project content/ja/project/title-of-your-project
     ```
 
+## Update the Publication List
+
+1. Retrieve the publication list from the NAIST Publication Management System:
+    ```
+    $ curl -o scripts/publications.json -X GET "https://api-research.naist.jp/api/search?chair=ソフトウェア設計学&output=json"
+    ```
+2. Generate the publication Markdown files from the retrieved publication list:
+    ```
+    $ python3 scripts/convert_publications.py scripts/publications.json content/
+    ```
+
 
 ## Add photos to the Photo Gallery
 
