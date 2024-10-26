@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta
+import pytz
 import json
 import sys
 import os
@@ -6,7 +7,7 @@ import argparse
 from pathlib import Path
 
 def create_header(title, include_link_to_all):
-    current_datetime = datetime.now().strftime('%Y-%m-%dT%H:%M:%S%z')
+    current_datetime = datetime.now(pytz.timezone('Asia/Tokyo')).strftime('%Y-%m-%dT%H:%M:%S%z')
 
     header = f"""---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
@@ -17,7 +18,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: {current_datetime}
+date: 2020-02-17T18:32:18+09:00
+lastmod: {current_datetime}
 featured: false
 draft: false
 
