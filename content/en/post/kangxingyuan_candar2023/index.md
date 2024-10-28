@@ -28,8 +28,8 @@ image:
 projects: []
 ---
 
-Ms.Kang Xingyuan(Mya), a first-year doctoral student at SDLab presented the follwing paper at the [2023 Eleventh International Symposium on Computing and Networking(CANDAR)](https://www.cs.hiroshima-u.ac.jp/Proceedings23/CANDAR%202023/index.html#!/toc/0)
+Ms.Kang Xingyuan(Mya), a first-year doctoral student at SDLab presented the following paper at the [2023 Eleventh International Symposium on Computing and Networking(CANDAR)](https://www.cs.hiroshima-u.ac.jp/Proceedings23/CANDAR%202023/index.html#!/toc/0)
 
-> Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Multi-Objective Optimization of Controller Placement in Distributed ONOS Networks", 2023 Eleventh International Symposium on Computing and Networking(CANDAR), 28th November - 1st December 2023.
+> K. Xingyuan, K. Takahashi, C. Nakasan, K. Ichikawa and H. Iida, "Multi-Objective Optimization of Controller Placement in Distributed ONOS Networks," 2023 Eleventh International Symposium on Computing and Networking (CANDAR), Matsue, Japan, 2023, pp. 76-85, doi: 10.1109/CANDAR60563.2023.00017.
 
 This paper focuses on the optimal placement of network controllers in SDN, which enables programmable network operations through software. Managing a network with multiple distributed controllers presents a complex deployment problem, due to latency from individual switches and the data synchronization between controllers. Therefore, we have formulated this problem as a multi-objective optimization problem and propose a method to optimize the deployment of controllers and data synchronization nodes.
