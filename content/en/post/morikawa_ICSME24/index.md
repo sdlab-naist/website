@@ -32,6 +32,6 @@ Yasuhito Morikawa, an M2 student in our laboratory, presented the following pape
 
 >Yasuhito Morikawa, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida: RevToken: A Token-Level Review Recommendation: How Far Are We?, In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution(ICSME2024), Oct. 2024.
 
-This study proposes a token-level approach to recommend where developers review, which is finer-grained than the previous studies, with the aim of reducing the burden on reviewers in the review process.
+[This study]() proposes a token-level approach to recommend where developers review, which is finer-grained than the previous studies, with the aim of reducing the burden on reviewers in the review process.
 
 Our empirical evaluation using the OpenStack Nova and QtBase dataset demonstrated that a maximum of 84% of the predicted tokens are accurately distinguished as either needing modification or not.
