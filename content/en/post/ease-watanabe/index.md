@@ -27,10 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Miku Watanabe, an M2 student in our laboratory, presented her work at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
+Miku Watanabe, an M1 student in our laboratory, presented her work at [Evaluation and Assessment in Software Engineering (EASE2024)](https://conf.researchr.org/home/ease-2024).
 EASE is ranked as a CORE A conference. She presented the following paper:
 
-> Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida，
+> Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida,
 >"On the Use of ChatGPT for Code Review", In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering, pp. 375-580.2024.
 
 
