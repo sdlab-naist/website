@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-![](mabuchi.jpg)
 本研究室のM2馬渕君が2024年10月7〜8日にかけてアメリカで開催された[IEEE International Conference on Source Code Analysis & Manipulation(SCAM2024)](https://conf.researchr.org/home/scam-2024)で第一著者として投稿した下記の論文を発表しました.
 
 > Wataru Mabuchi, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida: "An Empirical Investigation Into the Use of Dockerfile Preprocessors for Docker Image Management", In Proceedings of The 24th  Source Code Analysis and Manipulation (SCAM2024), Oct. 2024.
