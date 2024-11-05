@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mabuchi_scam24"
+title: "Mr. Mabuchi presented his research at SCAM 2024"
 subtitle: ""
 summary: ""
 authors: ["Yasuhito Morikawa"]
