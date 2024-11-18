@@ -27,9 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-本研究室のM1渡邉さんが第一著者として投稿した論文が2024年6月18〜21日にかけてイタリアで開催された[Evaluation and Assessment in Software Engineering (EASE2024) ](https://conf.researchr.org/home/ease-2024)で下記の論文を発表しました.
+本研究室のM1渡邉さんが2024年6月18〜21日にかけてイタリアで開催された[Evaluation and Assessment in Software Engineering (EASE2024) ](https://conf.researchr.org/home/ease-2024)で第一著者として投稿した下記の論文を発表しました.
 
-> Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida，
+> Miku Watanabe, Yutaro Kashiwa, Bin Lin and Toshiki Hirao, Ken'ichi Yamaguchi, Hajimu Iida,
 >"On the Use of ChatGPT for Code Review", In Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering, pp. 375-580.2024.
 
 EASE2024はエビデンスに基づくソフトウェア工学に関する研究に関するCoreAランクの国際会議です．渡邉さんが投稿したShort Papers, Vision and Emerging Resultsトラックでは，38本の投稿のうち12本の論文が採択されました（採択率31%）．
