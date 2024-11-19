@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "森川君がSCAM2024で発表しました"
+title: "森川君がICSME2024で発表しました"
 subtitle: ""
 summary: ""
 authors: ["Yasuhito Morikawa"]
