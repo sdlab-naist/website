@@ -29,7 +29,7 @@ projects: []
 ---
 Ryoji Agatsuma, Ibuki Nakamura from our laboratory presented at the [Foundation of Software Engineering 2024 (FOSE2024)](https://fose.jssst.or.jp/fose2024/), held from November 28 to 30, 2024.
 
-Agatsuma presented "Software Quality Analysis Using Automated Driving Simulation Test Results." This research investigates the relationship between autonomous driving simulation test results and software quality metrics. The findings reveal that code groups with failed simulation tests tend to exhibit higher values of software quality metrics, including code smells and complexity measures.
+Agatsuma presented "An Analysis of Software Quality Using Automated Driving Simulation Test Results." This research analyzed the relationship between automated driving simulation test results and software quality metrics. The findings revealed that code groups associated with failed simulation tests tend to exhibit higher values of software quality metrics, including code smells and complexity measures.
 
 Nakamura presented "An Empirical Study on Self-Admitted Technical Debt in Test Code: Exploring Automatic Resolution Using LLM." This research investigated the relationship between SATD in test code and software quality. The results revealed that SATD in test code is more likely to occur in areas with low code quality and tends to arise independently of indicators reflecting the quality of the tests. Furthermore, the research demonstrated the potential for certain types of SATD to be automatically resolved using LLM.
 
