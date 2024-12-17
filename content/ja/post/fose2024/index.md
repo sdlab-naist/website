@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "本研究室の学生がSES2024にて研究発表を行いました"
+title: "本研究室の学生がFOSE2024にて研究発表を行いました"
 subtitle: ""
 summary: ""
 authors: ["Ibuki Nakamura"]
