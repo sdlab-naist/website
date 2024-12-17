@@ -5,7 +5,7 @@ title: "Students from our laboratory presented their research at FOSE 2024"
 subtitle: ""
 summary: ""
 authors: ["Ibuki Nakamura"]
-tags: ["Software Test","Techinical Debt"]
+tags: ["Software Test","Techinical Debt","Automated Driving System"]
 categories: []
 date: 2024-12-10T13:13:30+09:00
 lastmod: 2024-12-10T13:13:30+09:00

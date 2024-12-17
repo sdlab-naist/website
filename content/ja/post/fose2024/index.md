@@ -5,7 +5,7 @@ title: "本研究室の学生がFOSE2024にて研究発表を行いました"
 subtitle: ""
 summary: ""
 authors: ["Ibuki Nakamura"]
-tags: ["Software Test","Techinical Debt"]
+tags: ["Software Test","Techinical Debt","Automated Driving System"]
 categories: []
 date: 2024-12-10T13:13:30+09:00
 lastmod: 2024-12-10T13:13:30+09:00
