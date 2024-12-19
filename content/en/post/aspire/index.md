@@ -5,7 +5,6 @@ title: "A new project just started, supported by 'ASPIRE for the Next Generation
 subtitle: ""
 summary: ""
 authors: ["yutaro-kashiwa"]
-authors: ["yutaro-kashiwa"]
 tags: ["AI", "Language Model", "Accelerating software development"]
 categories: []
 date: 2024-12-18T15:00:00+09:00
