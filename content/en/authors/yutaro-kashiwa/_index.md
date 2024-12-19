@@ -152,7 +152,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 
 ## Awards
-#### Myself or My publications 
+#### To Myself or My publications 
 - Research Encouragement Award, IEICE Special Interest Groups on Software Science, 2023.
 - IEEE CS Kansai Chapter Young Author Award 2022.
 - Research Encouragement Award, IEICE Special Interest Groups on Software Science, 2022. 
@@ -165,7 +165,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 - Specially Selected Paper Award, Transactions of Information Processing Society of Japan, 2015.
 - Best Paper Award, Software Engineering Symposium 2014, 2014.
 - Interactive Award, Software Engineering Symposium 2013, 2013.																			
-#### Students
+#### To Students
 - IPSJ Kyushu-branch Young Research Seminer 2023 Encouraged Research Award (Recepient: Issei Morita), 2023
 - JSSST Workshop on Foundation of Software Engineering Poster and Demo Award (Recepient: Miki Yonekura), 2023
 - JSSST Workshop on Foundation of Software Engineering Poster and Demo Award (Recepient: Miki Watanabe), 2023
@@ -175,6 +175,7 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 
 ## Grants
+- 2024-2027: Japan Science and Technology Agency, ASPRE, "International Brain Circulation Initiative for Context-Aware AI in Software Development" (Total: 90,000,000 YEN) [Co-Principal Investigator]
 - 2024-2027: Japan Society for the Promotion of Science, KAKENHI (B), "Developing Technique for Bug Localization with Imcomplete Logs" (Total: 18,590,000 YEN) [Principal Investigator]
 - 2022-2025: Japan Science and Technology Agency, PRESTO, "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 52,000,000 YEN) [Principal Investigator]
 - 2021-2023: Japan Society for the Promotion of Science, KAKENHI (Young Researcher), "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 4,550,000 YEN) [Principal Investigator]
@@ -182,14 +183,21 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 - 2018: Japan Society for the Promotion of Science, Overseas Challenge Program, "Development of a detect method for High Impact bug" (Total: 1,400,000 YEN) [Principal Investigator]																
 
 ## Projects
+- AI-assisted Software Development Acceleration
+    - Just-in-time Bug prediction on CI [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
+    - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
+    - Code Review: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2024_Morikawa.pdf)  [@EASE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EASE2024_Watanabe.pdf)
+    - Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
+
+
 - DevOps (Testing)
-    - Just-in-time Bug prediction on Continuous Integration [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
+    - Build Acceleration: [@ASE](https://github.com/Yutaro-Kashiwa/papers/blob/master/ASE2024_Yin.pdf)
+    - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf) [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2024_Nourry.pdf)
     - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
-    - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
     - Cloud System Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
-    - Build Acceleration: (To appear)
-    - Test Code Refactoring: (To appear)
+    - Docker: [@SCAM](https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2024_Mabuchi.pdf) [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
+   - Test Code Refactoring: (To appear) 
 
 - Techinical Debt & Refactoring
     - Refactoring during Rapid release: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2021_Nourry.pdf)
@@ -200,14 +208,10 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 
 - Bug Analysis
     - Visual Issues: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf)[@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
-    - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
-    - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
+    - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf) [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
 
 - Misc
-    - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
-    - Docker Licence: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
     - Issue Linking Algorithm: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2022%10_Kondo.pdf)
-    - Automated Code review: (To appear)
     - Identifying challenges with Programming video: (To appear)
 
 

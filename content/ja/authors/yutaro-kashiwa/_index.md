@@ -193,6 +193,11 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 																	
 ## 研究助成
+- <b>2024-2027：科学技術振興機構（JST） ASPIRE 先端国際共同研究推進事</b>
+    - 主たる共同研究者 (研究代表者：亀井 靖高)
+    - 研究課題：「Context-Awareなソフトウェア開発AIの実現に向けた国際頭脳循環」
+    - 直接経費：6,923万円，間接経費：2,077万円
+
 - <b>2024-2027：日本学術振興会 科学研究費助成事業 基盤研究B</b>
     - 研究代表者
     - 研究課題：「不完全なシステムログから不具合原因箇所特定技術の構築：システム自動復旧への挑戦」
@@ -215,14 +220,21 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - 直接経費：140万円
 
 ## 研究プロジェクト
+- AI-assisted Software Development Acceleration
+    - Just-in-time Bug prediction on CI [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
+    - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
+    - Code Review: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2024_Morikawa.pdf)  [@EASE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EASE2024_Watanabe.pdf)
+    - Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
+
+
 - DevOps (Testing)
-    - Just-in-time Bug prediction on Continuous Integration [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf)
+    - Build Acceleration: [@ASE](https://github.com/Yutaro-Kashiwa/papers/blob/master/ASE2024_Yin.pdf)
+    - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf) [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2024_Nourry.pdf)
     - Snapshot testing: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf)
-    - Continuous Fuzzing: [@TOSEM](https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf)
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
     - Cloud System Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
-    - Build Acceleration: (To appear)
-    - Test Code Refactoring: (To appear)
+    - Docker: [@SCAM](https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2024_Mabuchi.pdf) [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
+   - Test Code Refactoring: (To appear)
 
 - Techinical Debt & Refactoring
     - Refactoring during Rapid release: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2021_Nourry.pdf)
@@ -230,17 +242,14 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - SATD introducgtion during Code review: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2022_Kashiwa.pdf)
     - SATD during Rapid release: (To appear)
     - Context-aware SATD detection: (To appear)
+
 - Bug Analysis
     - Visual Issues: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf)[@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
-    - Release-aware Bug Triage: [@IEICE](https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf)
-    - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf), [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
+    - High Impact Bugs: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf) [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf)
 
 - Misc
-    - Code Completion: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf)
-    - Docker Licence: [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
     - Issue Linking Algorithm: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2022%10_Kondo.pdf)
-    - Automated Code review: (To appear)
-    - Identifying challenges with Programming video: (To appear) 
+    - Identifying challenges with Programming video: (To appear)
 
 ## 資格
 - 情報処理推進機構 データベーススペシャリスト
