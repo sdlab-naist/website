@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Yutaro Kashiwa, an assistant professor at SDLab,
+Yutaro Kashiwa, an assistant professor at SDLab, has been awarded the NAIST President's Fellow 2024.
 
 The NAIST President's Fellow was newly established in 2023 as an award to recognize assistant professors who have shown particularly outstanding evaluations in faculty assessments, and who have made significant contributions to education and research, social collaboration, and management operations at NAIST.
 
