@@ -129,6 +129,9 @@ weight: 50
 <br>
 								
 ## 主な研究実績
+- <b>Leveraging Context Information for Self-Admitted Technical Debt Detection</b><br>
+M Yonekura, Y Kashiwa, B Lin, K Fujiwara, H Iida<br>
+The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC'25), 2025.【CORE A会議】
 - <b>My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures</b><br>
 O Nourry, Y Kashiwa, W Shang, H Shu, Y Kamei<br>
 ACM Transactions on Software Engineering and Methodology (TOSEM), 2024.【CORE A*論文誌】
@@ -234,14 +237,15 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
     - Test Break: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf)
     - Cloud System Testing: [@APSEC](https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf)
     - Docker: [@SCAM](https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2024_Mabuchi.pdf) [@SANER](https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf)
-   - Test Code Refactoring: (To appear)
+    - Unused dependencies: [@MSR](https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2025_Suwanachote.pdf)
+    - Test Code Refactoring: (To appear)
 
 - Techinical Debt & Refactoring
     - Refactoring during Rapid release: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2021_Nourry.pdf)
     - Refactoring for enargy consumption: [@ICSME](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2022_Nourry.pdf)
     - SATD introducgtion during Code review: [@IST](https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2022_Kashiwa.pdf)
+    - Context-aware SATD detection: [@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2025_Yonekura.pdf) 
     - SATD during Rapid release: (To appear)
-    - Context-aware SATD detection: (To appear)
 
 - Bug Analysis
     - Visual Issues: [@EMSE](https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf)[@ICPC](https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf)
