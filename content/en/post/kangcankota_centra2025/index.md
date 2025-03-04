@@ -41,3 +41,10 @@ This research focuses on enhancing the efficiency of SDN controllers in managing
 <!-- Papon san's session -->
 
 <!-- Kota san's session -->
+Mr. Kota Nakagawa presented his research titled "A Proposal of an Efficient Path Selection Method Using INT-Based Delay Measurement" to the audience. The details of his study are as follows:
+
+> Kota Nakagawa, Kohei Ichikawa, Hajimu Iida, "A Proposal of an Efficient Path Selection Method Using INT-Based Delay Measurement", CENTRA 2025, February 22–25, 2025.
+
+In this study, we propose an optimal path selection method based on delay measurement utilizing In-band Network Telemetry (INT). Conventional path selection methods typically determine routes based on the shortest hop count. However, this approach does not take bandwidth or congestion conditions into account, and therefore, it does not necessarily select the lowest-latency path.In our proposed method, INT packets are duplicated at intermediate nodes and forwarded across multiple paths, enabling efficient delay measurement and allowing the selection of the lowest-latency path. To evaluate the effectiveness of our method, we conducted simulations using the Internet2 OS3E network topology and compared it with conventional OSPFv3-based path selection. As a result, our method successfully selected lower-latency paths in 73 out of 519 source-destination node pairs, excluding directly connected nodes.
+
+![](kota.jpg)
