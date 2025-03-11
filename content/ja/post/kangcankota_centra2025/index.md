@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Research Presentation by Ms. Kang Xingyuan, Mr. Papon Choonhaklai, and Mr. Kota Nakagawa at CENTRA 2025 in Hsinchu, Taiwan"
+title: "「CENTRA 2025 in Hsinchu, Taiwan における Ms. Kang Xingyuan、Mr. Papon Choonhaklai、および Mr. Kota Nakagawa の研究発表」"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang", "papon-choonhaklai", "kota-nakagawa"]
@@ -28,30 +28,33 @@ image:
 projects: []
 ---
 
-Ms. Kang Xingyuan, Mr. Papon Choonhaklai, and Mr. Kota Nakagawa each presented thier individual research in the Technical Paper session at [CENTRA 2025 in Hsinchu, Taiwan (CENTRA 8)](https://www.globalcentra.org/centra8/).
+Ms. Kang Xingyuan, Mr. Papon Choonhaklai, および Mr. Kota Nakagawa は、それぞれの研究を [CENTRA 2025 in Hsinchu, Taiwan (CENTRA 8)](https://www.globalcentra.org/centra8/) の Technical Paper セッションにおいて発表しました。
 
-First, as the opening speaker in Technical Paper session, Ms. Kang Xingyuan presented her research titled "Investigating the Impact of Data Storage Mechanisms on Distributed Software-Defined Networking Controllers Performance" to the audience. The details of her study are as follows:
+まず、Technical Paper セッションのオープニングスピーカーとして、Ms. Kang Xingyuan が Investigating the Impact of Data Storage Mechanisms on Distributed Software-Defined Networking Controllers Performance を発表しました。研究の詳細は以下のとおりです。
 
 > Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Investigating the Impact of Data Storage Mechanisms on Distributed Software-Defined Networking Controllers Performance", CENTRA 2025, February 22–25, 2025.
 
-This research focuses on enhancing the efficiency of SDN controllers in managing network information synchronization by identifying suitable consistency models for different types of network data. The rapid expansion of IoT devices and the exponential growth of global data traffic necessitate advanced data storage and management solutions. Distributed Software-Defined Networking (SDN) has emerged as a promising approach, integrating distributed storage and network control mechanisms to enhance scalability and reliability. ONOS, a widely adopted SDN controller, employs the Atomix distributed datastore to maintain network state consistency using the Raft consensus algorithm. However, the complex synchronization processes in ONOS/Atomix architecture introduce latency and inefficiencies, particularly in large-scale networks. This study investigates alternative storage mechanisms within ONOS/Atomix, analyzing their impact on network performance. Leveraging the Flow Setup Time (FST) model, we evaluate different data consistency models and synchronization strategies to optimize SDN controller operations. Our findings highlight the challenges posed by Atomix’s strong consistency requirements and propose potential improvements for balancing synchronization frequency and system efficiency. By refining data storage and retrieval mechanisms, this research aims to enhance the performance of distributed SDN architectures in handling large-scale network demands.
+本研究では、SDN（Software-Defined Networking）コントローラによるネットワーク情報の同期管理を効率化するため、さまざまなネットワークデータに適した一貫性モデルを探求しています。IoTデバイスの急増とデータトラフィックの増大に伴い、より高度なデータストレージおよび管理手法が求められています。分散型SDNは、分散ストレージとネットワーク制御機構を組み合わせることで、スケーラビリティと信頼性の向上を狙うアプローチです。広く採用されている SDN コントローラ ONOS では、Atomix という分散データストアと Raft 合意アルゴリズムにより、ネットワーク状態の一貫性を維持しています。しかし、ONOS/Atomix アーキテクチャにおける複雑な同期プロセスは、大規模ネットワークでレイテンシや効率の低下を引き起こす可能性があります。
+本研究では、ONOS/Atomix における代替ストレージ機構を調査し、ネットワーク性能に与える影響を分析しました。Flow Setup Time (FST) モデルを用いて、さまざまなデータ一貫性モデルや同期戦略を比較・評価し、SDN コントローラの動作最適化を図っています。その結果、Atomix が強い一貫性を要求することで生じる課題や、同期頻度とシステム効率を両立する方策が示唆されました。データの保存および取得方法を改善することで、大規模ネットワークを扱う分散 SDN アーキテクチャの性能向上を目指す取り組みです。
 
 ![](mya.jpg)
 
 <!-- Papon san's session -->
-Next, as the second speaker in the Technical Paper session,Mr. Papon Choonhaklai presented his research titled "Reducing Overhead in Time-Sliced GPU Sharing with Dynamic MPS Partitioning in Kubernetes" to the audience. The details of his study are as follows:
+次に、Technical Paper セッションの2番目のスピーカーとして、Mr. Papon Choonhaklai が Reducing Overhead in Time-Sliced GPU Sharing with Dynamic MPS Partitioning in Kubernetes を発表しました。研究の詳細は以下のとおりです。
 
 > Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "Reducing Overhead in Time-Sliced GPU Sharing with Dynamic MPS Partitioning in Kubernetes", CENTRA 2025, February 22–25, 2025.
 
-This research addresses the challenges of GPU resource management in Kubernetes-based machine learning (ML) workloads. Time-slicing has been widely adopted to improve GPU utilization efficiency by allowing multiple ML tasks to share GPU resources simultaneously. However, frequent context switches among pods during time-slicing can lead to significant overhead, reducing overall throughput and increasing execution time. To mitigate this issue, the study proposes a Kubernetes Operator that dynamically adjusts GPU partitioning using CUDA MPS (Multi-Process Service). The solution integrates a Kubernetes Admission Webhook to inject  preconfigured CUDA percentage values into pod specifications, enabling consistent GPU partitioning policies across nodes. This dynamic partitioning is managed by Nebuly’s GPU scheduler (nos), which optimizes the allocation of GPU resources based on workload demands. Experimental results demonstrate that this MPS-based approach reduces context-switching overhead and achieves lower total execution time compared to traditional time-slicing methods. 
+本研究では、Kubernetes 上で機械学習（ML）のワークロードを実行する際の GPU リソース管理の課題に注目しています。GPU のタイムスライシングは、1 つの GPU を複数の ML タスクで共有することにより、GPU の利用効率を高める一般的な方法です。しかし、大量の Pod が同時に稼働すると、頻繁に発生するコンテキストスイッチがオーバーヘッドとなり、スループットの低下や実行時間の増加を招く場合があります。
+そこで本研究では、CUDA MPS (Multi-Process Service) を利用した動的 GPU パーティショニングを実現する Kubernetes Operator を提案しています。具体的には、Kubernetes Admission Webhook により、Pod の仕様に事前設定された CUDA のパーセンテージ値を自動的に注入し、ノード全体で一貫性のある GPU パーティショニングポリシーを実行可能にしました。この動的パーティショニングは Nebuly 社の GPU スケジューラ (nos) によって管理され、ワークロードに応じた最適な GPU リソース割り当てを実現します。実験結果からは、MPS を活用したアプローチにより、コンテキストスイッチングに起因するオーバーヘッドが削減され、従来のタイムスライシング手法に比べて合計実行時間が短縮されることが示されています。
 
 ![](papon.jpg)
 
 <!-- Kota san's session -->
-Mr. Kota Nakagawa presented his research titled "A Proposal of an Efficient Path Selection Method Using INT-Based Delay Measurement" to the audience. The details of his study are as follows:
+最後に、Mr. Kota Nakagawa が A Proposal of an Efficient Path Selection Method Using INT-Based Delay Measurement を発表しました。研究の詳細は以下のとおりです。
 
 > Kota Nakagawa, Kohei Ichikawa, Hajimu Iida, "A Proposal of an Efficient Path Selection Method Using INT-Based Delay Measurement", CENTRA 2025, February 22–25, 2025.
 
-In this study, we propose an optimal path selection method based on delay measurement utilizing In-band Network Telemetry (INT). Conventional path selection methods typically determine routes based on the shortest hop count. However, this approach does not take bandwidth or congestion conditions into account, and therefore, it does not necessarily select the lowest-latency path.In our proposed method, INT packets are duplicated at intermediate nodes and forwarded across multiple paths, enabling efficient delay measurement and allowing the selection of the lowest-latency path. To evaluate the effectiveness of our method, we conducted simulations using the Internet2 OS3E network topology and compared it with conventional OSPFv3-based path selection. As a result, our method successfully selected lower-latency paths in 73 out of 519 source-destination node pairs, excluding directly connected nodes.
+本研究では、In-band Network Telemetry（INT）を活用した遅延計測に基づく最適パス選択手法を提案しています。従来のパス選択は、最短ホップ数に依拠することが多く、帯域幅や輻輳状況を十分に考慮していないため、必ずしも最も遅延が低い経路を選択できるとは限りません。
+提案手法では、INT パケットを中間ノードで複製し、複数経路に送ることで効率的に遅延を測定し、最も遅延の低い経路を選択できるようにしています。この手法の効果を確認するため、Internet2 OS3E ネットワークトポロジを用いたシミュレーションを実施し、従来の OSPFv3 ベースのパス選択と比較を行いました。その結果、直接接続されているノードを除く 519 の送受信ノードペアのうち 73 ペアについて、提案手法がより低遅延の経路を選択できることが確認されました。
 
 ![](kota.jpg)
