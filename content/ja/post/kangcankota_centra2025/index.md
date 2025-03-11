@@ -5,7 +5,7 @@ title: "Research Presentation by Ms. Kang Xingyuan, Mr. Papon Choonhaklai, and M
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang", "papon-choonhaklai", "kota-nakagawa"]
-tags: ["Distributed SDN", "Inter-Communication Mechanism", "Consistency Model", "Disributed Datastore", "Information Synchronization"]
+tags: ["Distributed SDN", "Inter-Communication Mechanism", "Consistency Model", "Disributed Datastore", "Information Synchronization","In-band Network Telemetry","SRv6","GPU sharing"]
 categories: []
 date: 2025-03-03T18:43:23+09:00
 lastmod: 2025-03-03T18:43:23+09:00
@@ -39,6 +39,13 @@ This research focuses on enhancing the efficiency of SDN controllers in managing
 ![](mya.jpg)
 
 <!-- Papon san's session -->
+Next, as the second speaker in the Technical Paper session,Mr. Papon Choonhaklai presented his research titled "Reducing Overhead in Time-Sliced GPU Sharing with Dynamic MPS Partitioning in Kubernetes" to the audience. The details of his study are as follows:
+
+> Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "Reducing Overhead in Time-Sliced GPU Sharing with Dynamic MPS Partitioning in Kubernetes", CENTRA 2025, February 22–25, 2025.
+
+This research addresses the challenges of GPU resource management in Kubernetes-based machine learning (ML) workloads. Time-slicing has been widely adopted to improve GPU utilization efficiency by allowing multiple ML tasks to share GPU resources simultaneously. However, frequent context switches among pods during time-slicing can lead to significant overhead, reducing overall throughput and increasing execution time. To mitigate this issue, the study proposes a Kubernetes Operator that dynamically adjusts GPU partitioning using CUDA MPS (Multi-Process Service). The solution integrates a Kubernetes Admission Webhook to inject  preconfigured CUDA percentage values into pod specifications, enabling consistent GPU partitioning policies across nodes. This dynamic partitioning is managed by Nebuly’s GPU scheduler (nos), which optimizes the allocation of GPU resources based on workload demands. Experimental results demonstrate that this MPS-based approach reduces context-switching overhead and achieves lower total execution time compared to traditional time-slicing methods. 
+
+![](papon.jpg)
 
 <!-- Kota san's session -->
 Mr. Kota Nakagawa presented his research titled "A Proposal of an Efficient Path Selection Method Using INT-Based Delay Measurement" to the audience. The details of his study are as follows:
