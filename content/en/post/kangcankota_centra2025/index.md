@@ -4,7 +4,7 @@
 title: "Research Presentation by Ms. Kang Xingyuan, Mr. Papon Choonhaklai, and Mr. Kota Nakagawa at CENTRA 2025 in Hsinchu, Taiwan"
 subtitle: ""
 summary: ""
-authors: ["xingyuan-kang", "papon-choonhaklai", "kota-nakagawa"]
+authors: ["kohei-ichikawa", "xingyuan-kang", "papon-choonhaklai", "kota-nakagawa"]
 tags: ["Distributed SDN", "Inter-Communication Mechanism", "Consistency Model", "Disributed Datastore", "Information Synchronization","In-band Network Telemetry","SRv6","GPU sharing"]
 categories: []
 date: 2025-03-03T18:44:41+09:00
