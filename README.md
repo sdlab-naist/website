@@ -26,6 +26,56 @@
 詳細な設定方法やページの作成方法は，使用しているテーマWowchemyの
 [ドキュメント](https://wowchemy.com/docs/)を参照してください．
 
+## Docker を使用した環境設定
+この方法では，ローカル環境に Go や Hugo を直接インストールする必要がなく，バージョン間の互換性の問題を回避できます．
+
+### 前提条件
+Docker がインストールされている必要があります．[Docker Desktop](https://docs.docker.com/desktop/) (Mac/Windows) または [Docker Engine](https://docs.docker.com/engine/install/) (Linux) をインストールしてください．さらに ``Linux`` の場合は，``sudo`` 無しで実行するために，[インストール後の手順](https://docs.docker.com/engine/install/linux-postinstall/)を実行してください．
+
+### 作業手順
+1. 本リポジトリをクローンします．
+    ```
+    git clone https://github.com/sdlab-naist/website
+    ```
+
+2. websiteのディレクトリへ移動します．
+    ```
+    cd website
+    ```
+
+3. 開発用サーバを起動します．`http://localhost:1313` をブラウザで開くと，生成されたウェブサイトが表示されます．初回起動時はビルドが走りますので，起動まで数分かかります．
+    ```
+    ./docker.sh
+    ```
+
+### ワンライナーコマンドモード
+
+`./docker.sh` の後に `hugo` コマンドとして実行したい引数を続けることで、開発サーバーを起動せずに特定の `hugo` コマンドをコンテナ内で直接実行できます。これは、新しいコンテンツファイルを作成したり、本番用のビルドを行ったりする際に便利です。
+
+コンテナはコマンド実行後に自動的に停止・削除されます。
+
+**実行例:**
+
+*   **Hugo のバージョン確認:**
+    ```bash
+    ./docker.sh hugo version
+    ```
+
+*   **ユーザの追加:**
+    ```bash
+    # 日本語でユーザの追加
+    ./docker.sh hugo new --kind authors content/ja/authors/firstname-lastname
+
+    # 英語語でユーザの追加
+    ./docker.sh hugo new --kind authors content/en/authors/firstname-lastname
+    ```
+
+*   **ブログ記事の追加:**
+    (ファイルパスは適宜変更してください)
+    ```bash
+    ./docker.sh hugo new --kind post content/ja/post/title-of-your-blog-post
+    ```
+
 ## 作業フロー
 Githubを用いたPullRequest駆動でWebコンテンツを更新しています．編集作業を始める前にかならずBranchを作り，それをGithub上のレポジトリにPushした上で，PullRequestを発行する必要があります．発行したPullRequestは1人以上のレビューを受けないとmasterにマージされません．以下が典型的な作業フローの例です．
 1. masterを最新状態に更新してください．
@@ -92,7 +142,7 @@ git branch -d name-of-branch
 
 1. 下記のコマンドを実行し，記事のディレクトリを作成してください．
     ```
-    $ hugo new  --kind post content/ja/post/title-of-your-blog-post
+    $ hugo new --kind post content/ja/post/title-of-your-blog-post
     ```
     `content/ja/post/title-of-your-blog-post`というディレクトリが生成されます．
 
