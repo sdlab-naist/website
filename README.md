@@ -27,10 +27,10 @@
 [ドキュメント](https://wowchemy.com/docs/)を参照してください．
 
 ## Docker を使用した環境設定
-この方法では，ローカル環境に Go や Hugo を直接インストールする必要がなく，バージョン間の互換性の問題を回避できます．
+この方法では，ローカル環境にGoやHugoを直接インストールする必要がなく，バージョン間の互換性の問題を回避できます．
 
 ### 前提条件
-Docker がインストールされている必要があります．[Docker Desktop](https://docs.docker.com/desktop/) (Mac/Windows) または [Docker Engine](https://docs.docker.com/engine/install/) (Linux) をインストールしてください．さらに ``Linux`` の場合は，``sudo`` 無しで実行するために，[インストール後の手順](https://docs.docker.com/engine/install/linux-postinstall/)を実行してください．
+Docker がインストールされている必要があります．[Docker Desktop](https://docs.docker.com/desktop/)(Mac/Windows)または[Docker Engine](https://docs.docker.com/engine/install/)(Linux)をインストールしてください．さらに``Linux``の場合は，``sudo``無しで実行するために，[インストール後の手順](https://docs.docker.com/engine/install/linux-postinstall/)を実行してください．
 
 ### 作業手順
 1. 本リポジトリをクローンします．
@@ -43,16 +43,16 @@ Docker がインストールされている必要があります．[Docker Deskt
     cd website
     ```
 
-3. 開発用サーバを起動します．`http://localhost:1313` をブラウザで開くと，生成されたウェブサイトが表示されます．初回起動時はビルドが走りますので，起動まで数分かかります．
+3. 開発用サーバを起動します．`http://localhost:1313`をブラウザで開くと，生成されたウェブサイトが表示されます．初回起動時はビルドが走りますので，起動まで数分かかります．
     ```
     ./docker.sh
     ```
 
 ### ワンライナーコマンドモード
 
-`./docker.sh` の後に `hugo` コマンドとして実行したい引数を続けることで、開発サーバーを起動せずに特定の `hugo` コマンドをコンテナ内で直接実行できます。これは、新しいコンテンツファイルを作成したり、本番用のビルドを行ったりする際に便利です。
+`./docker.sh`の後に`hugo`コマンドとして実行したい引数を続けることで，開発サーバを起動せずに特定の`hugo`コマンドをコンテナで実行できます．新しいポスト作成などに利用できます．
 
-コンテナはコマンド実行後に自動的に停止・削除されます。
+コンテナはコマンド実行後に自動的に停止・削除されます．
 
 **実行例:**
 
@@ -71,7 +71,6 @@ Docker がインストールされている必要があります．[Docker Deskt
     ```
 
 *   **ブログ記事の追加:**
-    (ファイルパスは適宜変更してください)
     ```bash
     ./docker.sh hugo new --kind post content/ja/post/title-of-your-blog-post
     ```
