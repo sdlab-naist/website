@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "古里 祥大"
+title: "Shota FURUSATO"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程学生
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,13 @@ bio:
 
 # List each interest with a dash
 interests:
-- ゲーム
-- 旅行
+- games
+- sightseeing
 
 education:
   courses:
-  - course: データサイエンス学科
-    institution: 滋賀大学
+  - course: datascience
+    institution: Shiga Universit
     year: 2021-2025
 
 # Social/Academic Networking
