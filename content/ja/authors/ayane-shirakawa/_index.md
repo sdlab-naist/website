@@ -45,7 +45,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shirakawa.ayane.sf3@g.ext.naist.jp"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
