@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Keitaro Ito"
+title: "伊藤 慶太郎"
 
 # Username (this should match the folder name and the name on publications)
 authors:
