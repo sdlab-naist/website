@@ -67,6 +67,7 @@ Docker がインストールされている必要があります．[Docker Deskt
     ./docker.sh hugo new --kind authors content/ja/authors/firstname-lastname
 
     # 英語でユーザの追加
+    ./docker.sh hugo new --kind authors content/en/authors/firstname-lastname
     ```
 
 *   **ブログ記事の追加:**
