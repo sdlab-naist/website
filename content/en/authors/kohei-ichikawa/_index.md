@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Associate Professor
+role: Visiting Professor
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ user_groups:
 - Staff
 
 # Order this person will appear
-weight: 20
+weight: 15
 ---
 
 ## Profile
