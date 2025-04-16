@@ -18,6 +18,58 @@ Open `localhost:1313` in your browser to see the generated website.
 
 For more information on how to set up and create pages, please refer to the [documentation](https://wowchemy.com/docs/) of the Wowchemy theme.
 
+## Environment setup using Docker
+
+This method avoids the need to install Go or Hugo directly on your local machine and helps prevent compatibility issues between versions.
+
+### Prerequisites
+
+You need to have Docker installed. Please install [Docker Desktop](https://docs.docker.com/desktop/) (Mac/Windows) or [Docker Engine](https://docs.docker.com/engine/install/) (Linux). Additionally, for ``Linux`` users, please follow the [Post-installation steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/) to run Docker commands without ``sudo``.
+
+### Steps
+
+1.  Clone this repository.
+    ```bash
+    git clone https://github.com/sdlab-naist/website
+    ```
+
+2.  Navigate into the website directory.
+    ```bash
+    cd website
+    ```
+
+3.  Start the development server. Open `http://localhost:1313` in your browser to view the generated website. On the first run, it will build the Docker image, which may take several minutes to start.
+    ```bash
+    ./docker.sh
+    ```
+
+### One-liner Command Mode
+
+By appending the arguments you want to execute as a `hugo` command after `./docker.sh`, you can run specific `hugo` commands directly within the container without starting the development server. This is useful for tasks such as creating new content files or building the site for production.
+
+The container will automatically stop and be removed after the command finishes execution.
+
+**Examples:**
+
+*   **Check Hugo version:**
+    ```bash
+    ./docker.sh hugo version
+    ```
+
+*   **Add a user (author):**
+    ```bash
+    # Add a user profile in English
+    ./docker.sh hugo new --kind authors content/en/authors/firstname-lastname
+
+    # Add a user profile in Japanese
+    ./docker.sh hugo new --kind authors content/ja/authors/firstname-lastname
+    ```
+
+*   **Add a blog post:**
+    ```bash
+    ./docker.sh hugo new --kind post content/en/post/title-of-your-blog-post
+    ```
+
 ## Workflow
 We use Github to manage the web contents in a PullRequest-driven manner.
 Before starting editing, you must create a branch, push it to the Github repository, and then issue a PullRequest.
