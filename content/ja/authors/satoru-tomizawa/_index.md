@@ -22,17 +22,18 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- NPL
+- Machine Learning
+- Voice Acter
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Electoronics and Infomation Course
+    institution: Osaka Prefecture University College of Technology
+    year: 2023
+  - course: Information and Manegement System Engineering
+    institution: Nagaoka University of Technology
+    year: 2025# List each interest with a dash
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
