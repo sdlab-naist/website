@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mr. shirai and Mr. kato presented their papers at the SIGSS in the Amami Oshima"
+title: "Mr. Shirai and Mr. Kato presented their papers at the SIGSS in the Amami Oshima"
 subtitle: ""
 summary: ""
 authors: ["Riku Kato"]
-tags: ["Continuous fuzzing","Just In Time"]
+tags: ["Continuous fuzzing", "Just In Time"]
 categories: []
 date: 2025-03-12T15:13:22+09:00
 lastmod: 2025-03-12T15:13:22+09:00
