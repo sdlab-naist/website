@@ -24,7 +24,7 @@ bio:
 interests:
 - NPL
 - Machine Learning
-- Voice Acter
+- Voice Actor
 
 education:
   courses:
