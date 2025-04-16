@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Satoru Tomizawa"
+title: "冨澤　聖"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -68,7 +68,6 @@ highlight_name: false
 user_groups:
 - Student
 
-weight:
-- 202504
+weight: 202504
 
 ---
