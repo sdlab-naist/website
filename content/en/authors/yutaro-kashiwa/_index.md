@@ -57,7 +57,7 @@ highlight_name: false
 user_groups:
 - Staff
 
-weight: 50
+weight: 20
 
 ---
 
@@ -95,7 +95,7 @@ weight: 50
         <span class="col-2">Visiting researcher at Università della Svizzera Italiana</span>
     </div>
     <div><b>
-        <span class="col-1">Apr. 2022--present: &ensp;&ensp;</span>
+        <span class="col-1">Apr. 2022--Mar. 2025: &ensp;&ensp;</span>
         <span class="col-2">Assistant professor at Nara Institute of Science and Technology</span>
     </b></div>
     <div><b>
@@ -110,13 +110,19 @@ weight: 50
         <span class="col-1">　Sep. 2023---Oct. 2023: </span>
         <span class="col-2">Visiting researcher at Radboud University</span>
     </div>
-
+    <div><b>
+        <span class="col-1">Apr. 2025--Present: &ensp;&ensp;</span>
+        <span class="col-2">Associate professor at Nara Institute of Science and Technology</span>
+    </b></div>
 </div>
 
 <br>
 
 						
 ## Recent Major Publications
+- <b>Leveraging Context Information for Self-Admitted Technical Debt Detection</b><br>
+M Yonekura, Y Kashiwa, B Lin, K Fujiwara, H Iida<br>
+The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC'25), 2025.
 - <b>My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures</b><br>
 O Nourry, Y Kashiwa, W Shang, H Shu, Y Kamei<br>
 ACM Transactions on Software Engineering and Methodology (TOSEM), 2024. 
@@ -175,11 +181,13 @@ https://scholar.google.com/citations?user=hFD-GC8AAAAJ&hl=en
 <br>
 
 ## Grants
-- 2024-2027: Japan Science and Technology Agency, ASPRE, "International Brain Circulation Initiative for Context-Aware AI in Software Development" (Total: 90,000,000 YEN) [Co-Principal Investigator]
-- 2024-2027: Japan Society for the Promotion of Science, KAKENHI (B), "Developing Technique for Bug Localization with Imcomplete Logs" (Total: 18,590,000 YEN) [Principal Investigator]
-- 2022-2025: Japan Science and Technology Agency, PRESTO, "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 52,000,000 YEN) [Principal Investigator]
-- 2021-2023: Japan Society for the Promotion of Science, KAKENHI (Young Researcher), "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 4,550,000 YEN) [Principal Investigator]
-- 2017-2019: Japan Society for the Promotion of Science, KAKENHI (JSPS Fellows), "Development of a detect method for High Impact bug" (Total: 2,800,000 YEN) [Principal Investigator]
+- 2025-2026: Japan Science and Technology Agency, AIP Acceleration Research, "Explainable Automatic Bug Fixing Based on Software Analysis Technology" (Total: 13,000,000 YEN) [Co-Principal Investigator]
+- 2025-2029: Japan Society for the Promotion of Science, KAKENHI (B), "Proposal for Rational Decision Mining to Support Understanding of Existing Software Code" (Total: 18,850,000 YEN) [Co-Principal Investigator]
+- 2024-2028: Japan Science and Technology Agency, ASPRE, "International Brain Circulation Initiative for Context-Aware AI in Software Development" (Total: 90,000,000 YEN) [Co-Principal Investigator]
+- 2024-2028: Japan Society for the Promotion of Science, KAKENHI (B), "Developing Technique for Bug Localization with Imcomplete Logs" (Total: 18,590,000 YEN) [Principal Investigator]
+- 2022-2026: Japan Science and Technology Agency, PRESTO, "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 52,000,000 YEN) [Principal Investigator]
+- 2021-2024: Japan Society for the Promotion of Science, KAKENHI (Young Researcher), "Developing Technique for Anomaly Detection in Software Behaviors" (Total: 4,550,000 YEN) [Principal Investigator]
+- 2017-2020: Japan Society for the Promotion of Science, KAKENHI (JSPS Fellows), "Development of a detect method for High Impact bug" (Total: 2,800,000 YEN) [Principal Investigator]
 - 2018: Japan Society for the Promotion of Science, Overseas Challenge Program, "Development of a detect method for High Impact bug" (Total: 1,400,000 YEN) [Principal Investigator]																
 
 ## Projects
