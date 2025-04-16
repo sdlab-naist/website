@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mr. Agatsuma presented  his research at the March 2025 KBSE"
+title: "Mr. Agatsuma presented his research at the March 2025 KBSE"
 subtitle: ""
 summary: ""
 authors: ["ryoji-agatsuma"]
