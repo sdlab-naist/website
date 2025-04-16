@@ -22,19 +22,19 @@ bio:
 
 # List each interest with a dash
 interests:
-- NPL
-- Machine Learning
-- Voice Acter
+- 自然言語処理
+- 機械学習
+- 声優
 
 education:
   courses:
+  - course: Information and Manegement System Engineering
+    institution: Nagaoka University of Technology
+    year: 2025
   - course: Electoronics and Infomation Course
     institution: Osaka Prefecture University College of Technology
     year: 2023
-  - course: Information and Manegement System Engineering
-    institution: Nagaoka University of Technology
-    year: 2025# List each interest with a dash
-
+# List each interest with a dash
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

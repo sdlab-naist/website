@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: Electoronics and Infomation Course
-    institution: Osaka Prefecture University College of Technology
-    year: 2023
   - course: Information and Manegement System Engineering
     institution: Nagaoka University of Technology
     year: 2025
+  - course: Electoronics and Infomation Course
+    institution: Osaka Prefecture University College of Technology
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
