@@ -65,6 +65,6 @@ highlight_name: false
 user_groups:
 - Student
 
-weight: 202404
+weight: 202504
 
 ---
