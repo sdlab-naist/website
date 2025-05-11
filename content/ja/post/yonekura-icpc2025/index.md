@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-本研究室の米倉君が2025年4月27日から28日にかけてカナダで開催された[The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025)](https://conf.researchr.org/home/icpc-2025)において下記の論文を発表しました．
+本研究室の米倉君が2025年4月27日〜28日にかけてカナダで開催された[The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025)](https://conf.researchr.org/home/icpc-2025)において下記の論文を発表しました．
 > Miki Yonekura, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida: Leveraging Context Information for Self-Admitted Technical Debt Detection, In Proceedings of The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025), Apr. 2025.
 
 ICPC2025はソフトウェア理解に関する研究を扱うCoreAランクの国際会議です．米倉君が投稿したResearch Trackでは，92本の投稿のうち38本の論文が採択されました（採択率41%）．
