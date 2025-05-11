@@ -31,7 +31,7 @@ Mr. Miki Yonekura from our laboratory presented the following paper at [The 33rd
 > Miki Yonekura, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida: Leveraging Context Information for Self-Admitted Technical Debt Detection, In Proceedings of The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025), Apr. 2025.
 
 
-ICPC 2025 is a Core A-ranked international conference dedicated to research on software comprehension. In the Research Track to which Mr. Yonekura submitted, XX papers were accepted out of XX submissions (acceptance rate: XX%).
+ICPC 2025 is a Core A-ranked international conference dedicated to research on software comprehension. In the Research Track to which Mr. Yonekura submitted, 38 papers were accepted out of 92 submissions (acceptance rate: 41%).
 
 In this study, we conducted an empirical investigation to analyze the high false positive rate of existing tools for automatic Self-Admitted Technical Debt (SATD) detection, and to identify and address its causes. 
 The new approach proposed in this research, [CASTI](https://github.com/mikiyonekura/CASTI-Replication) achieved a significant reduction in false positives and an improvement in performance.
