@@ -18,7 +18,7 @@ organizations:
   url: https://www.ais.cmc.osaka-u.ac.jp/date/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dr. Keichi Takahashi is an assistant professor of computer science at SDLab. His research mainly focuses on high-performance computing and networking."
+bio: "Dr. Keichi Takahashi's research mainly focuses on high-performance computing and networking."
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,8 +60,7 @@ weight: 60
 
 ## Profile
 
-Dr. Keichi Takahashi is a visiting assistant professor of computer science at SDLab.
-His research mainly focuses on high-performance computing and networking. In
+Dr. Keichi Takahashi's research mainly focuses on high-performance computing and networking. In
 particular, he is working on improving the performance of inter-process
 communication and storage I/O on large-scale supercomputers. He is
 passionately engaged in international collaborative research with scientists
