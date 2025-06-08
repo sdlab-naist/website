@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Visiting Assistant Professor
+role: Visiting Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Research Division on Supercomputing Systems, Cyberscience Center, Tohoku University
-  url: https://www.hpc.is.tohoku.ac.jp/home-en/
+- name: Advanced High-Performance Computing Infrastructure Research Division, D3 Center, Osaka University
+  url: https://www.ais.cmc.osaka-u.ac.jp/date/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dr. Keichi Takahashi is an assistant professor of computer science at SDLab. His research mainly focuses on high-performance computing and networking."
+bio: "Dr. Keichi Takahashi's research mainly focuses on high-performance computing and networking."
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,8 +60,7 @@ weight: 60
 
 ## Profile
 
-Dr. Keichi Takahashi is a visiting assistant professor of computer science at SDLab.
-His research mainly focuses on high-performance computing and networking. In
+Dr. Keichi Takahashi's research mainly focuses on high-performance computing and networking. In
 particular, he is working on improving the performance of inter-process
 communication and storage I/O on large-scale supercomputers. He is
 passionately engaged in international collaborative research with scientists
@@ -71,8 +70,10 @@ is an active creator and contributor of multiple open-source software.
 
 ## Positions and Experience
 
-- Jan. 2022--present: Visiting Assistant Professor at Nara Institution of Science and Technology
-- Dec. 2021--present: Assistant Professor at Cyberscience Center, Tohoku University
+- Nov. 2024--present: Visiting Associate Professor at Nara Institution of Science and Technology
+- Oct. 2024--present: Associate Professor at D3 Center, Osaka University
+- Jan. 2022--Oct. 2024: Visiting Assistant Professor at Nara Institution of Science and Technology
+- Dec. 2021--Sep. 2024: Assistant Professor at Cyberscience Center, Tohoku University
 - Jun. 2019--Mar. 2022: Visiting Faculty at Cybermedia Center, Osaka University
 - Apr. 2019--Nov. 2021: Assistant Professor at Nara Institution of Science and Technology
 - Jul. 2019--Dec. 2019: Visiting Researcher at Oak Ridge National Laboratory
