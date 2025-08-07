@@ -75,3 +75,47 @@ user_groups:
 
 weight: 202404
 ---
+
+## プロフィール
+専門はリファクタリング，テスト品質保証，特にソフトウェア品質の向上やテスト効率化を目的とした，リファクタリングの影響分析に関する研究に従事．
+テストコードに対して実施されるリファクタリングを明らかにし，テスト品質を向上させる手法の分析に盛んに取り組んでいる．その他，複数のプロジェクトで国際共同研究に取り組み，オランダ・中国・カナダの大学に所属する多くの研究者と協力して研究を進める．<br>
+QAエンジニアとして，テスト品質保証やテスト自動化に携わった経験を持つ．実際の開発において発見した課題を解決し，社会全体のソフトウェア品質に寄与することを目的に，博士後期課程に進学を決意．
+
+<br>
+<br>
+
+## 略歴
+<div>
+    <div><b>
+        <span class="col-1">2024年&ensp;4月～現在:</span>
+        <span class="col-2">奈良先端科学技術大学院大学 先端科学技術研究科 博士前期課程</span>
+    </b></div>
+    <div>
+        <span class="col-1">　2024年9月～2024年11月:</span>
+        <span class="col-2">Radboud Universtiy 客員研究員</span>
+    </div>
+    <div>
+        <span class="col-1">　2024年11月～2024年12月:</span>
+        <span class="col-2">株式会社リクルート QAエンジニア インターンシップ</span>
+    </div>
+    <div>
+        <span class="col-1">　2025年3月～2025年4月:</span>
+        <span class="col-2">株式会社リクルート QAエンジニア アルバイト</span>
+    </div>
+    <div>
+        <span class="col-1">　2025年6月～2025年7月:</span>
+        <span class="col-2">杭州电子科技大学 客員研究員</span>
+    </div>
+</div>
+<br>
+
+## 主な研究実績
+- <b>How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study</b><br>
+Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
+The 41th International Conference on Software Maintenance and Evolution (ICSME25 NIER), 2025.【CORE A会議】
+
+- <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br>
+Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
+The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM25 ERVT), 2025.【CORE A会議】
+
+
