@@ -30,8 +30,6 @@ projects: []
 
 Mr. Papon Choonhaklai, a first-year master's student at SDLab presented the following paper at the [48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)](https://ieeecompsac.computer.org/2024/program/)
 
-<!--more-->
-
 > Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "An Evaluation of Time-Sliced GPU Sharing with KubeRay for Machine Learning Workloads", 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024), July. 2024.
 
 In this paper, the authors evaluated an alternative GPU sharing methodology using KubeRay and time slicing to enhance GPU utilization for machine learning workloads in Kubernetes environments. The study demonstrated that this method improved memory efficiency and allowed for more efficient GPU sharing among multiple concurrent workloads. However, the approach resulted in longer task completion times, particularly with parallel workloads, due to the overhead of managing distributed tasks. The study highlights the trade-off between improved GPU resource utilization and increased execution times, providing insights into optimizing GPU sharing in distributed machine learning environments​.
