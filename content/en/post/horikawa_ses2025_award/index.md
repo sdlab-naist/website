@@ -5,7 +5,7 @@ title: "Mr. Kosei Horikawa Won the Best International Poster Award at Software E
 subtitle: ""
 summary: ""
 authors: [kosei-horikawa]
-tags: ["Refactoring", "Test Refactoring", "Test Smell"]]
+tags: ["Refactoring", "Test Refactoring", "Test Smell"]
 categories: []
 date: 2025-09-22T12:04:34+09:00
 lastmod: 2025-09-22T12:04:34+09:00
