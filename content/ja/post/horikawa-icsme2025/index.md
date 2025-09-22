@@ -7,8 +7,8 @@ summary: ""
 authors: [kosei-horikawa]
 tags: ["Refactoring", "Code Metrics", "Code Readability", "Code Smell", "Mining Software Repository"]
 categories: []
-date: 2025-09-19T20:40:05+09:00
-lastmod: 2025-09-19T20:40:05+09:00
+date: 2025-09-22T20:40:05+09:00
+lastmod: 2025-09-22T20:40:05+09:00
 featured: false
 draft: false
 

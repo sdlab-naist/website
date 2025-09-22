@@ -4,7 +4,7 @@
 title: "堀川君がSoftware Engineering Symposium (SES2025)にてBest International Poster Awardを受賞しました"
 subtitle: ""
 summary: ""
-authors: []
+authors: [kosei-horikawa]
 tags: ["Refactoring", "Test Refactoring", "Test Smell"]
 categories: []
 date: 2025-09-22T12:04:27+09:00
