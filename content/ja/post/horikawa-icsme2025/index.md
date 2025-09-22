@@ -5,8 +5,8 @@ title: "堀川君がICSME2025で発表しました"
 subtitle: ""
 summary: ""
 authors: [kosei-horikawa]
-tags: []
-categories: ["Refactoring", "Code Metrics", "Code Readability", "Code Smell", "Mining Software Repository"]
+tags: ["Refactoring", "Code Metrics", "Code Readability", "Code Smell", "Mining Software Repository"]
+categories: []
 date: 2025-09-19T20:40:05+09:00
 lastmod: 2025-09-19T20:40:05+09:00
 featured: false
