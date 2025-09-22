@@ -30,8 +30,7 @@ projects: []
 
 SDLabの修士1年生である　パポン・チューハクライ　氏が、[48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024)](https://ieeecompsac.computer.org/2024/program/) にて以下の論文を発表しました。
 
-<!--more-->
 
-> Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "An Evaluation of Time-Sliced GPU Sharing with KubeRay for Machine Learning Workloads", 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024), July. 2024.
+> Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "An Evaluation of Time-Sliced GPU Sharing with KubeRay for Machine Learning Workloads," 48th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2024), pp. 1456-1459, July. 2024. [doi: 10.1109/COMPSAC61105.2024.00194.](https://ieeexplore.ieee.org/document/10633645)
 
 本論文では、著者らはKubernetes環境における機械学習ワークロードのGPU利用率を向上させるために、KubeRayとタイムスライスを用いた代替のGPU共有手法を評価しました。研究の結果、この方法はメモリ効率を改善し、複数の同時実行ワークロード間でより効率的なGPU共有を可能にすることが示されました。しかしながら、このアプローチは分散タスクの管理オーバーヘッドにより、特に並列ワークロードにおいてタスク完了時間が長くなる結果となりました。この研究は、GPUリソースの利用率向上と実行時間の増加との間のトレードオフを明らかにし、分散機械学習環境におけるGPU共有の最適化に関する洞察を提供しています。

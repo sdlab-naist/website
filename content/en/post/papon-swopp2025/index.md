@@ -29,7 +29,7 @@ projects: []
 ---
 Mr. Papon Choonhaklai from our laboratory presented the following paper at [Summer United Workshops on Parallel, Distributed and Cooperative Processing (SWoPP 2025)](https://sites.google.com/site/swoppweb/), held in Japan from August 4 to 6, 2025:
 
-> Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida: A Metric-Driven Kubernetes Operator for Dynamic MPS-Based GPU Sharing in Inference Workloads, In Proceedings of SWoPP 2025, Aug. 2025.
+> Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida: A Metric-Driven Kubernetes Operator for Dynamic MPS-Based GPU Sharing in Inference Workloads, IPSJ SIG Technical Report, Vol. 2025-HPC-200, No. 23, pp. 1-8, Jul. 2025.
 
 SWoPP is a domestic conference that brings together multiple workshops in the field of parallel, distributed, and cooperative processing.
 
