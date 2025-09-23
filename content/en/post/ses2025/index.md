@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Shirai presented in the Poster Presentation Track, titled "Does Programming Language Impact on Fuzz Testing?". The study investigated the impact of programming languages on fuzzing. In the presentation, six programming languages were compared in terms of the frequency of issue occurrences, the proportion of vulnerabilities, and the severity of vulnerabilities. The results revealed that in languages where vulnerabilities were less likely to occur, the vulnerabilities that did occur tended to be more severe.
