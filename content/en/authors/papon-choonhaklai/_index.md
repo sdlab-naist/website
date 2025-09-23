@@ -30,7 +30,7 @@ education:
   courses:
   - course: Master's Degree (Information Science)
     institution: Nara Institute of Science and Technology
-    year: 2023 - 2025 (Expected)
+    year: 2023 - 2025
   - course: Bachelor's Degree (Computer Engineering)
     institution: Kasetsart University
     year: 2019 - 2023
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact' # For a direct email link, use "mailto:choonhaklai.papon.co8@naist.ac.jp".
+  link: 'mailto:choonhaklai.papon.co8@naist.ac.jp' # For a direct email link, use "mailto:choonhaklai.papon.co8@naist.ac.jp".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/USERNAME
@@ -67,12 +67,12 @@ email: "choonhaklai.papon.co8@naist.ac.jp"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+- Past Student
 
 # Order this person will appear
 #  For current students: year and month of enrollment
 #  For past students: year and month of graduation
-weight: 202310
+weight: 202509
 ---
 
 ## Profile
