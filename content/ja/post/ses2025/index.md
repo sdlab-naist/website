@@ -37,7 +37,8 @@ ICSE2025勉強会は，ソフトウェア工学分野において最も権威が
 
 白井君は "Does Programming Language Impact on Fuzz Testing?" というタイトルで発表しました．本研究では，Fuzzingにおけるプログラミング言語の影響を調査しています．発表では，不具合の発生頻度，脆弱性の発生割合，および脆弱性の重大性を6つの言語で比較しました．その結果，脆弱性が発生しにくい言語では，発生する脆弱性の重大性が高いことが明らかになりました．
 
-金地君は，"An Empirical Study of Security-Policy Related Issues in Open Source Projects"
+金地君は，"An Empirical Study of Security-Policy Related Issues in Open Source Projects" というタイトルで発表しました．本研究では，SECURITY.mdファイルが普及していない原因を，本ファイルと関連するIssueの分析を通して調査しました．その結果，SECURITY.mdの導入がコントリビューターを混乱させているケースもあることが確認されました．
+
 
 渡邉君は，"Towards Leveraging Program Invariant Changes for Just-In-Time Defect Detection"
 
