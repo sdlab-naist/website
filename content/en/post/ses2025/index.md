@@ -29,3 +29,5 @@ projects: []
 ---
 
 Shirai presented in the Poster Presentation Track, titled "Does Programming Language Impact on Fuzz Testing?". The study investigated the impact of programming languages on fuzzing. In the presentation, six programming languages were compared in terms of the frequency of issue occurrences, the proportion of vulnerabilities, and the severity of vulnerabilities. The results revealed that in languages where vulnerabilities were less likely to occur, the vulnerabilities that did occur tended to be more severe.
+
+Kanaji presented in the Poster Presentation Track, titled "An Empirical Study of Security-Policy Related Issues in Open Source Projects." In this study, he investigated the reasons why the SECURITY.md file is not widely used by analyzing issues related to this file. As a result, he found that in some cases the introduction of SECURITY.md has caused confusion among contributors.
