@@ -5,7 +5,7 @@ title: "柏准教授，堀川君，白井君，金地君，渡邊君がSES2025�
 subtitle: ""
 summary: ""
 authors: [kosei-horikawa]
-tags: ["Refactoring","Fuzzing"]
+tags: ["Refactoring","Fuzzing","Ecosystem","JIT Defect Detection"]
 categories: []
 date: 2025-09-22T14:32:55+09:00
 lastmod: 2025-09-22T14:32:55+09:00
