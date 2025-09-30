@@ -39,7 +39,6 @@ ICSE2025勉強会は，ソフトウェア工学分野において最も権威が
 
 金地君は，"An Empirical Study of Security-Policy Related Issues in Open Source Projects" というタイトルで発表しました．本研究では，SECURITY.mdファイルが普及していない原因を，本ファイルと関連するIssueの分析を通して調査しました．その結果，SECURITY.mdの導入がコントリビューターを混乱させているケースもあることが確認されました．
 
-
-渡邉君は，"Towards Leveraging Program Invariant Changes for Just-In-Time Defect Detection"
+渡邊君は，"Towards Leveraging Program Invariant Changes for Just-In-Time Defect Detection"というタイトルで発表しました．JIT欠陥検出の動的特徴量としてinvariantが使用できないかという仮説から，テストコードで引っかかるエラーをinvariantの変化から検知できるかということ分析しました．結果としてバグ混入コミットのみinvariantの行数，文字数に変化が現れることが有意差と箱ひげ図で確認できました．
 
 ![](image_kanaji.jpg)
