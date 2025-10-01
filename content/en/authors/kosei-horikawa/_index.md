@@ -116,3 +116,6 @@ The 41st International Conference on Software Maintenance and Evolution (ICSME20
 - <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br> 
 Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
 The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM2025 ERVT Track). 
+
+## Awards
+- Best International Poster Award, IPSJ/SIGSE Software Engineering Symposium, 2025.

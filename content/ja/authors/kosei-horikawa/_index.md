@@ -123,4 +123,5 @@ The 41th International Conference on Software Maintenance and Evolution (ICSME25
 Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
 The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM25 ERVT), 2025.【CORE A会議】
 
-
+## 受賞
+- 2025年：ソフトウェアエンジニアリングシンポジウム2025 Best International Poster Award
