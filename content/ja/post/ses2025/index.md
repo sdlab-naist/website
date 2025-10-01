@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+![](IMG_horikawa-san-presen.jpg)
+
 本研究室の柏祐太郎准教授，堀川康生君，白井達也君，金地琳太郎君，渡邊幹君が2025年9月16日〜18日にかけて行われた[ソフトウェアエンジニアリングシンポジウム2025 (SES2025)](https://ses.sigse.jp/2025/)で発表を行いました．
 
 柏准教授はシンポジウム論文トラックにおいて[「シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較」](https://ipsj.ixsq.nii.ac.jp/records/2004389)というタイトルで発表しました．分析の結果，日本におけるソフトウェア工学教育では演習形式の授業数が少なく，DevOpsやアーキテクチャに関する分野が十分に扱われていないことが判明しました．当該研究はシンポジウム論文として採録された論文の中でも特に優れた研究であるとして，「研究奨励賞」を受賞しました．
@@ -41,4 +43,10 @@ ICSE2025勉強会は，ソフトウェア工学分野において最も権威が
 
 渡邊君は，"Towards Leveraging Program Invariant Changes for Just-In-Time Defect Detection"というタイトルで発表しました．JIT欠陥検出の動的特徴量としてinvariantが使用できないかという仮説から，テストコードで引っかかるエラーをinvariantの変化から検知できるかということ分析しました．結果としてバグ混入コミットのみinvariantの行数，文字数に変化が現れることが有意差と箱ひげ図で確認できました．
 
-![](image_kanaji.jpg)
+![](IMG_shirai-san-poster.jpg)
+
+![](IMG_kanaji-poster.png)
+
+
+![](IMG_kan-poster.jpg)
+
