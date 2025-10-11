@@ -9,9 +9,9 @@ title = "Research Topics"
 +++
 
 {{< figure src="eyecatch.jpeg" title="" >}}
-Software systems have become indispensable to modern society. As most companies conduct their economic activities centered around systems, it's no exaggeration to say that the quality of these systems significantly impacts a company's future. The Software Design Laboratory strives to contribute to society by developing software technologies that build secure and safe systems. Specifically, we focus on essential elements of modern systems such as source code, test code, networks, and infrastructure, improving efficiency across design, development, quality management, and operational processes.
-Below, we introduce our laboratory's research divided into three major areas.
 
+
+Software systems are fundamental to modern society. With most companies organizing their economic activities around these systems, system quality has become a defining factor in corporate success. The Software Design and Analysis Laboratory develops software technologies that enable secure and reliable systems. Our work targets the building blocks of modern systems: source code, test code, networks, and infrastructure. We aim to make design, development, quality management, and operations more efficient. Below, we outline our laboratory's research in three major areas.
 
 
 ## [AI accelerating software development](/project/se4ai/)
