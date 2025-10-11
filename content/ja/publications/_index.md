@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2025-10-11T21:27:38+0900
+lastmod: 2025-10-11T21:45:37+0900
 featured: false
 draft: false
 
@@ -32,8 +32,8 @@ projects: []
 
 ## 学術論文誌
 
+1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jan. 2025.
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
-1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jul. 2024.
 1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Nov. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Toward Predictive Modeling of Solar Power Generation for Multiple Power Plants", IEICE Transactions on Communications, Jul. 2023. [doi:10.1587/transcom.2022EBT0003](https://doi.org/10.1587/transcom.2022EBT0003)
 1. 市井 誠, 堀口 日向, 柏 祐太郎, 川上真澄, 伊原彰紀, 大平雅雄, "相関関係の効率的な解釈を支援するための遅延相関分析手法の拡張：プロジェクト管理への活用に向けた適用実験", 情報処理学会論文誌, Jul. 2023.
@@ -52,8 +52,8 @@ projects: []
 
 1. Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code", The 26th International Conference on Product-Focused Software Process Improvement (PROFES) , Dec. 2025.
 1. Napasorn Tevaru, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
-1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, 飯田　元, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
-1. Ibuki Nakamura, Kosei Horikawa, Brittany Anne Reid, Yutaro Kashiwa, Hajimu Iida, "  公開 An Empirical Investigation into Maintenance of Load Testing Scripts", The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Oct. 2025.
+1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, Hajimu Iida, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
+1. Ibuki Nakamura, Kosei Horikawa, Brittany Anne Reid, Yutaro Kashiwa, Hajimu Iida, "An Empirical Investigation into Maintenance of Load Testing Scripts", The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Oct. 2025.
 1. Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida, "How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study", The 41st International Conference on Software Maintenance and Evolution (ICSME), Sep. 2025.
 1. Raula Gaikovina Kula, Brittany Anne Reid, Christoph Treude, "Open Source at a Crossroads: The Future of Licensing Driven by Monetization", ACM International Conference on the Foundations of Software Engineering (FSE), Jun. 2025.
 1. Brittany Anne Reid, Raula Gaikovina Kula, "Rethinking Reuse in Dependency Supply Chains: Initial Analysis of NPM packages at the End of the Chain", ACM International Conference on the Foundations of Software Engineering (FSE) , Jun. 2025.

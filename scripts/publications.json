@@ -12,6 +12,111 @@
         "items": [
             {
                 "@type": "item",
+                "dc:researchId": "58891",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "DC\u5b66\u751f",
+                "dc:presenters": "",
+                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "My Fuzzers Won\u2019t Build: An Empirical Study of Fuzzing Build Failures",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2024",
+                "dc:year": "2025",
+                "dc:creator": [
+                    {
+                        "@name": "Olivier Nourry",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "DC",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Weiyi Shang",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Honglin Shu",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yasutaka Kamei",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+                    "@language": "en"
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2025/1",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
+            {
+                "@type": "item",
                 "dc:researchId": "62123",
                 "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
                 "dc:subDepartment": "",
@@ -339,7 +444,7 @@
                         "@language": "en"
                     },
                     {
-                        "@name": "\u98ef\u7530\u3000\u5143",
+                        "@name": "Hajimu Iida",
                         "@researcherId": "20232126",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
@@ -395,7 +500,7 @@
                 "dc:otherAttr": "",
                 "dc:language": "ENG",
                 "dc:title": {
-                    "@value": "  \u516c\u958b An Empirical Investigation into Maintenance of Load Testing Scripts",
+                    "@value": "An Empirical Investigation into Maintenance of Load Testing Scripts",
                     "@language": "en"
                 },
                 "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
@@ -1627,111 +1732,6 @@
                 "prism:startingPage": "",
                 "prism:endingPage": "",
                 "prism:publicationDate": "2024/8",
-                "prism:place": "",
-                "prism:doi": "",
-                "dc:repositoryHandle": "",
-                "prism:keyword": "",
-                "prism:wosNo": "",
-                "prism:issn": "",
-                "prism:isbn": "",
-                "prism:authorWork": "\u672c\u5b66",
-                "prism:domestic": "\u56fd\u5916",
-                "prism:note": ""
-            },
-            {
-                "@type": "item",
-                "dc:researchId": "58891",
-                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
-                "dc:subDepartment": "",
-                "dc:category": {
-                    "@id": "1",
-                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
-                },
-                "dc:authorAttr": "DC\u5b66\u751f",
-                "dc:presenters": "",
-                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
-                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
-                "dc:announcementForm": "",
-                "dc:publicationForm": "",
-                "dc:presentation": "",
-                "dc:awards": "",
-                "dc:otherAttr": "",
-                "dc:language": "ENG",
-                "dc:title": {
-                    "@value": "My Fuzzers Won\u2019t Build: An Empirical Study of Fuzzing Build Failures",
-                    "@language": "en"
-                },
-                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
-                "dc:subChair": "",
-                "dc:fiscalYear": "2024",
-                "dc:year": "2024",
-                "dc:creator": [
-                    {
-                        "@name": "Olivier Nourry",
-                        "@researcherId": "",
-                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
-                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
-                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
-                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "DC",
-                        "@language": "en"
-                    },
-                    {
-                        "@name": "Yutaro Kashiwa",
-                        "@researcherId": "20886650",
-                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
-                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
-                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
-                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
-                        "@language": "en"
-                    },
-                    {
-                        "@name": "Weiyi Shang",
-                        "@researcherId": "",
-                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
-                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
-                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
-                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
-                        "@language": "en"
-                    },
-                    {
-                        "@name": "Honglin Shu",
-                        "@researcherId": "",
-                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
-                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
-                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
-                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
-                        "@language": "en"
-                    },
-                    {
-                        "@name": "Yasutaka Kamei",
-                        "@researcherId": "",
-                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
-                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
-                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
-                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
-                        "@language": "en"
-                    }
-                ],
-                "dc:publisher": {
-                    "@value": ""
-                },
-                "prism:sourceName": {
-                    "@value": ""
-                },
-                "prism:sourceName2": {
-                    "@value": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
-                    "@language": "en"
-                },
-                "prism:volume": "",
-                "prism:number": "",
-                "prism:startingPage": "",
-                "prism:endingPage": "",
-                "prism:publicationDate": "2024/7",
                 "prism:place": "",
                 "prism:doi": "",
                 "dc:repositoryHandle": "",
