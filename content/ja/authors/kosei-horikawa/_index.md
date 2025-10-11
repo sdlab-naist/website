@@ -77,9 +77,10 @@ weight: 202404
 ---
 
 ## プロフィール
-専門はリファクタリング，テスト品質保証，特にソフトウェア品質の向上やテスト効率化を目的とした，リファクタリングの影響分析に関する研究に従事．
-テストコードに対して実施されるリファクタリングを明らかにし，テスト品質を向上させる手法の分析に盛んに取り組んでいる．その他，複数のプロジェクトで国際共同研究に取り組み，オランダ・中国・カナダの大学に所属する多くの研究者と協力して研究を進める．<br>
-QAエンジニアとして，テスト品質保証やテスト自動化に携わった経験を持つ．実際の開発において発見した課題を解決し，社会全体のソフトウェア品質に寄与することを目的に，博士後期課程に進学を決意．
+専門はリファクタリングやテスト品質保証であり，特にソフトウェア品質向上やテスト効率化を目的とした，リファクタリングの影響分析に関する研究に従事．
+現在は，テストコードに対して実施されるリファクタリングを明らかにし，テスト品質を向上させる手法分析に取り組んでいる．
+その他，複数のプロジェクトで国際共同研究に取り組み，オランダ・中国・カナダの大学に所属する多くの研究者と協力して研究を進める．<br>
+またQAエンジニアとして，テスト品質保証やテスト自動化に携わった経験を持ち，実際の開発において発見した課題を解決し，社会全体のソフトウェア品質に寄与することを目的に，博士後期課程に進学を決意．
 
 <br>
 <br>
@@ -92,7 +93,7 @@ QAエンジニアとして，テスト品質保証やテスト自動化に携わ
     </b></div>
     <div>
         <span class="col-1">　2024年9月～2024年11月:</span>
-        <span class="col-2">Radboud Universtiy 客員研究員</span>
+        <span class="col-2">オランダ Radboud Universtiy 客員研究員</span>
     </div>
     <div>
         <span class="col-1">　2024年11月～2024年12月:</span>
@@ -104,7 +105,11 @@ QAエンジニアとして，テスト品質保証やテスト自動化に携わ
     </div>
     <div>
         <span class="col-1">　2025年6月～2025年7月:</span>
-        <span class="col-2">杭州电子科技大学 客員研究員</span>
+        <span class="col-2">中国 杭州电子科技大学 客員研究員</span>
+    </div>
+    <div>
+        <span class="col-1">　2025年9月～2025年11月:</span>
+        <span class="col-2">カナダ Queen's University 客員研究員</span>
     </div>
 </div>
 <br>
@@ -118,4 +123,5 @@ The 41th International Conference on Software Maintenance and Evolution (ICSME25
 Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
 The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM25 ERVT), 2025.【CORE A会議】
 
-
+## 受賞
+- 2025年：ソフトウェアエンジニアリングシンポジウム2025 Best International Poster Award
