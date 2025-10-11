@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2024-10-27T08:41:51+0900
+lastmod: 2025-10-11T21:27:38+0900
 featured: false
 draft: false
 
@@ -91,6 +91,15 @@ projects: []
 
 ## International Conference
 
+1. Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code", The 26th International Conference on Product-Focused Software Process Improvement (PROFES) , Dec. 2025.
+1. Napasorn Tevaru, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
+1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, 飯田　元, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
+1. Ibuki Nakamura, Kosei Horikawa, Brittany Anne Reid, Yutaro Kashiwa, Hajimu Iida, "  公開 An Empirical Investigation into Maintenance of Load Testing Scripts", The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Oct. 2025.
+1. Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida, "How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study", The 41st International Conference on Software Maintenance and Evolution (ICSME), Sep. 2025.
+1. Raula Gaikovina Kula, Brittany Anne Reid, Christoph Treude, "Open Source at a Crossroads: The Future of Licensing Driven by Monetization", ACM International Conference on the Foundations of Software Engineering (FSE), Jun. 2025.
+1. Brittany Anne Reid, Raula Gaikovina Kula, "Rethinking Reuse in Dependency Supply Chains: Initial Analysis of NPM packages at the End of the Chain", ACM International Conference on the Foundations of Software Engineering (FSE) , Jun. 2025.
+1. Nabhan Suwanachote, Yagut Shakizada, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "On the Evolution of Unused Dependencies in Java Project Releases: An Empirical Study ", The 22nd International Conference of Mining Software Repositories (MSR'25), Apr. 2025.
+1. Miki Yonekura, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida, "Leveraging Context Information for Self-Admitted Technical Debt Detection ", The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC'25), Apr. 2025.
 1. Pakorn Laohakanniyom, Kohei Ichikawa, Hajimu Iida, Pattara Leelaprute, Bundit Manaskasemsak, Arnon Rungsawang, "An Evaluation of Network Performance through the Integration of SRv6 and MPTCP", IEEE International Conference on Communications, Networks, and Satellite 2024, Nov. 2024.
 1. Mingyang Yin, Yutaro Kashiwa, Keheliya Gallaba, Mahmoud Alfadel, Yasutaka Kamei, Shane McIntosh, "Developer-Applied Accelerations in Continuous Integration", The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Oct. 2024.
 1. Yasuhito Morikawa, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "RevToken: A Token-Level Review Recommendation: How Far Are We?", The 40th International Conference on Software Maintenance and Evolution (ICSME 2024), Oct. 2024.
@@ -334,6 +343,11 @@ projects: []
 
 ## Domestic Conference and Symposium
 
+1. 柏 祐太郎, 近藤 将成, 槇原 絵里奈, 亀井 靖高, "シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較", ソフトウェアエンジニアリングシンポジウム2025, Sep. 2025.
+1. 我妻 諒治, 柏 祐太郎, 安積 卓也, 飯田　元, "自動運転性能とソフトウェア品質の関係性調査に向けて", 信学技報, Jul. 2025.
+1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "継続的Fuzzingデータを用いたJust-In-Time脆弱性予測の提案", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2025.
+1. 白井 達也, ヌリ オリビエ, 柏 祐太郎, 藤原 賢二, 亀井 靖高, 飯田　元, "継続的Fuzzingの有効性に関する大規模実証調査に向けて", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2025.
+1. 大森 楓己, 伊原 彰紀, 柏 祐太郎, "マイクロベンチマーク共有サービスを用いた実行高速化のための自動リファクタリングへの試み", 情報処理学会 研究報告ソフトウェア工学（SE）, Nov. 2024.
 1. Wei Zheyuan, Kohei Ichikawa, Hajimu Iida, "A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance", 情報処理学会研究報告インターネットと運用技術（IOT）, Sep. 2024.
 1. 白井 達也, 柏 祐太郎, 藤原 賢二, 飯田　元, "Fuzzingカバレッジと脆弱性検出における関係性の考察	", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
 1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "Continuous Fuzzingデータを用いた脆弱性予測に関する研究", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
@@ -574,6 +588,8 @@ projects: []
 
 ## Award
 
+1. Kosei Horikawa, Bin Lin, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Best International Poster Award", ソフトウェアエンジニアリングシンポジウム(SES) 2025, Sep. 2025.
+1. 柏 祐太郎, 近藤 将成, 槇原 絵里奈, 亀井 靖高, "研究奨励賞", ソフトウェアエンジニアリングシンポジウム2025（SES2025）, Sep. 2025.
 1. Kundjanasith THONGLEK, Kohei ICHIKAWA, Keichi TAKAHASHI, Chawanat NAKASAN, Kazufumi YUASA, Tadatoshi BABASAKI, Hajimu IIDA, "第19回電子情報通信学会通信ソサイエティ論文賞（Best Paper Award）", 電子情報通信学会, May. 2024.
 1. 森川 靖仁, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "ソフトウェアサイエンス研究会 2023年度 研究奨励賞", 電子情報通信学会 ソフトウェアサイエンス研究会, Mar. 2024.
 1. 渡邉 未来, 柏 祐太郎, 飯田　元, 山口 賢一, "第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）　ポスター賞", 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会, Nov. 2023.
