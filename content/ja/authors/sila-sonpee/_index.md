@@ -18,7 +18,7 @@ organizations:
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 奈良先端大学に修士課程の学生
+bio: 博士前期課程学生
 
 # List each interest with a dash
 interests:
