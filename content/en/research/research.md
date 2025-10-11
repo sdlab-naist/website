@@ -8,46 +8,18 @@ weight = 10  # Order that this section will appear in.
 title = "Research Topics"
 +++
 
-## [Design & Analysis of Software Process](/en/project/software-process/)
-Recently in software development, due to the increase in scale and complexity,
-thousands of developers and dozens of company are usually involved in
-developing a huge software system. In this research group, we aim at
-mitigating such complexity and exploring solutions that support developers for
-smoother development process.
+{{< figure src="eyecatch.jpeg" title="" >}}
 
-## [Software Repository Mining](/en/project/repository-mining/)
-Software Repository refers to a development infrastructure that allows
-developers to collaborate among others for software development via network.
-It is also a collective term of version control system that manages source
-code, as well as a mailing list management system that keeps track of
-discussions among developers. Within software repository, immensive amount of
-development history data is stored. By exploiting these data, the goal of this
-research field is to perform integration that filters out irrelevant
-information and summarizes the commons. Furthermore, it also aims at providing
-developers with useful information in a comprehensible way. Such activities
-are called as Software Repository Mining.
 
-## [Software Analytics](/en/project/software-analytics/)
-Software analytics aims at helping individual or team to make better decision
-in software development. For this reason, software-related data such as source
-code or development history is analyzed. Afterwards, the corresponding result
-is provided in a way that can be shared among individual or team.
+Software systems are fundamental to modern society. With most companies organizing their economic activities around these systems, system quality has become a defining factor in corporate success. The Software Design and Analysis Laboratory develops software technologies that enable secure and reliable systems. Our work targets the building blocks of modern systems: source code, test code, networks, and infrastructure. We aim to make design, development, quality management, and operations more efficient. Below, we outline our laboratory's research in three major areas.
 
-## [Software for Cloud Computing](/en/project/cloud-computing/)
-Recently, in the rapidly emerging cloud computing technology, dynamically and
-automatically constructing as well as allocating computing environment by
-virtualizing computing resource based on software technology has been
-gathering attentions. In our research, we aim at manipulating computing
-resource by utilizing software technique. Specifically, Software Defined
-Networking (SDN) which is a software-based networking-control technique is in
-our main focus. Based on SDN, we hope to extend and advance software
-techniques that can support cloud computing-related technologies such as Cloud
-Gaming, Big Data Analysis, Machine Learning, IoT and etc.
 
-## [Software for High-Performance Computing](/en/project/high-performance-computing/)
-High-Performance Computing Systems (i.e., Supercomputers) provide massive
-computing performance to solve diverse problems in science and engineering. At
-our laboratory, we research and develop software to fully utilize the
-performance of state-of-the-art HPC systems. We develop massively parallel
-scientific applications in close collaboration with domain scientists.
-Furthermore, we design and implement middleware for large-scale HPC systems.
+## [AI accelerating software development](/project/se4ai/)
+Software development continues to accelerate year by year, with AI-powered automation of development processes at its core. For example, tools like [GitHub Copilot](https://github.com/features/copilot) use LLMs (Large Language Models) to handle much of the programming work, bringing us closer to a world where AI takes over a significant portion of coding tasks. We are working on research to further accelerate software development by fully leveraging artificial intelligence and big data analysis beyond just programming, automating processes traditionally performed by developers across other stages of development as well.
+
+## [Software development automation achieving NoOps (No Operations)](/project/noops/)
+To deliver high-quality software to users in shorter timeframes, modern software development projects employ DevOps practices that automate testing and releases. For instance, continuous integration, which automates compilation and testing with every software change, is one such practice. Our lab aims to advance DevOps further, automating a broader range of operations including bug detection and correction, operational monitoring, and more, ultimately achieving NoOps where human intervention becomes entirely unnecessary.
+
+## [Software analytics pursuing the ideal state of source code and projects](/project/software-analytics/)
+Modern software development leverages various systems and tools such as Git, pull requests, and bug tracking systems to improve efficiency. These systems accumulate development data, making it possible to analyze when, who, and what kind of development took place. Additionally, over 128 million repositories are publicly available on GitHub, all of which can be analyzed.
+The field known as software analytics aims to analyze this vast accumulation of public data and partner company data, enabling individuals and teams in software development to make better decisions. Our lab also extracts data on feature implementation, refactoring, testing, and more from development repositories, pursuing through analysis what problems developers face and how those problems should be resolved.

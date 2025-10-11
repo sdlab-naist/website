@@ -11,12 +11,8 @@ title = "Research"
 At SDLab, we are conducting research on techniques that support software
 development. Our current research topics include:
 
-- Analysis of software-related data such as source code and development
-  history
-- Analysis of development process and software design
-- Virtualization technology, in particular SDN (Software Defined Networking)
-- Software analytics (data analysis that helps developers to understand the
-  progress of software development projects and make better decisions)
-- HPC (High Performance Computing, large-scale scientific computing using supercomputers)
+- **AI accelerating software development**
+- **Software development automation achieving NoOps (No Operations)**
+- **Software analytics pursuing the ideal state of source code and projects**
 
 Please see [here](/en/research) for details.

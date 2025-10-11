@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2024-10-27T08:41:51+0900
+lastmod: 2025-10-11T21:45:37+0900
 featured: false
 draft: false
 
@@ -32,8 +32,8 @@ projects: []
 
 ## Journal
 
+1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jan. 2025.
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
-1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jul. 2024.
 1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Nov. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Toward Predictive Modeling of Solar Power Generation for Multiple Power Plants", IEICE Transactions on Communications, Jul. 2023. [doi:10.1587/transcom.2022EBT0003](https://doi.org/10.1587/transcom.2022EBT0003)
 1. 市井 誠, 堀口 日向, 柏 祐太郎, 川上真澄, 伊原彰紀, 大平雅雄, "相関関係の効率的な解釈を支援するための遅延相関分析手法の拡張：プロジェクト管理への活用に向けた適用実験", 情報処理学会論文誌, Jul. 2023.
@@ -47,12 +47,18 @@ projects: []
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Opimon: A Transparent, Low-overhead Monitoring System for OpenFlow Networks", IEICE Transactions on Communications, Apr. 2022. [doi:10.1587/transcom.2021EBP3083](https://doi.org/10.1587/transcom.2021EBP3083)
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Swati Singhal, Jong Y. Choi, Keichi Takahashi, Kevin Huck, Igor Yakushin, Alan Sussman, Todd Munson, Ian Foster, Scott Klasky, "A codesign framework for online data analysis and reduction", Concurrency and Computation: Practice and Experience, Aug. 2021. [doi:10.1002/cpe.6519](https://doi.org/10.1002/cpe.6519)
 1. 佐伯 幸郎, 福安 直樹, 神田 哲也, 市川 昊平, 吉田 真一, 中村 匡秀, 楠本 真二, "自己評価と客観評価の変化にもとづく実践的人材育成コースにおける質的教育効果の測定", コンピュータソフトウェア, Jan. 2021. [doi:10.11309/jssst.38.1_52](https://doi.org/10.11309/jssst.38.1_52)
-1. William F. Godoy, Norbert Podhorszki, Ruonan Wang, Chuck Atkins, Greg Eisenhauer, Junmin Gu, Philip Davis, Jong Choi, Kai Germaschewski, Kevin Huck, Axel Huebl, Mark Kim, James Kress, Tahsin Kurc, Qing Liu, Jeremy Logan, Kshitij Mehta, George Ostrouchov, Manish Parashar, Franz Poeschel, David Pugmire, Eric Suchyta, Keichi Takahashi, Nick Thompson, Seiji Tsutsumi, Lipeng Wan, Matthew Wolf, Kesheng Wu, Scott Klasky, "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management", SoftwareX, Jul. 2020. [doi:10.1016/j.softx.2020.100561](https://doi.org/10.1016/j.softx.2020.100561)
-1. 佐伯幸郎, 福安直樹, 神田哲也, 市川昊平, 吉田真一, 中村匡秀, 楠本真二, "自動発注問題を題材とした実践的人材育成コースにおける授業改善", コンピュータソフトウェア, Feb. 2020. [doi:10.11309/jssst.37.1_19](https://doi.org/10.11309/jssst.37.1_19)
-1. Kensworth Subratie, Saumitra Aditya, Vahid Daneshmand, Kohei Ichikawa, Renato Figueiredo, "On the Design and Implementation of IP-over-P2P Overlay Virtual Private Networks", IEICE Transactions on Communications, Jan. 2020. [doi:10.1587/transcom.2019CPI0001](https://doi.org/10.1587/transcom.2019CPI0001)
 
 ## International Conference
 
+1. Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code", The 26th International Conference on Product-Focused Software Process Improvement (PROFES) , Dec. 2025.
+1. Napasorn Tevaru, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
+1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, Hajimu Iida, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
+1. Ibuki Nakamura, Kosei Horikawa, Brittany Anne Reid, Yutaro Kashiwa, Hajimu Iida, "An Empirical Investigation into Maintenance of Load Testing Scripts", The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Oct. 2025.
+1. Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida, "How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study", The 41st International Conference on Software Maintenance and Evolution (ICSME), Sep. 2025.
+1. Raula Gaikovina Kula, Brittany Anne Reid, Christoph Treude, "Open Source at a Crossroads: The Future of Licensing Driven by Monetization", ACM International Conference on the Foundations of Software Engineering (FSE), Jun. 2025.
+1. Brittany Anne Reid, Raula Gaikovina Kula, "Rethinking Reuse in Dependency Supply Chains: Initial Analysis of NPM packages at the End of the Chain", ACM International Conference on the Foundations of Software Engineering (FSE) , Jun. 2025.
+1. Nabhan Suwanachote, Yagut Shakizada, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "On the Evolution of Unused Dependencies in Java Project Releases: An Empirical Study ", The 22nd International Conference of Mining Software Repositories (MSR'25), Apr. 2025.
+1. Miki Yonekura, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida, "Leveraging Context Information for Self-Admitted Technical Debt Detection ", The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC'25), Apr. 2025.
 1. Pakorn Laohakanniyom, Kohei Ichikawa, Hajimu Iida, Pattara Leelaprute, Bundit Manaskasemsak, Arnon Rungsawang, "An Evaluation of Network Performance through the Integration of SRv6 and MPTCP", IEEE International Conference on Communications, Networks, and Satellite 2024, Nov. 2024.
 1. Mingyang Yin, Yutaro Kashiwa, Keheliya Gallaba, Mahmoud Alfadel, Yasutaka Kamei, Shane McIntosh, "Developer-Applied Accelerations in Continuous Integration", The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Oct. 2024.
 1. Yasuhito Morikawa, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "RevToken: A Token-Level Review Recommendation: How Far Are We?", The 40th International Conference on Software Maintenance and Evolution (ICSME 2024), Oct. 2024.
@@ -87,12 +93,6 @@ projects: []
 1. Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara, Hajimu Iida, "Understanding Build Errors in Agile Software Development Project-Based Learning",  27th Asia-Pacific Software Engineering Conference (APSEC 2020), Dec. 2020. [doi:10.1109/APSEC51365.2020.00039](https://doi.org/10.1109/APSEC51365.2020.00039)
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020. [doi:10.1109/ICPADS51040.2020.00035](https://doi.org/10.1109/ICPADS51040.2020.00035)
 1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020. [doi:10.1109/ICMLA51294.2020.00120](https://doi.org/10.1109/ICMLA51294.2020.00120)
-1. Mitsuaki Tsuji, Toshinori Takai, Kazuki Kakimoto, Naoko Ishihama, Masafumi Katahira, Hajimu Iida, "Prioritizing Scenarios based on STAMP/STPA Using Statistical Model Checking", The 4th IEEE International Workshop on Testing Extra-Functional Properties and Quality Characteristics of Software Systems (ITEQS'20), Oct. 2020. [doi:10.1109/ICSTW50294.2020.00032](https://doi.org/10.1109/ICSTW50294.2020.00032)
-1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hidemoto Nakada, Ryousei Takano, Hajimu Iida, "Retraining Quantized Neural Network Models with Unlabeled Data", International Joint Conference on Neural Network (IJCNN), Jul. 2020. [doi:10.1109/IJCNN48605.2020.9207190](https://doi.org/10.1109/IJCNN48605.2020.9207190)
-1. Keichi Takahashi, Susumu Date, Yasuhiro Watashiba, Yoshiyuki Kido, Shinji Shimojo, "Integrating SDN-Enhanced MPI with Job Scheduler to Support Shared Clusters", 28th Workshop on Sustained Simulation Performance, Mar. 2020. [doi:10.1007/978-3-030-39181-2_13](https://doi.org/10.1007/978-3-030-39181-2_13)
-1. Kundjanasith Thonglek, Wassapon Watanakeesuntorn, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Hajimu Iida, "SharingNets: an open source repository for sharing pre-trained neural networks", Symposium on Frontier Research in Information Science and Technology 2019, Dec. 2019.
-1. Seiji Tsutsumi, Naoyuki Fujita, Hiroyuki Ito, Daichi Obinata, Keisuke Inoue, Yosuke Matsumura, Keichi Takahashi, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ and In Transit Visualization for Numerical Simulations in HPC", In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization (ISAV 2019), Nov. 2019.
-1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Jong Choi, Keichi Takahashi, Igor Yakushin, Todd Munson, Ian Foster, Scott Klasky, "A Codesign Framework for Online Data Analysis and Reduction", Workflows in Support of Large-Scale Science (WORKS 2019), Nov. 2019. [doi:10.1109/WORKS49585.2019.00007](https://doi.org/10.1109/WORKS49585.2019.00007)
 
 ## Book
 
@@ -101,6 +101,11 @@ projects: []
 
 ## Domestic Conference and Symposium
 
+1. 柏 祐太郎, 近藤 将成, 槇原 絵里奈, 亀井 靖高, "シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較", ソフトウェアエンジニアリングシンポジウム2025, Sep. 2025.
+1. 我妻 諒治, 柏 祐太郎, 安積 卓也, 飯田　元, "自動運転性能とソフトウェア品質の関係性調査に向けて", 信学技報, Jul. 2025.
+1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "継続的Fuzzingデータを用いたJust-In-Time脆弱性予測の提案", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2025.
+1. 白井 達也, ヌリ オリビエ, 柏 祐太郎, 藤原 賢二, 亀井 靖高, 飯田　元, "継続的Fuzzingの有効性に関する大規模実証調査に向けて", 電子情報通信学会 ソフトウェアサイエンス研究会 (SS), Mar. 2025.
+1. 大森 楓己, 伊原 彰紀, 柏 祐太郎, "マイクロベンチマーク共有サービスを用いた実行高速化のための自動リファクタリングへの試み", 情報処理学会 研究報告ソフトウェア工学（SE）, Nov. 2024.
 1. Wei Zheyuan, Kohei Ichikawa, Hajimu Iida, "A Proposal of Path Selection Method by SRv6 for Optimizing Multipath QUIC Performance", 情報処理学会研究報告インターネットと運用技術（IOT）, Sep. 2024.
 1. 白井 達也, 柏 祐太郎, 藤原 賢二, 飯田　元, "Fuzzingカバレッジと脆弱性検出における関係性の考察	", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
 1. 加藤 陸, 柏 祐太郎, 藤原 賢二, 飯田　元, "Continuous Fuzzingデータを用いた脆弱性予測に関する研究", ソフトウェア エンジニアリングシンポジウム2024（SES2024）ポスターセッション, Sep. 2024.
@@ -133,12 +138,6 @@ projects: []
 1. Kundjanasith Thonglek, Kohei Ichikawa, Kazufumi Yuasa, Tadatoshi Babasaki, "LSTM-based Neural Network Model for Predicting Solar Power Generation", 電子通信エネルギー技術研究会 (IEICE-EE), May. 2021.
 1. 杉浦智基, 高橋慧智, 市川昊平, 飯田元, "SRv6を用いたアプリケーションの特性を考慮した通信経路制御手法", 情報処理学会 研究報告インターネットと運用技術 (IOT), May. 2021.
 1. 杉浦智基, 高橋慧智, 市川昊平, "SRv6を用いたアプリケーションの特性を考慮した通信経路決定手法の提案", RICC-PIoT Workshop 2021, Mar. 2021.
-1. 村木 暢哉, 木戸 善之, 高橋 慧智, 山田 拓哉, 伊達 進, 梅谷 麗, 石橋 靖嗣, 下條 真司, "共有型IoT資源利用アプリケーションのためのデータフロープログラミング", 第150回システムソフトウェアとオペレーティング・システム研究発表会 (SWoPP 2020), Jul. 2020.
-1. 辻光顕, 高井利憲, 柿本和希, 石濱直樹, 片平真史, 飯田元, "統計的モデル検査法を用いたSTAMP/STPAにおけるシナリオのリスク分析", ウィンターワークショップ2020・イン・京都, Jan. 2020.
-1. Kohei Ichikawa, Atsuko Takefusa, Yasuhiro Watashiba, Yoshiyuki Kido, Susumu Date, "Deployment of NFV environment on an international SDN testbed", RICC-RIEC workshop 2019, Dec. 2019.
-1. 堤誠司, 藤田直行, 伊藤浩之, 大日向大地, 井上敬介, 松村洋祐, 高橋慧智, Greg Eisenhauer, Norbert Podhorszki, Scott Klasky, "In Situ/In Transitアプローチを用いた大規模数値解析におけるポスト処理効率化", 第33回数値流体力学シンポジウム, Nov. 2019.
-1. 倉地亮介, 崔恩瀞, 飯田元, "類似コード検出ツールを用いたテストコード再利用に向けた調査", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
-1. 鐘ヶ江由佳, 崔恩瀞, 飯田元, "OSSプロジェクトにおけるCIツールの変更の影響調査に向けて", 第26回 ソフトウェア工学の基礎ワークショップ FOSE2019, Nov. 2019.
 
 ## Annual Domestic Meeting
 
@@ -146,6 +145,8 @@ projects: []
 
 ## Award
 
+1. Kosei Horikawa, Bin Lin, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Best International Poster Award", ソフトウェアエンジニアリングシンポジウム(SES) 2025, Sep. 2025.
+1. 柏 祐太郎, 近藤 将成, 槇原 絵里奈, 亀井 靖高, "研究奨励賞", ソフトウェアエンジニアリングシンポジウム2025（SES2025）, Sep. 2025.
 1. Kundjanasith THONGLEK, Kohei ICHIKAWA, Keichi TAKAHASHI, Chawanat NAKASAN, Kazufumi YUASA, Tadatoshi BABASAKI, Hajimu IIDA, "第19回電子情報通信学会通信ソサイエティ論文賞（Best Paper Award）", 電子情報通信学会, May. 2024.
 1. 森川 靖仁, 柏 祐太郎, 藤原 賢二, 平尾 俊貴, 飯田　元, "ソフトウェアサイエンス研究会 2023年度 研究奨励賞", 電子情報通信学会 ソフトウェアサイエンス研究会, Mar. 2024.
 1. 渡邉 未来, 柏 祐太郎, 飯田　元, 山口 賢一, "第30回ソフトウェア工学の基礎ワークショップ（FOSE2023）　ポスター賞", 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会, Nov. 2023.
