@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士前期課程学生
+role: 修士学生
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.naist.jp"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 博士前期課程学生
+bio: 修士学生
 
 # List each interest with a dash
 interests:
