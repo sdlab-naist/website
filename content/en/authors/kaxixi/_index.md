@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'xia.sisi.xv0@naist.ac.jp'.
+  link: '#xia.sisi.xv0@naist.ac.jp'
 
 
 # Link to a PDF of your resume/CV from the About widget.
