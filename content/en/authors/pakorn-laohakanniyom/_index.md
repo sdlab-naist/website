@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Nabhan Suwanachote (Au)"
+title: "Pakorn Laohakanniyom (Ryu)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - "Suwanachtoe Nabhan"
+  - "Pakorn Laohakanniyom"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,22 +14,25 @@ role: Master’s Student
 
 # Organizations/Affiliations
 organizations:
-  - name:
-    url: ""
-
+- name: Nara Institude of Science and Technology
+  url: "http://www.naist.jp/en/"
+- name: Software Design and Analysis Laboratory
+  url: "https://sdlab.naist.jp/en/"
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Master's student at Information Science, Nara Institute of Science and Technology, Japan
 
 # List each interest with a dash
 interests:
-  - Music
+  - Game
+  - Anime / Movie
   - Travel
+  - Japanese Food
 
 education:
   courses:
     - course: Bachelor's Degree (Software and Knowledge Engineering)
       institution: Kasetsart University
-      year: 2020 - 2024
+      year: 2021 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -38,7 +41,7 @@ education:
 social:
   - icon: github
     icon_pack: fab
-    link: https://github.com/nabhan-au
+    link: https://github.com/RyukungG
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -46,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nabhan.suwanahcote.np4@is.naist.jp"
+email: "pakorn.laohakanniyom.pp1@naist.ac.jp"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -56,5 +59,5 @@ highlight_name: false
 user_groups:
   - Student
 
-weight: 202410
+weight: 202510
 ---
