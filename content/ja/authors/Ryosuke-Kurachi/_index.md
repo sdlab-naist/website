@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- 釣り、旅行、マッチングアプリ
+- 釣り、旅行
  
 
 # education:
