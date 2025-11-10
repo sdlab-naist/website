@@ -31,6 +31,16 @@ Tatsuya Shirai, Keitaro Ito, Ayane Shirakawa, and Kan Watanabe from our laborato
 
 Shirai presented "An Empirical Study on the Impact of Programming Languages in Fuzzing." This research focused on fuzzing, an automated software testing technique, and conducted a large-scale analysis of how the characteristics of different programming languages affect fuzzing results. The findings revealed significant differences between languages in terms of detected bug patterns and metrics such as coverage, demonstrating the importance of optimizing fuzzing methods according to language characteristics.
 
+Ito
+
+Shirakawa
+
+Watanabe presented in the Poster Presentation Track, titled “Towards Leveraging Program Invariant Changes for Just-In-Time Defect Detection.” Starting from the hypothesis that invariants could be used as dynamic features for JIT defect detection, he analyzed whether errors caught by test code could be detected through changes in invariants. The results confirmed, via box plots showing significant differences, that only bug-containing commits exhibited changes in the number of lines and characters of invariants.
+
+
 
 
 ![](shirai.jpg)
+
+
+![](watanabe.jpg)
