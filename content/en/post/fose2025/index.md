@@ -33,7 +33,7 @@ Shirai presented "An Empirical Study on the Impact of Programming Languages in F
 
 Ito
 
-Shirakawa presented "Empirical Analysis of Consecutive Test Failures (Test Alert Snooze) in Continuous Integration." Existing research has not clarified the actual situation or causes of consecutive test failures in continuous integration (CI). Therefore, in this study, we defined consecutive failures of a test method as a test alert snooze and analyzed its characteristics. The results were shown in bar graphs and box plots for the percentage of test alert snoozes, the number of consecutive failures, and the correction time.
+Shirakawa presented "Empirical Analysis of Consecutive Test Failures (Test Alert Snooze) in Continuous Integration." Existing research has not clarified the actual situation or causes of consecutive test failures in continuous integration (CI). Therefore, in this study, we defined consecutive failures of a test method as "test alert snooze" and analyzed its characteristics. The results were shown in bar graphs and box plots for the percentage of test alert snoozes, the number of consecutive failures, and the correction time.
 
 Watanabe presented in the Poster Presentation Track, titled “Towards Leveraging Program Invariant Changes for Just-In-Time Defect Detection.” Starting from the hypothesis that invariants could be used as dynamic features for JIT defect detection, he analyzed whether errors caught by test code could be detected through changes in invariants. The results confirmed, via box plots showing significant differences, that only bug-containing commits exhibited changes in the number of lines and characters of invariants.
 
