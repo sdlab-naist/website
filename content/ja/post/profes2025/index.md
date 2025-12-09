@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-![](Kanaji.png)
+![](IMG_Kanaji.png)
 
 本研究室の金地君と，Kasetsart UniversityのAmyさん，Tonnamさんが，2025年12月1日~3日にかけて行われた[26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)](https://conf.researchr.org/home/profes-2025)で発表を行いました．
 
@@ -47,9 +47,9 @@ Tonnam さんは "Detecting and Characterizing Low and No Functionality Packages
 
 
 
-![](Amy.jpg)
+![](IMG_Amy.jpg)
 
-![](Tonnam.jpeg)
+![](IMG_Tonnam.jpeg)
 
 
 
