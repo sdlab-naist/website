@@ -29,21 +29,21 @@ projects: []
 ---
 ![](IMG_Kanaji.png)
 
-本研究室の金地君と，Kasetsart UniversityのAmyさん，Tonnamさんが，2025年12月1日~3日にかけて行われた[26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)](https://conf.researchr.org/home/profes-2025)で発表を行いました．
+本研究室の金地君と，Kasetsart UniversityのAmyさん，Tonnamさんが，2025年12月1日~3日にかけてイタリアのサレルノ行われた[26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)](https://conf.researchr.org/home/profes-2025)に参加しました．3名はPROFESのショートペーパートラックに論文を提出し，アクセプトされた論文を紹介しました．なお，このショートペーパーの採択率は68%でした．
 
 
-金地くんは “An Empirical Study of Security-Policy Related Issues in Open Source Projects” というタイトルで発表しました．
-本研究では，GitHub リポジトリ内で脆弱性を報告するためのファイルである，SECURITY.mdに着目し，その普及率が低い理由を調査しました．具体的には，SECURITY.mdファイルと5種類のコミュニティヘルスファイルに関連するIssueを分析し，導入が進まない要因を明らかにしました．その結果、SECURITY.mdの導入がかえってコントリビューターを混乱させているケースが存在することが確認されました．
+金地くんは“An Empirical Study of Security-Policy Related Issues in Open Source Projects”というタイトルで発表しました．
+本研究では，GitHubリポジトリ内で脆弱性を報告するためのファイルである，SECURITY.mdに着目し，その普及率が低い理由を調査しました．具体的には，SECURITY.mdファイルと5種類のコミュニティヘルスファイルに関連するIssueを分析し，導入が進まない要因を明らかにしました．その結果、SECURITY.mdの導入がかえってコントリビューターを混乱させているケースが存在することが確認されました．
 
 
-Amyさんは "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code" というタイトルで発表しました．
+Amyさんは"On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code"というタイトルで発表しました．
 本研究では，エージェンティックコーディングツールにおけるエージェントマニフェストの役割と実態を調査しています．発表では，242のリポジトリから収集した253個のClaude.mdファイルを分析し，マニフェスト構造の特徴，記述内容の傾向，および共通パターンを明らかにしました．
 その結果，マニフェストは1つの主要見出しと複数のサブセクションから成る浅い階層構造を持ち，内容の多くが運用コマンド，技術的な実装メモ，高レベルアーキテクチャの説明に集中していることが分かりました．
 
 
-Tonnam さんは "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem" というタイトルで発表しました．
-本研究では，最小限の機能しか持たない trivial packages と，実行可能なロジックを含まない data-only packages を対象に，それらの普及状況とセキュリティリスクを調査しています．発表では，これらのパッケージを検出するための規則ベース静的解析手法を開発し，2025年時点の npm エコシステムにおけるリスク評価を行いました．
-分析の結果，パッケージの 17.92%が trivial packages に分類され，その脆弱性レベルは非 trivial パッケージと同程度であることが示されました。また，data-only packages は頻度こそ低いものの，依然としてリスクを含むことも確認されました。提案手法による検出ツールは94%の精度（macro-F1 0.87）を達成し，大規模解析やセキュリティリスク低減に有用であることが示されました．
+Tonnamさんは"Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem"というタイトルで発表しました．
+本研究では，最小限の機能しか持たない trivial packagesと，実行可能なロジックを含まないdata-only packagesを対象に，それらの普及状況とセキュリティリスクを調査しています．発表では，これらのパッケージを検出するための規則ベース静的解析手法を開発し，2025年時点のnpmエコシステムにおけるリスク評価を行いました．
+分析の結果，パッケージの17.92%がtrivial packagesに分類され，その脆弱性レベルは非trivialパッケージと同程度であることが示されました。また，data-only packagesは頻度こそ低いものの，依然としてリスクを含むことも確認されました。提案手法による検出ツールは94%の精度（macro-F1 0.87）を達成し，大規模解析やセキュリティリスク低減に有用であることが示されました．
 
 
 
