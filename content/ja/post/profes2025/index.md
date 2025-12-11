@@ -29,7 +29,7 @@ projects: []
 ---
 ![](IMG_Kanaji.png)
 
-本研究室の金地君と，Kasetsart UniversityのAmyさん，Tonnamさんが，2025年12月1日~3日にかけてイタリアのサレルノ行われた[26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)](https://conf.researchr.org/home/profes-2025)に参加しました．3名はPROFESのショートペーパートラックに論文を提出し，アクセプトされた論文を紹介しました．なお，このショートペーパーの採択率は68%でした．
+本研究室の金地君と，Kasetsart UniversityのAmyさん，Tonnamさんが，2025年12月1日~3日にかけてイタリアのサレルノ行われた[26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)](https://conf.researchr.org/home/profes-2025)に参加しました．3名はPROFESのショートペーパートラックに論文を提出し，採択された論文を紹介しました．なお，このショートペーパーの採択率は68%でした．
 
 
 金地くんは“An Empirical Study of Security-Policy Related Issues in Open Source Projects”というタイトルで発表しました．
