@@ -43,7 +43,7 @@ Amyさんは"On the Use of Agentic Coding Manifests: An Empirical Study of Claud
 
 Tonnamさんは"Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem"というタイトルで発表しました．
 本研究では，最小限の機能しか持たない trivial packagesと，実行可能なロジックを含まないdata-only packagesを対象に，それらの普及状況とセキュリティリスクを調査しています．発表では，これらのパッケージを検出するための規則ベース静的解析手法を開発し，2025年時点のnpmエコシステムにおけるリスク評価を行いました．
-分析の結果，パッケージの17.92%がtrivial packagesに分類され，その脆弱性レベルは非trivialパッケージと同程度であることが示されました。また，data-only packagesは頻度こそ低いものの，依然としてリスクを含むことも確認されました。提案手法による検出ツールは94%の精度（macro-F1 0.87）を達成し，大規模解析やセキュリティリスク低減に有用であることが示されました．
+分析の結果，パッケージの17.92%がtrivial packagesに分類され，その脆弱性レベルは非trivialパッケージと同程度であることが示されました．また，data-only packagesは頻度こそ低いものの，依然としてリスクを含むことも確認されました．提案手法による検出ツールは94%の精度（macro-F1 0.87）を達成し，大規模解析やセキュリティリスク低減に有用であることが示されました．
 
 
 
