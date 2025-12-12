@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mr.Kanaji, Ms.Amy, and Ms.Tonnam presented their research at PROFES 2025."
+title: "Mr. Kanaji, Ms. Amy, and Ms. Tonnam presented their research at PROFES 2025."
 subtitle: ""
 summary: ""
 authors: [rintaro-kanaji]
