@@ -39,7 +39,7 @@ Ms.Amy presented her work titled "On the Use of Agentic Coding Manifests: An Emp
 This study investigates the role and characteristics of agent manifests in agentic coding tools. In the presentation, she analyzed 253 Claude.md files collected from 242 repositories to identify structural features, content trends, and common patterns in these manifests.
 The results revealed that manifests generally exhibit a shallow hierarchical structure consisting of one main heading and several subsections, with most content focusing on operational commands, technical implementation notes, and high-level architectural descriptions.
 
-Ms.Tonnam presented a work titled "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem."
+Ms. Tonnam presented a work titled "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem."
 The study examines trivial packages, which offer minimal functionality, and data-only packages, which contain no executable logic. A rule-based static analysis method was developed to detect these packages and to assess their prevalence and associated security risks in the 2025 npm ecosystem.
 The analysis showed that 17.92% of packages were trivial, with vulnerability levels similar to non-trivial ones, and that data-only packages, though less common, also pose risks. The proposed detection tool achieved 94% accuracy (macro-F1 0.87), demonstrating its usefulness for large-scale analysis and reducing security exposure.
 
