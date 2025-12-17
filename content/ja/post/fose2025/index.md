@@ -44,6 +44,8 @@ projects: []
 
 ![](shirai.jpg)
 
+![](ito.jpg)
+
 ![](shirakawa.jpg)
 
 ![](watanabe.jpg)
