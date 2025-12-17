@@ -31,7 +31,8 @@ Tatsuya Shirai, Keitaro Ito, Ayane Shirakawa, and Kan Watanabe from our laborato
 
 Shirai presented "An Empirical Study on the Impact of Programming Languages in Fuzzing." This research focused on fuzzing, an automated software testing technique, and conducted a large-scale analysis of how the characteristics of different programming languages affect fuzzing results. The findings revealed significant differences between languages in terms of detected bug patterns and metrics such as coverage, demonstrating the importance of optimizing fuzzing methods according to language characteristics.
 
-Ito
+Ito presented "Construction of a Just-in-Time Safety Prediction Model for Autonomous Driving". Simulation testing is crucial for autonomous driving software development from a safety perspective, but it faces the challenge of being time-consuming. Therefore, this research constructed a model that predicts, at the commit level, how changes made to the software will affect safety. The results showed that the model could predict correctly with approximately a 40% probability, and demonstrated that, among the changes, the number of lines added and the number of lines deleted are more deeply involved in safety.
+
 
 Shirakawa presented "Empirical Analysis of Consecutive Test Failures (Test Alert Snooze) in Continuous Integration." Existing research has not clarified the actual situation or causes of consecutive test failures in continuous integration (CI). Therefore, in this study, we defined consecutive failures of a test method as "test alert snooze" and empirically analyzed its characteristics. The results were shown in bar graphs and box plots for the percentage of test alert snoozes, the number of consecutive failures, and the correction time.
 
