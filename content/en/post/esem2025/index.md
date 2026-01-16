@@ -27,11 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Ibuki Nakamura from our laboratory presented the following paper at the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025).
+Ibuki Nakamura from our laboratory presented the following paper at [the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)](https://conf.researchr.org/home/esem-2025).
 
 > Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, and Hajimu Iida,
 > “An Empirical Investigation into Maintenance of Load Testing Scripts”, In Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)
 
-ESEM is a leading international conference for empirical software engineering and evaluation, and this year marks its 19th edition as a premier venue in the field. In the ESEM-ERVT (Emerging Results and Vision Track) to which Mr. Nakamura submitted his work, 18 out of 61 papers were accepted (an acceptance rate of 29.5%).
+ESEM is a leading international conference for empirical software engineering and evaluation, and this year marks its 19th edition as a premier venue in the field. In the ESEM-ERVT (Emerging Results and Vision Track) to which Nakamura submitted his work, 18 out of 61 papers were accepted (an acceptance rate of 29.5%).
 
 This research investigates the evolution and maintenance practices of load testing scripts. The study revealed that once created, load testing scripts are updated very infrequently. Furthermore, the analysis showed that the majority of maintenance efforts are dedicated to code organization and improving readability rather than functional changes.
