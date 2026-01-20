@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2025-10-11T21:45:37+0900
+lastmod: 2026-01-20T16:20:24+0900
 featured: false
 draft: false
 
@@ -29,6 +29,7 @@ projects: []
 ---
 ## Journal
 
+1. Ibuki Nakamura, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study ", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2026.
 1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jan. 2025.
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
 1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Nov. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
@@ -91,6 +92,12 @@ projects: []
 
 ## International Conference
 
+1. Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, 柏 祐太郎, João F. Ferreira, Raula Gaikovina Kula, Coen De Roover, "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Yutaro Kashiwa, "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Kan Watanabe, Tatsuya Shirai, Yutaro Kashiwa, Hajimu Iida, "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Kyogo Horikawa, Kosei Horikawa, Yutaro Kashiwa, Uwano Hidetake, Hajimu Iida, "Do AI Agents Really Improve Code Readability? ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Siyuan Liu, Nabhan Suwanachote, Yutaro Kashiwa, Brittany Anne Reid, Hajimu Iida, "Evaluating Cross-Language Transfer for Refactoring Detection with Large Language Models ", The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2026), Mar. 2026.
 1. Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code", The 26th International Conference on Product-Focused Software Process Improvement (PROFES) , Dec. 2025.
 1. Napasorn Tevaru, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
 1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, Hajimu Iida, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
