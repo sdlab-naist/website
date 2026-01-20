@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2026-01-20T16:20:24+0900
+lastmod: 2026-01-20T16:26:42+0900
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ projects: []
 ## International Conference
 
 1. Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
-1. Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, 柏 祐太郎, João F. Ferreira, Raula Gaikovina Kula, Coen De Roover, "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, Yutaro Kashiwa, João F. Ferreira, Raula Gaikovina Kula, Coen De Roover, "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Yutaro Kashiwa, "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Kan Watanabe, Tatsuya Shirai, Yutaro Kashiwa, Hajimu Iida, "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Kyogo Horikawa, Kosei Horikawa, Yutaro Kashiwa, Uwano Hidetake, Hajimu Iida, "Do AI Agents Really Improve Code Readability? ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.

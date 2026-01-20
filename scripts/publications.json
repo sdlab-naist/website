@@ -228,9 +228,10 @@
                 "dc:presentation": "\u51fa\u7248\u306a\u3057",
                 "dc:awards": "",
                 "dc:otherAttr": "",
-                "dc:language": "JPN",
+                "dc:language": "ENG",
                 "dc:title": {
-                    "@value": "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance "
+                    "@value": "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance ",
+                    "@language": "en"
                 },
                 "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
                 "dc:subChair": "",
@@ -244,7 +245,8 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Mahmoud Alfadel",
@@ -253,7 +255,8 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Akond Rahman",
@@ -262,16 +265,18 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
-                        "@name": "\u67cf \u7950\u592a\u90ce",
+                        "@name": "Yutaro Kashiwa",
                         "@researcherId": "20886650",
                         "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Jo\u00e3o F. Ferreira",
@@ -280,7 +285,8 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Raula Gaikovina Kula",
@@ -289,7 +295,8 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     },
                     {
                         "@name": "Coen De Roover",
@@ -298,14 +305,16 @@
                         "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
                         "@presenter": "\u8a2d\u5b9a\u306a\u3057",
                         "@leader": "\u8a2d\u5b9a\u306a\u3057",
-                        "@studentDivision": "\u6307\u5b9a\u306a\u3057"
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
                     }
                 ],
                 "dc:publisher": {
                     "@value": ""
                 },
                 "prism:sourceName": {
-                    "@value": "The 23rd International Mining Software Repositories Conference (MSR 2026)"
+                    "@value": "The 23rd International Mining Software Repositories Conference (MSR 2026)",
+                    "@language": "en"
                 },
                 "prism:sourceName2": {
                     "@value": ""
