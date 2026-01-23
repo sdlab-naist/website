@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A student from our laboratory presented his research at ESEM 2025"
+title: "Mr. Nakamura presented his research at ESEM 2025"
 subtitle: ""
 summary: ""
 authors: ["Ibuki Nakamura"]
@@ -34,4 +34,5 @@ Ibuki Nakamura from our laboratory presented the following paper at [the 19th AC
 
 ESEM is a leading international conference for empirical software engineering and measurement, and this year marks its 19th edition as a premier venue in the field. In the ESEM-ERVT (Emerging Results and Vision Track) to which Nakamura submitted his work, 18 out of 61 papers were accepted (an acceptance rate of 29.5%).
 
-This research investigates the evolution and maintenance practices of load testing scripts. The study revealed that once created, load testing scripts are updated very infrequently. Furthermore, the analysis showed that the majority of maintenance efforts are dedicated to code organization and improving readability rather than functional changes.
+This research investigates the evolution and maintenance practices of load testing scripts across 35 OSS projects. The study revealed that in nearly half (45.7%) of these projects, the scripts were never updated after their initial creation. Furthermore, the analysis showed that the majority of maintenance efforts are dedicated to code organization and improving readability rather than functional changes.
+This paper is available [here](https://www.computer.org/csdl/proceedings-article/esem/2025/914700a331/2dduncz1DB6).
