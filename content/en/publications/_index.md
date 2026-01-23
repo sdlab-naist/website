@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2025-10-11T21:45:37+0900
+lastmod: 2026-01-20T16:26:42+0900
 featured: false
 draft: false
 
@@ -32,6 +32,7 @@ projects: []
 
 ## Journal
 
+1. Ibuki Nakamura, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study ", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2026.
 1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jan. 2025.
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
 1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Nov. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
@@ -46,10 +47,15 @@ projects: []
 1. 新堂 風, 近藤 将成, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, Apr. 2022.
 1. Wassapon Watanakeesuntorn, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Opimon: A Transparent, Low-overhead Monitoring System for OpenFlow Networks", IEICE Transactions on Communications, Apr. 2022. [doi:10.1587/transcom.2021EBP3083](https://doi.org/10.1587/transcom.2021EBP3083)
 1. Kshitij Mehta, Bryce Allen, Matthew Wolf, Jeremy Logan, Eric Suchyta, Swati Singhal, Jong Y. Choi, Keichi Takahashi, Kevin Huck, Igor Yakushin, Alan Sussman, Todd Munson, Ian Foster, Scott Klasky, "A codesign framework for online data analysis and reduction", Concurrency and Computation: Practice and Experience, Aug. 2021. [doi:10.1002/cpe.6519](https://doi.org/10.1002/cpe.6519)
-1. 佐伯 幸郎, 福安 直樹, 神田 哲也, 市川 昊平, 吉田 真一, 中村 匡秀, 楠本 真二, "自己評価と客観評価の変化にもとづく実践的人材育成コースにおける質的教育効果の測定", コンピュータソフトウェア, Jan. 2021. [doi:10.11309/jssst.38.1_52](https://doi.org/10.11309/jssst.38.1_52)
 
 ## International Conference
 
+1. Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, Yutaro Kashiwa, João F. Ferreira, Raula Gaikovina Kula, Coen De Roover, "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Yutaro Kashiwa, "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Kan Watanabe, Tatsuya Shirai, Yutaro Kashiwa, Hajimu Iida, "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Kyogo Horikawa, Kosei Horikawa, Yutaro Kashiwa, Uwano Hidetake, Hajimu Iida, "Do AI Agents Really Improve Code Readability? ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
+1. Siyuan Liu, Nabhan Suwanachote, Yutaro Kashiwa, Brittany Anne Reid, Hajimu Iida, "Evaluating Cross-Language Transfer for Refactoring Detection with Large Language Models ", The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2026), Mar. 2026.
 1. Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code", The 26th International Conference on Product-Focused Software Process Improvement (PROFES) , Dec. 2025.
 1. Napasorn Tevaru, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
 1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, Hajimu Iida, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
@@ -90,14 +96,10 @@ projects: []
 1. Sopicha Stirapongsasuti, Kundjanasith Thonglek, Shinya Misaki, Yugo Nakamura, Keiichi Yasumoto, "INSHA: Intelligent Nudging System for Hand Hygiene Awareness", The 21th ACM International Conference on Intelligent Virtual Agents (IVA '21), Sep. 2021. [doi:10.1145/3472306.3478355](https://doi.org/10.1145/3472306.3478355)
 1. Keichi Takahashi, Wassapon Watanakeesuntorn, Kohei Ichikawa, Joseph Park, Ryousei Takano, Jason Haga, George Sugihara, Gerald M. Pao, "kEDM: A Performance-portable Implementation of Empirical Dynamic Modeling using Kokkos", Practice and Experience in Advanced Research Computing (PEARC 2021), Jul. 2021. [doi:10.1145/3437359.3465571](https://doi.org/10.1145/3437359.3465571)
 1. Guoqing Li, Keichi Takahashi, Kohei Ichikawa, Hajimu Iida, Pree Thiengburanathum, Passakorn Phannachitta, "Comparative Performance Study of Lightweight Hypervisors Used in Container Environment", 11th International Conference on Cloud Computing and Services Science (CLOSER 2021), Apr. 2021. [doi:10.5220/0010440502150223](https://doi.org/10.5220/0010440502150223)
-1. Erina Makihara, Hiroshi Igaki, Norihiro Yoshida, Kenji Fujiwara, Hajimu Iida, "Understanding Build Errors in Agile Software Development Project-Based Learning",  27th Asia-Pacific Software Engineering Conference (APSEC 2020), Dec. 2020. [doi:10.1109/APSEC51365.2020.00039](https://doi.org/10.1109/APSEC51365.2020.00039)
-1. Wassapon Watanakeesuntorn, Keichi Takahashi, Kohei Ichikawa, Joseph Park, George Sugihara, Ryousei Takano, Jason Haga, Gerald M. Pao, "Massively Parallel Causal Inference of Whole Brain Dynamics at Single Neuron Resolution", 26th International Conference on Parallel and Distributed Systems (ICPADS 2020), Dec. 2020. [doi:10.1109/ICPADS51040.2020.00035](https://doi.org/10.1109/ICPADS51040.2020.00035)
-1. Kundjanasith Thonglek, Keichi Takahashi, Kohei Ichikawa, Chawanat Nakasan, Hajimu Iida, "Federated Learning of Neural Network Models with Heterogeneous Structures", 19th International Conference on Machine Learning and Applications (ICMLA 2020), Dec. 2020. [doi:10.1109/ICMLA51294.2020.00120](https://doi.org/10.1109/ICMLA51294.2020.00120)
 
 ## Book
 
 1. Keichi Takahashi, Kohei Ichikawa, Gerald M. Pao, "Toward Scalable Empirical Dynamic Modeling", Sustained Simulation Performance 2022, Mar. 2024. [doi:10.1007/978-3-031-41073-4_5](https://doi.org/10.1007/978-3-031-41073-4_5)
-1. Kundjanasith Thonglek, Kohei Ichikawa, Chatchawal Sangkeettrakarn, Apivadee Piyatumrong, "Auto-Scaling System in Apache Spark Cluster Using Model-Based Deep Reinforcement Learning", Heuristics for Optimization and Learning (Studies in Computational Intelligence), Dec. 2020. [doi:10.1007/978-3-030-58930-1_23](https://doi.org/10.1007/978-3-030-58930-1_23)
 
 ## Domestic Conference and Symposium
 
