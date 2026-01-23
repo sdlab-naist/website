@@ -30,12 +30,10 @@ projects: []
 本研究室の中村君が，2025年に開催された実証的ソフトウェア工学に関する国際会議 [The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)](https://conf.researchr.org/home/esem-2025) において，下記の論文を発表しました．
 
 > Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, and Hajimu Iida,
-> “An Empirical Investigation into Maintenance of Load Testing Scripts”, In Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)
+> "An Empirical Investigation into Maintenance of Load Testing Scripts", In Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025)
 
 
 ESEMはソフトウェア工学の実証的研究に関する国際会議であり，今年で19回目の開催となるトップカンファレンスのひとつです．中村君が投稿したESEM-ERVTトラックでは，61本の投稿のうち18本の論文が採択されました（採択率29.5%）．
 
 本研究では，負荷テストスクリプトの進化と保守の実態について分析し，負荷テストスクリプトが作成後に頻繁に変更されることは少ないことが明らかとなりました．
 また，その保守作業の多くがコードの整理や読みやすさの改善に費やされていることを明らかにしました．
-
-![](nakamura.jpg)
