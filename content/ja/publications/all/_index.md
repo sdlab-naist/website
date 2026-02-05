@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2026-01-20T16:26:42+0900
+lastmod: 2026-02-05T13:39:17+0900
 featured: false
 draft: false
 
@@ -29,6 +29,7 @@ projects: []
 ---
 ## 学術論文誌
 
+1. Miku Watanabe, Hao Li, Yutaro Kashiwa, Brittany Anne Reid, Hajimu Iida, Ahmed E. Hassan, "On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub", ACM Transactions on Software Engineering and Methodology (TOSEM), Dec. 2026.
 1. Ibuki Nakamura, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study ", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2026.
 1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jan. 2025.
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.

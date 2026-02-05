@@ -7,9 +7,124 @@
     },
     "list_item": {
         "@type": "ListItem",
-        "items_count": "584",
-        "count_per_page": "584",
+        "items_count": "585",
+        "count_per_page": "585",
         "items": [
+            {
+                "@type": "item",
+                "dc:researchId": "63260",
+                "dc:mainDepartment": "\u60c5\u5831\u79d1\u5b66",
+                "dc:subDepartment": "",
+                "dc:category": {
+                    "@id": "1",
+                    "@value": "\u5b66\u8853\u8ad6\u6587\u8a8c"
+                },
+                "dc:authorAttr": "MC\u5b66\u751f",
+                "dc:presenters": "",
+                "dc:thesis": "\u56fd\u969b\u5171\u8457\u8ad6\u6587",
+                "dc:reviewers": "\u67fb\u8aad\u6709\u308a",
+                "dc:announcementForm": "",
+                "dc:publicationForm": "",
+                "dc:presentation": "",
+                "dc:awards": "",
+                "dc:otherAttr": "",
+                "dc:language": "ENG",
+                "dc:title": {
+                    "@value": "On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub",
+                    "@language": "en"
+                },
+                "dc:mainChair": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u8a2d\u8a08\u5b66",
+                "dc:subChair": "",
+                "dc:fiscalYear": "2026",
+                "dc:year": "2026",
+                "dc:creator": [
+                    {
+                        "@name": "Miku Watanabe",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u3042\u308a",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hao Li",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u3042\u308a",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Yutaro Kashiwa",
+                        "@researcherId": "20886650",
+                        "@corresponding": "\u8a2d\u5b9a\u3042\u308a",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u3042\u308a",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Brittany Anne Reid",
+                        "@researcherId": "41004279",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Hajimu Iida",
+                        "@researcherId": "20232126",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    },
+                    {
+                        "@name": "Ahmed E. Hassan",
+                        "@researcherId": "",
+                        "@corresponding": "\u8a2d\u5b9a\u306a\u3057",
+                        "@firstAuthor": "\u8a2d\u5b9a\u306a\u3057",
+                        "@presenter": "\u8a2d\u5b9a\u306a\u3057",
+                        "@leader": "\u8a2d\u5b9a\u306a\u3057",
+                        "@studentDivision": "\u6307\u5b9a\u306a\u3057",
+                        "@language": "en"
+                    }
+                ],
+                "dc:publisher": {
+                    "@value": ""
+                },
+                "prism:sourceName": {
+                    "@value": ""
+                },
+                "prism:sourceName2": {
+                    "@value": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+                    "@language": "en"
+                },
+                "prism:volume": "",
+                "prism:number": "",
+                "prism:startingPage": "",
+                "prism:endingPage": "",
+                "prism:publicationDate": "2026/12/1",
+                "prism:place": "",
+                "prism:doi": "",
+                "dc:repositoryHandle": "",
+                "prism:keyword": "",
+                "prism:wosNo": "",
+                "prism:issn": "",
+                "prism:isbn": "",
+                "prism:authorWork": "\u672c\u5b66",
+                "prism:domestic": "\u56fd\u5916",
+                "prism:note": ""
+            },
             {
                 "@type": "item",
                 "dc:researchId": "63210",
