@@ -130,24 +130,24 @@ weight: 202404
 
 ### 査読付き国際会議
 - <b>How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study</b><br>
-Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
+<u>Kosei Horikawa</u>, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
 The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track), 2025.【CORE A】
 
 - <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br>
-Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
+Ibuki Nakamura, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
 The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track), 2025.【CORE A】
 
 - <b>Do AI Agents Really Improve Code Readability?</b><br>
-Kosei Horikawa, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
+Kyogo Horikawa, <u>Kosei Horikawa</u>, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
 The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track), 2026.【CORE A】
 
 - <b>Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage</b><br>
-Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
+Suzuka Yoshimoto, Shun Fujita, <u>Kosei Horikawa</u>, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
 The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track), 2026.【CORE A】
 
 ### プレプリント
 - <b>Agentic Refactoring: An Empirical Study of AI Coding Agents</b><br>
-Kosei Horikawa, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
+<u>Kosei Horikawa</u>, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
 arXiv preprint arXiv:2511.04824, 2025.
 
 ## 受賞
