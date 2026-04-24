@@ -80,10 +80,12 @@ weight: 202404
 ---
 
 ## Profile
-I am a first-year PhD student in software engineering. My research interests include software testing, refactoring, bug prediction, and Agentic Software Engineering, with the goal of improving software quality and development efficiency.
+I am a first-year PhD student in software engineering. My research interests include software testing, refactoring, bug prediction, and Agentic Software Engineering, with the goal of improving software quality and development efficiency.<br>
 In particular, I focus on empirical analysis of how refactoring affects test code quality and maintainability, and on evaluating the effectiveness of AI agents in software development.
-I believe we are approaching an era where AI agents will autonomously develop software. At the same time, agent-induced system failures have already been reported, making it critical to establish quality assurance for the agent era. Through the development of next-generation bug prediction and testing techniques, I am working to build the "foundation of reliability" that underpins agent-driven development.
-My work has been published at top-tier venues including ICSME, ESEM, and MSR (all CORE A).
+
+I believe we are approaching an era where AI agents will autonomously develop software.<br>
+At the same time, agent-induced system failures have already been reported, making it critical to establish quality assurance for the agent era.<br>
+Through the development of next-generation bug prediction and testing techniques, I am working to build the "foundation of reliability" that underpins agent-driven development.
 
 International Research Experience:
 - Visiting Student, Queen's University SAIL & MCIS Lab (Canada, Sep – Nov 2025)
