@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: 先端科学技術研究科
+  - course:博士前期課程
     institution: 奈良先端科学技術大学院大学
     year: 2024-2026
   - course: 電子情報システム工学専攻
