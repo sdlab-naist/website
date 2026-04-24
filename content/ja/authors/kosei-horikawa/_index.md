@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: 情報科学領域 修士
+    institution: 奈良先端科学技術大学院大学
+    year: 2026
   - course: システム創成工学専攻 情報システムコース
     institution: 奈良工業高等専門学校 専攻科
     year: 2024
@@ -77,10 +80,15 @@ weight: 202404
 ---
 
 ## プロフィール
-専門はリファクタリングやテスト品質保証であり，特にソフトウェア品質向上やテスト効率化を目的とした，リファクタリングの影響分析に関する研究に従事．
-現在は，テストコードに対して実施されるリファクタリングを明らかにし，テスト品質を向上させる手法分析に取り組んでいる．
-その他，複数のプロジェクトで国際共同研究に取り組み，オランダ・中国・カナダの大学に所属する多くの研究者と協力して研究を進める．<br>
-またQAエンジニアとして，テスト品質保証やテスト自動化に携わった経験を持ち，実際の開発において発見した課題を解決し，社会全体のソフトウェア品質に寄与することを目的に，博士後期課程に進学を決意．
+専門はソフトウェアテスト，リファクタリング，バグ予測，Agentic Software Engineering．
+ソフトウェアの品質向上と開発プロセスの効率化を目的とし，テストコードに対するリファクタリングが品質や保守性に与える影響の実証分析や，AIエージェントを活用したソフトウェア開発の有効性の検証に注力している．
+今後，AIエージェントが主体となってソフトウェアを開発する時代が到来すると考えている．一方で，既にエージェントに起因するシステム障害も報告されており，エージェント時代における品質保証の確立が急務である．次世代のバグ予測・テスト技術の創出を通じて，エージェント主導の開発を支える「信頼性の基盤」の構築に取り組んでいる．
+これまでにICSME，ESEM，MSRといったCORE Aランクの国際会議に複数の論文が採択されている．
+
+国際共同研究実績:
+- Visiting Student, Queen's University SAIL & MCIS Lab (カナダ, 2025年9月～11月)
+- Visiting Student, 杭州电子科技大学 (中国, 2025年6月～7月)
+- Visiting Student, Radboud University (オランダ, 2024年9月～11月)
 
 <br>
 <br>
@@ -88,12 +96,16 @@ weight: 202404
 ## 略歴
 <div>
     <div><b>
-        <span class="col-1">2024年&ensp;4月～現在:</span>
+        <span class="col-1">2026年&ensp;4月～現在:</span>
+        <span class="col-2">奈良先端科学技術大学院大学 先端科学技術研究科 博士後期課程</span>
+    </b></div>
+    <div><b>
+        <span class="col-1">2024年&ensp;4月～2026年3月:</span>
         <span class="col-2">奈良先端科学技術大学院大学 先端科学技術研究科 博士前期課程</span>
     </b></div>
     <div>
         <span class="col-1">　2024年9月～2024年11月:</span>
-        <span class="col-2">オランダ Radboud Universtiy 客員研究員</span>
+        <span class="col-2">オランダ Radboud University Visiting Student</span>
     </div>
     <div>
         <span class="col-1">　2024年11月～2024年12月:</span>
@@ -105,23 +117,38 @@ weight: 202404
     </div>
     <div>
         <span class="col-1">　2025年6月～2025年7月:</span>
-        <span class="col-2">中国 杭州电子科技大学 客員研究員</span>
+        <span class="col-2">中国 杭州电子科技大学 Visiting Student</span>
     </div>
     <div>
         <span class="col-1">　2025年9月～2025年11月:</span>
-        <span class="col-2">カナダ Queen's University 客員研究員</span>
+        <span class="col-2">カナダ Queen's University SAIL &amp; MCIS Lab Visiting Student</span>
     </div>
 </div>
 <br>
 
 ## 主な研究実績
+
+### 査読付き国際会議
 - <b>How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study</b><br>
 Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
-The 41th International Conference on Software Maintenance and Evolution (ICSME25 NIER), 2025.【CORE A会議】
+The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track), 2025.【CORE A】
 
 - <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br>
 Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
-The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM25 ERVT), 2025.【CORE A会議】
+The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track), 2025.【CORE A】
+
+- <b>Do AI Agents Really Improve Code Readability?</b><br>
+Kosei Horikawa, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
+The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track), 2026.【CORE A】
+
+- <b>Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage</b><br>
+Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
+The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track), 2026.【CORE A】
+
+### プレプリント
+- <b>Agentic Refactoring: An Empirical Study of AI Coding Agents</b><br>
+Kosei Horikawa, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
+arXiv preprint arXiv:2511.04824, 2025.
 
 ## 受賞
 - 2025年：ソフトウェアエンジニアリングシンポジウム2025 Best International Poster Award
