@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: M.S. in Information Science
+    institution: Nara Institute of Science and Technology (NAIST)
+    year: 2026
   - course: Systems Innovation Engineering
     institution: NIT, Nara College
     year: 2024
@@ -77,21 +80,36 @@ weight: 202404
 ---
 
 ## Profile
-My research focuses on refactoring and test quality assurance, specifically the impact analysis of refactoring to improve software quality and test efficiency. I am actively analyzing refactoring techniques applied to test code to enhance test quality. Additionally, I am involved in multiple international collaborative research projects, working closely with researchers from universities in the Netherlands, China, and Canada.<br>
-I also have hands-on experience as a QA Engineer, specializing in test quality assurance and test automation. Motivated by a desire to solve challenges discovered in real-world development and to contribute to the overall quality of software in society, I have decided to pursue a Ph.D.
+I am a first-year PhD student in software engineering. My research interests include software testing, refactoring, bug prediction, and Agentic Software Engineering, with the goal of improving software quality and development efficiency.<br>
+In particular, I focus on empirical analysis of how refactoring affects test code quality and maintainability, and on evaluating the effectiveness of AI agents in software development.
+
+I believe we are approaching an era where AI agents will autonomously develop software.<br>
+At the same time, agent-induced system failures have already been reported, making it critical to establish quality assurance for the agent era.<br>
+Through the development of next-generation bug prediction and testing techniques, I am working to build the "foundation of reliability" that underpins agent-driven development.
+
+International Research Experience:
+- Visiting Student, Queen's University SAIL & MCIS Lab (Canada, Sep – Nov 2025)
+- Visiting Student, Hangzhou Dianzi University (China, Jun – Jul 2025)
+- Visiting Student, Radboud University (Netherlands, Sep – Nov 2024)
 <br>
 <br>
 
 <div>
   <div>
     <b>
-    <span class="col-1">April 2024 – Present:</span>
+    <span class="col-1">April 2026 – Present:</span>
+    <span class="col-2">Ph.D. Program, Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST)</span>
+    </b>
+  </div>
+  <div>
+    <b>
+    <span class="col-1">April 2024 – March 2026:</span>
     <span class="col-2">Master's Program, Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST)</span>
     </b>
   </div>
   <div>
     <span class="col-1">&emsp;Sept 2024 – Nov 2024:</span>
-    <span class="col-2">Visiting Researcher, Radboud University</span>
+    <span class="col-2">Visiting Student, Radboud University (Netherlands)</span>
   </div>
   <div>
     <span class="col-1">&emsp;Nov 2024 – Dec 2024:</span>
@@ -103,19 +121,38 @@ I also have hands-on experience as a QA Engineer, specializing in test quality a
   </div>
   <div>
     <span class="col-1">&emsp;June 2025 – July 2025:</span>
-    <span class="col-2">Visiting Researcher, Hangzhou Dianzi University</span>
-    </div>
+    <span class="col-2">Visiting Student, Hangzhou Dianzi University (China)</span>
+  </div>
+  <div>
+    <span class="col-1">&emsp;Sept 2025 – Nov 2025:</span>
+    <span class="col-2">Visiting Student, Queen's University SAIL &amp; MCIS Lab (Canada)</span>
+  </div>
 </div>
 <br>
 
-## Major publications
-- <b>How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study</b><br>
-Kosei Horikawa, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
-The 41st International Conference on Software Maintenance and Evolution (ICSME2025 NIER Track). 
+## Major Publications
 
-- <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br> 
-Ibuki Nakamura, Kosei Horikawa, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
-The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM2025 ERVT Track). 
+### Peer-Reviewed Conference Papers
+- <b>How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study</b><br>
+<u>Kosei Horikawa</u>, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
+The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track). [CORE A]
+
+- <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br>
+Ibuki Nakamura, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
+The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track). [CORE A]
+
+- <b>Do AI Agents Really Improve Code Readability?</b><br>
+Kyogo Horikawa, <u>Kosei Horikawa</u>, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
+The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track). [CORE A]
+
+- <b>Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage</b><br>
+Suzuka Yoshimoto, Shun Fujita, <u>Kosei Horikawa</u>, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
+The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track). [CORE A]
+
+### Preprints
+- <b>Agentic Refactoring: An Empirical Study of AI Coding Agents</b><br>
+<u>Kosei Horikawa</u>, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
+arXiv preprint arXiv:2511.04824, 2025.
 
 ## Awards
 - Best International Poster Award, IPSJ/SIGSE Software Engineering Symposium, 2025.
