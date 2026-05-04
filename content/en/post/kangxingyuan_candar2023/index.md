@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Ms.Kang Xingyuan(Mya), a first-year doctoral student at SDLab presented the following paper at the [2023 Eleventh International Symposium on Computing and Networking(CANDAR)](https://www.cs.hiroshima-u.ac.jp/Proceedings23/CANDAR%202023/index.html#!/toc/0)
+Ms.Kang Xingyuan(Mya), a first-year doctoral student at SDLab presented the following paper at the [CANDAR 2023 in Matsue, Japan (CANDAR 23)](https://www.cs.hiroshima-u.ac.jp/Proceedings23/CANDAR%202023/index.html#!/toc/0)
 
 > K. Xingyuan, K. Takahashi, C. Nakasan, K. Ichikawa and H. Iida, "Multi-Objective Optimization of Controller Placement in Distributed ONOS Networks," 2023 Eleventh International Symposium on Computing and Networking (CANDAR), Matsue, Japan, 2023, pp. 76-85, doi: 10.1109/CANDAR60563.2023.00017.
 

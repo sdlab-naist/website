@@ -102,7 +102,7 @@ The 41st Pacific Rim Application and Grid Middleware Assembly (PRAGMA 41), Bangk
 The 8th Collaborations to Enable Transnational Cyberinfrastructure Applications (CENTRA 8), Hsinchu, Taiwan, 2025
 - <b> Efficient Management of Network Information in Distributed Datastores: Identifying Appropriate Consistency Model Solutions</b><br>
 <b>K. Xingyuan</b>, K. Takahashi, C. Nakasan, K. Ichikawa and H. Iida<br>
-The 40th Pacific Rim Application and Grid Middleware Assembly (PRAGMA 40), Hsinchu, Taiwan, 2025
+The 40th Pacific Rim Application and Grid Middleware Assembly (PRAGMA 40), Penang, Malaysia, 2025
 - <b> Garbage Clogged Pipe Gate Detection and Alert</b><br>
 <b>Xingyuan, K.</b>, Achalanan, P.,Hidetake, T.<br>
 Asian Innovation Bridge Challenge 2025 (IBC 2025), Bangkok, Thailand, 2025
