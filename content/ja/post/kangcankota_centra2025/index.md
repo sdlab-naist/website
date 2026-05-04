@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "「CENTRA 2025 in Hsinchu, Taiwan における Ms. Kang Xingyuan、Mr. Papon Choonhaklai、および Mr. Kota Nakagawa の研究発表」"
+title: "台湾・新竹で開催された第8回 Collaborations to Enable Transnational Cyberinfrastructure Applications（CENTRA 8）における研究発表"
 subtitle: ""
 summary: ""
-authors: ["kohei-ichikawa", "xingyuan-kang", "papon-choonhaklai", "kota-nakagawa"]
+authors: ["xingyuan-kang", "kohei-ichikawa", "keichi-takahashi", "papon-choonhaklai", "kota-nakagawa", "wassapon-watanakeesuntorn"]
 tags: ["Distributed SDN", "Inter-Communication Mechanism", "Consistency Model", "Disributed Datastore", "Information Synchronization","In-band Network Telemetry","SRv6","GPU sharing"]
 categories: []
 date: 2025-03-03T18:43:23+09:00

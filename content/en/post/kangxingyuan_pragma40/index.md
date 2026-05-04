@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ms. Kang Xingyuan's poster presentation at the 40th meeting of the Pacific Rim Applications and Grid Middleware Assembly (PRAGMA 40)"
+title: "Poster presentation at the 40th meeting of the Pacific Rim Applications and Grid Middleware Assembly (PRAGMA 40)"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang", "kohei-ichikawa", "wassapon-watanakeesuntorn"]

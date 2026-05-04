@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Kang Xingyuanさんが 2023 Eleventh International Symposium on Computing and Networking(CANDAR) で発表しました"
+title: "2023 Eleventh International Symposium on Computing and Networking(CANDAR) で発表しました"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang"]

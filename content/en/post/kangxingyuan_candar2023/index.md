@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ms.Kang Xingyuan's research presentation at 2023 Eleventh International Symposium on Computing and Networking(CANDAR)"
+title: "Research presentation at 2023 Eleventh International Symposium on Computing and Networking(CANDAR)"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang"]
