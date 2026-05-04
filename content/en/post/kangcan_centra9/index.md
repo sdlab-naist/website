@@ -7,8 +7,8 @@ summary: ""
 authors: ["xingyuan-kang", "kohei-ichikawa", "papon-choonhaklai", "wassapon-watanakeesuntorn", "kundjanasith-thonglek"]
 tags: ["Distributed Software Define Networking(SDN)","Controller Placement Problem(CPP)", "Network Latency Modeling", "Reinforcement Learning(RL)", "Metric-Driven Scheduling", "Kubernetes", "Multi-Process Service (MPS)", "GPU Sharing"]
 categories: []
-date: 2026-05-04T08:45:01Z
-lastmod: 2026-05-04T08:45:01Z
+date: 2026-01-11T08:45:01Z
+lastmod: 2026-01-11T08:45:01Z
 featured: false
 draft: false
 
