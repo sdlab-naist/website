@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Ms. Kang Xingyuan（Mya）は，SDLabに所属する博士後期課程2年の学生として，[40th meeting of the Pacific Rim Applications and Grid Middleware Assembly（PRAGMA 40）](https://www.pragma-grid.net/pragma40/) において，以下のポスター発表を行いました。
+Ms. Kang Xingyuan（Mya）は，SDLabに所属する博士後期課程2年の学生として，[PRAGMA 2024 in Penang, Malaysia (PRAGMA 40)](https://www.pragma-grid.net/pragma40/) において，以下のポスター発表を行いました。
 
 > Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Efficient Management of Network Information in Distributed Datastores: Identifying Appropriate Consistency Model Solutions", 40th meeting of the Pacific Rim Applications and Grid Middleware Assembly (PRAGMA 40), 9th October - 12nd October 2024.
 

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "台湾・新竹で開催された第8回 Collaborations to Enable Transnational Cyberinfrastructure Applications（CENTRA 8）における研究発表"
+title: "第8回 Collaborations to Enable Transnational Cyberinfrastructure Applications（CENTRA 8）における研究発表"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang", "kohei-ichikawa", "keichi-takahashi", "papon-choonhaklai", "kota-nakagawa", "wassapon-watanakeesuntorn"]

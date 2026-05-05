@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2023 Eleventh International Symposium on Computing and Networking(CANDAR) で発表しました"
+title: "2023 Eleventh International Symposium on Computing and Networking（CANDAR）における研究発表"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang"]
@@ -29,7 +29,7 @@ projects: []
 ---
 
 本研究室D1のKang Xingyuan(Mya)さんが
-[2023 Eleventh International Symposium on Computing and Networking(CANDAR)](https://www.cs.hiroshima-u.ac.jp/Proceedings23/CANDAR%202023/index.html#!/toc/0)
+[CANDAR 2023 in Matsue, Japan (CANDAR 23)](https://www.cs.hiroshima-u.ac.jp/Proceedings23/CANDAR%202023/index.html#!/toc/0)
 にて下記の論文を発表しました:
 
 > Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Multi-Objective Optimization of Controller Placement in Distributed ONOS Networks", 2023 Eleventh International Symposium on Computing and Networking(CANDAR), 28th November - 1st December 2023.

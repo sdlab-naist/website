@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "タイ・バンコクで開催された第9回 Collaborations to Enable Transnational Cyberinfrastructure Applications（CENTRA 9）におけるポスター発表"
+title: "第9回 Collaborations to Enable Transnational Cyberinfrastructure Applications（CENTRA 9）におけるポスター発表"
 subtitle: ""
 summary: ""
 authors: ["xingyuan-kang", "kohei-ichikawa", "papon-choonhaklai", "wassapon-watanakeesuntorn", "kundjanasith-thonglek"]
