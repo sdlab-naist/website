@@ -55,5 +55,5 @@ user_groups:
 #  For current students: year and month of enrollment
 #  For past students: year and month of graduation
 #  インターン期間 (例: 2026年5月開始 → 202605)
-weight: 202605
+weight: 202508
 ---
