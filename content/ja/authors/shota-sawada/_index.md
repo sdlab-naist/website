@@ -22,7 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- 
+- ゲーム
+- ドライブ
+- カラオケ
 
 education:
   courses:
