@@ -1,59 +1,49 @@
 ---
 # Display name
-title: "白井 達也"
+title: "Shota Sawada"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "shirai-tatsuya"
+- shota-sawada
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 博士後期課程学生
+role: "Summer 2025 Intern"
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- 旅行
-- カメラ
-- ドライブ
+-
 
 education:
   courses:
-  - course: 博士前期課程
-    institution: 奈良先端科学技術大学院大学
-    year: 2024-2026
-  - course: 電子情報システム工学専攻
-    institution: 熊本高等専門学校
-    year: 2022-2024
-  - course: 人間情報システム工学専攻
-    institution: 熊本高等専門学校
-    year: 2017-2022
+  - course: Department of Systems Engineering, Information Systems Course
+    institution: National Institute of Technology, Nara College (Advanced Course)
+    year: 2025-
+  - course: Department of Information Engineering
+    institution: National Institute of Technology, Nara College
+    year: 2020-2025
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kuroishirai
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# social:
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/kuroishirai
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shirai.tatsuya.sp1@naist.ac.jp"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -61,8 +51,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
-- 
+- Intern
 
-weight: 202404
+# Order this person will appear
+#  For current students: year and month of enrollment
+#  For past students: year and month of graduation
+#  Intern period (e.g., started Aug 2025 → 202508)
+weight: 202508
 ---
