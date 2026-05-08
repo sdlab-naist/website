@@ -4,7 +4,7 @@ title: "市川 昊平"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Kohei Ichikawa"
+  - Name "Kohei Ichikawa"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,15 +14,14 @@ role: 客員教授
 
 # Organizations/Affiliations
 organizations:
-- name: 情報科学領域
-  url: "http://isw3.naist.jp/"
-- name: 総合情報基盤センター
-  url: "https://itcw3.naist.jp/"
-- name: 大阪大学サイバーメディアセンター
-  url: "https://www.cmc.osaka-u.ac.jp/"
-- name: 関西大学ソシオネットワーク戦略研究機構
-  url: "https://www.kansai-u.ac.jp/riss/"
-
+  - name: 情報科学領域
+    url: "http://isw3.naist.jp/"
+  - name: 総合情報基盤センター
+    url: "https://itcw3.naist.jp/"
+  - name: 大阪大学サイバーメディアセンター
+    url: "https://www.cmc.osaka-u.ac.jp/"
+  - name: 関西大学ソシオネットワーク戦略研究機構
+    url: "https://www.kansai-u.ac.jp/riss/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -46,15 +45,15 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.jp/citations?user=qFIQpEQAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/KoheiIchikawa
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.jp/citations?user=qFIQpEQAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KoheiIchikawa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Staff
+  - Visiting Staff
 
 # Order this person will appear
 weight: 15
@@ -85,4 +84,3 @@ weight: 15
 - 2009年11月〜2012年5月: 大阪大学 情報基盤本部 助教
 - 2015年4月～2016年3月: カリフォルニア大学サンディエゴ校 客員研究員
 - 2012年6月〜: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域 准教授
-

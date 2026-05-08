@@ -4,7 +4,7 @@ title: "吉田 則裕"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Norihiro Yoshida"
+  - Name "Norihiro Yoshida"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ role: 共同研究者
 
 # Organizations/Affiliations
 organizations:
-- name:
-  url: ""
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -39,24 +39,24 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
-  icon_pack: fas
-  link: https://sites.google.com/site/yoshidaatnu/home_ja
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: http://twitter.com/NorihiroYoshida
-- icon: facebook
-  icon_pack: fab
-  link: http://www.facebook.com/norihiro.yoshida0623
-- icon: dblp
-  icon_pack: ai
-  link: https://dblp.uni-trier.de/pers/hd/y/Yoshida:Norihiro
-- icon: github
-  icon_pack: fab
-  link: https://github.com/noyosida
+  - icon: home
+    icon_pack: fas
+    link: https://sites.google.com/site/yoshidaatnu/home_ja
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  - icon: twitter
+    icon_pack: fab
+    link: http://twitter.com/NorihiroYoshida
+  - icon: facebook
+    icon_pack: fab
+    link: http://www.facebook.com/norihiro.yoshida0623
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pers/hd/y/Yoshida:Norihiro
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/noyosida
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Staff
+  - Visiting Staff
 
 # Order this person will appear
 weight: 70

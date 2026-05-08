@@ -4,7 +4,7 @@ title: "Kohei Ichikawa"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Kohei Ichikawa"
+  - Name "Kohei Ichikawa"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,14 +14,14 @@ role: Visiting Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Division of Information Science
-  url: "http://isw3.naist.jp/home-en.html"
-- name: Information Initiative Center
-  url: "https://itcw3.naist.jp/index.en.html"
-- name: Cybermedia Center, Osaka University
-  url: "https://www.cmc.osaka-u.ac.jp/"
-- name: Research Institute for Socionetwork Strategies, Kansai University
-  url: "https://www.kansai-u.ac.jp/riss/en/"
+  - name: Division of Information Science
+    url: "http://isw3.naist.jp/home-en.html"
+  - name: Information Initiative Center
+    url: "https://itcw3.naist.jp/index.en.html"
+  - name: Cybermedia Center, Osaka University
+    url: "https://www.cmc.osaka-u.ac.jp/"
+  - name: Research Institute for Socionetwork Strategies, Kansai University
+    url: "https://www.kansai-u.ac.jp/riss/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -45,15 +45,15 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.jp/citations?user=qFIQpEQAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/KoheiIchikawa
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.jp/citations?user=qFIQpEQAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KoheiIchikawa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Staff
+  - Visiting Staff
 
 # Order this person will appear
 weight: 15
@@ -74,7 +74,7 @@ weight: 15
 
 ## Profile
 
-Kohei Ichikawa is an Associate Professor in Nara Institute of Science and Technology. 
+Kohei Ichikawa is an Associate Professor in Nara Institute of Science and Technology.
 His research interests are in the areas of distributed systems, virtual computing and networking. As a member of [PRAGMA (Pacific Rim Application and Grid Middleware Assembly)](https://www.pragma-grid.net/), an international collaborative research community of eScience, he has been collaborating with many researchers in Japan, the U.S., Taiwan, Thailand and other countries for many years. Under the community, he is leading the [PRAGMA-ENT project](https://github.com/pragmagrid/pragma_ent/wiki) to build a global virtual network testbed using SDN. In recent years, he has also been working on an inter-university collaborative education project for AI and Big data and Cloud computing ([enPit AiBiC](https://aibic-spiral.enpit.jp/), 2016- ).
 
 ## Biography
