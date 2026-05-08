@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "澤田 祥太"
+title: "Shota Sawada"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "2025年夏インターン生"
+role: "Summer 2025 Intern"
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- 
+-
 
 education:
-  courses:
-  - course: システム創成工学専攻 情報システムコース
-    institution: 奈良工業高等専門学校 専攻科
-    year: 2025-
-  - course: 情報工学科
-    institution: 奈良工業高等専門学校
-    year: 2020-2025
+  courses:
+  - course: Department of Systems Engineering, Information Systems Course
+    institution: National Institute of Technology, Nara College (Advanced Course)
+    year: 2025-
+  - course: Department of Information Engineering
+    institution: National Institute of Technology, Nara College
+    year: 2020-2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,6 +56,6 @@ user_groups:
 # Order this person will appear
 #  For current students: year and month of enrollment
 #  For past students: year and month of graduation
-#  インターン期間 (例: 2026年5月開始 → 202605)
+#  Intern period (e.g., started Aug 2025 → 202508)
 weight: 202508
 ---
