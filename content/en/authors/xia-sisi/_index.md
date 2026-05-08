@@ -4,7 +4,7 @@ title: "Xia Sisi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "xia-sisi"
+  - "xia-sisi"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,22 +14,22 @@ role: "Master’s Student"
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Cat
-- Instrument
+  - Cat
+  - Instrument
 
 education:
   courses:
-  - course: Japanese
-    institution: Zhejiang Normal University,China
-    year: 2021
+    - course: Japanese
+      institution: Zhejiang Normal University,China
+      year: 2021
 #  - course: Title course 1
 #    institution: Name of Institution
 #    year: 2012
@@ -39,18 +39,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kaxixi6666
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/USERNAME
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.com/citations?user=PERSON-ID
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kaxixi6666
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+  - Master's Student
 
 weight: 202510
 ---

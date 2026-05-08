@@ -14,10 +14,10 @@ role: Master’s Student
 
 # Organizations/Affiliations
 organizations:
-- name: Nara Institude of Science and Technology
-  url: "http://www.naist.jp/en/"
-- name: Software Design and Analysis Laboratory
-  url: "https://sdlab.naist.jp/en/"
+  - name: Nara Institude of Science and Technology
+    url: "http://www.naist.jp/en/"
+  - name: Software Design and Analysis Laboratory
+    url: "https://sdlab.naist.jp/en/"
 # Short bio (displayed in user profile at end of posts)
 bio: Master's student at Information Science, Nara Institute of Science and Technology, Japan
 
@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student
+  - Master's Student
 
 weight: 202510
 ---

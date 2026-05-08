@@ -14,10 +14,10 @@ role: 博士前期課程学生
 
 # Organizations/Affiliations
 organizations:
-- name: 奈良先端科学技術大学院大学
-  url: "http://www.naist.jp/en/"
-- name: ソフトウェア設計学研究室
-  url: "https://sdlab.naist.jp/en/"
+  - name: 奈良先端科学技術大学院大学
+    url: "http://www.naist.jp/en/"
+  - name: ソフトウェア設計学研究室
+    url: "https://sdlab.naist.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Master's student at Information Science, Nara Institute of Science and Technology, Japan
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student
+  - Master's Student
 
 weight: 202510
 ---

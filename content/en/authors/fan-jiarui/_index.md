@@ -4,7 +4,7 @@ title: "Fan Jiarui"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "fan-jiarui"
+  - "fan-jiarui"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,24 +14,24 @@ role: "Master’s Student"
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Anime
-- Music
-- Movie
-- Travel
+  - Anime
+  - Music
+  - Movie
+  - Travel
 
 education:
   courses:
-  - course: Computer Science
-    institution: HangZhou Normal University,China
-    year: 2019 - 2023
+    - course: Computer Science
+      institution: HangZhou Normal University,China
+      year: 2019 - 2023
 #  - course: Title course 1
 #    institution: Name of Institution
 #    year: 2012
@@ -41,18 +41,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/JessySnow
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/USERNAME
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.com/citations?user=PERSON-ID
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/JessySnow
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
+  - Master's Student
 
 weight: 202604
 ---

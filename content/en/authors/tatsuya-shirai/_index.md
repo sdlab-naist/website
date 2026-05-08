@@ -4,7 +4,7 @@ title: "Tatsuya Shirai"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "tatsuya-shirai"
+  - "tatsuya-shirai"
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,38 +12,37 @@ superuser: false
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Doctor’s Student
 
-
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+  - name:
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Trip
-- Camera
-- Driving
+  - Trip
+  - Camera
+  - Driving
 
 education:
   courses:
-  - course: Electronics and Information Systems Engineering Course
-    institution: National Institute of Technology, Kumamoto College
-    year: 2022-2024
-  - course: Department of Human-Oriented Information Systems Engineering
-    institution: National Institute of Technology, Kumamoto College
-    year: 2017-2022
+    - course: Electronics and Information Systems Engineering Course
+      institution: National Institute of Technology, Kumamoto College
+      year: 2022-2024
+    - course: Department of Human-Oriented Information Systems Engineering
+      institution: National Institute of Technology, Kumamoto College
+      year: 2017-2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kuroishirai
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/kuroishirai
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,9 +58,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Student
-- 
+  - PhD Student
+  -
 
 weight: 202404
-
 ---
