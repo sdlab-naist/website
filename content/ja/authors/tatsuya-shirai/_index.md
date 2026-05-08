@@ -24,7 +24,7 @@ bio:
 interests:
   - 旅行
   - カメラ
-  - 運転
+  - ドライブ
 
 education:
   courses:
@@ -62,7 +62,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD Student
-  -
 
 weight: 202404
 ---
