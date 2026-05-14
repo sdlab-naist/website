@@ -94,6 +94,7 @@ weight: 70
         <span class="col-1">Apr. 2026---present: &ensp;</span>
         <span class="col-2">Assistant professor at NAIST</span>
     </b></div>
+</div>
 <br>
 
 
