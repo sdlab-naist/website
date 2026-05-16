@@ -22,16 +22,18 @@ bio:
 
 # List each interest with a dash
 interests:
-- 
+- ゲーム
+- ドライブ
+- カラオケ
 
 education:
-  courses:
-  - course: システム創成工学専攻 情報システムコース
-    institution: 奈良工業高等専門学校 専攻科
-    year: 2025-
-  - course: 情報工学科
-    institution: 奈良工業高等専門学校
-    year: 2020-2025
+  courses:
+  - course: システム創成工学専攻 情報システムコース
+    institution: 奈良工業高等専門学校 専攻科
+    year: 2025-
+  - course: 情報工学科
+    institution: 奈良工業高等専門学校
+    year: 2020-2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
