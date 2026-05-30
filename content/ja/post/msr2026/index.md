@@ -34,6 +34,8 @@ projects: []
 
 渡邊君が発表しました．本研究では，プルリクエストのレビュー時に削除されてしまうAI生成関数を，レビュアーがいかに効率良く特定できるかに取り組んでいます．削除理由ごとに関数の特徴が異なることを明らかにし，提案した予測モデルはこうした不要なメソッドをAUC 87.1%で特定できることを示しました．（[arXiv:2602.17091](https://arxiv.org/abs/2602.17091)）
 
+![発表の様子](kan.jpg)
+
 > Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, and Hajimu Iida,
 > "Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection", In Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2026).
 

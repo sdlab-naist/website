@@ -34,6 +34,8 @@ Members of our laboratory attended the [48th IEEE/ACM International Conference o
 
 Mr. Watanabe presented this work, which tackles how reviewers can efficiently spot AI-generated functions that end up being removed during pull-request review. The study found that functions deleted for different reasons exhibit distinct characteristics, and the proposed prediction model identifies such unnecessary methods with an AUC of 87.1%, helping reviewers prioritize their effort. ([arXiv:2602.17091](https://arxiv.org/abs/2602.17091))
 
+![poster session](kan.jpg)
+
 > Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, and Hajimu Iida,
 > "Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection", In Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2026).
 
