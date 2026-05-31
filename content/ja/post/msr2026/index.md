@@ -44,7 +44,9 @@ projects: []
 > Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, and Hajimu Iida,
 > "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage", In Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2026).
 
-吉本さんが発表しました．本研究では，AIコーディングエージェントによるテスト生成を，その頻度・品質・カバレッジの観点から実証的に調査しています．その結果，テストを追加するコミットの16.4%がAIによるものであること，AIが生成したテストは行数が長く，アサーションが多い一方で循環的複雑度は低い傾向があり，人手で書かれたテストと同程度のコードカバレッジを達成していることを明らかにしました．（[arXiv:2603.13724](https://arxiv.org/abs/2603.13724)）
+吉本さんの研究では，AIコーディングエージェントによるテスト生成を，テスト追加の頻度・コードメトリクス・カバレッジの観点から実証的に調査しています．結果として，テスト追加コミットの16.4%がAIによるものであること，またAIが生成したテストはコード行数が長くアサーションが多い一方で，循環的複雑度は低い傾向があり，人によって書かれたテストと同程度のコードカバレッジを達成していることが明らかになりました．（[arXiv:2603.13724](https://arxiv.org/abs/2603.13724)）
+
+![発表の様子](suzuka_msr2026.jpg)
 
 > Kyogo Horikawa, Kosei Horikawa, Yutaro Kashiwa, Hidetake Uwano, and Hajimu Iida,
 > "Do AI Agents Really Improve Code Readability?", In Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2026).

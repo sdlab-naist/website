@@ -46,6 +46,8 @@ This work empirically studies whether the programming language affects fuzzing b
 
 Ms. Yoshimoto presented this empirical study of how AI coding agents generate tests in terms of frequency, quality, and coverage. The study found that AI authored 16.4% of all commits that add tests, and that AI-generated tests tend to be longer with more assertions but lower cyclomatic complexity, while achieving code coverage comparable to human-written tests. ([arXiv:2603.13724](https://arxiv.org/abs/2603.13724))
 
+![poster session](suzuka_msr2026.jpg)
+
 > Kyogo Horikawa, Kosei Horikawa, Yutaro Kashiwa, Hidetake Uwano, and Hajimu Iida,
 > "Do AI Agents Really Improve Code Readability?", In Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2026).
 
