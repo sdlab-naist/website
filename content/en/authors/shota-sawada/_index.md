@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Summer 2025 Intern"
+role: Summer 2025 Intern
 
 # Organizations/Affiliations
 organizations:
-- name: ""
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,15 +22,17 @@ bio:
 
 # List each interest with a dash
 interests:
--
+- Video games
+- Driving
+- Karaoke
 
 education:
   courses:
-  - course: Department of Systems Engineering, Information Systems Course
-    institution: National Institute of Technology, Nara College (Advanced Course)
+  - course: Systems Innovation Engineering
+    institution: NIT, Nara College
     year: 2025-
-  - course: Department of Information Engineering
-    institution: National Institute of Technology, Nara College
+  - course: Information Engineering
+    institution: NIT, Nara College
     year: 2020-2025
 
 # Social/Academic Networking
