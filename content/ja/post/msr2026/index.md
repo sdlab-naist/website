@@ -27,10 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-本研究室のメンバーが2026年4月12日〜18日にブラジル・リオデジャネイロで開催された[第48回ソフトウェア工学に関する国際会議(ICSE 2026)](https://conf.researchr.org/home/icse-2026)に参加し，併催された[第22回マイニングソフトウェアリポジトリ国際会議(MSR 2026)](https://conf.researchr.org/home/msr-2026)において下記の4本の論文を発表しました．MSRはマイニングソフトウェアリポジトリ分野におけるトップカンファレンスです．
+本研究室のメンバーが2026年4月12日〜18日にブラジル・リオデジャネイロで開催された[第48回ソフトウェア工学に関する国際会議(ICSE 2026)](https://conf.researchr.org/home/icse-2026)に参加し，併催された[第23回マイニングソフトウェアリポジトリ国際会議(MSR 2026)](https://conf.researchr.org/home/msr-2026)において下記の4本の論文を発表しました．MSRはマイニングソフトウェアリポジトリ分野におけるトップカンファレンスです．
 
 > Kan Watanabe, Tatsuya Shirai, Yutaro Kashiwa, and Hajimu Iida,
-> "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation", In Proceedings of the 22nd International Conference on Mining Software Repositories (MSR 2026).
+> "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation", In Proceedings of the 23rd International Conference on Mining Software Repositories (MSR 2026).
 
 渡邊君が発表しました．本研究では，プルリクエストのレビュー時に削除されてしまうAI生成関数を，レビュアーがいかに効率良く特定できるかに取り組んでいます．削除理由ごとに関数の特徴が異なることを明らかにし，提案した予測モデルはこうした不要なメソッドをAUC 87.1%で特定できることを示しました．（[arXiv:2602.17091](https://arxiv.org/abs/2602.17091)）
 
