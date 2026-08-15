@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:researchmap.jp)",
+      "WebSearch",
+      "WebFetch(domain:www.jst.go.jp)",
+      "WebFetch(domain:www.neurology-jp.org)",
+      "WebFetch(domain:kaken.nii.ac.jp)",
+      "WebFetch(domain:nrid.nii.ac.jp)",
+      "WebFetch(domain:projectdb.jst.go.jp)",
+      "WebFetch(domain:jglobal.jst.go.jp)",
+      "WebFetch(domain:www.jaist.ac.jp)",
+      "WebFetch(domain:fose.jssst.or.jp)",
+      "WebFetch(domain:sdlab.naist.jp)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:dblp.org)",
+      "WebFetch(domain:leo-lihao.github.io)",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nUpdate Yutaro Kashiwa profile: JST FOREST, publications, and grants\n\n- Add JST創発研究者 (FOREST researcher) position to bio and career history\n- Update さきがけ end date to 2026年3月\n- Add new publications to 主な研究実績:\n  - TSE 2026: Large-Scale Empirical Analysis of Continuous Fuzzing\n  - TOSEM 2026: Agent READMEs, Agentic Coding, SATD in Test Code\n  - ESEM 2026: SATD Testing, Test Alert Snooze\n  - MSR 2026: Policy as Code, Fuzzing Bug Detection\n- Add new research grants:\n  - 創発的研究支援事業 (4,900万円 + 間接経費)\n  - 挑戦的研究（萌芽）, 基盤研究A, 基盤研究B (multiple)\n  - JST CREST, さきがけ融合研究加速課題\n- Update 研究プロジェクト section with recent papers and cleaner organization\n- Add student awards: FOSE2025 (清水 公亮), SES 2025 (堀川 康生)\n- Update paper list link to GitHub repository\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "Bash(gh pr create --title \"Update Yutaro Kashiwa profile (2026年8月)\" --body \"$(cat <<''EOF''\n## Summary\n- JST創発研究者の追加（bio、略歴）\n- 主な研究実績の更新（TSE, TOSEM, ESEM, MSR 2026の論文追加）\n- 研究助成の追加（創発的研究支援事業、科研費、CREST、さきがけ融合研究）\n- 研究プロジェクトセクションの整理・更新\n- 指導学生の受賞追加（FOSE2025、SES 2025）\n\n## Test plan\n- [ ] ローカルでHugoビルドを確認\n- [ ] プロフィールページの表示確認\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\nEOF\n)\")",
+      "Bash(cat:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nImprove profile page UI: accordion, tabs, and project descriptions\n\n- Add accordion UI for publications (title, venue, CORE rank visible; authors expandable)\n- Reorganize research grants with tabs (ongoing/completed) and PI/Co-I sections\n- Add accordion for each grant item (details collapsed by default)\n- Add project descriptions for each research area\n- Add CSS styles for pub-venue and project-desc\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
