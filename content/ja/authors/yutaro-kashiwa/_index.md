@@ -298,10 +298,14 @@ weight: 20
 <div class="section-block">
 <h3>主な研究実績</h3>
 
+<p style="font-size:0.85rem; color:#666; margin-bottom:1rem;">
+国際会議のランクは<a href="https://portal.core.edu.au/conf-ranks/" target="_blank">CORE Rankings</a>、論文誌のランクは<a href="https://www.scimagojr.com/" target="_blank">SCImago Journal Rankings (SJR)</a>に基づく
+</p>
+
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">Large-Scale Empirical Analysis of Continuous Fuzzing</span>
-    <span class="pub-venue">TSE【A*】</span>
+    <span class="pub-venue">TSE【Q1】</span>
   </div>
   <div class="grant-detail">
     T Shirai, O Nourry, Y Kashiwa, K Fujiwara, Y Kamei, H Iida<br>
@@ -312,7 +316,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">Agent READMEs: An Empirical Study of Context Files for Agentic Coding</span>
-    <span class="pub-venue">TOSEM【A*】</span>
+    <span class="pub-venue">TOSEM【Q1】</span>
   </div>
   <div class="grant-detail">
     W Chatlatanagulchai, H Li, Y Kashiwa, B Reid, K Thonglek, P Leelaprute, A Rungsawang, B Manaskasemsak, B Adams, A E Hassan, H Iida<br>
@@ -323,7 +327,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub</span>
-    <span class="pub-venue">TOSEM【A*】</span>
+    <span class="pub-venue">TOSEM【Q1】</span>
   </div>
   <div class="grant-detail">
     M Watanabe, H Li, Y Kashiwa, B Reid, H Iida, A E Hassan<br>
@@ -334,7 +338,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">Understanding Self-Admitted Technical Debt in Test Code</span>
-    <span class="pub-venue">TOSEM【A*】</span>
+    <span class="pub-venue">TOSEM【Q1】</span>
   </div>
   <div class="grant-detail">
     I Nakamura, Y Kashiwa, B Lin, H Iida<br>
@@ -389,7 +393,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">My Fuzzers Won't Build: An Empirical Study of Fuzzing Build Failures</span>
-    <span class="pub-venue">TOSEM【A*】</span>
+    <span class="pub-venue">TOSEM【Q1】</span>
   </div>
   <div class="grant-detail">
     O Nourry, Y Kashiwa, W Shang, H Shu, Y Kamei<br>
@@ -411,7 +415,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">Understanding the Characteristics and the Role of Visual Issue Reports</span>
-    <span class="pub-venue">EMSE【A】</span>
+    <span class="pub-venue">EMSE【Q1】</span>
   </div>
   <div class="grant-detail">
     H Kuramoto, D Wang, M Kondo, Y Kashiwa, Y Kamei, N Ubayashi<br>
@@ -422,7 +426,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">The Human Side of Fuzzing</span>
-    <span class="pub-venue">TOSEM【A*】</span>
+    <span class="pub-venue">TOSEM【Q1】</span>
   </div>
   <div class="grant-detail">
     O Nourry, Y Kashiwa, B Lin, G Bavota, M Lanza, Y Kamei<br>
@@ -433,7 +437,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">An Empirical Study on Self-admitted Technical Debt in Modern Code Review</span>
-    <span class="pub-venue">IST【A】</span>
+    <span class="pub-venue">IST【Q1】</span>
   </div>
   <div class="grant-detail">
     Y Kashiwa, R Nishikawa, Y Kamei, M Kondo, E Shihab, R Sato, N Ubayashi<br>
@@ -444,7 +448,7 @@ weight: 20
 <div class="grant-item">
   <div class="grant-header" onclick="toggleGrant(this)">
     <span class="grant-title">An Empirical Study of Issue-Link Algorithms</span>
-    <span class="pub-venue">EMSE【A】</span>
+    <span class="pub-venue">EMSE【Q1】</span>
   </div>
   <div class="grant-detail">
     M Kondo, Y Kashiwa, Y Kamei, O Mizuno<br>
