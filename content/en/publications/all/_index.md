@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-02-17T18:32:18+09:00
-lastmod: 2026-02-05T13:39:17+0900
+lastmod: 2026-08-15T22:53:36+0900
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ projects: []
 ## Journal
 
 1. Miku Watanabe, Hao Li, Yutaro Kashiwa, Brittany Anne Reid, Hajimu Iida, Ahmed E. Hassan, "On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub", ACM Transactions on Software Engineering and Methodology (TOSEM), Dec. 2026.
-1. Ibuki Nakamura, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study ", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2026.
+1. Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa, Brittany Anne Reid, Kundjanasith Thonglek, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Bram Adams, Ahmed E. Hassan, Hajimu Iida, "Agent READMEs: An Empirical Study of Context Files for Agentic Coding", ACM Transactions on Software Engineering and Methodology (TOSEM), Oct. 2026.
+1. Ibuki Nakamura, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "Understanding Self-Admitted Technical Debt in Test Code: An Empirical Study", ACM Transactions on Software Engineering and Methodology (TOSEM), Aug. 2026.
 1. Olivier Nourry, Yutaro Kashiwa, Weiyi Shang, Honglin Shu, Yasutaka Kamei, "My Fuzzers Won’t Build: An Empirical Study of Fuzzing Build Failures", ACM Transactions on Software Engineering and Methodology (TOSEM), Jan. 2025.
-1. Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Load-Aware Multi-Objective Optimization of Controller and Datastore Placement in Distributed Sdns", Concurrency and Computation: Practice and Experience (CCPE), May. 2025. [doi:10.1002/cpe.70007](https://doi.org/10.1002/cpe.70007)
 1. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports", Empirical Software Engineering (EMSE), Aug. 2024.
 1. Olivier Nourry, Yutaro Kashiwa, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, "The Human Side of Fuzzing: Challenges Faced by Developers During Fuzzing Activities", ACM Transactions on Software Engineering and Methodology (TOSEM), Nov. 2023. [doi:10.1145/3611668](https://doi.org/10.1145/3611668)
 1. Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan, Kazufumi Yuasa, Tadatoshi Babasaki, Hajimu Iida, "Toward Predictive Modeling of Solar Power Generation for Multiple Power Plants", IEICE Transactions on Communications, Jul. 2023. [doi:10.1587/transcom.2022EBT0003](https://doi.org/10.1587/transcom.2022EBT0003)
@@ -94,14 +94,17 @@ projects: []
 
 ## International Conference
 
+1. Ayane Shirakawa, Tatsuya Shirai, Yutaro Kashiwa, Masanari Kondo, Yasutaka Kamei, Hajimu Iida, "Test Alert Snooze: An Empirical Study of Consecutive Test Failures on CI", The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026), Oct. 2026.
+1. Suzuka Yoshimoto, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida, "Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact", The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026), Oct. 2026.
+1. Miku Watanabe, Kosei Horikawa, Brittany Anne Reid, Yutaro Kashiwa, Hajimu Iida, "What Are Developers Actually Discussing When Visual Regression Tests Fail?", The 42nd International Conference on Software Maintenance and Evolution (ICSME 2026), Sep. 2026.
+1. Gianmario Voria, Alfonso Cannavale, Andrea De Lucia, Yutaro Kashiwa, Gemma Catolino, Fabio Palomba, "How Do Developers Maintain and Evolve Their Agents' Instructions? An Empirical Study", The 42nd International Conference on Software Maintenance and Evolution (ICSME 2026), Sep. 2026.
+1. Shota Sawada, Tatsuya Shirai, Yutaro Kashiwa, Ken'ichi Yamaguchi, Hiroshi Iwata, Hajimu Iida, "To What Extent Does Agent-generated Code Require Maintenance? An Empirical Study", 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), Jun. 2026.
 1. Tatsuya Shirai, Olivier Nourry, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Ruben Opdebeeck, Mahmoud Alfadel, Akond Rahman, Yutaro Kashiwa, João F. Ferreira, Raula Gaikovina Kula, Coen De Roover, "An Empirical Study of Policy as Code: Adoption, Purpose, and Maintenance ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Suzuka Yoshimoto, Shun Fujita, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Yutaro Kashiwa, "Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Kan Watanabe, Tatsuya Shirai, Yutaro Kashiwa, Hajimu Iida, "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Kyogo Horikawa, Kosei Horikawa, Yutaro Kashiwa, Uwano Hidetake, Hajimu Iida, "Do AI Agents Really Improve Code Readability? ", The 23rd International Mining Software Repositories Conference (MSR 2026), Apr. 2026.
 1. Siyuan Liu, Nabhan Suwanachote, Yutaro Kashiwa, Brittany Anne Reid, Hajimu Iida, "Evaluating Cross-Language Transfer for Refactoring Detection with Large Language Models ", The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2026), Mar. 2026.
-1. Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Exploring the Potential of Reinforcement Learning for Dynamic SDN Controller Placement", The 9th Collaborations to Enable Transnational Cyberinfrastructure Applications (CENTRA9), Jan. 2026.
-1. Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Adaptive Reinforcement Learning for Dynamic Controller Placement in Distributed SDN", The 41st Pacific Rim Application and Grid Middleware Assembly (PRAGMA 41), Jan. 2026.
 1. Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code", The 26th International Conference on Product-Focused Software Process Improvement (PROFES) , Dec. 2025.
 1. Napasorn Tevaru, Brittany Anne Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida, "Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
 1. Rintaro Kanaji, Brittany Anne Reid, Yutaro Kashiwa, Raula Gaikovina Kula, Hajimu Iida, "An Empirical Study of Security-Policy Related Issues in Open Source Projects", The 26th International Conference on Product-Focused Software Process Improvement (PROFES), Dec. 2025.
@@ -111,12 +114,10 @@ projects: []
 1. Brittany Anne Reid, Raula Gaikovina Kula, "Rethinking Reuse in Dependency Supply Chains: Initial Analysis of NPM packages at the End of the Chain", ACM International Conference on the Foundations of Software Engineering (FSE) , Jun. 2025.
 1. Nabhan Suwanachote, Yagut Shakizada, Yutaro Kashiwa, Bin Lin, Hajimu Iida, "On the Evolution of Unused Dependencies in Java Project Releases: An Empirical Study ", The 22nd International Conference of Mining Software Repositories (MSR'25), Apr. 2025.
 1. Miki Yonekura, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida, "Leveraging Context Information for Self-Admitted Technical Debt Detection ", The 33rd IEEE/ACM International Conference on Program Comprehension (ICPC'25), Apr. 2025.
-1. Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Investigating the Impact of Data Storage Mechanisms on Distributed Software- Defined Networking Controllers Performance", The 8th Collaborations to Enable Transnational Cyberinfrastructure Applications (CENTRA 8), Feb. 2025.
 1. Pakorn Laohakanniyom, Kohei Ichikawa, Hajimu Iida, Pattara Leelaprute, Bundit Manaskasemsak, Arnon Rungsawang, "An Evaluation of Network Performance through the Integration of SRv6 and MPTCP", IEEE International Conference on Communications, Networks, and Satellite 2024, Nov. 2024.
 1. Mingyang Yin, Yutaro Kashiwa, Keheliya Gallaba, Mahmoud Alfadel, Yasutaka Kamei, Shane McIntosh, "Developer-Applied Accelerations in Continuous Integration", The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Oct. 2024.
 1. Yasuhito Morikawa, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "RevToken: A Token-Level Review Recommendation: How Far Are We?", The 40th International Conference on Software Maintenance and Evolution (ICSME 2024), Oct. 2024.
 1. Wataru Mabuchi, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "An Empirical Investigation into the Use of Dockerfile Preprocessors for Docker Image Management", The 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM 2024), Oct. 2024.
-1. Kang Xingyuan, Keichi Takahashi, Chawanat Nakasan, Kohei Ichikawa, Hajimu Iida, "Efficient Management of Network Information in Distributed Datastores: Identifying Appropriate Consistency Model Solutions", The 40th Pacific Rim Application and Grid Middleware Assembly (PRAGMA 40), Oct. 2024.
 1. Soratouch Pornmaneerattanatri, Keichi Takahashi, Yutaro Kashiwa, Kohei Ichikawa, Hajimu Iida, "Automatic Parallelization with CodeT5+: A Model for Generating OpenMP Directives", LLMxHPC: 2024 International Workshop on Large Language Models (LLMs) and HPC, IEEE Cluster 2024, Sep. 2024.
 1. Chandra Prasetyo Utomo, Kohei Ichikawa, Nashuha Insani, Kundjanasith Thonglek, Soratouch Pornmaneerattanatri, Ummi Azizah Rachmawati, "Scalable Personalised Treatment Recommendation in Critical Care", The 2024 8th International Conference on Information Technology, Information Systems and Electrical Engineering, Aug. 2024.
 1. Papon Choonhaklai, Kohei Ichikawa, Hajimu Iida, "An Evaluation of Time-Sliced GPU Sharing with KubeRay for Machine Learning Workloads", 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC), Jul. 2024. [doi:10.1109/COMPSAC61105.2024.00194](https://doi.org/10.1109/COMPSAC61105.2024.00194)
@@ -601,6 +602,7 @@ projects: []
 
 ## Award
 
+1. Kan Watanabe, Tatsuya Shirai, Yutaro Kashiwa, Hajimu Iida, "Distinguished Mining Challenge Paper Award", The 23rd International Conference on Mining Software Repositories (MSR 2026), Apr. 2026.
 1. Kosei Horikawa, Bin Lin, Yutaro Kashiwa, Kenji Fujiwara, Hajimu Iida, "Best International Poster Award", ソフトウェアエンジニアリングシンポジウム(SES) 2025, Sep. 2025.
 1. 柏 祐太郎, 近藤 将成, 槇原 絵里奈, 亀井 靖高, "研究奨励賞", ソフトウェアエンジニアリングシンポジウム2025（SES2025）, Sep. 2025.
 1. Kundjanasith THONGLEK, Kohei ICHIKAWA, Keichi TAKAHASHI, Chawanat NAKASAN, Kazufumi YUASA, Tadatoshi BABASAKI, Hajimu IIDA, "第19回電子情報通信学会通信ソサイエティ論文賞（Best Paper Award）", 電子情報通信学会, May. 2024.
