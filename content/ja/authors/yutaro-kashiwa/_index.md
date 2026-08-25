@@ -20,7 +20,7 @@ organizations:
     url: "https://itcw3.naist.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 2015 年 (株)日立製作所に入社，システムエンジニアとして勤務．2017 年日本学術振興会特別研究員(DC1)．2020 年 和歌山大学大学院システム工学研究科博士後期課程修了． 同年九州大学大学院システム情報科学研究院 特任助教．2022年 奈良先端科学技術大学院大学 助教．2025年 奈良先端科学技術大学院大学 准教授．2026年 JST創発研究者．ソフトウェア工学，特にソフトウェア品質保証の研究に従事. 博士（工学）．
+bio: 2015 年 (株)日立製作所に入社，システムエンジニアとして勤務．2017 年日本学術振興会特別研究員(DC1)．2020 年 和歌山大学大学院システム工学研究科博士後期課程修了． 同年九州大学大学院システム情報科学研究院 特任助教．2022年 奈良先端科学技術大学院大学 助教．2025年 奈良先端科学技術大学院大学 准教授．2026年 JST創発研究者．ソフトウェア工学，特にソフトウェア品質保証の研究に従事． 博士（工学）．
 
 #education:
 #  courses:
@@ -35,19 +35,16 @@ bio: 2015 年 (株)日立製作所に入社，システムエンジニアとし�
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: home
-#   icon_pack: fas
-#   link: https://keichi.dev
-#   - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/USERNAME
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=PERSON-ID
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/USERNAME
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "/authors/yutaro-kashiwa/#contact"
+  - icon: google
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=hFD-GC8AAAAJ
+  - icon: address-card
+    icon_pack: fas
+    link: https://researchmap.jp/yutaro-kashiwa
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -310,10 +307,78 @@ weight: 20
 </div>
 
 <div class="section-block">
+<h3>研究プロジェクト</h3>
+
+<div class="project-area">
+  <div class="project-title">
+    <b>Agentic Software Engineering</b>
+    <span class="project-desc">AIエージェントによる自律的なソフトウェア開発の実態調査と品質向上</span>
+  </div>
+  <div class="project-papers">
+    <span class="project-topic"><span class="project-topic-name">Context Files</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2026_Worrawalan.pdf" target="_blank" rel="noopener">📄 TOSEM</a></span>
+    <span class="project-topic"><span class="project-topic-name">Pull Requests</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2026_Watanabe.pdf" target="_blank" rel="noopener">📄 TOSEM</a></span>
+    <span class="project-topic"><span class="project-topic-name">Code Quality</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Horikawa.pdf" target="_blank" rel="noopener">📄 MSR</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Watanabe.pdf" target="_blank" rel="noopener">📄 MSR</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EASE2026_Sawada.pdf" target="_blank" rel="noopener">📄 EASE</a></span>
+    <span class="project-topic"><span class="project-topic-name">Test Generation</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Yoshimoto.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
+  </div>
+</div>
+
+<div class="project-area">
+  <div class="project-title">
+    <b>AI-assisted Software Development</b>
+    <span class="project-desc">機械学習・LLMを活用した開発支援（不具合予測，コード補完，レビュー自動化）</span>
+  </div>
+  <div class="project-papers">
+    <span class="project-topic"><span class="project-topic-name">JIT Defect Prediction</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
+    <span class="project-topic"><span class="project-topic-name">Code Completion</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
+    <span class="project-topic"><span class="project-topic-name">Code Review</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2024_Morikawa.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EASE2024_Watanabe.pdf" target="_blank" rel="noopener">📄 EASE</a></span>
+    <span class="project-topic"><span class="project-topic-name">Bug Triage</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf" target="_blank" rel="noopener">📄 IEICE</a></span>
+  </div>
+</div>
+
+<div class="project-area">
+  <div class="project-title">
+    <b>DevOps & Testing</b>
+    <span class="project-desc">CI/CDパイプラインの最適化，ファジング，テスト自動化の研究</span>
+  </div>
+  <div class="project-papers">
+    <span class="project-topic"><span class="project-topic-name">Build Acceleration</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ASE2024_Yin.pdf" target="_blank" rel="noopener">📄 ASE</a></span>
+    <span class="project-topic"><span class="project-topic-name">Continuous Fuzzing</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TSE26_Shirai.pdf" target="_blank" rel="noopener">📄 TSE</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf" target="_blank" rel="noopener">📄 TOSEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2024_Nourry.pdf" target="_blank" rel="noopener">📄 TOSEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Shirai.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
+    <span class="project-topic"><span class="project-topic-name">Test Maintenance</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ESEM2026_Shirakawa.pdf" target="_blank" rel="noopener">📄 ESEM</a></span>
+    <span class="project-topic"><span class="project-topic-name">Cloud & Container</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf" target="_blank" rel="noopener">📄 APSEC</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2024_Mabuchi.pdf" target="_blank" rel="noopener">📄 SCAM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
+    <span class="project-topic"><span class="project-topic-name">Dependency & Config</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2025_Suwanachote.pdf" target="_blank" rel="noopener">📄 MSR</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Opdebeeck.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
+  </div>
+</div>
+
+<div class="project-area">
+  <div class="project-title">
+    <b>Technical Debt & Refactoring</b>
+    <span class="project-desc">技術的負債の検出・管理とリファクタリングがテストに与える影響の分析</span>
+  </div>
+  <div class="project-papers">
+    <span class="project-topic"><span class="project-topic-name">Refactoring</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2021_Nourry.pdf" target="_blank" rel="noopener">📄 IST</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2022_Nourry.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2021_Atwi.pdf" target="_blank" rel="noopener">📄 SCAM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2026_Liu.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
+    <span class="project-topic"><span class="project-topic-name">SATD</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2022_Kashiwa.pdf" target="_blank" rel="noopener">📄 IST</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2026_Nakamura.pdf" target="_blank" rel="noopener">📄 TOSEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ESEM2026_Yoshimoto.pdf" target="_blank" rel="noopener">📄 ESEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2025_Yonekura.pdf" target="_blank" rel="noopener">📄 ICPC</a></span>
+  </div>
+</div>
+
+<div class="project-area">
+  <div class="project-title">
+    <b>Bug Analysis</b>
+    <span class="project-desc">不具合報告の分析，重大バグの予測，イシューとコミットの紐付け</span>
+  </div>
+  <div class="project-papers">
+    <span class="project-topic"><span class="project-topic-name">Visual Issues</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf" target="_blank" rel="noopener">📄 EMSE</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf" target="_blank" rel="noopener">📄 ICPC</a></span>
+    <span class="project-topic"><span class="project-topic-name">High Impact Bugs</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
+    <span class="project-topic"><span class="project-topic-name">Issue Linking</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2022_Kondo.pdf" target="_blank" rel="noopener">📄 EMSE</a></span>
+  </div>
+</div>
+
+</div>
+
+<div class="section-block">
 <h3>主な研究実績</h3>
 
 <p style="font-size:0.85rem; color:#666; margin-bottom:1rem;">
-国際会議のランクは<a href="https://portal.core.edu.au/conf-ranks/" target="_blank">CORE Rankings</a>、論文誌のランクは<a href="https://www.scimagojr.com/" target="_blank">SCImago Journal Rankings (SJR)</a>に基づく
+国際会議のランクは<a href="https://portal.core.edu.au/conf-ranks/" target="_blank">CORE Rankings</a>，論文誌のランクは<a href="https://www.scimagojr.com/" target="_blank">SCImago Journal Rankings (SJR)</a>に基づく
 </p>
 
 <div class="grant-item">
@@ -371,7 +436,7 @@ weight: 20
   </div>
   <div class="grant-detail">
     S Yoshimoto, K Horikawa, D Feitosa, Y Kashiwa, H Iida<br>
-    ESEM 2026.
+    International Symposium on Empirical Software Engineering and Measurement (ESEM), 2026.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ESEM2026_Yoshimoto.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
@@ -383,7 +448,7 @@ weight: 20
   </div>
   <div class="grant-detail">
     A Shirakawa, T Shirai, Y Kashiwa, M Kondo, Y Kamei, H Iida<br>
-    ESEM 2026.
+    International Symposium on Empirical Software Engineering and Measurement (ESEM), 2026.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ESEM2026_Shirakawa.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
@@ -395,7 +460,7 @@ weight: 20
   </div>
   <div class="grant-detail">
     R Opdebeeck, M Alfadel, A Rahman, Y Kashiwa, J F Ferreira, R G Kula, C De Roover<br>
-    MSR 2026.
+    IEEE/ACM International Conference on Mining Software Repositories (MSR), 2026.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Opdebeeck.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
@@ -407,8 +472,20 @@ weight: 20
   </div>
   <div class="grant-detail">
     T Shirai, O Nourry, Y Kashiwa, K Fujiwara, H Iida<br>
-    MSR 2026.
+    IEEE/ACM International Conference on Mining Software Repositories (MSR), 2026.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Shirai.pdf" target="_blank" rel="noopener">📄 PDF</a>
+  </div>
+</div>
+
+<div class="grant-item">
+  <div class="grant-header" onclick="toggleGrant(this)">
+    <span class="grant-title">Leveraging Context Information for Self-Admitted Technical Debt Detection</span>
+    <span class="pub-venue">ICPC【A】</span>
+  </div>
+  <div class="grant-detail">
+    M Yonekura, Y Kashiwa, B Lin, K Fujiwara, H Iida<br>
+    IEEE/ACM International Conference on Program Comprehension (ICPC), pp. 1-12, 2025.
+    <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2025_Yonekura.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
 
@@ -431,7 +508,7 @@ weight: 20
   </div>
   <div class="grant-detail">
     M Yin, Y Kashiwa, K Gallaba, M Alfadel, Y Kamei, S McIntosh<br>
-    ASE 2024.
+    IEEE/ACM International Conference on Automated Software Engineering (ASE), 2024.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ASE2024_Yin.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
@@ -445,6 +522,18 @@ weight: 20
     H Kuramoto, D Wang, M Kondo, Y Kashiwa, Y Kamei, N Ubayashi<br>
     Empirical Software Engineering, 2024.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf" target="_blank" rel="noopener">📄 PDF</a>
+  </div>
+</div>
+
+<div class="grant-item">
+  <div class="grant-header" onclick="toggleGrant(this)">
+    <span class="grant-title">TraceJIT: Evaluating the Impact of Behavioral Code Change on JIT Defect Prediction</span>
+    <span class="pub-venue">SANER【A】</span>
+  </div>
+  <div class="grant-detail">
+    I Morita, Y Kashiwa, M Kondo, J Sohn, S McIntosh, Y Kamei, N Ubayashi<br>
+    IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024.
+    <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
 
@@ -491,7 +580,7 @@ weight: 20
   </div>
   <div class="grant-detail">
     Y Kashiwa, K Shimizu, B Lin, G Bavota, M Lanza, Y Kamei, N Ubayashi<br>
-    ICSME 2021.
+    IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021.
     <br><a class="pub-pdf" href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf" target="_blank" rel="noopener">📄 PDF</a>
   </div>
 </div>
@@ -709,74 +798,6 @@ weight: 20
 </div>
 
 <div class="section-block">
-<h3>研究プロジェクト</h3>
-
-<div class="project-area">
-  <div class="project-title">
-    <b>Agentic Software Engineering</b>
-    <span class="project-desc">AIエージェントによる自律的なソフトウェア開発の実態調査と品質向上</span>
-  </div>
-  <div class="project-papers">
-    <span class="project-topic"><span class="project-topic-name">Context Files</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2026_Worrawalan.pdf" target="_blank" rel="noopener">📄 TOSEM</a></span>
-    <span class="project-topic"><span class="project-topic-name">Pull Requests</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2026_Watanabe.pdf" target="_blank" rel="noopener">📄 TOSEM</a></span>
-    <span class="project-topic"><span class="project-topic-name">Code Quality</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Horikawa.pdf" target="_blank" rel="noopener">📄 MSR</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Watanabe.pdf" target="_blank" rel="noopener">📄 MSR</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EASE2026_Sawada.pdf" target="_blank" rel="noopener">📄 EASE</a></span>
-    <span class="project-topic"><span class="project-topic-name">Test Generation</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Yoshimoto.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
-  </div>
-</div>
-
-<div class="project-area">
-  <div class="project-title">
-    <b>AI-assisted Software Development</b>
-    <span class="project-desc">機械学習・LLMを活用した開発支援（不具合予測、コード補完、レビュー自動化）</span>
-  </div>
-  <div class="project-papers">
-    <span class="project-topic"><span class="project-topic-name">JIT Defect Prediction</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2024_Morita.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
-    <span class="project-topic"><span class="project-topic-name">Code Completion</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2023_Fukumoto.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
-    <span class="project-topic"><span class="project-topic-name">Code Review</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2024_Morikawa.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EASE2024_Watanabe.pdf" target="_blank" rel="noopener">📄 EASE</a></span>
-    <span class="project-topic"><span class="project-topic-name">Bug Triage</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/IEICE2020_Kashiwa.pdf" target="_blank" rel="noopener">📄 IEICE</a></span>
-  </div>
-</div>
-
-<div class="project-area">
-  <div class="project-title">
-    <b>DevOps & Testing</b>
-    <span class="project-desc">CI/CDパイプラインの最適化、ファジング、テスト自動化の研究</span>
-  </div>
-  <div class="project-papers">
-    <span class="project-topic"><span class="project-topic-name">Build Acceleration</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ASE2024_Yin.pdf" target="_blank" rel="noopener">📄 ASE</a></span>
-    <span class="project-topic"><span class="project-topic-name">Continuous Fuzzing</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TSE26_Shirai.pdf" target="_blank" rel="noopener">📄 TSE</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2023_Nourry.pdf" target="_blank" rel="noopener">📄 TOSEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2024_Nourry.pdf" target="_blank" rel="noopener">📄 TOSEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Shirai.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
-    <span class="project-topic"><span class="project-topic-name">Test Maintenance</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2023_Fujita.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2021_Kashiwa.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ESEM2026_Shirakawa.pdf" target="_blank" rel="noopener">📄 ESEM</a></span>
-    <span class="project-topic"><span class="project-topic-name">Cloud & Container</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/APSEC2023_Suwanachote.pdf" target="_blank" rel="noopener">📄 APSEC</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2024_Mabuchi.pdf" target="_blank" rel="noopener">📄 SCAM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2022_Higashi.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
-    <span class="project-topic"><span class="project-topic-name">Dependency & Config</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2025_Suwanachote.pdf" target="_blank" rel="noopener">📄 MSR</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2026_Opdebeeck.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
-  </div>
-</div>
-
-<div class="project-area">
-  <div class="project-title">
-    <b>Technical Debt & Refactoring</b>
-    <span class="project-desc">技術的負債の検出・管理とリファクタリングがテストに与える影響の分析</span>
-  </div>
-  <div class="project-papers">
-    <span class="project-topic"><span class="project-topic-name">Refactoring</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2021_Nourry.pdf" target="_blank" rel="noopener">📄 IST</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2022_Nourry.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SCAM2021_Atwi.pdf" target="_blank" rel="noopener">📄 SCAM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/SANER2026_Liu.pdf" target="_blank" rel="noopener">📄 SANER</a></span>
-    <span class="project-topic"><span class="project-topic-name">SATD</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/IST2022_Kashiwa.pdf" target="_blank" rel="noopener">📄 IST</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/TOSEM2026_Nakamura.pdf" target="_blank" rel="noopener">📄 TOSEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ESEM2026_Yoshimoto.pdf" target="_blank" rel="noopener">📄 ESEM</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2025_Yonekura.pdf" target="_blank" rel="noopener">📄 ICPC</a></span>
-  </div>
-</div>
-
-<div class="project-area">
-  <div class="project-title">
-    <b>Bug Analysis</b>
-    <span class="project-desc">不具合報告の分析、重大バグの予測、イシューとコミットの紐付け</span>
-  </div>
-  <div class="project-papers">
-    <span class="project-topic"><span class="project-topic-name">Visual Issues</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2024_Kuramoto.pdf" target="_blank" rel="noopener">📄 EMSE</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICPC2022_Kuramoto.pdf" target="_blank" rel="noopener">📄 ICPC</a></span>
-    <span class="project-topic"><span class="project-topic-name">High Impact Bugs</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/ICSME2014_Kashiwa.pdf" target="_blank" rel="noopener">📄 ICSME</a><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/MSR2015_Ohira.pdf" target="_blank" rel="noopener">📄 MSR</a></span>
-    <span class="project-topic"><span class="project-topic-name">Issue Linking</span><a href="https://github.com/Yutaro-Kashiwa/papers/blob/master/EMSE2022_Kondo.pdf" target="_blank" rel="noopener">📄 EMSE</a></span>
-  </div>
-</div>
-
-</div>
-
-<div class="section-block">
 <h3>資格</h3>
 
 <div class="qual-list">
@@ -787,9 +808,15 @@ weight: 20
 </div>
 
 <div class="section-block">
-<h3>Contact</h3>
+<h3 id="contact">Contact</h3>
 
 yutaro.kashiwa［ａｔ］is.naist.jp
+
+<div style="margin-top:0.5rem;">
+〒630-0192 奈良県生駒市高山町8916-5<br>
+奈良先端科学技術大学院大学 先端科学技術研究科<br>
+情報領域棟 A301
+</div>
 
 </div>
 
