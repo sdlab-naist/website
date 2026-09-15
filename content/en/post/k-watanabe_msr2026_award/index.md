@@ -29,6 +29,7 @@ projects: []
 ---
 Kan Watanabe from our laboratory received the Distinguished Mining Challenge Paper Award at the [23rd International Conference on Mining Software Repositories (MSR 2026)](https://2026.msrconf.org).
 The Mining Challenge is a competitive track held every year at the MSR conference. Participants analyze a specific dataset provided by the organizers and compete on the originality of the insights they draw about software engineering. Outstanding papers are recognized with the Distinguished Mining Challenge Paper Award.
+The MSR 2026 Mining Challenge received 116 submissions, and only three papers (2.6%) were selected for this award.
 
 He presented a paper titled "What to Cut? Predicting Unnecessary Methods in Agentic Code Generation". This work aims to efficiently identify AI-generated methods that are deleted during pull request review. The study revealed that deleted methods have characteristics distinct from those that are kept. It also showed that the proposed prediction model can identify such unnecessary methods with an AUC of 87.1%, contributing to more efficient code review ([doi:10.1145/3793302.3793591](https://dl.acm.org/doi/full/10.1145/3793302.3793591)).
 
