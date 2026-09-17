@@ -18,13 +18,13 @@ organizations:
     url: "https://www.naist.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI時代のソフトウェア品質保証を専門とし，バグ予測とAI生成テストの評価・診断・自動改善に取り組んでいます．
+bio: リファクタリングとバグ予測を中心に，AI時代のソフトウェア品質保証を研究しています．
 
 # List each interest with a dash
 interests:
+  - リファクタリング
   - バグ予測
   - AI生成テスト・品質保証
-  - リファクタリング
   - Agentic Software Engineering
 
 # Social/Academic Networking
@@ -69,7 +69,7 @@ weight: 202404
 
 ## プロフィール
 
-奈良先端科学技術大学院大学 ソフトウェア設計学研究室の博士後期課程学生です．**AI時代のソフトウェア品質保証**を専門とし，バグ予測とAI生成テストの評価・診断・自動改善に取り組んでいます．
+奈良先端科学技術大学院大学 ソフトウェア設計学研究室の博士後期課程学生です．**リファクタリングとバグ予測**を中心に，AI時代のソフトウェア品質保証を研究しています．
 
 NAIST Granite-AIではAI時代のバグ予測を研究し，2026年10月開始のACT-Xでは，その知見を生かしたAI生成テストの品質保証基盤を構築します．両支援を相補的に活用し，研究環境の整備と成果の国際発信を進めます．
 

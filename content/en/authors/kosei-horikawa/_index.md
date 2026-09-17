@@ -18,13 +18,13 @@ organizations:
     url: "https://www.naist.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study software quality assurance in the AI era, focusing on bug prediction and the evaluation, diagnosis, and automated improvement of AI-generated tests.
+bio: I study software quality assurance in the AI era, with a focus on refactoring and bug prediction.
 
 # List each interest with a dash
 interests:
+  - Refactoring
   - Bug Prediction
   - AI-Generated Tests and Quality Assurance
-  - Refactoring
   - Agentic Software Engineering
 
 # Social/Academic Networking
@@ -69,7 +69,7 @@ weight: 202404
 
 ## Profile
 
-I am a PhD student in the Laboratory for Software Design and Analysis at Nara Institute of Science and Technology (NAIST). I study **software quality assurance in the AI era**, focusing on bug prediction and the evaluation, diagnosis, and automated improvement of AI-generated tests.
+I am a PhD student in the Laboratory for Software Design and Analysis at Nara Institute of Science and Technology (NAIST). I study software quality assurance in the AI era, with a focus on **refactoring and bug prediction**.
 
 Supported by NAIST Granite-AI, I investigate bug prediction in the AI era. My ACT-X project, starting in October 2026, will build on this work to develop a quality assurance framework for AI-generated tests. These complementary sources of support enable me to establish my research environment and share findings internationally.
 
