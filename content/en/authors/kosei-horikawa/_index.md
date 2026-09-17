@@ -18,13 +18,13 @@ organizations:
     url: "https://www.naist.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study software testing, refactoring, and quality assurance for AI-driven development through empirical analysis of software development data.
+bio: I study software quality assurance in the AI era, focusing on bug prediction and the evaluation, diagnosis, and automated improvement of AI-generated tests.
 
 # List each interest with a dash
 interests:
-  - Software Testing and Quality Assurance
-  - Refactoring
   - Bug Prediction
+  - AI-Generated Tests and Quality Assurance
+  - Refactoring
   - Agentic Software Engineering
 
 # Social/Academic Networking
@@ -69,19 +69,11 @@ weight: 202404
 
 ## Profile
 
-I am a PhD student in the Laboratory for Software Design and Analysis, Graduate School of Science and Technology, at Nara Institute of Science and Technology (NAIST). My research focuses on **software testing and quality assurance for development with AI agents**.
+I am a PhD student in the Laboratory for Software Design and Analysis at Nara Institute of Science and Technology (NAIST). I study **software quality assurance in the AI era**, focusing on bug prediction and the evaluation, diagnosis, and automated improvement of AI-generated tests.
 
-My interests include software testing, refactoring, bug prediction, and Agentic Software Engineering. I use real-world software development data to investigate how changes to test code and the development activities of AI agents affect code quality, readability, and maintainability. Through these empirical studies, I aim to develop quality assurance techniques that support both efficient development and reliable software.
+Supported by NAIST Granite-AI, I investigate bug prediction in the AI era. My ACT-X project, starting in October 2026, will build on this work to develop a quality assurance framework for AI-generated tests. These complementary sources of support enable me to establish my research environment and share findings internationally.
 
-Since August 2026, I have been a Visiting Research Student at Queen's University, SAIL & MCIS Lab, in Canada, with a stay through August 2027.
-
-My project on test quality assurance for AI-driven development was selected for the FY2026 JST ACT-X program and is scheduled to start in October 2026.
-
-## Research Interests
-
-- **Test code quality and maintainability:** Investigating how test code is refactored and how these changes affect its quality and maintainability.
-- **Software development with AI agents:** Analyzing agent-driven refactoring and test generation to evaluate code readability and test quality.
-- **Quality assurance for AI-driven development:** Using empirical findings to inform testing and bug prediction techniques that support reliable software development with AI.
+From August 2026 to August 2027, I am a Visiting Research Student at Queen's University, SAIL & MCIS Lab, in Canada.
 
 ## Research Funding
 
@@ -104,8 +96,6 @@ Period: April 2026–March 2029<br>
 [Program details (Japanese)](https://www.naist.jp/campuslife/support/economy.html)
 
 ## Major Publications
-
-[Google Scholar](https://scholar.google.com/citations?user=_Rkqk-wAAAAJ)
 
 ### First Author
 
@@ -160,7 +150,7 @@ Period: April 2026–March 2029<br>
 ## Education
 
 - **April 2026–Present:** PhD Program, Graduate School of Science and Technology, NAIST
-- **April 2024–March 2026:** Master's Program, Graduate School of Science and Technology, NAIST (M.S. in Information Science)
+- **April 2024–March 2026:** Master's Program, Graduate School of Science and Technology, NAIST (Master of Engineering)
 - **Completed in 2024:** Advanced Course in Systems Innovation Engineering, Information Systems Course, NIT, Nara College
 - **Graduated in 2022:** Department of Information Engineering, NIT, Nara College
 
