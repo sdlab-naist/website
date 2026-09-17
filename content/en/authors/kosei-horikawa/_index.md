@@ -38,9 +38,9 @@ social:
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/USERNAME
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.com/citations?user=PERSON-ID
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=_Rkqk-wAAAAJ"
   - icon: github
     icon_pack: fab
     link: https://github.com/Mont9165
@@ -73,6 +73,8 @@ I am a PhD student in the Laboratory for Software Design and Analysis, Graduate 
 
 My interests include software testing, refactoring, bug prediction, and Agentic Software Engineering. I use real-world software development data to investigate how changes to test code and the development activities of AI agents affect code quality, readability, and maintainability. Through these empirical studies, I aim to develop quality assurance techniques that support both efficient development and reliable software.
 
+Since August 2026, I have been a Visiting Research Student at Queen's University, SAIL & MCIS Lab, in Canada, with a stay through August 2027.
+
 My project on test quality assurance for AI-driven development was selected for the FY2026 JST ACT-X program and is scheduled to start in October 2026.
 
 ## Research Interests
@@ -83,16 +85,53 @@ My project on test quality assurance for AI-driven development was selected for 
 
 ## Research Funding
 
-**JST ACT-X — Selected in FY2026**<br>
+### JST ACT-X — Selected in FY2026
+
 Project: AI駆動開発を支えるテスト品質保証基盤の創出<br>
 English translation: Establishing a Test Quality Assurance Foundation for AI-Driven Development<br>
 Research area: Cyberinfrastructure for AI Empowered Society<br>
 Period: October 2026–March 2029 (scheduled)<br>
 [Selection announcement]({{< relref "/post/horikawa-act-x" >}}) · [JST selected projects (Japanese)](https://www.jst.go.jp/kisoken/act-x/application/2026/260917/260917act-x.pdf)
 
+### NAIST Granite-AI (JST BOOST)
+
+NAIST's program supporting innovative doctoral students in next-generation AI (NAIST Granite-AI)<br>
+Project: AIエージェント協働時代における品質保証基盤の構築<br>
+English translation: Building a Quality Assurance Foundation for the Era of Collaboration with AI Agents<br>
+Funding program: JST BOOST (JPMJBS2423)<br>
+Period: April 2026–March 2029<br>
+**Research funding: JPY 900,000 per year**<br>
+[Program details (Japanese)](https://www.naist.jp/campuslife/support/economy.html)
+
 ## Major Publications
 
-### Peer-Reviewed Conference Papers
+[Google Scholar](https://scholar.google.com/citations?user=_Rkqk-wAAAAJ)
+
+### First Author
+
+#### Peer-Reviewed International Journal Articles
+
+- **[Agentic Refactoring: An Empirical Study of AI Coding Agents](https://arxiv.org/abs/2511.04824)**<br>
+  <u>Kosei Horikawa</u>, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
+  ACM Transactions on Software Engineering and Methodology (TOSEM), 2026. **Just Accepted**.
+
+#### Peer-Reviewed Conference Papers
+
+- **[How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study]({{< relref "/post/horikawa-icsme2025" >}})**<br>
+  <u>Kosei Horikawa</u>, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
+  The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track). [CORE A]
+
+### Co-author
+
+#### Peer-Reviewed Conference Papers
+
+- **[Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact](https://arxiv.org/abs/2609.13485)**<br>
+  Suzuka Yoshimoto, <u>Kosei Horikawa</u>, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
+  The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026, Technical Track), 2026. **Accepted**.
+
+- **[What Are Developers Actually Discussing When Visual Regression Tests Fail?](https://arxiv.org/abs/2608.07020)**<br>
+  Miku Watanabe, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
+  The 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026, Visions and Emerging Results Track), 2026.
 
 - **[Do AI Agents Really Improve Code Readability?](https://arxiv.org/abs/2603.13723)**<br>
   Kyogo Horikawa, <u>Kosei Horikawa</u>, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
@@ -102,19 +141,15 @@ Period: October 2026–March 2029 (scheduled)<br>
   Suzuka Yoshimoto, Shun Fujita, <u>Kosei Horikawa</u>, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
   The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track). [CORE A]
 
-- **[How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study]({{< relref "/post/horikawa-icsme2025" >}})**<br>
-  <u>Kosei Horikawa</u>, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
-  The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track). [CORE A]
-
 - **[An Empirical Investigation into Maintenance of Load Testing Scripts]({{< relref "/post/esem2025" >}})**<br>
   Ibuki Nakamura, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
   The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track). [CORE A]
 
-### Preprints
+#### Preprints
 
-- **[Agentic Refactoring: An Empirical Study of AI Coding Agents](https://arxiv.org/abs/2511.04824)**<br>
-  <u>Kosei Horikawa</u>, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
-  arXiv preprint arXiv:2511.04824, 2025.
+- **[AgentLogs: A Dataset for Opening the Black Box of GitHub's Cloud Agent](https://arxiv.org/abs/2608.29204)**<br>
+  Jonan Richards, <u>Kosei Horikawa</u>, Youmei Fan, Yutaro Kashiwa, Mairieli Wessel<br>
+  arXiv preprint arXiv:2608.29204, 2026.
 
 ## Awards
 
@@ -131,6 +166,7 @@ Period: October 2026–March 2029 (scheduled)<br>
 
 ## International Research Experience
 
+- **August 2026–August 2027:** Visiting Research Student, Queen's University, SAIL & MCIS Lab, Canada
 - **September–November 2025:** Visiting Student, Queen's University, SAIL & MCIS Lab, Canada
 - **June–July 2025:** Visiting Student, Hangzhou Dianzi University, China
 - **September–November 2024:** Visiting Student, Radboud University, Netherlands
