@@ -103,8 +103,7 @@ Period: April 2026–March 2029<br>
 
 - **[Agentic Refactoring: An Empirical Study of AI Coding Agents](https://arxiv.org/abs/2511.04824)**<br>
   <u>Kosei Horikawa</u>, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
-  ACM Transactions on Software Engineering and Methodology (TOSEM), 2026. **Just Accepted**.<br>
-  [Q1 (SJR 2024)](https://www.scimagojr.com/journalrank.php?category=1712&year=2024&order=rpd&ord=desc) · [IF 6.2 (reported in 2025)](https://www.acm.org/binaries/content/assets/press-releases/2025/july/news-release_impact_factors_2025_final.pdf)
+  ACM Transactions on Software Engineering and Methodology (TOSEM), 2026. **Just Accepted**. [Q1, IF6.2]
 
 #### Peer-Reviewed Conference Papers
 
@@ -118,7 +117,7 @@ Period: April 2026–March 2029<br>
 
 - **[Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact](https://arxiv.org/abs/2609.13485)**<br>
   Suzuka Yoshimoto, <u>Kosei Horikawa</u>, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
-  The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026, Technical Track), 2026. **Accepted**. [CORE A (ICORE 2026)](https://portal.core.edu.au/conf-ranks/1376/)
+  The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026, Technical Track), 2026. **Accepted**. [CORE A]
 
 - **[What Are Developers Actually Discussing When Visual Regression Tests Fail?](https://arxiv.org/abs/2608.07020)**<br>
   Miku Watanabe, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
@@ -134,7 +133,7 @@ Period: April 2026–March 2029<br>
 
 - **[An Empirical Investigation into Maintenance of Load Testing Scripts]({{< relref "/post/esem2025" >}})**<br>
   Ibuki Nakamura, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
-  The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track). [CORE A (ICORE 2026)](https://portal.core.edu.au/conf-ranks/1376/)
+  The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track). [CORE A]
 
 #### Preprints
 
