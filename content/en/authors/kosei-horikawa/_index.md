@@ -10,33 +10,22 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-# role: Doctor's course student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name:
-    url: ""
+  - name: Nara Institute of Science and Technology
+    url: "https://www.naist.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: I study software testing, refactoring, and quality assurance for AI-driven development through empirical analysis of software development data.
 
 # List each interest with a dash
 interests:
-  - Basketball
-  - Reading books
-  - Traveling
-
-education:
-  courses:
-    - course: M.S. in Information Science
-      institution: Nara Institute of Science and Technology (NAIST)
-      year: 2026
-    - course: Systems Innovation Engineering
-      institution: NIT, Nara College
-      year: 2024
-    - course: Information Engineering
-      institution: NIT, Nara College
-      year: 2022
+  - Software Testing and Quality Assurance
+  - Refactoring
+  - Bug Prediction
+  - Agentic Software Engineering
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -45,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact" # For a direct email link, use "mailto:test@example.org".
+    link: "/en/#contact" # For a direct email link, use "mailto:test@example.org".
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/USERNAME
@@ -57,9 +46,8 @@ social:
     link: https://github.com/Mont9165
   - icon: linkedin
     icon_pack: fab
-    link:
-      https://www.linkedin.com/in/kosei-horikawa-24673b2ba/
-      # Link to a PDF of your resume/CV from the About widget.
+    link: https://www.linkedin.com/in/kosei-horikawa-24673b2ba/
+# Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -75,90 +63,83 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD Student
-  -
 
 weight: 202404
 ---
 
 ## Profile
 
-I am a first-year PhD student in software engineering. My research interests include software testing, refactoring, bug prediction, and Agentic Software Engineering, with the goal of improving software quality and development efficiency.<br>
-In particular, I focus on empirical analysis of how refactoring affects test code quality and maintainability, and on evaluating the effectiveness of AI agents in software development.
+I am a PhD student in the Laboratory for Software Design and Analysis, Graduate School of Science and Technology, at Nara Institute of Science and Technology (NAIST). My research focuses on **software testing and quality assurance for development with AI agents**.
 
-I believe we are approaching an era where AI agents will autonomously develop software.<br>
-At the same time, agent-induced system failures have already been reported, making it critical to establish quality assurance for the agent era.<br>
-Through the development of next-generation bug prediction and testing techniques, I am working to build the "foundation of reliability" that underpins agent-driven development.
+My interests include software testing, refactoring, bug prediction, and Agentic Software Engineering. I use real-world software development data to investigate how changes to test code and the development activities of AI agents affect code quality, readability, and maintainability. Through these empirical studies, I aim to develop quality assurance techniques that support both efficient development and reliable software.
 
-International Research Experience:
+My project on test quality assurance for AI-driven development was selected for the FY2026 JST ACT-X program and is scheduled to start in October 2026.
 
-- Visiting Student, Queen's University SAIL & MCIS Lab (Canada, Sep – Nov 2025)
-- Visiting Student, Hangzhou Dianzi University (China, Jun – Jul 2025)
-- Visiting Student, Radboud University (Netherlands, Sep – Nov 2024)
-  <br>
-  <br>
+## Research Interests
 
-<div>
-  <div>
-    <b>
-    <span class="col-1">April 2026 – Present:</span>
-    <span class="col-2">Ph.D. Program, Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST)</span>
-    </b>
-  </div>
-  <div>
-    <b>
-    <span class="col-1">April 2024 – March 2026:</span>
-    <span class="col-2">Master's Program, Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST)</span>
-    </b>
-  </div>
-  <div>
-    <span class="col-1">&emsp;Sept 2024 – Nov 2024:</span>
-    <span class="col-2">Visiting Student, Radboud University (Netherlands)</span>
-  </div>
-  <div>
-    <span class="col-1">&emsp;Nov 2024 – Dec 2024:</span>
-    <span class="col-2">QA Engineer Internship, Recruit Co., Ltd.</span>
-  </div>
-  <div>
-    <span class="col-1">&emsp;March 2025 – April 2025:</span>
-    <span class="col-2">Part-time QA Engineer, Recruit Co., Ltd.</span>
-  </div>
-  <div>
-    <span class="col-1">&emsp;June 2025 – July 2025:</span>
-    <span class="col-2">Visiting Student, Hangzhou Dianzi University (China)</span>
-  </div>
-  <div>
-    <span class="col-1">&emsp;Sept 2025 – Nov 2025:</span>
-    <span class="col-2">Visiting Student, Queen's University SAIL &amp; MCIS Lab (Canada)</span>
-  </div>
-</div>
-<br>
+- **Test code quality and maintainability:** Investigating how test code is refactored and how these changes affect its quality and maintainability.
+- **Software development with AI agents:** Analyzing agent-driven refactoring and test generation to evaluate code readability and test quality.
+- **Quality assurance for AI-driven development:** Using empirical findings to inform testing and bug prediction techniques that support reliable software development with AI.
+
+## Research Funding
+
+**JST ACT-X — Selected in FY2026**<br>
+Project: AI駆動開発を支えるテスト品質保証基盤の創出<br>
+English translation: Establishing a Test Quality Assurance Foundation for AI-Driven Development<br>
+Research area: Cyberinfrastructure for AI Empowered Society<br>
+Period: October 2026–March 2029 (scheduled)<br>
+[Selection announcement]({{< relref "/post/horikawa-act-x" >}}) · [JST selected projects (Japanese)](https://www.jst.go.jp/kisoken/act-x/application/2026/260917/260917act-x.pdf)
 
 ## Major Publications
 
 ### Peer-Reviewed Conference Papers
 
-- <b>How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study</b><br>
-  <u>Kosei Horikawa</u>, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
-  The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track). [CORE A]
-
-- <b>An Empirical Investigation into Maintenance of Load Testing Scripts</b><br>
-  Ibuki Nakamura, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
-  The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track). [CORE A]
-
-- <b>Do AI Agents Really Improve Code Readability?</b><br>
+- **[Do AI Agents Really Improve Code Readability?](https://arxiv.org/abs/2603.13723)**<br>
   Kyogo Horikawa, <u>Kosei Horikawa</u>, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
   The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track). [CORE A]
 
-- <b>Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage</b><br>
+- **[Testing with AI Agents: An Empirical Study of Test Generation Frequency, Quality, and Coverage](https://arxiv.org/abs/2603.13724)**<br>
   Suzuka Yoshimoto, Shun Fujita, <u>Kosei Horikawa</u>, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida<br>
   The 23rd International Conference on Mining Software Repositories (MSR 2026 Mining Challenge Track). [CORE A]
 
+- **[How Does Test Code Differ From Production Code in Terms of Refactoring? An Empirical Study]({{< relref "/post/horikawa-icsme2025" >}})**<br>
+  <u>Kosei Horikawa</u>, Yutaro Kashiwa, Bin Lin, Kenji Fujiwara, Hajimu Iida<br>
+  The 41st International Conference on Software Maintenance and Evolution (ICSME 2025 NIER Track). [CORE A]
+
+- **[An Empirical Investigation into Maintenance of Load Testing Scripts]({{< relref "/post/esem2025" >}})**<br>
+  Ibuki Nakamura, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
+  The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025 ERVT Track). [CORE A]
+
 ### Preprints
 
-- <b>Agentic Refactoring: An Empirical Study of AI Coding Agents</b><br>
+- **[Agentic Refactoring: An Empirical Study of AI Coding Agents](https://arxiv.org/abs/2511.04824)**<br>
   <u>Kosei Horikawa</u>, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, Ahmed E. Hassan<br>
   arXiv preprint arXiv:2511.04824, 2025.
 
 ## Awards
 
-- Best International Poster Award, IPSJ/SIGSE Software Engineering Symposium, 2025.
+- **Best International Poster Award** — Software Engineering Symposium (SES 2025)<br>
+  Presentation: Understanding Refactoring in Test Code: An Empirical Study<br>
+  [Lab news]({{< relref "/post/ses2025" >}})
+
+## Education
+
+- **April 2026–Present:** PhD Program, Graduate School of Science and Technology, NAIST
+- **April 2024–March 2026:** Master's Program, Graduate School of Science and Technology, NAIST (M.S. in Information Science)
+- **Completed in 2024:** Advanced Course in Systems Innovation Engineering, Information Systems Course, NIT, Nara College
+- **Graduated in 2022:** Department of Information Engineering, NIT, Nara College
+
+## International Research Experience
+
+- **September–November 2025:** Visiting Student, Queen's University, SAIL & MCIS Lab, Canada
+- **June–July 2025:** Visiting Student, Hangzhou Dianzi University, China
+- **September–November 2024:** Visiting Student, Radboud University, Netherlands
+
+## Industry Experience
+
+- **March–April 2025:** Part-time QA Engineer, Recruit Co., Ltd.
+- **November–December 2024:** QA Engineer Intern, Recruit Co., Ltd.
+
+## Outside Research
+
+I enjoy basketball, reading, and traveling.
