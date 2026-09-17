@@ -121,7 +121,7 @@ Period: April 2026–March 2029<br>
 
 - **[What Are Developers Actually Discussing When Visual Regression Tests Fail?](https://arxiv.org/abs/2608.07020)**<br>
   Miku Watanabe, <u>Kosei Horikawa</u>, Brittany Reid, Yutaro Kashiwa, Hajimu Iida<br>
-  The 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026, Visions and Emerging Results Track), 2026.
+  The 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026, Visions and Emerging Results Track), 2026. [CORE A]
 
 - **[Do AI Agents Really Improve Code Readability?](https://arxiv.org/abs/2603.13723)**<br>
   Kyogo Horikawa, <u>Kosei Horikawa</u>, Yutaro Kashiwa, Hidetake Uwano, Hajimu Iida<br>
