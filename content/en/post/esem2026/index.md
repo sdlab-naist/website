@@ -39,4 +39,4 @@ Mr. Shirakawa presented the findings of this study, which aimed to clarify the r
 > Suzuka Yoshimoto, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida,
 > "Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact", In Proceedings of the 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)
 
-Mr. Shirakawa presented the findings of this study. ([LIPIcs.ESEM.2026.36](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.36))
+Mr. Yoshimoto presented the findings of this study. ([LIPIcs.ESEM.2026.36](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.36))
