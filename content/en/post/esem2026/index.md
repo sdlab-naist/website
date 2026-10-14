@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Esem2026"
+title: "Students from our laboratory presented their research at ESEM2026."
 subtitle: ""
 summary: ""
 authors: [ayane-shirakawa, suzuka-yoshimoto]
