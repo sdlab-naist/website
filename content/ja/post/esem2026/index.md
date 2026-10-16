@@ -36,6 +36,8 @@ ESEMはソフトウェア工学の実証的研究に関する国際会議であ�
 
 白川さんが発表しました．本研究では，継続的インテグレーション（CI）におけるテスト連続失敗の実態やそれに関連する開発者の行動を明らかにするために，同一のテストメソッドが2つ以上の連続するリビジョンで失敗し続ける状態をTest Alert Snoozeと定義し，Test Alert Snoozeの発生率・継続期間・開発者の行動を実証分析しました．その結果として，Test Alert Snoozeは全27件のOSSプロジェクトのうち4件（約15%）が発生していました．その4件のプロジェクトに着目すると，全体の61.1%が2リビジョン連続で失敗し，全体の52.9%が1日以内で解消されたことが明らかになりました．また，CSSタイプを用いてリビジョンを分類して開発者の行動を分析した結果，Test Alert Snoozeが発生中はドキュメントが修正される傾向が高く，解消時にはテストが修正される傾向が高いことが判明しました．([LIPIcs.ESEM.2026.24](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.24))
 
+![発表の様子](shirakawa.jpg)
+
 > Suzuka Yoshimoto, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida,
 > "Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact", In Proceedings of the 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)
 
