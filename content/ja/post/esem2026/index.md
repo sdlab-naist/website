@@ -39,4 +39,6 @@ ESEMはソフトウェア工学の実証的研究に関する国際会議であ�
 > Suzuka Yoshimoto, Kosei Horikawa, Daniel Feitosa, Yutaro Kashiwa, Hajimu Iida,
 > "Is Self-Admitted Technical Debt Tested? An Empirical Study of Coverage, Co-change, and Impact", In Proceedings of the 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)
 
-吉本さんが発表しました．([LIPIcs.ESEM.2026.36](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.36))
+吉本さんが発表しました．本研究では，TODOやFIXMEコメントなどで明示された技術的負債（Self-Admitted Technical Debt，またはSATD）とテストの関係を明らかにするため，8つのJavaプロジェクトを対象に分析しました．具体的には最新リリースに含まれる784件のSATDのテストカバレッジや，5,175件のSATD解消時のテスト追加有無とバグ導入率を調査しました．その結果，SATDを含むコードの60.7%は既存テストでカバーされていた一方，SATDの解消時に修正部分を対象とする新しいテストが追加されたコミットは3.4%にとどまることが明らかになりました．また，SATD解消時のテスト追加の有無による30〜180日後のバグ導入率には大きな差は見られませんでしたが，より長期的にはテストを追加した場合にバグ導入が高くなる傾向（6.32% 対 4.37%）が確認されました．この結果から，開発者はSATDの解消を高リスクな保守作業としてではなく，通常のコード変更として扱う傾向が示唆されました．([LIPIcs.ESEM.2026.36](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.36))
+
+![発表の様子](suzuka.jpg)
