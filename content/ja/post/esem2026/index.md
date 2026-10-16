@@ -29,7 +29,7 @@ projects: []
 ---
 本研究室の白川さんと吉本さんが，2026年にドイツ・ミュンヘンで開催された実証的ソフトウェア工学に関する国際会議 [The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)](https://conf.researchr.org/home/eseiw-2026) において，下記の2本の論文を発表しました．
 
-ESEMはソフトウェア工学の実証的研究に関する国際会議であり，今年で20回目の開催となるトップカンファレンスのひとつです．白川さんと吉本さんが投稿したTechnical Paperでは，去年の投稿数より74%増加し，269本の投稿のうち51本の論文が採択されました（採択率18.9%）．
+ESEMはソフトウェア工学の実証的研究に関する国際会議であり，今年で20回目の開催となるトップカンファレンスのひとつです．白川さんと吉本さんが投稿したTechnical Paperでは，去年の投稿数より75%増加し，269本の投稿のうち51本の論文が採択されました（採択率18.9%）．
 
 > Ayane Shirakawa, Tatsuya Shirai, Yutaro Kashiwa, Masanari Kondo, Yasutaka Kamei, Hajimu Iida,
 > "Test Alert Snooze: An Empirical Study of Consecutive Test Failures on CI", In Proceedings of the 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)

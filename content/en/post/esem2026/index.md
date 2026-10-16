@@ -29,7 +29,7 @@ projects: []
 ---
 Ms. Shirakawa and Ms. Yoshimoto from our laboratory presented the following two papers at [The 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)](https://conf.researchr.org/home/eseiw-2026), held in Munich, Germany, in 2026.
 
-ESEM is an international conference dedicated to empirical research in software engineering and is considered a top-tier conference; this year marks its 20th edition. For the technical paper track—which saw a 74% increase in submissions compared to the previous year—51 papers were accepted out of 269 submissions (an acceptance rate of 18.9%).
+ESEM is an international conference dedicated to empirical research in software engineering and is considered a top-tier conference; this year marks its 20th edition. For the technical paper track—which saw a 75% increase in submissions compared to the previous year—51 papers were accepted out of 269 submissions (an acceptance rate of 18.9%).
 
 > Ayane Shirakawa, Tatsuya Shirai, Yutaro Kashiwa, Masanari Kondo, Yasutaka Kamei, Hajimu Iida,
 > "Test Alert Snooze: An Empirical Study of Consecutive Test Failures on CI", In Proceedings of the 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)
