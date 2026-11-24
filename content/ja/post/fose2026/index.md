@@ -4,7 +4,7 @@
 title: "本研究室の学生がFOSE2026でポスター発表を行いました"
 subtitle: ""
 summary: ""
-authors: [akihiro-saeki, suzuka-yoshimoto, hirohito-ota, sota-onuma, ryosuke-ono, ryotaro-yamamoto]
+authors: [akihiro-saeki, suzuka-yoshimoto, hirohito-ota, sota-onuma, ryosuke-ono, yamamoto-ryotaro]
 tags: ["FOSE", "ポスター発表"]
 categories: []
 date: 2026-11-24T00:00:00+09:00
@@ -65,6 +65,6 @@ LLMを用いたバグ修正エージェントの修正精度が，与えるテ�
 
 ### 山本さん
 
-**発表タイトル：** 【タイトルを追記してください】
+**発表タイトル： Agent Context File の遵守に関する大規模評価基盤の構築に向けて**
 
-【研究内容・発表概要を追記してください】
+AGENTS.md や CLAUDE.md などの Agent Context File (ACF) は開発者がエージェントにプロジェクト固有の指示を伝える手段として広く用いられつつある．LLM が実際に ACF の指示を守っているのか，注目されつつある．しかし，指示が守られたかどうかを自動的に評価する手法はまだ確立していない．本研究では，LLM を用い，ACF の指示が遵守されているかどうかを判定する枠組みを構築する．
